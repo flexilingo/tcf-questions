@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-98 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+100 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (37)
+- [Culture](#culture) (38)
 - [Economy](#economy) (1)
 - [Education](#education) (7)
 - [Environment](#environment) (4)
@@ -16,7 +16,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Health](#health) (10)
 - [Immigration](#immigration) (10)
 - [Miscellaneous](#miscellaneous) (3)
-- [Technology](#technology) (15)
+- [Technology](#technology) (16)
 - [Work](#work) (5)
 
 ## Culture
@@ -57,9 +57,10 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 32 | Vous avez pris part à la semaine du goût organisée dans votre ville. Racontez ce que vous avez le plus apprécié. | Tell what you enjoyed most about taking part in a food-tasting week event in your city. | 3 sources | 2022-10 | - |
 | 33 | Vous prenez part à un jeu-concours dont le prix est un billet double pour une ville de votre choix. Pour tenter votre chance, publiez sur un blog un texte présentant la vie de votre artiste préféré (entre 120 et 150 mots). | The candidate must write a blog post describing the life of their favorite artist for a contest. | 3 sources | 2022-11 | - |
 | 34 | Rédigez un message à un(e) ami(e) pour lui raconter vos impressions et souvenirs d’un voyage récent dans un pays que vous avez découvert. | The candidate must write to a friend sharing impressions from a recent trip abroad. | 3 sources | 2023-11 | - |
-| 35 | COURRIER DES LECTEURS Quitter tout pour voyager pendant une année entière : bonne ou mauvaise idée ? Donnez votre réponse sur notre site « voyage.internaute.fr ». Rédigez un message sur ce site en répondant à la question posée, en vous appuyant sur des exemples tirés de votre vécu. | Write a post responding to a reader question about taking a year off to travel, using personal examples. | 3 sources | 2024-08 | - |
-| 36 | Vous n'avez pas été content(e) des prestations proposées lors d'un séjour organisé récemment. Rédigez un courrier à l'agence de voyages pour décrire les difficultés rencontrées, faire part de votre insatisfaction et demander une réparation appropriée. | Write a complaint letter to a travel agency about a disappointing organized trip and request compensation. | 3 sources | 2025-04 | - |
-| 37 | Un Salon du livre a eu lieu dans votre ville et vous y avez participé (conférences, expositions, rencontres avec des écrivains, etc.). Écrivez un message à vos amis pour leur raconter cet événement et leur faire part de vos impressions. | Write a message to friends recounting attendance at a book fair and sharing impressions. | 3 sources | 2025-09 | - |
+| 35 | Vous avez assisté à un festival (gastronomie, musique, sport). Racontez ce qui ne vous a pas plu lors de cette expérience. | The candidate must write about what they disliked at a festival. | 3 sources | 2023-11 | - |
+| 36 | COURRIER DES LECTEURS Quitter tout pour voyager pendant une année entière : bonne ou mauvaise idée ? Donnez votre réponse sur notre site « voyage.internaute.fr ». Rédigez un message sur ce site en répondant à la question posée, en vous appuyant sur des exemples tirés de votre vécu. | Write a post responding to a reader question about taking a year off to travel, using personal examples. | 3 sources | 2024-08 | - |
+| 37 | Vous n'avez pas été content(e) des prestations proposées lors d'un séjour organisé récemment. Rédigez un courrier à l'agence de voyages pour décrire les difficultés rencontrées, faire part de votre insatisfaction et demander une réparation appropriée. | Write a complaint letter to a travel agency about a disappointing organized trip and request compensation. | 3 sources | 2025-04 | - |
+| 38 | Un Salon du livre a eu lieu dans votre ville et vous y avez participé (conférences, expositions, rencontres avec des écrivains, etc.). Écrivez un message à vos amis pour leur raconter cet événement et leur faire part de vos impressions. | Write a message to friends recounting attendance at a book fair and sharing impressions. | 3 sources | 2025-09 | - |
 
 ## Economy
 
@@ -154,8 +155,9 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 11 | Vous avez lu ce message sur un forum en ligne. Répondez à Paul et Naïma en leur donnant votre avis sur leur décision et en expliquant ce que vous feriez à leur place. | Respond to a forum post giving your opinion on a couple's decision and what you would do in their place. | 3 sources | 2024-06 | - |
 | 12 | « Tout abandonner pour un nouveau départ ? Il y a deux ans, nous avons décidé de tout changer. Paul a démissionné de son poste de banquier à Paris et nous avons ouvert une pâtisserie à Calgary ! Qu'en pensez-vous ? Paul et Naïma. » Vous avez lu ce message sur un forum en ligne. Répondez à Paul et Naïma en donnant votre opinion sur leur décision et en racontant ce que vous feriez à leur place. | Respond to a forum post about a couple who changed careers, giving your opinion and what you would do. | 3 sources | 2024-07 | - |
 | 13 | « Bonjour, Vous avez suivi des cours dans notre salle de sport. Partagez votre avis sur notre site Internet ! www.masalledesport.org ». Répondez à ce message sur le site de la salle de sport en racontant votre expérience et en donnant votre opinion. | Write an online review recounting your gym experience and giving your opinion. | 3 sources | 2024-12 | - |
-| 14 | À l'occasion de la Semaine du goût, vous avez participé à une activité de découverte des cuisines du monde. Rédigez un article pour le site Internet de votre ville, dans lequel vous racontez votre expérience et précisez ce qui vous a plu. | Write a website article recounting participation in a world cuisine discovery event and what was enjoyed. | 3 sources | 2025-11 | - |
-| 15 | Vous avez pris part à un concours culinaire. Sur votre site Internet, vous racontez le déroulement de cette journée et précisez ce qui vous a plu ou moins plu dans cette expérience. | Write a blog post recounting a cooking contest and what you liked or disliked about it. | 3 sources | 2026-01 | - |
+| 14 | Cohabiter avec une personne âgée : une expérience qui enrichit ? Un site web collecte des témoignages sur ce sujet. Racontez votre propre expérience, en expliquant comment vous l'avez vécue, les difficultés que vous avez rencontrées et ce qu'elle vous a appris. | Write a testimonial about living with an elderly person, describing the experience, challenges and lessons learned. | 3 sources | 2025-01 | - |
+| 15 | À l'occasion de la Semaine du goût, vous avez participé à une activité de découverte des cuisines du monde. Rédigez un article pour le site Internet de votre ville, dans lequel vous racontez votre expérience et précisez ce qui vous a plu. | Write a website article recounting participation in a world cuisine discovery event and what was enjoyed. | 3 sources | 2025-11 | - |
+| 16 | Vous avez pris part à un concours culinaire. Sur votre site Internet, vous racontez le déroulement de cette journée et précisez ce qui vous a plu ou moins plu dans cette expérience. | Write a blog post recounting a cooking contest and what you liked or disliked about it. | 3 sources | 2026-01 | - |
 
 ## Work
 

@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-265 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+266 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,7 +16,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Health](#health) (19)
 - [Immigration](#immigration) (39)
 - [Miscellaneous](#miscellaneous) (40)
-- [Technology](#technology) (30)
+- [Technology](#technology) (31)
 - [Work](#work) (40)
 
 ## Culture
@@ -270,24 +270,25 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 10 | Faut-il interdire le téléphone portable aux enfants ? Quel est votre avis sur ce sujet ? | Give and defend an opinion on whether children should be banned from using mobile phones. | 7 sources | 2023-06 | - |
 | 11 | Selon vous, les enfants passent-ils trop de temps devant les écrans (ordinateur, tablette, téléphone, télévision, etc.) ? Expliquez pourquoi. | Give and defend an opinion on whether children spend too much time in front of screens. | 7 sources | 2023-06 | - |
 | 12 | Internet améliore-t-il notre vie quotidienne ? Quelle est votre opinion sur cette question ? | Give and defend your opinion on whether the internet makes life better. | 7 sources | 2023-07 | - |
-| 13 | Grâce à Internet, le monde serait devenu un village planétaire. Partagez-vous cette opinion ? | The candidate must give and defend an opinion on whether the Internet has turned the world into a small village. | 7 sources | 2023-10 | - |
-| 14 | Internet contribue-t-il à améliorer l'instruction des jeunes ? Donnez votre avis sur cette question. | The candidate must give and defend an opinion on whether the Internet improves young people's education. | 7 sources | 2023-10 | - |
-| 15 | Pensez-vous que les enfants et les adolescents d'aujourd'hui devraient posséder leur propre téléphone portable ? Donnez votre opinion sur cette question. | The candidate must give and defend an opinion on whether children and teenagers should have their own mobile phone. | 7 sources | 2023-10 | - |
-| 16 | De nos jours, il serait devenu impossible de vivre sans Internet. Quel est votre avis sur cette affirmation ? | The candidate must give and defend an opinion on whether it's impossible to live without the Internet nowadays. | 7 sources | 2023-11 | - |
-| 17 | Selon vous, l'enseignement de la technologie devrait-il faire partie du programme scolaire ? Donnez votre opinion et défendez-la à l'aide d'arguments. | Give and defend your opinion on whether technology should be taught in schools. | 7 sources | 2025-07 | - |
-| 18 | Les réseaux sociaux facilitent la création de liens et d'amitiés. Qu'en pensez-vous ? | The candidate must give and defend an opinion on whether social media makes it easier to form friendships. | 6 sources | 2022-10 | - |
-| 19 | Certains individus choisissent de vivre sans aucune technologie (Internet, ordinateur, téléphone). Quelle est votre opinion à ce sujet ? | The candidate must give and defend their opinion on people who choose to live without technology. | 6 sources | 2023-02 | - |
-| 20 | La télévision favorise l'épanouissement de l'enfant. Partagez-vous cette affirmation ? | The candidate must give and defend their opinion on whether television contributes to a child's development. | 6 sources | 2023-04 | - |
-| 21 | De nos jours, se passer d'un téléphone portable semble impossible. Que pensez-vous de cette affirmation ? | The candidate must give and defend their opinion on whether it is impossible to live without a mobile phone today. | 6 sources | 2023-09 | - |
-| 22 | Il y a des gens qui préfèrent ne pas suivre les journaux télévisés. Quelle est votre opinion à ce sujet ? | Give and defend your opinion on people who refuse to watch TV news. | 6 sources | 2023-09 | - |
-| 23 | On dit qu'Internet isole les individus. Que pensez-vous de cette idée ? | Give and defend your opinion on the claim that the Internet makes people lonely. | 6 sources | 2023-09 | - |
-| 24 | Les jeux vidéo représentent-ils un danger pour les jeunes ? Quel est votre point de vue sur cette question ? | Give your opinion on whether video games are dangerous for young people. | 6 sources | 2024-06 | - |
-| 25 | Selon vous, les gens achètent-ils trop de biens (vêtements, téléphones, etc.) ? Pourquoi ? | Give and defend your opinion on whether people buy too many goods. | 6 sources | 2025-07 | - |
-| 26 | Pensez-vous qu'il faille initier les enfants très tôt aux nouvelles technologies (réseaux sociaux, Internet, etc.) ? Justifiez votre point de vue. | The candidate must give and defend an opinion on whether new technologies should be taught from a very young age. | 6 sources | 2025-12 | - |
-| 27 | D'après vous, passer du temps sur les réseaux sociaux constitue-t-il une perte de temps considérable ? Pour quelles raisons ? | Give and defend your opinion on whether social media use wastes valuable time. | 5 sources | 2022-12 | - |
-| 28 | Les jeux vidéo représentent-ils un risque pour ceux qui y jouent ? Justifiez votre point de vue. | Give and defend your opinion on whether video games are dangerous for players. | 5 sources | 2022-12 | - |
-| 29 | Certaines personnes préfèrent ne pas suivre l'actualité à la télévision. Quel est votre point de vue sur cette question ? | The candidate must give and defend their opinion on people who avoid watching TV news. | 5 sources | 2023-07 | - |
-| 30 | Il vaudrait mieux ne pas offrir de téléphone portable à un enfant. Quel est votre point de vue ? | The candidate must give and defend an opinion on not giving children mobile phones. | 5 sources | 2025-02 | - |
+| 13 | Vous donnez votre avis sur l'affirmation selon laquelle Internet permet d'être mieux informé. | Give and defend your opinion on whether the internet gives better information. | 7 sources | 2023-08 | - |
+| 14 | Grâce à Internet, le monde serait devenu un village planétaire. Partagez-vous cette opinion ? | The candidate must give and defend an opinion on whether the Internet has turned the world into a small village. | 7 sources | 2023-10 | - |
+| 15 | Internet contribue-t-il à améliorer l'instruction des jeunes ? Donnez votre avis sur cette question. | The candidate must give and defend an opinion on whether the Internet improves young people's education. | 7 sources | 2023-10 | - |
+| 16 | Pensez-vous que les enfants et les adolescents d'aujourd'hui devraient posséder leur propre téléphone portable ? Donnez votre opinion sur cette question. | The candidate must give and defend an opinion on whether children and teenagers should have their own mobile phone. | 7 sources | 2023-10 | - |
+| 17 | De nos jours, il serait devenu impossible de vivre sans Internet. Quel est votre avis sur cette affirmation ? | The candidate must give and defend an opinion on whether it's impossible to live without the Internet nowadays. | 7 sources | 2023-11 | - |
+| 18 | Selon vous, l'enseignement de la technologie devrait-il faire partie du programme scolaire ? Donnez votre opinion et défendez-la à l'aide d'arguments. | Give and defend your opinion on whether technology should be taught in schools. | 7 sources | 2025-07 | - |
+| 19 | Les réseaux sociaux facilitent la création de liens et d'amitiés. Qu'en pensez-vous ? | The candidate must give and defend an opinion on whether social media makes it easier to form friendships. | 6 sources | 2022-10 | - |
+| 20 | Certains individus choisissent de vivre sans aucune technologie (Internet, ordinateur, téléphone). Quelle est votre opinion à ce sujet ? | The candidate must give and defend their opinion on people who choose to live without technology. | 6 sources | 2023-02 | - |
+| 21 | La télévision favorise l'épanouissement de l'enfant. Partagez-vous cette affirmation ? | The candidate must give and defend their opinion on whether television contributes to a child's development. | 6 sources | 2023-04 | - |
+| 22 | De nos jours, se passer d'un téléphone portable semble impossible. Que pensez-vous de cette affirmation ? | The candidate must give and defend their opinion on whether it is impossible to live without a mobile phone today. | 6 sources | 2023-09 | - |
+| 23 | Il y a des gens qui préfèrent ne pas suivre les journaux télévisés. Quelle est votre opinion à ce sujet ? | Give and defend your opinion on people who refuse to watch TV news. | 6 sources | 2023-09 | - |
+| 24 | On dit qu'Internet isole les individus. Que pensez-vous de cette idée ? | Give and defend your opinion on the claim that the Internet makes people lonely. | 6 sources | 2023-09 | - |
+| 25 | Les jeux vidéo représentent-ils un danger pour les jeunes ? Quel est votre point de vue sur cette question ? | Give your opinion on whether video games are dangerous for young people. | 6 sources | 2024-06 | - |
+| 26 | Selon vous, les gens achètent-ils trop de biens (vêtements, téléphones, etc.) ? Pourquoi ? | Give and defend your opinion on whether people buy too many goods. | 6 sources | 2025-07 | - |
+| 27 | Pensez-vous qu'il faille initier les enfants très tôt aux nouvelles technologies (réseaux sociaux, Internet, etc.) ? Justifiez votre point de vue. | The candidate must give and defend an opinion on whether new technologies should be taught from a very young age. | 6 sources | 2025-12 | - |
+| 28 | D'après vous, passer du temps sur les réseaux sociaux constitue-t-il une perte de temps considérable ? Pour quelles raisons ? | Give and defend your opinion on whether social media use wastes valuable time. | 5 sources | 2022-12 | - |
+| 29 | Les jeux vidéo représentent-ils un risque pour ceux qui y jouent ? Justifiez votre point de vue. | Give and defend your opinion on whether video games are dangerous for players. | 5 sources | 2022-12 | - |
+| 30 | Certaines personnes préfèrent ne pas suivre l'actualité à la télévision. Quel est votre point de vue sur cette question ? | The candidate must give and defend their opinion on people who avoid watching TV news. | 5 sources | 2023-07 | - |
+| 31 | Il vaudrait mieux ne pas offrir de téléphone portable à un enfant. Quel est votre point de vue ? | The candidate must give and defend an opinion on not giving children mobile phones. | 5 sources | 2025-02 | - |
 
 ## Work
 

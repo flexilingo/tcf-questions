@@ -4,11 +4,11 @@
 
 A message to one or more people, 60 to 120 words.
 
-116 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+118 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (33)
+- [Culture](#culture) (35)
 - [Economy](#economy) (7)
 - [Education](#education) (15)
 - [Family](#family) (14)
@@ -55,6 +55,8 @@ A message to one or more people, 60 to 120 words.
 | 31 | Votre école de musique est à la recherche d'une salle pour organiser la fête de fin d'année. Envoyez un message à la direction pour l'informer que vous avez déniché une salle parfaite pour l'occasion. | Write a message to your music school's management announcing you found an ideal venue for the year-end party. | 3 sources | 2023-04 | - |
 | 32 | Vous avez passé des vacances dans une magnifique région de votre pays. Écrivez un message à vos amis pour leur raconter ce séjour et leur dire ce qui vous a le plus plu. | Write a message to friends recounting a vacation and what you liked most about it. | 3 sources | 2024-05 | - |
 | 33 | Écrivez un message à vos amis pour leur raconter votre visite à un salon du livre : les conférences suivies, les stands découverts et vos échanges avec des auteurs. | Write a message to friends about attending a book fair, describing talks, exhibits and meeting writers. | 3 sources | 2024-05 | - |
+| 34 | Vous venez d'assister à un festival de cinéma et un film vous a beaucoup plu. Écrivez un message à vos amis pour leur raconter cette sortie et leur parler du film qui vous a le plus touché. | Write a message to friends about a film festival and the film that impressed you most. | 3 sources | 2024-10 | - |
+| 35 | L'anniversaire de votre amie Flavie approche et vous souhaitez lui offrir un voyage. Écrivez-lui pour lui présenter ce projet en détaillant le programme (destination, hébergement, activités, etc.) | Write to a friend describing a trip you want to give her as a birthday gift. | 3 sources | 2024-11 | - |
 
 ## Economy
 
