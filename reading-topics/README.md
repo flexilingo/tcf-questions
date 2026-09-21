@@ -4,11 +4,11 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-48 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+49 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (11)
+- [Culture](#culture) (12)
 - [Economy](#economy) (9)
 - [Education](#education) (3)
 - [Environment](#environment) (4)
@@ -33,6 +33,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 9 | Un article sur l'influence du prénom sur la façon dont on est perçu et sur son comportement. | An article about how first names influence perception and behavior. | 1 source | 2026-09 | - |
 | 10 | Un article sur la diffusion d'une langue liée à son passé colonial. | An article about a language's spread and its colonial origins. | 1 source | 2026-09 | - |
 | 11 | Un article sur la manière de transmettre le goût de la lecture. | An article about passing on a love of reading. | 1 source | 2026-09 | - |
+| 12 | Un article traitant de la manière dont l'usage des illustrations a changé dans les publications au fil du temps. | An article about the evolution of illustration use in publications. | 1 source | 2026-09 | - |
 
 ## Economy
 

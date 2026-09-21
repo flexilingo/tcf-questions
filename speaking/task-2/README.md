@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-268 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+269 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Family](#family) (70)
 - [Health](#health) (17)
 - [Immigration](#immigration) (4)
-- [Miscellaneous](#miscellaneous) (9)
+- [Miscellaneous](#miscellaneous) (10)
 - [Technology](#technology) (4)
 - [Work](#work) (36)
 
@@ -278,14 +278,15 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Je suis employé(e) d'une agence de voyages. Vous envisagez des vacances au Canada et vous me demandez des précisions (prix, destinations, formules de séjour, etc.). | Ask a travel agent questions to get information for planning a trip to Canada. | 8 sources | 2023-09 | - |
-| 2 | Je travaille dans une agence de location de véhicules. Vous voulez louer une voiture et vous me posez des questions sur les propositions disponibles (modèles, prix, options, etc.). | Ask the examiner (playing a car rental employee) questions about rental offers. | 7 sources | 2023-04 | - |
-| 3 | Je travaille à l'accueil d'une bibliothèque. Vous souhaitez y adhérer et me posez des questions sur son fonctionnement (inscription, conditions de prêt, horaires…). | Ask the examiner (playing a librarian) questions about how the library works before joining. | 7 sources | 2023-11 | - |
-| 4 | En préparation, imaginez que vous conduisez au Canada et que votre voiture tombe en panne. Vous appelez votre assurance pour savoir quelle aide elle peut vous apporter (dépannage, réparations, rapatriement, etc.). Je suis l'agent qui vous répond. | The candidate must call their insurance agent to ask about assistance after a car breakdown in Canada. | 6 sources | 2023-10 | - |
-| 5 | Je suis employé(e) d'une compagnie d'assurance automobile. Vous envisagez de souscrire une assurance auto. Posez-moi des questions pour obtenir des renseignements. | Ask an insurance employee questions about taking out car insurance. | 6 sources | 2023-10 | - |
-| 6 | Pour un cours de français, vous menez une enquête sur ce qu'un Canadien fait pendant le week-end. Je serai ce Canadien et vous serez l'enquêteur/enquêtrice. Posez-moi vos questions (activités, lieux, moment, etc.). | Ask the examiner, playing a Canadian, questions about their weekend activities for a survey. | 6 sources | 2023-10 | - |
-| 7 | Nous patientons dans une salle d’attente, sans nous connaître. Notre train est retardé. Je viens de vous confier ma passion pour la montagne. Posez-moi des questions sur cette passion (endroits, activités, équipement, etc.). | The candidate must ask a stranger questions about their passion for the mountains. | 6 sources | 2024-09 | - |
-| 8 | Vous jouez le rôle d'un(e) ami(e). Votre interlocuteur s'apprête à accueillir ses neveux et vous demande conseil. | The candidate must ask a friend for advice about hosting their nephews/nieces. | 5 sources | 2022-11 | - |
-| 9 | Vous jouez le rôle d'un(e) ami(e). Votre interlocuteur va recevoir un groupe d'amis chez lui/elle et a besoin de conseils. Il/elle vous pose des questions. | The candidate must ask a friend for advice about hosting a group of friends at home. | 5 sources | 2022-11 | - |
+| 2 | Je suis votre voisin(e) et vous allez veiller sur ma maison pendant mon absence. Vous me posez des questions pour savoir ce que cela implique (durée du séjour, tâches à accomplir, informations pratiques). | Ask a neighbor questions about what to do while house-sitting during their absence. | 8 sources | 2024-07 | - |
+| 3 | Je travaille dans une agence de location de véhicules. Vous voulez louer une voiture et vous me posez des questions sur les propositions disponibles (modèles, prix, options, etc.). | Ask the examiner (playing a car rental employee) questions about rental offers. | 7 sources | 2023-04 | - |
+| 4 | Je travaille à l'accueil d'une bibliothèque. Vous souhaitez y adhérer et me posez des questions sur son fonctionnement (inscription, conditions de prêt, horaires…). | Ask the examiner (playing a librarian) questions about how the library works before joining. | 7 sources | 2023-11 | - |
+| 5 | En préparation, imaginez que vous conduisez au Canada et que votre voiture tombe en panne. Vous appelez votre assurance pour savoir quelle aide elle peut vous apporter (dépannage, réparations, rapatriement, etc.). Je suis l'agent qui vous répond. | The candidate must call their insurance agent to ask about assistance after a car breakdown in Canada. | 6 sources | 2023-10 | - |
+| 6 | Je suis employé(e) d'une compagnie d'assurance automobile. Vous envisagez de souscrire une assurance auto. Posez-moi des questions pour obtenir des renseignements. | Ask an insurance employee questions about taking out car insurance. | 6 sources | 2023-10 | - |
+| 7 | Pour un cours de français, vous menez une enquête sur ce qu'un Canadien fait pendant le week-end. Je serai ce Canadien et vous serez l'enquêteur/enquêtrice. Posez-moi vos questions (activités, lieux, moment, etc.). | Ask the examiner, playing a Canadian, questions about their weekend activities for a survey. | 6 sources | 2023-10 | - |
+| 8 | Nous patientons dans une salle d’attente, sans nous connaître. Notre train est retardé. Je viens de vous confier ma passion pour la montagne. Posez-moi des questions sur cette passion (endroits, activités, équipement, etc.). | The candidate must ask a stranger questions about their passion for the mountains. | 6 sources | 2024-09 | - |
+| 9 | Vous jouez le rôle d'un(e) ami(e). Votre interlocuteur s'apprête à accueillir ses neveux et vous demande conseil. | The candidate must ask a friend for advice about hosting their nephews/nieces. | 5 sources | 2022-11 | - |
+| 10 | Vous jouez le rôle d'un(e) ami(e). Votre interlocuteur va recevoir un groupe d'amis chez lui/elle et a besoin de conseils. Il/elle vous pose des questions. | The candidate must ask a friend for advice about hosting a group of friends at home. | 5 sources | 2022-11 | - |
 
 ## Technology
 

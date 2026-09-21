@@ -4,14 +4,14 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-96 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+98 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (36)
+- [Culture](#culture) (37)
 - [Economy](#economy) (1)
 - [Education](#education) (7)
-- [Environment](#environment) (3)
+- [Environment](#environment) (4)
 - [Family](#family) (6)
 - [Health](#health) (10)
 - [Immigration](#immigration) (10)
@@ -55,10 +55,11 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 30 | Deux de vos amis prévoient de venir passer deux semaines de vacances chez vous. Écrivez-leur un message pour leur suggérer des endroits à découvrir (lieux historiques, restaurants, etc.). | The candidate must write a message to two friends coming to stay for two weeks, suggesting places to visit such as historical sites and restaurants. | 4 sources | 2024-07 | - |
 | 31 | Vous avez dîné dans un restaurant de votre ville. Décrivez ce qui vous a le plus plu au cours de cette soirée. | Describe what you enjoyed most about an evening spent at a restaurant in your city. | 3 sources | 2022-10 | - |
 | 32 | Vous avez pris part à la semaine du goût organisée dans votre ville. Racontez ce que vous avez le plus apprécié. | Tell what you enjoyed most about taking part in a food-tasting week event in your city. | 3 sources | 2022-10 | - |
-| 33 | Rédigez un message à un(e) ami(e) pour lui raconter vos impressions et souvenirs d’un voyage récent dans un pays que vous avez découvert. | The candidate must write to a friend sharing impressions from a recent trip abroad. | 3 sources | 2023-11 | - |
-| 34 | COURRIER DES LECTEURS Quitter tout pour voyager pendant une année entière : bonne ou mauvaise idée ? Donnez votre réponse sur notre site « voyage.internaute.fr ». Rédigez un message sur ce site en répondant à la question posée, en vous appuyant sur des exemples tirés de votre vécu. | Write a post responding to a reader question about taking a year off to travel, using personal examples. | 3 sources | 2024-08 | - |
-| 35 | Vous n'avez pas été content(e) des prestations proposées lors d'un séjour organisé récemment. Rédigez un courrier à l'agence de voyages pour décrire les difficultés rencontrées, faire part de votre insatisfaction et demander une réparation appropriée. | Write a complaint letter to a travel agency about a disappointing organized trip and request compensation. | 3 sources | 2025-04 | - |
-| 36 | Un Salon du livre a eu lieu dans votre ville et vous y avez participé (conférences, expositions, rencontres avec des écrivains, etc.). Écrivez un message à vos amis pour leur raconter cet événement et leur faire part de vos impressions. | Write a message to friends recounting attendance at a book fair and sharing impressions. | 3 sources | 2025-09 | - |
+| 33 | Vous prenez part à un jeu-concours dont le prix est un billet double pour une ville de votre choix. Pour tenter votre chance, publiez sur un blog un texte présentant la vie de votre artiste préféré (entre 120 et 150 mots). | The candidate must write a blog post describing the life of their favorite artist for a contest. | 3 sources | 2022-11 | - |
+| 34 | Rédigez un message à un(e) ami(e) pour lui raconter vos impressions et souvenirs d’un voyage récent dans un pays que vous avez découvert. | The candidate must write to a friend sharing impressions from a recent trip abroad. | 3 sources | 2023-11 | - |
+| 35 | COURRIER DES LECTEURS Quitter tout pour voyager pendant une année entière : bonne ou mauvaise idée ? Donnez votre réponse sur notre site « voyage.internaute.fr ». Rédigez un message sur ce site en répondant à la question posée, en vous appuyant sur des exemples tirés de votre vécu. | Write a post responding to a reader question about taking a year off to travel, using personal examples. | 3 sources | 2024-08 | - |
+| 36 | Vous n'avez pas été content(e) des prestations proposées lors d'un séjour organisé récemment. Rédigez un courrier à l'agence de voyages pour décrire les difficultés rencontrées, faire part de votre insatisfaction et demander une réparation appropriée. | Write a complaint letter to a travel agency about a disappointing organized trip and request compensation. | 3 sources | 2025-04 | - |
+| 37 | Un Salon du livre a eu lieu dans votre ville et vous y avez participé (conférences, expositions, rencontres avec des écrivains, etc.). Écrivez un message à vos amis pour leur raconter cet événement et leur faire part de vos impressions. | Write a message to friends recounting attendance at a book fair and sharing impressions. | 3 sources | 2025-09 | - |
 
 ## Economy
 
@@ -85,6 +86,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 1 | Vous avez participé à une soirée organisée à l'université sur le thème de l'écologie et de la protection de la planète. Rédigez un billet pour votre blog racontant cette soirée et expliquant ce qui vous a plu. | Write a blog post about attending a university evening on ecology and why it interested you. | 8 sources | 2023-04 | - |
 | 2 | Vous avez passé une journée à la campagne entre amis. De retour chez vous, publiez un message sur votre forum pour raconter à vos amis le déroulement de cette journée. Précisez ce que vous avez apprécié (activités, lieu, animaux, etc.). | The candidate must post a forum message recounting a day in the countryside and what they enjoyed. | 7 sources | 2024-08 | - |
 | 3 | Vous avez pris part à une initiative organisée pour la « Journée mondiale du nettoyage de notre planète », en ramassant des déchets dans un endroit public (plage, forêt, rue, etc.) aux côtés d'autres bénévoles. Racontez cette expérience à vos amis et expliquez en quoi il est important de s'impliquer dans ce genre d'action. | The candidate must recount to friends their experience taking part in a World Cleanup Day activity and explain why participating matters. | 4 sources | 2024-08 | - |
+| 4 | Vous avez pris part à une action bénévole visant à préserver la nature et l'écosystème. Laissez un commentaire dans lequel vous racontez cette expérience. | The candidate must write a comment sharing their experience volunteering to protect nature and the ecosystem. | 3 sources | 2023-06 | - |
 
 ## Family
 

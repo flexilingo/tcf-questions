@@ -4,15 +4,15 @@
 
 A message to one or more people, 60 to 120 words.
 
-114 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+116 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (33)
 - [Economy](#economy) (7)
 - [Education](#education) (15)
-- [Family](#family) (13)
-- [Health](#health) (15)
+- [Family](#family) (14)
+- [Health](#health) (16)
 - [Immigration](#immigration) (3)
 - [Miscellaneous](#miscellaneous) (15)
 - [Technology](#technology) (2)
@@ -105,6 +105,7 @@ A message to one or more people, 60 to 120 words.
 | 11 | Rédigez un message à votre ami(e) pour lui proposer de venir avec vous à un festival de musique. | The candidate must write a message inviting a friend to a music festival. | 4 sources | 2022-10 | - |
 | 12 | La bibliothèque de votre quartier organise une rencontre avec un auteur / une autrice. Vous aimeriez y assister avec un(e) ami(e). Rédigez-lui un message pour présenter l'événement et l'inviter à vous accompagner. | Write a message to a friend presenting a library event with an author and inviting them along. | 4 sources | 2024-01 | - |
 | 13 | Vous venez de déménager dans une autre ville. Écrivez à un(e) ami(e) pour l'inviter à venir passer ses vacances chez vous. | The candidate must write inviting a friend to spend vacation at their new home. | 4 sources | 2024-11 | - |
+| 14 | Vous souhaitez passer une journée avec un(e) ami(e). Écrivez-lui un message pour l'inviter en précisant le programme de la journée (heure et lieu de rendez-vous, activités prévues, etc.) | Write to a friend inviting them for a day out and describing the planned schedule. | 3 sources | 2024-10 | - |
 
 ## Health
 
@@ -125,6 +126,7 @@ A message to one or more people, 60 to 120 words.
 | 13 | Écrivez un message à vos amis pour leur proposer de venir passer un week-end sportif chez vous. | The candidate must write a message inviting friends for a sporty weekend. | 4 sources | 2024-11 | - |
 | 14 | Cédric, que vous avez invité à votre mariage, ne connaît pas le Château de Chombony, lieu de la cérémonie. Décrivez-lui cet endroit, précisez sa localisation ainsi que les moyens de transport pour s'y rendre. | Write to a friend describing a wedding venue's location and how to get there. | 4 sources | 2025-01 | - |
 | 15 | Vous devez passer une journée dans un parc d'attractions avec un ami. Rédigez-lui un message pour organiser cette sortie en précisant les horaires, le moyen de transport, l'achat des billets et les activités prévues (entre 60 et 120 mots). | The candidate must write a message to a friend organizing a day at an amusement park, including schedule, transport, tickets and activities. | 3 sources | 2022-11 | - |
+| 16 | Votre ami vous écrit : « J'attends avec impatience notre journée ensemble demain. Peux-tu me dire quelles activités nous ferons ? » Répondez-lui en décrivant la sortie prévue au parc de loisirs (horaires, transport, billets, activités). | The candidate must reply to a friend describing an amusement park outing with schedule, transport, tickets and activities. | 3 sources | 2024-01 | - |
 
 ## Immigration
 

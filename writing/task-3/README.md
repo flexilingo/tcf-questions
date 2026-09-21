@@ -4,14 +4,14 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-197 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+199 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (30)
 - [Economy](#economy) (26)
-- [Education](#education) (23)
-- [Environment](#environment) (16)
+- [Education](#education) (24)
+- [Environment](#environment) (17)
 - [Family](#family) (23)
 - [Health](#health) (20)
 - [Immigration](#immigration) (1)
@@ -112,6 +112,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 21 | Document A : Les cuisiniers amateurs incarnent la véritable passion de la cuisine. N'ayant suivi aucune formation officielle, ils apportent à leurs plats une authenticité et une spontanéité impossibles à enseigner. Ils cuisinent avant tout par plaisir. Chaque recette devient une aventure personnelle, une exploration audacieuse des goûts. Là où certains verront des faiblesses techniques, d'autres percevront une liberté créative sans limites. Document B : Les cuisiniers professionnels sont de véritables maîtres de l'art culinaire. Après de longues années de formation exigeante, ils dominent parfaitement les techniques et les subtilités de la gastronomie. Leurs créations sont de véritables œuvres d'art culinaires. Leur rigueur et leur engagement assurent régularité et perfection. Là où certains verront un excès de rigueur, d'autres reconnaîtront l'excellence et la précision d'un véritable artisan. Comparez ces deux points de vue et donnez votre opinion en 120 à 180 mots. | The candidate must compare opposing views on amateur versus professional cooks and give their opinion. | 2 sources | 2023-09 | - |
 | 22 | Inès : Je demeure sceptique quant à l'usage massif des technologies en milieu scolaire. Selon moi, cela risque de réduire les échanges humains et de favoriser une dépendance aux écrans. Je pense que les méthodes classiques et le lien direct entre professeurs et élèves restent indispensables pour former des jeunes équilibrés. | Read Inès's opinion opposing excessive use of technology in education, compare it with the opposing viewpoint, and write a 120-180 word text discussing both. | 2 sources | 2024-05 | - |
 | 23 | « Coucou,Comment ça va ?Alors, comment se passe ta nouvelle université ? Les étudiants sont-ils accueillants ? Et les enseignants, comment sont-ils ?À très bientôt.Alex » | Read Alex's message asking about your new university, and reply describing it. | 2 sources | 2024-09 | - |
+| 24 | Certains jugent que la présence de distributeurs automatiques dans les lycées présente des avantages. Ils permettent aux élèves d'obtenir rapidement une boisson ou un en-cas, notamment quand le temps manque pour passer à la cantine. Par ailleurs, ces machines peuvent proposer des produits plus sains, comme des jus sans sucre ajouté ou de l'eau. | The candidate must compare two texts with opposing views on vending machines in high schools and write a synthesis of 120-180 words. | 2 sources | 2025-01 | - |
 
 ## Environment
 
@@ -133,6 +134,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 14 | Plus de la moitié des habitants de la planète choisissent de vivre en milieu urbain, ce qui a des conséquences néfastes sur l'environnement. Les mégapoles et les villes en constante expansion aggravent encore ce phénomène, étant perçues comme des systèmes coupés de la nature. Toutefois, il existe aussi des villes écologiques et durables, où un habitant consomme parfois moins d'énergie qu'un résident de la campagne. | Rewrite the first document arguing that urban growth harms the environment though some eco-friendly cities exist. | 3 sources | 2023-04 | - |
 | 15 | Depuis mon installation à la campagne, mon quotidien a été bouleversé. Le chant des oiseaux et mon potager ont pris la place des pharmacies et des salles de cinéma que je connaissais en ville. Je cherchais à échapper au vacarme, à la pollution et à l'agitation, pour retrouver le calme et de larges espaces verts. Désormais, j'apprécie la sérénité et les grandes étendues, loin de tout voisinage. (Marie, 42 ans) | Rewrite this testimony about moving from the city to the countryside, part of a two-document comparison task. | 3 sources | 2025-06 | - |
 | 16 | Fabriquer ses produits soi-même : êtes-vous pour ou contre ? Confectionner ses propres produits naturels à la maison offre la possibilité de choisir précisément les ingrédients, garantissant ainsi des résultats plus adaptés et bénéfiques pour la santé. Cette pratique contribue également à réduire les déchets plastiques grâce à l'usage de contenants réutilisables. De plus, elle permet de réaliser des économies durables et de développer un savoir-faire créatif, tout en favorisant un mode de vie plus responsable. Toutefois, fabriquer ses produits naturels comporte quelques inconvénients. Une erreur dans une recette peut rendre le produit inefficace, voire provoquer des réactions indésirables. En outre, rechercher et préparer les ingrédients nécessite du temps et de l'énergie. Ces fabrications maison n'offrent pas toujours de garanties en matière de sécurité ou de conservation, ce qui peut favoriser le développement de bactéries. Enfin, l'achat initial d'ingrédients de qualité représente un coût qui peut freiner certaines personnes. | Summarize and compare two opposing views (120-180 words) on making homemade products. | 3 sources | 2025-07 | - |
+| 17 | Chaque année, d'énormes quantités de plastique finissent dans les océans, provoquant de graves dégâts sur la faune et la flore marines. Ces déchets fragilisent l'écosystème et peuvent même s'infiltrer dans la chaîne alimentaire. Il devient donc essentiel de réduire notre usage du plastique et de privilégier des solutions durables. | Argue that plastic waste harms marine ecosystems and urge reducing plastic use in favor of sustainable alternatives. | 2 sources | 2025-01 | - |
 
 ## Family
 
