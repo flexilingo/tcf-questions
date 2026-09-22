@@ -4,7 +4,7 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-50 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+51 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,7 +16,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (5)
 - [Technology](#technology) (3)
-- [Work](#work) (5)
+- [Work](#work) (6)
 
 ## Culture
 
@@ -112,6 +112,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 3 | Deux articles exposent des arguments favorables et défavorables à la pratique de la sieste au travail. | Two articles debating the pros and cons of napping at work. | 1 source | 2026-09 | - |
 | 4 | Un article traitant de l'âge légal du départ à la retraite en France. | An article about the legal retirement age in France. | 1 source | 2026-09 | - |
 | 5 | Un article traitant de l'évolution des méthodes de recrutement des pompiers. | An article about changes in firefighter recruitment. | 1 source | 2026-09 | - |
+| 6 | Un article traitant de la réforme des retraites. | An article about pension reform. | 1 source | 2026-09 | - |
 
 ---
 

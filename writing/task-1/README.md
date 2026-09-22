@@ -4,19 +4,19 @@
 
 A message to one or more people, 60 to 120 words.
 
-118 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+120 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (35)
 - [Economy](#economy) (7)
-- [Education](#education) (15)
+- [Education](#education) (16)
 - [Family](#family) (14)
 - [Health](#health) (16)
 - [Immigration](#immigration) (3)
 - [Miscellaneous](#miscellaneous) (15)
 - [Technology](#technology) (2)
-- [Work](#work) (11)
+- [Work](#work) (12)
 
 ## Culture
 
@@ -89,6 +89,7 @@ A message to one or more people, 60 to 120 words.
 | 13 | Votre ami Mehdi vient de s'installer dans votre ville et souhaite savoir comment se déplacer. Rédigez-lui un message pour lui expliquer les différents moyens de transport disponibles, les formules d'abonnement et leurs prix. | Write a message to a friend explaining local transport options, subscriptions and prices. | 4 sources | 2024-04 | - |
 | 14 | Vous préparez une fête surprise pour l'anniversaire de votre meilleur(e) ami(e). Rédigez un message aux invités contenant toutes les informations utiles (programme, cadeau, lieu, etc.). | The candidate must write a message to guests with all details for a surprise birthday party. | 4 sources | 2024-09 | - |
 | 15 | Votre établissement scolaire vous a chargé(e) d'organiser une journée de bienvenue destinée aux nouveaux étudiants francophones. Rédigez, à leur attention, un courriel comportant toutes les informations nécessaires au bon déroulement de cette journée. | Write an email to new francophone students giving all the practical details of a welcome day you're organizing. | 3 sources | 2023-04 | - |
+| 16 | Vous cherchez quelqu'un pour faire du sport avec vous et vous rédigez une annonce pour le journal de votre université. Vous mentionnez la discipline choisie, les jours et créneaux horaires souhaités, ainsi que le profil de la personne que vous recherchez. | Write a university newspaper ad looking for a sports partner, specifying the sport, schedule and desired profile. | 3 sources | 2025-01 | - |
 
 ## Family
 
@@ -180,6 +181,7 @@ A message to one or more people, 60 to 120 words.
 | 9 | Vous partez bientôt en mission professionnelle à l'étranger. Rédigez un courriel invitant vos collègues à célébrer votre départ, en indiquant l'adresse, le lieu, la date et l'objectif de cette rencontre. | Write an email inviting colleagues to a farewell party before your professional trip abroad, including address, place, date and purpose. | 3 sources | 2023-04 | - |
 | 10 | Le déménagement des bureaux de votre entreprise vient de se terminer. Envoyez un courriel à Lucas pour lui décrire vos nouveaux locaux (emplacement, superficie, équipements…). | The candidate must write to a friend describing the new company premises after a move. | 3 sources | 2023-09 | - |
 | 11 | Écrivez un message à votre ami(e) pour lui raconter comment s'est déroulé votre entretien d'embauche (entreprise, salaire proposé, type de poste, etc.). | The candidate must write to a friend describing a job interview (company, salary, type of position). | 3 sources | 2024-01 | - |
+| 12 | Ali vous a écrit pour savoir comment se déroule votre nouvel emploi et si vous en êtes content(e). Répondez-lui en décrivant votre poste (lieu de travail, ambiance, collègues, etc.) et en lui faisant part de vos impressions. | Reply to a friend's message describing your new job and your impressions of it. | 3 sources | 2025-02 | - |
 
 ---
 

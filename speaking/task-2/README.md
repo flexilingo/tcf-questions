@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-270 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+271 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,7 +16,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Health](#health) (17)
 - [Immigration](#immigration) (4)
 - [Miscellaneous](#miscellaneous) (10)
-- [Technology](#technology) (4)
+- [Technology](#technology) (5)
 - [Work](#work) (37)
 
 ## Culture
@@ -294,8 +294,9 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | --- | --- | --- | --- | --- | --- |
 | 1 | Vous logez à l'hôtel pendant quelques jours. Vous vous adressez à la réception. Vous posez des questions pour organiser votre séjour (petit-déjeuner, connexion Internet, transports, activités possibles, etc.). | The candidate must ask hotel reception staff questions to organize their stay. | 7 sources | 2022-11 | - |
 | 2 | Vous échangez avec un ami / une amie qui a participé à un jeu télévisé. Posez-lui des questions sur son expérience (conditions d'inscription, déroulement, intérêt, etc.) afin de décider si vous voulez y participer aussi. | The candidate must ask a friend questions about their experience on a TV game show to decide whether to participate too. | 7 sources | 2023-10 | - |
-| 3 | Vous discutez avec un(e) ami(e). Je revends souvent mes vieilles affaires (vêtements, livres, objets) sur Internet. Cela vous intéresse. Posez-moi des questions pour savoir comment procéder (sites, articles, prix, etc.). | The candidate must ask a friend questions about how to resell old belongings online (websites, items, prices). | 7 sources | 2024-07 | - |
-| 4 | Vous discutez avec un(e) ami(e). La semaine passée, j’ai participé au public d’une émission télévisée. Posez-moi des questions sur cette expérience (inscription, durée du tournage, personnalité de l’animateur, etc.). | The candidate must ask a friend questions about their experience attending a TV show taping. | 6 sources | 2024-09 | - |
+| 3 | Un ami ou une amie a participé à une émission de télévision ; posez-lui des questions sur cette expérience, comme l'inscription ou l'ambiance sur le plateau. | Ask a friend questions about their experience appearing on a TV show. | 7 sources | 2023-11 | - |
+| 4 | Vous discutez avec un(e) ami(e). Je revends souvent mes vieilles affaires (vêtements, livres, objets) sur Internet. Cela vous intéresse. Posez-moi des questions pour savoir comment procéder (sites, articles, prix, etc.). | The candidate must ask a friend questions about how to resell old belongings online (websites, items, prices). | 7 sources | 2024-07 | - |
+| 5 | Vous discutez avec un(e) ami(e). La semaine passée, j’ai participé au public d’une émission télévisée. Posez-moi des questions sur cette expérience (inscription, durée du tournage, personnalité de l’animateur, etc.). | The candidate must ask a friend questions about their experience attending a TV show taping. | 6 sources | 2024-09 | - |
 
 ## Work
 

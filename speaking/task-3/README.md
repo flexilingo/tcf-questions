@@ -4,13 +4,13 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-266 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+267 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (27)
 - [Economy](#economy) (6)
-- [Education](#education) (27)
+- [Education](#education) (28)
 - [Environment](#environment) (13)
 - [Family](#family) (24)
 - [Health](#health) (19)
@@ -88,11 +88,12 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 20 | Selon vous, faudrait-il interdire les téléphones portables dans les écoles ? Pour quelles raisons ? | The candidate must give and defend an opinion on banning mobile phones at school. | 5 sources | 2023-04 | - |
 | 21 | Je suis un parent d'élève. Vous souhaitez inscrire vos enfants à une activité extrascolaire. Demandez-moi des informations et des conseils sur les options disponibles dans le quartier (nature des activités, horaires, tarifs, encadrement, etc.). | Ask a fellow parent for advice about after-school activities for your children (type, schedule, price, supervision). | 5 sources | 2023-05 | - |
 | 22 | Je partage un appartement à Winnipeg avec des colocataires. Une chambre est libre. Vous êtes intéressé(e). Posez-moi des questions pour en savoir plus sur le logement (chambre et pièces communes, loyer, autres colocataires, etc.). | The candidate must ask the examiner (playing a roommate) questions about a room available for rent. | 5 sources | 2023-07 | - |
-| 23 | Faut-il obligatoirement avoir fait de longues études pour réussir sa vie ? | Give your opinion on whether long studies are necessary to succeed in life. | 5 sources | 2024-10 | - |
-| 24 | La diversité en milieu scolaire favorise-t-elle l'épanouissement de tous les élèves ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether school diversity benefits all students. | 5 sources | 2024-10 | - |
-| 25 | Les entreprises devraient offrir à leurs salariés la possibilité de se former tout au long de leur carrière. Cela est-il utile à tous ? Quelle est votre position sur ce sujet ? | The candidate must give and defend an opinion on lifelong training offered by employers. | 5 sources | 2025-03 | - |
-| 26 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
-| 27 | Pensez-vous qu’il soit indispensable de parler la langue du pays où l’on réside ? Pourquoi ? | Give and defend your opinion on whether it's essential to speak the language of the country one lives in. | 5 sources | 2025-12 | - |
+| 23 | Je travaille dans une auto-école. Vous voulez apprendre à conduire. Posez-moi des questions pour obtenir davantage d'informations (tarifs, durée de la formation, papiers requis, etc.). | The candidate must ask the examiner (playing a driving school employee) questions about learning to drive. | 5 sources | 2023-07 | - |
+| 24 | Faut-il obligatoirement avoir fait de longues études pour réussir sa vie ? | Give your opinion on whether long studies are necessary to succeed in life. | 5 sources | 2024-10 | - |
+| 25 | La diversité en milieu scolaire favorise-t-elle l'épanouissement de tous les élèves ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether school diversity benefits all students. | 5 sources | 2024-10 | - |
+| 26 | Les entreprises devraient offrir à leurs salariés la possibilité de se former tout au long de leur carrière. Cela est-il utile à tous ? Quelle est votre position sur ce sujet ? | The candidate must give and defend an opinion on lifelong training offered by employers. | 5 sources | 2025-03 | - |
+| 27 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
+| 28 | Pensez-vous qu’il soit indispensable de parler la langue du pays où l’on réside ? Pourquoi ? | Give and defend your opinion on whether it's essential to speak the language of the country one lives in. | 5 sources | 2025-12 | - |
 
 ## Environment
 

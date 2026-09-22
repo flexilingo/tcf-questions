@@ -4,16 +4,16 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-100 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+102 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (38)
+- [Culture](#culture) (39)
 - [Economy](#economy) (1)
 - [Education](#education) (7)
 - [Environment](#environment) (4)
 - [Family](#family) (6)
-- [Health](#health) (10)
+- [Health](#health) (11)
 - [Immigration](#immigration) (10)
 - [Miscellaneous](#miscellaneous) (3)
 - [Technology](#technology) (16)
@@ -61,6 +61,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 36 | COURRIER DES LECTEURS Quitter tout pour voyager pendant une année entière : bonne ou mauvaise idée ? Donnez votre réponse sur notre site « voyage.internaute.fr ». Rédigez un message sur ce site en répondant à la question posée, en vous appuyant sur des exemples tirés de votre vécu. | Write a post responding to a reader question about taking a year off to travel, using personal examples. | 3 sources | 2024-08 | - |
 | 37 | Vous n'avez pas été content(e) des prestations proposées lors d'un séjour organisé récemment. Rédigez un courrier à l'agence de voyages pour décrire les difficultés rencontrées, faire part de votre insatisfaction et demander une réparation appropriée. | Write a complaint letter to a travel agency about a disappointing organized trip and request compensation. | 3 sources | 2025-04 | - |
 | 38 | Un Salon du livre a eu lieu dans votre ville et vous y avez participé (conférences, expositions, rencontres avec des écrivains, etc.). Écrivez un message à vos amis pour leur raconter cet événement et leur faire part de vos impressions. | Write a message to friends recounting attendance at a book fair and sharing impressions. | 3 sources | 2025-09 | - |
+| 39 | Rédigez pour votre blog le compte-rendu de votre dernier repas au restaurant. Décrivez le lieu, les plats dégustés et la qualité du service, puis précisez ce qui vous a le plus plu. | The candidate must write a blog post about a recent restaurant visit, describing place, dishes, service, and favorite aspect. | 3 sources | 2026-06 | - |
 
 ## Economy
 
@@ -114,6 +115,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 8 | Vous pratiquez un sport au sein d'un club et vous venez de gagner une compétition. Écrivez un courriel à vos amis pour leur raconter cet événement et leur annoncer votre victoire. | Write an email to friends telling them about winning a sports competition at your club. | 3 sources | 2023-04 | - |
 | 9 | Vous avez participé à une compétition sportive : rédigez un article (blog, magazine, etc.) en précisant le lieu, la date et l'organisation de l'événement. | Write an article about a sports competition you took part in, giving place, date and organization. | 3 sources | 2024-10 | - |
 | 10 | Vous vous êtes récemment lancé(e) dans un nouveau loisir (danse, peinture, sport, etc.). Écrivez un message à vos amis pour leur raconter cette expérience et leur donner votre avis sur cette activité. | Write a message to friends recounting a new hobby and giving an opinion about it. | 3 sources | 2025-11 | - |
+| 11 | Vous avez pris part à une compétition sportive. Rédigez un article de blog pour raconter cette expérience. | The candidate must write a blog article recounting participation in a sports competition. | 2 sources | 2022-08 | - |
 
 ## Immigration
 
