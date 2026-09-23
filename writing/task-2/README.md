@@ -4,17 +4,17 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-102 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+104 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (39)
-- [Economy](#economy) (1)
+- [Economy](#economy) (2)
 - [Education](#education) (7)
 - [Environment](#environment) (4)
 - [Family](#family) (6)
 - [Health](#health) (11)
-- [Immigration](#immigration) (10)
+- [Immigration](#immigration) (11)
 - [Miscellaneous](#miscellaneous) (3)
 - [Technology](#technology) (16)
 - [Work](#work) (5)
@@ -68,6 +68,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Vous avez participé à un vide-grenier (vente/achat d'objets d'occasion) dans votre ville. Racontez sur votre blog personnel pourquoi cette expérience vous a plu. | Write a blog post about a flea market experience and why you enjoyed it. | 7 sources | 2023-06 | - |
+| 2 | Vous avez visité une brocante. Racontez cette expérience sur votre blog et précisez ce qui vous a le plus plu. | The candidate must write a blog post about visiting a flea market, specifying what they liked most. | 2 sources | 2022-08 | - |
 
 ## Education
 
@@ -131,6 +132,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 8 | Réagissez à une publication portant sur les études à l'étranger en racontant votre propre expérience dans un commentaire. | The candidate must write a comment sharing their own experience studying abroad, responding to a post. | 4 sources | 2022-10 | - |
 | 9 | Rédigez un article de blog racontant votre expérience d'études à l'étranger (séjour, activités, etc.). | Write a blog post about your study-abroad experience, including your stay and activities. | 4 sources | 2023-05 | - |
 | 10 | Vous avez suivi des études dans une université étrangère durant six mois. Vous écrivez à vos amis pour leur raconter cette expérience et leur dire ce qui vous a plu. | The candidate must write to friends recounting their six-month study abroad experience and what they liked. | 3 sources | 2020-02 | - |
+| 11 | Vous avez étudié pendant six mois dans un autre pays. Écrivez un article pour votre blog racontant cette expérience. | The candidate must write a blog article about a six-month study abroad experience. | 2 sources | 2022-08 | - |
 
 ## Miscellaneous
 

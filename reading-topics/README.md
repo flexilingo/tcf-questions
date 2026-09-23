@@ -4,12 +4,12 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-51 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+52 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (12)
-- [Economy](#economy) (9)
+- [Economy](#economy) (10)
 - [Education](#education) (3)
 - [Environment](#environment) (4)
 - [Health](#health) (8)
@@ -48,6 +48,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 7 | Un article sur un partenariat entre une chaîne de télévision et des compagnies aériennes. | An article about a partnership between a TV channel and airlines. | 1 source | 2026-09 | - |
 | 8 | Un article sur une stratégie de fusion entre banques. | An article about a bank merger strategy. | 1 source | 2026-09 | - |
 | 9 | Un article traitant d'une innovation dans la conception de la bouteille de champagne. | An article about an innovation in champagne bottle design. | 1 source | 2026-09 | - |
+| 10 | Un article traitant de la valeur commerciale des œuvres d'art. | An article about the market value of art. | 1 source | 2026-09 | - |
 
 ## Education
 

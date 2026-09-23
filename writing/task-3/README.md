@@ -4,11 +4,11 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-203 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+205 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (30)
+- [Culture](#culture) (32)
 - [Economy](#economy) (28)
 - [Education](#education) (25)
 - [Environment](#environment) (17)
@@ -53,6 +53,8 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 28 | employés pendant la pause (prévention du harcèlement), égalité de traitement entre salariés, mise en place d'une charte encadrant les relations entre salariés, etc. | Fragment listing workplace policy points (harassment prevention, equal treatment, staff charter). | 2 sources | 2024-07 | - |
 | 29 | Cependant, partager son logement avec d'autres peut aussi provoquer des tensions liées à des habitudes de vie différentes et à la répartition des tâches. Il est donc important de fixer des règles claires et de bien communiquer afin d'éviter les conflits. | Continue/compare a text about how shared housing can create tension and the need for rules and communication. | 2 sources | 2025-01 | - |
 | 30 | Certains autodidactes se sont fait connaître grâce aux réseaux sociaux, où ils diffusent leurs recettes et astuces. Plusieurs ont même publié des ouvrages de cuisine et sont devenus des modèles pour les passionnés voulant progresser. | Argue that self-taught cooks can become successful references through social media without formal training. | 2 sources | 2025-01 | - |
+| 31 | En revanche, le livre papier garde une place de choix aux yeux de nombreux lecteurs. Tourner les pages, sentir l'odeur du papier, pouvoir offrir un livre : autant de plaisirs qui rendent ce format irremplaçable. | Present the opposing viewpoint that paper books remain irreplaceable for sensory and gift-giving reasons. | 2 sources | 2025-01 | - |
+| 32 | J'ai 19 ans et je vais bientôt quitter mon pays pour poursuivre mes études à l'étranger. J'aimerais lire des témoignages d'étudiants qui ont déjà vécu loin de chez eux pour se former. | A 19-year-old about to study abroad asks to read testimonies from students who already had this experience. | 2 sources | 2025-01 | - |
 
 ## Economy
 

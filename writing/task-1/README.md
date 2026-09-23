@@ -4,19 +4,19 @@
 
 A message to one or more people, 60 to 120 words.
 
-120 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+122 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (35)
 - [Economy](#economy) (7)
 - [Education](#education) (16)
-- [Family](#family) (14)
+- [Family](#family) (15)
 - [Health](#health) (16)
 - [Immigration](#immigration) (3)
 - [Miscellaneous](#miscellaneous) (15)
 - [Technology](#technology) (2)
-- [Work](#work) (12)
+- [Work](#work) (13)
 
 ## Culture
 
@@ -109,6 +109,7 @@ A message to one or more people, 60 to 120 words.
 | 12 | La bibliothèque de votre quartier organise une rencontre avec un auteur / une autrice. Vous aimeriez y assister avec un(e) ami(e). Rédigez-lui un message pour présenter l'événement et l'inviter à vous accompagner. | Write a message to a friend presenting a library event with an author and inviting them along. | 4 sources | 2024-01 | - |
 | 13 | Vous venez de déménager dans une autre ville. Écrivez à un(e) ami(e) pour l'inviter à venir passer ses vacances chez vous. | The candidate must write inviting a friend to spend vacation at their new home. | 4 sources | 2024-11 | - |
 | 14 | Vous souhaitez passer une journée avec un(e) ami(e). Écrivez-lui un message pour l'inviter en précisant le programme de la journée (heure et lieu de rendez-vous, activités prévues, etc.) | Write to a friend inviting them for a day out and describing the planned schedule. | 3 sources | 2024-10 | - |
+| 15 | L'anniversaire de votre meilleur(e) ami(e) approche. Vous envoyez un message à votre groupe d'amis pour proposer d'offrir un cadeau collectif. Vous précisez le cadeau envisagé et expliquez comment chacun peut y contribuer. | The candidate must write a message to friends proposing a group gift for a best friend's birthday, describing the gift and how to contribute. | 3 sources | 2025-02 | - |
 
 ## Health
 
@@ -182,6 +183,7 @@ A message to one or more people, 60 to 120 words.
 | 10 | Le déménagement des bureaux de votre entreprise vient de se terminer. Envoyez un courriel à Lucas pour lui décrire vos nouveaux locaux (emplacement, superficie, équipements…). | The candidate must write to a friend describing the new company premises after a move. | 3 sources | 2023-09 | - |
 | 11 | Écrivez un message à votre ami(e) pour lui raconter comment s'est déroulé votre entretien d'embauche (entreprise, salaire proposé, type de poste, etc.). | The candidate must write to a friend describing a job interview (company, salary, type of position). | 3 sources | 2024-01 | - |
 | 12 | Ali vous a écrit pour savoir comment se déroule votre nouvel emploi et si vous en êtes content(e). Répondez-lui en décrivant votre poste (lieu de travail, ambiance, collègues, etc.) et en lui faisant part de vos impressions. | Reply to a friend's message describing your new job and your impressions of it. | 3 sources | 2025-02 | - |
+| 13 | Vous avez suivi une journée de formation organisée par votre entreprise. Vous rédigez un courriel à vos collègues pour décrire le déroulement de cette journée et ce que vous en avez retenu de positif. | The candidate must write an email to colleagues describing a training day and what they appreciated. | 3 sources | 2025-02 | - |
 
 ---
 

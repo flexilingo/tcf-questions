@@ -4,7 +4,7 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-48 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+49 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,7 +13,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 - [Education](#education) (4)
 - [Environment](#environment) (3)
 - [Health](#health) (4)
-- [Miscellaneous](#miscellaneous) (13)
+- [Miscellaneous](#miscellaneous) (14)
 - [Technology](#technology) (4)
 - [Work](#work) (5)
 
@@ -85,6 +85,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 11 | Un débat sur la rivalité et la pression sociale dans la société actuelle. | A discussion about competition and social pressure in society. | 1 source | 2026-09 | - |
 | 12 | Un débat sur les qualités nutritionnelles d'un aliment. | A debate about the nutritional value of a food. | 1 source | 2026-09 | - |
 | 13 | Un reportage relatant un incident ayant provoqué des blessés. | A report about an incident that caused injuries. | 1 source | 2026-09 | - |
+| 14 | Un reportage sur des tensions sociales et leur traitement médiatique. | A report about social unrest and its media coverage. | 1 source | 2026-09 | - |
 
 ## Technology
 
