@@ -4,7 +4,7 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-104 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+106 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,10 +14,10 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Environment](#environment) (4)
 - [Family](#family) (6)
 - [Health](#health) (11)
-- [Immigration](#immigration) (11)
+- [Immigration](#immigration) (12)
 - [Miscellaneous](#miscellaneous) (3)
 - [Technology](#technology) (16)
-- [Work](#work) (5)
+- [Work](#work) (6)
 
 ## Culture
 
@@ -133,6 +133,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 9 | Rédigez un article de blog racontant votre expérience d'études à l'étranger (séjour, activités, etc.). | Write a blog post about your study-abroad experience, including your stay and activities. | 4 sources | 2023-05 | - |
 | 10 | Vous avez suivi des études dans une université étrangère durant six mois. Vous écrivez à vos amis pour leur raconter cette expérience et leur dire ce qui vous a plu. | The candidate must write to friends recounting their six-month study abroad experience and what they liked. | 3 sources | 2020-02 | - |
 | 11 | Vous avez étudié pendant six mois dans un autre pays. Écrivez un article pour votre blog racontant cette expérience. | The candidate must write a blog article about a six-month study abroad experience. | 2 sources | 2022-08 | - |
+| 12 | Vous venez de vivre un échange scolaire dans un établissement à l'étranger. Racontez à vos amis ce qui vous a particulièrement plu durant cette expérience. | Tell your friends what you enjoyed most about your school exchange abroad. | 2 sources | 2022-09 | - |
 
 ## Miscellaneous
 
@@ -172,6 +173,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 3 | Vous venez de suivre une journée de formation dans votre entreprise. Écrivez un article destiné à un forum interne pour raconter à vos collègues votre expérience et ce que vous en avez retenu de positif. | Write a forum article for colleagues sharing your experience and what you appreciated about a company training day. | 5 sources | 2023-08 | - |
 | 4 | L'école de votre quartier organise un projet pour faire découvrir divers métiers aux élèves. Souhaitant y contribuer en racontant votre parcours, vous rédigez un texte destiné aux enseignants dans lequel vous décrivez votre profession (tâches quotidiennes, collègues, etc.) et expliquez les raisons pour lesquelles vous appréciez ce métier. | The candidate must write to teachers describing their job and explaining why they find it interesting. | 4 sources | 2024-09 | - |
 | 5 | Vous venez de participer à un pique-nique organisé avec vos collègues de travail. Vous rédigez un article pour le journal interne de votre entreprise, dans lequel vous racontez le déroulement de cet événement (endroit, repas, temps qu'il faisait, etc.). | Write an article for the company newsletter recounting the picnic with colleagues. | 4 sources | 2025-04 | - |
+| 6 | Vous êtes parti(e) travailler à l'étranger. Rédigez pour vos amis un article de blog racontant cette nouvelle expérience professionnelle, en précisant ce qui vous a le plus plu. | The candidate must write a blog article about working abroad, specifying what they liked most. | 2 sources | 2022-08 | - |
 
 ---
 

@@ -4,7 +4,7 @@
 
 A message to one or more people, 60 to 120 words.
 
-122 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+124 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,7 +12,7 @@ A message to one or more people, 60 to 120 words.
 - [Economy](#economy) (7)
 - [Education](#education) (16)
 - [Family](#family) (15)
-- [Health](#health) (16)
+- [Health](#health) (18)
 - [Immigration](#immigration) (3)
 - [Miscellaneous](#miscellaneous) (15)
 - [Technology](#technology) (2)
@@ -131,6 +131,8 @@ A message to one or more people, 60 to 120 words.
 | 14 | Cédric, que vous avez invité à votre mariage, ne connaît pas le Château de Chombony, lieu de la cérémonie. Décrivez-lui cet endroit, précisez sa localisation ainsi que les moyens de transport pour s'y rendre. | Write to a friend describing a wedding venue's location and how to get there. | 4 sources | 2025-01 | - |
 | 15 | Vous devez passer une journée dans un parc d'attractions avec un ami. Rédigez-lui un message pour organiser cette sortie en précisant les horaires, le moyen de transport, l'achat des billets et les activités prévues (entre 60 et 120 mots). | The candidate must write a message to a friend organizing a day at an amusement park, including schedule, transport, tickets and activities. | 3 sources | 2022-11 | - |
 | 16 | Votre ami vous écrit : « J'attends avec impatience notre journée ensemble demain. Peux-tu me dire quelles activités nous ferons ? » Répondez-lui en décrivant la sortie prévue au parc de loisirs (horaires, transport, billets, activités). | The candidate must reply to a friend describing an amusement park outing with schedule, transport, tickets and activities. | 3 sources | 2024-01 | - |
+| 17 | Votre amie Carole ainsi que sa famille comptent venir visiter votre ville bientôt. Rédigez-leur un message dans lequel vous leur suggérez un hôtel pour leur séjour (prix, activités possibles, moyens de transport, etc.). | Write a short message recommending a hotel to a friend's family visiting your city, including price, activities and transport. | 3 sources | 2025-07 | - |
+| 18 | « Coucou, on m'a dit que tu fréquentes une salle de sport géniale. Tu peux me raconter ? » Répondez-lui par un message en donnant des précisions sur cette salle (atmosphère, équipements, tarifs, etc.). | Write a message replying to a friend describing your gym (atmosphere, equipment, prices). | 3 sources | 2025-07 | - |
 
 ## Immigration
 

@@ -4,16 +4,16 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-205 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+207 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (32)
 - [Economy](#economy) (28)
-- [Education](#education) (25)
+- [Education](#education) (26)
 - [Environment](#environment) (17)
 - [Family](#family) (23)
-- [Health](#health) (21)
+- [Health](#health) (22)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (5)
 - [Technology](#technology) (13)
@@ -118,6 +118,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 23 | « Coucou,Comment ça va ?Alors, comment se passe ta nouvelle université ? Les étudiants sont-ils accueillants ? Et les enseignants, comment sont-ils ?À très bientôt.Alex » | Read Alex's message asking about your new university, and reply describing it. | 2 sources | 2024-09 | - |
 | 24 | Certains jugent que la présence de distributeurs automatiques dans les lycées présente des avantages. Ils permettent aux élèves d'obtenir rapidement une boisson ou un en-cas, notamment quand le temps manque pour passer à la cantine. Par ailleurs, ces machines peuvent proposer des produits plus sains, comme des jus sans sucre ajouté ou de l'eau. | The candidate must compare two texts with opposing views on vending machines in high schools and write a synthesis of 120-180 words. | 2 sources | 2025-01 | - |
 | 25 | D'autres pensent au contraire que le fait d'installer des distributeurs automatiques dans les écoles pousse les élèves à consommer trop de boissons sucrées, ce qui favorise des problèmes de santé tels que l'obésité ou le diabète. Selon eux, les établissements scolaires devraient plutôt promouvoir une alimentation équilibrée. | State the opposing viewpoint that vending machines in schools cause unhealthy sugar consumption and health problems. | 2 sources | 2025-01 | - |
+| 26 | Les amateurs de cuisine peuvent réaliser de très bons plats, mais ils n'ont pas forcément le savoir-faire ni les techniques d'un chef professionnel. Une véritable formation et de l'expérience restent nécessaires pour acquérir une maîtrise précise et un niveau de qualité constant. | Argue that amateur cooks lack the training and technique of professional chefs. | 2 sources | 2025-01 | - |
 
 ## Environment
 
@@ -194,6 +195,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 19 | Ahmed, 40 ans : De plus en plus de gens font appel à la livraison de repas, surtout par manque de temps ou d'envie de cuisiner. Néanmoins, ce service pèse sur l'environnement : les livreurs circulent souvent en scooter ou en voiture, des véhicules polluants. Cette habitude nuit aussi à la vie sociale, car se faire livrer au travail ou chez soi incite à rester enfermé et à réduire les contacts avec les autres. Or sortir, respirer l'air extérieur et rencontrer du monde demeure important pour se sentir bien. | Read Ahmed's opinion opposing food delivery for environmental and social reasons, compare it with the opposing viewpoint, and write a 120-180 word text discussing both. | 2 sources | 2024-02 | - |
 | 20 | Aïcha, jeune femme célibataire, préfère manger au restaurant plutôt que seule chez elle. Pour elle, sortir dîner permet de rencontrer du monde et de savourer la richesse culinaire de sa ville. | Present the viewpoint that dining out is preferable for socializing and enjoying culinary variety. | 2 sources | 2025-01 | - |
 | 21 | Devant l'aggravation de la pollution, plusieurs villes ont choisi d'interdire la circulation automobile dans leur centre. Oslo, par exemple, a mis en œuvre cette mesure avec succès : moins d'accidents, moins de dépendance au pétrole et un air plus sain. | First text: cities like Oslo successfully banned cars downtown, reducing accidents and pollution. | 2 sources | 2025-01 | - |
+| 22 | Laura, mère de plusieurs enfants, juge que manger au restaurant représente une dépense difficile à assumer pour une famille nombreuse. Elle préfère cuisiner à la maison, solution plus économique qui lui permet aussi de mieux maîtriser la qualité des repas. | Present the opposing viewpoint that home cooking is cheaper and allows better quality control than eating out. | 2 sources | 2025-01 | - |
 
 ## Immigration
 

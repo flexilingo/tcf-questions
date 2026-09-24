@@ -4,12 +4,12 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-49 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+50 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (11)
-- [Economy](#economy) (4)
+- [Economy](#economy) (5)
 - [Education](#education) (4)
 - [Environment](#environment) (3)
 - [Health](#health) (4)
@@ -41,6 +41,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 2 | Un appel téléphonique au service client concernant un souci d'abonnement à internet. | A customer service call about an internet subscription problem. | 1 source | 2026-09 | - |
 | 3 | Un dialogue avec un agent au sujet d'un échange ou remboursement de billet de train. | A conversation with an agent about exchanging or refunding a train ticket. | 1 source | 2026-09 | - |
 | 4 | Un débat sur les facteurs qui influencent l'évolution des loyers. | A debate about factors influencing rent trends. | 1 source | 2026-09 | - |
+| 5 | Un reportage sur l'amélioration des services proposés par les compagnies aériennes. | A report about improvements in airline services. | 1 source | 2026-09 | - |
 
 ## Education
 
