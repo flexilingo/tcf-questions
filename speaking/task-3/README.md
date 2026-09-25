@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-269 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+270 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,7 +13,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Education](#education) (28)
 - [Environment](#environment) (14)
 - [Family](#family) (24)
-- [Health](#health) (19)
+- [Health](#health) (20)
 - [Immigration](#immigration) (39)
 - [Miscellaneous](#miscellaneous) (41)
 - [Technology](#technology) (31)
@@ -161,11 +161,12 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 12 | Selon vous, est-ce une bonne idée de se mettre au sport après 50 ans ? | Give and defend your opinion on starting a sport after age 50. | 6 sources | 2025-10 | - |
 | 13 | D'après vous, les personnes en situation de handicap occupent-elles une place suffisante dans la société ? Justifiez votre réponse. | The candidate must give and defend an opinion on whether people with disabilities have a satisfactory place in society. | 6 sources | 2025-11 | - |
 | 14 | Je travaille à l'accueil d'un club de sport de votre ville. Vous souhaitez faire du sport. Posez-moi des questions pour décider si vous allez vous inscrire (cours proposés, tarifs, horaires, etc.). | Ask a sports club receptionist questions to decide whether to sign up. | 5 sources | 2023-06 | - |
-| 15 | Pour préserver l'environnement, il faudrait consommer des produits locaux et de saison. Quel est votre avis sur cette idée ? | The candidate must give and defend an opinion on eating local, seasonal food to protect the environment. | 5 sources | 2025-01 | - |
-| 16 | Selon vous, les jeunes d'aujourd'hui s'engagent-ils moins qu'avant (environnement, politique, santé, etc.) ? Pourquoi ? | The candidate must give and defend an opinion on whether young people today are less engaged in causes. | 5 sources | 2025-04 | - |
-| 17 | Que pensez-vous de la qualité des aliments proposés dans votre pays ? Justifiez votre réponse. | Give and defend your opinion on the quality of food in your country, with justification. | 5 sources | 2025-09 | - |
-| 18 | Pour préserver sa santé, faut-il se limiter aux produits biologiques ? Partagez-vous cette opinion ? | Give and defend your opinion on whether staying healthy requires eating only organic products. | 5 sources | 2025-10 | - |
-| 19 | Pour être en bonne santé, l’essentiel est-il d’avoir une alimentation équilibrée ? Quel est votre avis sur ce sujet ? | Give and defend your opinion on whether balanced eating is the key to good health. | 5 sources | 2025-10 | - |
+| 15 | Il faudrait inciter les enfants à prendre part à des compétitions sportives. Partagez-vous cette opinion ? | Give and defend an opinion on encouraging children to take part in sports competitions. | 5 sources | 2023-09 | - |
+| 16 | Pour préserver l'environnement, il faudrait consommer des produits locaux et de saison. Quel est votre avis sur cette idée ? | The candidate must give and defend an opinion on eating local, seasonal food to protect the environment. | 5 sources | 2025-01 | - |
+| 17 | Selon vous, les jeunes d'aujourd'hui s'engagent-ils moins qu'avant (environnement, politique, santé, etc.) ? Pourquoi ? | The candidate must give and defend an opinion on whether young people today are less engaged in causes. | 5 sources | 2025-04 | - |
+| 18 | Que pensez-vous de la qualité des aliments proposés dans votre pays ? Justifiez votre réponse. | Give and defend your opinion on the quality of food in your country, with justification. | 5 sources | 2025-09 | - |
+| 19 | Pour préserver sa santé, faut-il se limiter aux produits biologiques ? Partagez-vous cette opinion ? | Give and defend your opinion on whether staying healthy requires eating only organic products. | 5 sources | 2025-10 | - |
+| 20 | Pour être en bonne santé, l’essentiel est-il d’avoir une alimentation équilibrée ? Quel est votre avis sur ce sujet ? | Give and defend your opinion on whether balanced eating is the key to good health. | 5 sources | 2025-10 | - |
 
 ## Immigration
 

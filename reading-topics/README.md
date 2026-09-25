@@ -4,11 +4,11 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-53 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+54 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (13)
+- [Culture](#culture) (14)
 - [Economy](#economy) (10)
 - [Education](#education) (3)
 - [Environment](#environment) (4)
@@ -35,6 +35,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 11 | Un article sur la manière de transmettre le goût de la lecture. | An article about passing on a love of reading. | 1 source | 2026-09 | - |
 | 12 | Un article traitant de la manière dont l'usage des illustrations a changé dans les publications au fil du temps. | An article about the evolution of illustration use in publications. | 1 source | 2026-09 | - |
 | 13 | Un article traitant des adaptations cinématographiques de romans. | An article about film adaptations of novels. | 1 source | 2026-09 | - |
+| 14 | Un article traitant du lien entre liberté de la presse et démocratie. | An article about press freedom and democracy. | 1 source | 2026-09 | - |
 
 ## Economy
 

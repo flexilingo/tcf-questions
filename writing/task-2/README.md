@@ -4,16 +4,16 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-106 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+108 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (39)
 - [Economy](#economy) (2)
-- [Education](#education) (7)
+- [Education](#education) (8)
 - [Environment](#environment) (4)
 - [Family](#family) (6)
-- [Health](#health) (11)
+- [Health](#health) (12)
 - [Immigration](#immigration) (12)
 - [Miscellaneous](#miscellaneous) (3)
 - [Technology](#technology) (16)
@@ -81,6 +81,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 5 | Sur un forum, racontez votre expérience personnelle dans l'apprentissage d'une langue étrangère. Décrivez votre parcours, les méthodes que vous avez testées ainsi que les difficultés et les progrès rencontrés. | Write a forum post about your personal experience learning a foreign language. | 4 sources | 2025-01 | - |
 | 6 | Votre première semaine de cours à l'Université de Montréal s'achève. Écrivez à un(e) ami(e) pour lui raconter vos débuts et donner votre opinion sur l'établissement et les cours suivis. | The candidate must write to a friend describing their first week at university and give their opinion on it. | 3 sources | 2025-04 | - |
 | 7 | Rédigez un billet de blog racontant votre parcours d'apprentissage d'une langue étrangère (le français ou une autre). Évoquez les obstacles rencontrés, les progrès accomplis et les méthodes qui se sont révélées efficaces. | Write a blog post about your experience learning a foreign language, its challenges, progress and effective methods. | 3 sources | 2025-07 | - |
+| 8 | Vous avez suivi un programme dans une école de langues. Rédigez un article pour le site de l'école racontant cette expérience (120 à 150 mots). | The candidate must write an article for a website recounting their experience in a language school program. | 2 sources | 2023-10 | - |
 
 ## Environment
 
@@ -117,6 +118,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 9 | Vous avez participé à une compétition sportive : rédigez un article (blog, magazine, etc.) en précisant le lieu, la date et l'organisation de l'événement. | Write an article about a sports competition you took part in, giving place, date and organization. | 3 sources | 2024-10 | - |
 | 10 | Vous vous êtes récemment lancé(e) dans un nouveau loisir (danse, peinture, sport, etc.). Écrivez un message à vos amis pour leur raconter cette expérience et leur donner votre avis sur cette activité. | Write a message to friends recounting a new hobby and giving an opinion about it. | 3 sources | 2025-11 | - |
 | 11 | Vous avez pris part à une compétition sportive. Rédigez un article de blog pour raconter cette expérience. | The candidate must write a blog article recounting participation in a sports competition. | 2 sources | 2022-08 | - |
+| 12 | Vous avez assisté à un festival (gastronomie, musique, sport). Racontez sur votre blog ce que vous avez apprécié et ce qui vous a déplu, en 120 à 150 mots. | The candidate must write a blog post about what they liked and disliked at a festival. | 2 sources | 2023-11 | - |
 
 ## Immigration
 

@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-207 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+209 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,10 +13,10 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Education](#education) (26)
 - [Environment](#environment) (17)
 - [Family](#family) (23)
-- [Health](#health) (22)
+- [Health](#health) (23)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (5)
-- [Technology](#technology) (13)
+- [Technology](#technology) (14)
 - [Work](#work) (40)
 
 ## Culture
@@ -196,6 +196,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 20 | Aïcha, jeune femme célibataire, préfère manger au restaurant plutôt que seule chez elle. Pour elle, sortir dîner permet de rencontrer du monde et de savourer la richesse culinaire de sa ville. | Present the viewpoint that dining out is preferable for socializing and enjoying culinary variety. | 2 sources | 2025-01 | - |
 | 21 | Devant l'aggravation de la pollution, plusieurs villes ont choisi d'interdire la circulation automobile dans leur centre. Oslo, par exemple, a mis en œuvre cette mesure avec succès : moins d'accidents, moins de dépendance au pétrole et un air plus sain. | First text: cities like Oslo successfully banned cars downtown, reducing accidents and pollution. | 2 sources | 2025-01 | - |
 | 22 | Laura, mère de plusieurs enfants, juge que manger au restaurant représente une dépense difficile à assumer pour une famille nombreuse. Elle préfère cuisiner à la maison, solution plus économique qui lui permet aussi de mieux maîtriser la qualité des repas. | Present the opposing viewpoint that home cooking is cheaper and allows better quality control than eating out. | 2 sources | 2025-01 | - |
+| 23 | Même si bannir la voiture des centres-villes présente des atouts, cela soulève aussi des difficultés. De nombreuses villes manquent encore des infrastructures nécessaires pour réussir cette transition. Il faudrait prévoir des parkings, développer les transports collectifs et laisser passer certains véhicules indispensables comme les ambulances ou les camions de livraison. | Second text: banning cars poses infrastructure challenges requiring parking, public transit and exceptions for essential vehicles. | 2 sources | 2025-01 | - |
 
 ## Immigration
 
@@ -230,6 +231,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 11 | Francine, 35 ans : La publicité envahit notre quotidien : presse, télévision, radio, téléphones, Internet… Sur certaines chaînes, elle interrompt sans cesse les programmes, ce qui finit par irriter. Recevoir chaque année une telle quantité de publicités papier n'est pas non plus respectueux de l'environnement. J'estime qu'une loi devrait limiter ces publicités, aussi bien à la télévision que dans nos boîtes aux lettres. Une publicité plus discrète serait sans doute mieux tolérée. | Read Francine's opinion calling for a law to limit advertising, compare it with the opposing viewpoint, and write a 120-180 word text discussing both. | 2 sources | 2024-08 | - |
 | 12 | La vie en colocation. Certains défendent la colocation en rappelant que tout le monde n'aime pas manger seul devant la télévision. Partager un logement crée de vrais moments de partage, pendant les repas ou en jouant ensemble à des jeux de société. De plus, les corvées ménagères comme la vaisselle se répartissent entre plusieurs personnes. Cohabiter permet aussi de s'ouvrir à d'autres modes de vie, de nouer des relations fortes, de vivre des expériences communes et de s'entraider au quotidien. D'après etudiant.aujourdhui.fr D'autres avancent au contraire que la colocation peut peser lorsqu'on aspire, certains soirs, à la tranquillité et à la solitude. Il faut aussi composer avec des invités qui ne sont pas toujours les nôtres, veiller à ce que chacun respecte son tour pour le ménage, plutôt que d'assumer seul toutes les tâches (ou de laisser l'autre s'en charger). En somme, la diplomatie s'impose sur de nombreux aspects — à moins de partager son logement avec le colocataire idéal. D'après nrj.fr | Summarize and compare two opposing views on the pros and cons of living with roommates, based on the two given texts. | 2 sources | 2024-10 | - |
 | 13 | Cependant, un temps d'écran trop important peut nuire aux enfants. Passer de longues heures devant la télévision réduit les échanges sociaux, diminue le goût de la lecture et favorise un mode de vie sédentaire. Il convient donc d'en limiter l'usage. | Present the downside that excessive TV watching harms children's social life, reading habits, and physical activity. | 2 sources | 2025-01 | - |
+| 14 | Malgré les progrès du numérique, beaucoup de lecteurs restent fidèles au livre papier. Tenir un livre entre les mains, sentir son odeur, pouvoir l'offrir ou y écrire des notes en font un objet à part. À l'inverse, le livre numérique peut paraître froid et exige un minimum de maîtrise informatique. | Present both viewpoints comparing paper books' sensory appeal versus digital books' impersonal, tech-dependent nature. | 2 sources | 2025-01 | - |
 
 ## Work
 

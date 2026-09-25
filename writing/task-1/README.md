@@ -4,16 +4,16 @@
 
 A message to one or more people, 60 to 120 words.
 
-124 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+126 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (35)
+- [Culture](#culture) (36)
 - [Economy](#economy) (7)
 - [Education](#education) (16)
 - [Family](#family) (15)
 - [Health](#health) (18)
-- [Immigration](#immigration) (3)
+- [Immigration](#immigration) (4)
 - [Miscellaneous](#miscellaneous) (15)
 - [Technology](#technology) (2)
 - [Work](#work) (13)
@@ -57,6 +57,7 @@ A message to one or more people, 60 to 120 words.
 | 33 | Écrivez un message à vos amis pour leur raconter votre visite à un salon du livre : les conférences suivies, les stands découverts et vos échanges avec des auteurs. | Write a message to friends about attending a book fair, describing talks, exhibits and meeting writers. | 3 sources | 2024-05 | - |
 | 34 | Vous venez d'assister à un festival de cinéma et un film vous a beaucoup plu. Écrivez un message à vos amis pour leur raconter cette sortie et leur parler du film qui vous a le plus touché. | Write a message to friends about a film festival and the film that impressed you most. | 3 sources | 2024-10 | - |
 | 35 | L'anniversaire de votre amie Flavie approche et vous souhaitez lui offrir un voyage. Écrivez-lui pour lui présenter ce projet en détaillant le programme (destination, hébergement, activités, etc.) | Write to a friend describing a trip you want to give her as a birthday gift. | 3 sources | 2024-11 | - |
+| 36 | Écrivez à un(e) ami(e) pour l'inviter à un festival de musique qui se déroule dans votre ville. Précisez le lieu, la date, les artistes présents ainsi que des informations pratiques. | The candidate must write a message inviting a friend to a music festival, giving place, date, artists and practical details. | 3 sources | 2026-06 | - |
 
 ## Economy
 
@@ -141,6 +142,7 @@ A message to one or more people, 60 to 120 words.
 | 1 | Bonjour, bonne nouvelle, j'ai reçu mon visa pour le Canada ! J'arriverai le 3 mars. Pourrais-tu m'aider à réserver un hôtel pour ma première semaine ? Merci beaucoup. Matthias. Vous avez trouvé un hôtel pour Matthias. Écrivez-lui un courriel dans lequel vous présentez l'hôtel et lui donnez toutes les informations nécessaires (emplacement, prix, etc.). | The candidate must write an email to a friend presenting a hotel found for them, with all useful details. | 7 sources | 2023-05 | - |
 | 2 | Vous comptez déménager et avez déniché un appartement. Vous souhaitez en informer un ami en précisant les caractéristiques du logement : nombre de pièces, situation géographique et loyer. | The candidate must write a message informing a friend about a new apartment they found, giving details like rooms, location and price. | 6 sources | 2023-04 | - |
 | 3 | Votre amie Jeanne compte venir découvrir votre pays. Écrivez-lui un message personnel dans lequel vous lui suggérez un programme de visite. Mentionnez plusieurs types de lieux — villes, sites touristiques, monuments emblématiques — en justifiant brièvement chaque suggestion. | The candidate must write a personal message to a friend proposing a travel itinerary with various places and brief reasons for each recommendation. | 4 sources | 2024-06 | - |
+| 4 | Vous êtes parti(e) à l'étranger dans le cadre d'un séjour organisé par une agence de voyage et vous avez été déçu(e) par les prestations fournies. Écrivez à l'agence pour raconter votre expérience et donner votre avis sur ce séjour. | Write a message to a travel agency describing a disappointing organized trip and giving an opinion. | 3 sources | 2025-11 | - |
 
 ## Miscellaneous
 
