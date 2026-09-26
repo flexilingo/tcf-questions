@@ -4,12 +4,12 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-51 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+52 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (11)
-- [Economy](#economy) (6)
+- [Economy](#economy) (7)
 - [Education](#education) (4)
 - [Environment](#environment) (3)
 - [Health](#health) (4)
@@ -43,6 +43,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 4 | Un débat sur les facteurs qui influencent l'évolution des loyers. | A debate about factors influencing rent trends. | 1 source | 2026-09 | - |
 | 5 | Un reportage sur l'amélioration des services proposés par les compagnies aériennes. | A report about improvements in airline services. | 1 source | 2026-09 | - |
 | 6 | Un reportage sur la falsification des avis publiés en ligne. | A report about the manipulation of online reviews. | 1 source | 2026-09 | - |
+| 7 | Un reportage sur la fiabilité des offres promotionnelles. | A report on the reliability of commercial promotions. | 1 source | 2026-09 | - |
 
 ## Education
 

@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-108 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+110 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (39)
+- [Culture](#culture) (41)
 - [Economy](#economy) (2)
 - [Education](#education) (8)
 - [Environment](#environment) (4)
@@ -62,6 +62,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 37 | Vous n'avez pas été content(e) des prestations proposées lors d'un séjour organisé récemment. Rédigez un courrier à l'agence de voyages pour décrire les difficultés rencontrées, faire part de votre insatisfaction et demander une réparation appropriée. | Write a complaint letter to a travel agency about a disappointing organized trip and request compensation. | 3 sources | 2025-04 | - |
 | 38 | Un Salon du livre a eu lieu dans votre ville et vous y avez participé (conférences, expositions, rencontres avec des écrivains, etc.). Écrivez un message à vos amis pour leur raconter cet événement et leur faire part de vos impressions. | Write a message to friends recounting attendance at a book fair and sharing impressions. | 3 sources | 2025-09 | - |
 | 39 | Rédigez pour votre blog le compte-rendu de votre dernier repas au restaurant. Décrivez le lieu, les plats dégustés et la qualité du service, puis précisez ce qui vous a le plus plu. | The candidate must write a blog post about a recent restaurant visit, describing place, dishes, service, and favorite aspect. | 3 sources | 2026-06 | - |
+| 40 | Vous avez participé à une journée de vide-grenier dans votre ville. Racontez sur votre blog ce qui vous a plu dans cette expérience. | The candidate must write a blog post about what they enjoyed at a flea market event. | 2 sources | 2023-11 | - |
+| 41 | Jeu-concours « Remportez deux billets pour la destination de votre choix avec la compagnie Air Tropiques. Partagez votre plus beau voyage sur notre forum. » Publiez un message sur le forum de la compagnie Air Tropiques dans lequel vous racontez votre plus beau voyage (date, destination, activités, etc.) et expliquez pourquoi il a compté pour vous. | Post on a travel company forum describing your most memorable trip and why it mattered to you. | 2 sources | 2024-01 | - |
 
 ## Economy
 

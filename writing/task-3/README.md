@@ -4,19 +4,19 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-209 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+211 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (32)
 - [Economy](#economy) (28)
-- [Education](#education) (26)
+- [Education](#education) (27)
 - [Environment](#environment) (17)
 - [Family](#family) (23)
 - [Health](#health) (23)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (5)
-- [Technology](#technology) (14)
+- [Technology](#technology) (15)
 - [Work](#work) (40)
 
 ## Culture
@@ -119,6 +119,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 24 | Certains jugent que la présence de distributeurs automatiques dans les lycées présente des avantages. Ils permettent aux élèves d'obtenir rapidement une boisson ou un en-cas, notamment quand le temps manque pour passer à la cantine. Par ailleurs, ces machines peuvent proposer des produits plus sains, comme des jus sans sucre ajouté ou de l'eau. | The candidate must compare two texts with opposing views on vending machines in high schools and write a synthesis of 120-180 words. | 2 sources | 2025-01 | - |
 | 25 | D'autres pensent au contraire que le fait d'installer des distributeurs automatiques dans les écoles pousse les élèves à consommer trop de boissons sucrées, ce qui favorise des problèmes de santé tels que l'obésité ou le diabète. Selon eux, les établissements scolaires devraient plutôt promouvoir une alimentation équilibrée. | State the opposing viewpoint that vending machines in schools cause unhealthy sugar consumption and health problems. | 2 sources | 2025-01 | - |
 | 26 | Les amateurs de cuisine peuvent réaliser de très bons plats, mais ils n'ont pas forcément le savoir-faire ni les techniques d'un chef professionnel. Une véritable formation et de l'expérience restent nécessaires pour acquérir une maîtrise précise et un niveau de qualité constant. | Argue that amateur cooks lack the training and technique of professional chefs. | 2 sources | 2025-01 | - |
+| 27 | Néanmoins, apprendre une langue en ligne ne convient pas à tout le monde. Cela suppose de disposer d'une connexion Internet fiable et d'un équipement adapté (ordinateur, smartphone, tablette). Par ailleurs, sans professeur en face à face, la motivation peut baisser et la progression devenir plus laborieuse. | Present the opposing viewpoint that online language learning requires equipment and internet access and can reduce motivation without a teacher present. | 2 sources | 2025-01 | - |
 
 ## Environment
 
@@ -232,6 +233,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 12 | La vie en colocation. Certains défendent la colocation en rappelant que tout le monde n'aime pas manger seul devant la télévision. Partager un logement crée de vrais moments de partage, pendant les repas ou en jouant ensemble à des jeux de société. De plus, les corvées ménagères comme la vaisselle se répartissent entre plusieurs personnes. Cohabiter permet aussi de s'ouvrir à d'autres modes de vie, de nouer des relations fortes, de vivre des expériences communes et de s'entraider au quotidien. D'après etudiant.aujourdhui.fr D'autres avancent au contraire que la colocation peut peser lorsqu'on aspire, certains soirs, à la tranquillité et à la solitude. Il faut aussi composer avec des invités qui ne sont pas toujours les nôtres, veiller à ce que chacun respecte son tour pour le ménage, plutôt que d'assumer seul toutes les tâches (ou de laisser l'autre s'en charger). En somme, la diplomatie s'impose sur de nombreux aspects — à moins de partager son logement avec le colocataire idéal. D'après nrj.fr | Summarize and compare two opposing views on the pros and cons of living with roommates, based on the two given texts. | 2 sources | 2024-10 | - |
 | 13 | Cependant, un temps d'écran trop important peut nuire aux enfants. Passer de longues heures devant la télévision réduit les échanges sociaux, diminue le goût de la lecture et favorise un mode de vie sédentaire. Il convient donc d'en limiter l'usage. | Present the downside that excessive TV watching harms children's social life, reading habits, and physical activity. | 2 sources | 2025-01 | - |
 | 14 | Malgré les progrès du numérique, beaucoup de lecteurs restent fidèles au livre papier. Tenir un livre entre les mains, sentir son odeur, pouvoir l'offrir ou y écrire des notes en font un objet à part. À l'inverse, le livre numérique peut paraître froid et exige un minimum de maîtrise informatique. | Present both viewpoints comparing paper books' sensory appeal versus digital books' impersonal, tech-dependent nature. | 2 sources | 2025-01 | - |
+| 15 | Nombre de lecteurs se sont tournés vers le livre numérique pour sa commodité et son coût plus abordable. Il permet d'emporter une vaste bibliothèque sur un seul appareil et propose des fonctions utiles pour les personnes handicapées. | Present the viewpoint favoring e-books for their convenience, lower cost, and accessibility features. | 2 sources | 2025-01 | - |
 
 ## Work
 

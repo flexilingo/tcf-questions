@@ -4,11 +4,11 @@
 
 A message to one or more people, 60 to 120 words.
 
-126 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+128 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (36)
+- [Culture](#culture) (38)
 - [Economy](#economy) (7)
 - [Education](#education) (16)
 - [Family](#family) (15)
@@ -58,6 +58,8 @@ A message to one or more people, 60 to 120 words.
 | 34 | Vous venez d'assister à un festival de cinéma et un film vous a beaucoup plu. Écrivez un message à vos amis pour leur raconter cette sortie et leur parler du film qui vous a le plus touché. | Write a message to friends about a film festival and the film that impressed you most. | 3 sources | 2024-10 | - |
 | 35 | L'anniversaire de votre amie Flavie approche et vous souhaitez lui offrir un voyage. Écrivez-lui pour lui présenter ce projet en détaillant le programme (destination, hébergement, activités, etc.) | Write to a friend describing a trip you want to give her as a birthday gift. | 3 sources | 2024-11 | - |
 | 36 | Écrivez à un(e) ami(e) pour l'inviter à un festival de musique qui se déroule dans votre ville. Précisez le lieu, la date, les artistes présents ainsi que des informations pratiques. | The candidate must write a message inviting a friend to a music festival, giving place, date, artists and practical details. | 3 sources | 2026-06 | - |
+| 37 | Vous partez en voyage et votre ami Cédric a accepté de veiller sur votre maison. Rédigez-lui un mail expliquant ce qu'il doit faire. | The candidate must write an email to a friend explaining what to do while house-sitting. | 2 sources | 2022-08 | - |
+| 38 | Vous souhaitez partir en vacances entre amis et vous avez trouvé un appartement. Rédigez un message à vos amis pour le décrire (emplacement, prix, équipements, etc.) et leur conseiller de le réserver. | The candidate must write a message describing an apartment to friends and recommending they book it. | 2 sources | 2022-08 | - |
 
 ## Economy
 

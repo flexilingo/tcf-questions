@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-270 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+271 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,7 +16,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Health](#health) (20)
 - [Immigration](#immigration) (39)
 - [Miscellaneous](#miscellaneous) (41)
-- [Technology](#technology) (31)
+- [Technology](#technology) (32)
 - [Work](#work) (40)
 
 ## Culture
@@ -292,7 +292,8 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 28 | D'après vous, passer du temps sur les réseaux sociaux constitue-t-il une perte de temps considérable ? Pour quelles raisons ? | Give and defend your opinion on whether social media use wastes valuable time. | 5 sources | 2022-12 | - |
 | 29 | Les jeux vidéo représentent-ils un risque pour ceux qui y jouent ? Justifiez votre point de vue. | Give and defend your opinion on whether video games are dangerous for players. | 5 sources | 2022-12 | - |
 | 30 | Certaines personnes préfèrent ne pas suivre l'actualité à la télévision. Quel est votre point de vue sur cette question ? | The candidate must give and defend their opinion on people who avoid watching TV news. | 5 sources | 2023-07 | - |
-| 31 | Il vaudrait mieux ne pas offrir de téléphone portable à un enfant. Quel est votre point de vue ? | The candidate must give and defend an opinion on not giving children mobile phones. | 5 sources | 2025-02 | - |
+| 31 | On peut aisément se passer de son téléphone portable. Partagez-vous ce point de vue ? | Give and defend an opinion on whether one can easily live without a mobile phone. | 5 sources | 2023-09 | - |
+| 32 | Il vaudrait mieux ne pas offrir de téléphone portable à un enfant. Quel est votre point de vue ? | The candidate must give and defend an opinion on not giving children mobile phones. | 5 sources | 2025-02 | - |
 
 ## Work
 

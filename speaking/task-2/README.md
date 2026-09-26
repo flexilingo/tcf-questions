@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-274 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+275 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -17,7 +17,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Immigration](#immigration) (4)
 - [Miscellaneous](#miscellaneous) (11)
 - [Technology](#technology) (5)
-- [Work](#work) (37)
+- [Work](#work) (38)
 
 ## Culture
 
@@ -334,14 +334,15 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 27 | Vous parlez avec un collègue / une collègue qui organise une fête pour célébrer sa nomination à un poste de responsable. Posez-lui des questions pour obtenir des précisions (horaires, lieu, invités, etc.). | Ask the examiner questions about a party celebrating their promotion. | 6 sources | 2025-07 | - |
 | 28 | Vous parlez avec un(e) collègue qui vient d'avoir un léger accident. Vous lui rendez visite et posez des questions sur ce qui s'est passé (lieu, moment, circonstances, etc.). | Ask the examiner questions about a minor accident they had. | 6 sources | 2025-10 | - |
 | 29 | Vous jouez le rôle d'un(e) collègue ayant assisté au mariage d'un ami le week-end précédent. Votre interlocuteur vous pose des questions à ce sujet. | The candidate must ask a colleague questions about the wedding they attended last weekend. | 5 sources | 2022-11 | - |
-| 30 | Je suis à l'accueil d'un centre de formation. Vous souhaitez suivre une nouvelle formation professionnelle. Posez-moi des questions sur le contenu, la durée et le coût du programme. | The candidate must ask the training centre employee questions about a professional course's content, duration and price. | 5 sources | 2023-02 | - |
-| 31 | Vous discutez avec votre ami(e), qui vient de commencer un nouvel emploi. Posez-moi des questions sur cette expérience. | Ask your friend questions about their new job experience. | 5 sources | 2024-10 | - |
-| 32 | Vous venez d'arriver au Québec. Je suis votre collègue de travail. Vous souhaitez faire des rencontres. Posez-moi des questions pour savoir où et comment rencontrer de nouvelles personnes (activités, associations, lieux conviviaux, etc.). | Ask your colleague questions about how and where to meet new people after just arriving in Quebec. | 5 sources | 2024-10 | - |
-| 33 | Je suis un(e) collègue à vous. J'appartiens à un club de jeux de société. Cela vous intéresse, alors vous me posez des questions afin d'en savoir plus (endroit, horaires, tarifs, etc.). | The candidate asks a colleague about a board-game club (location, times, fees). | 5 sources | 2025-01 | - |
-| 34 | Vous parlez avec votre supérieur(e) hiérarchique. Notre société vous propose un poste à l'étranger. Avant de vous décider, vous voulez plus de précisions et vous me posez des questions (fonctions, rémunération, avantages, etc.). | The candidate asks their manager questions about a job offer abroad (duties, salary, benefits). | 5 sources | 2025-02 | - |
-| 35 | Je suis un(e) ami(e) qui vient d'être embauché(e) dans une entreprise près de Toronto. Vous me posez des questions sur ce nouvel emploi (missions, collègues, lieux de travail, avantages, etc.). | The candidate asks a friend questions about their new job near Toronto. | 5 sources | 2025-03 | - |
-| 36 | Vous vous adressez au gérant d’un restaurant. Je cherche à recruter un(e) employé(e). Vous êtes intéressé(e) par le poste et vous me posez des questions pour en savoir davantage (nature du poste, horaires, salaire, etc.). | Ask the restaurant manager questions to get details about a job opening (type, hours, pay, etc.). | 5 sources | 2025-09 | - |
-| 37 | Je suis votre ami(e) et je me suis installé(e) au Canada depuis quelques mois. Posez-moi des questions sur ma nouvelle vie là-bas (logement, loisirs, relations, travail, etc.). | The candidate must ask a friend who recently moved to Canada questions about their new life there. | 5 sources | 2026-03 | - |
+| 30 | Un collègue a changé de poste au travail ; posez-lui des questions sur ce nouveau poste, comme les horaires, le salaire, le contrat ou les missions. | Ask a colleague questions about their new job position. | 5 sources | 2022-12 | - |
+| 31 | Je suis à l'accueil d'un centre de formation. Vous souhaitez suivre une nouvelle formation professionnelle. Posez-moi des questions sur le contenu, la durée et le coût du programme. | The candidate must ask the training centre employee questions about a professional course's content, duration and price. | 5 sources | 2023-02 | - |
+| 32 | Vous discutez avec votre ami(e), qui vient de commencer un nouvel emploi. Posez-moi des questions sur cette expérience. | Ask your friend questions about their new job experience. | 5 sources | 2024-10 | - |
+| 33 | Vous venez d'arriver au Québec. Je suis votre collègue de travail. Vous souhaitez faire des rencontres. Posez-moi des questions pour savoir où et comment rencontrer de nouvelles personnes (activités, associations, lieux conviviaux, etc.). | Ask your colleague questions about how and where to meet new people after just arriving in Quebec. | 5 sources | 2024-10 | - |
+| 34 | Je suis un(e) collègue à vous. J'appartiens à un club de jeux de société. Cela vous intéresse, alors vous me posez des questions afin d'en savoir plus (endroit, horaires, tarifs, etc.). | The candidate asks a colleague about a board-game club (location, times, fees). | 5 sources | 2025-01 | - |
+| 35 | Vous parlez avec votre supérieur(e) hiérarchique. Notre société vous propose un poste à l'étranger. Avant de vous décider, vous voulez plus de précisions et vous me posez des questions (fonctions, rémunération, avantages, etc.). | The candidate asks their manager questions about a job offer abroad (duties, salary, benefits). | 5 sources | 2025-02 | - |
+| 36 | Je suis un(e) ami(e) qui vient d'être embauché(e) dans une entreprise près de Toronto. Vous me posez des questions sur ce nouvel emploi (missions, collègues, lieux de travail, avantages, etc.). | The candidate asks a friend questions about their new job near Toronto. | 5 sources | 2025-03 | - |
+| 37 | Vous vous adressez au gérant d’un restaurant. Je cherche à recruter un(e) employé(e). Vous êtes intéressé(e) par le poste et vous me posez des questions pour en savoir davantage (nature du poste, horaires, salaire, etc.). | Ask the restaurant manager questions to get details about a job opening (type, hours, pay, etc.). | 5 sources | 2025-09 | - |
+| 38 | Je suis votre ami(e) et je me suis installé(e) au Canada depuis quelques mois. Posez-moi des questions sur ma nouvelle vie là-bas (logement, loisirs, relations, travail, etc.). | The candidate must ask a friend who recently moved to Canada questions about their new life there. | 5 sources | 2026-03 | - |
 
 ---
 
