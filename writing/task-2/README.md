@@ -4,7 +4,7 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-110 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+112 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,10 +13,10 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Education](#education) (8)
 - [Environment](#environment) (4)
 - [Family](#family) (6)
-- [Health](#health) (12)
+- [Health](#health) (13)
 - [Immigration](#immigration) (12)
 - [Miscellaneous](#miscellaneous) (3)
-- [Technology](#technology) (16)
+- [Technology](#technology) (17)
 - [Work](#work) (6)
 
 ## Culture
@@ -121,6 +121,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 10 | Vous vous êtes récemment lancé(e) dans un nouveau loisir (danse, peinture, sport, etc.). Écrivez un message à vos amis pour leur raconter cette expérience et leur donner votre avis sur cette activité. | Write a message to friends recounting a new hobby and giving an opinion about it. | 3 sources | 2025-11 | - |
 | 11 | Vous avez pris part à une compétition sportive. Rédigez un article de blog pour raconter cette expérience. | The candidate must write a blog article recounting participation in a sports competition. | 2 sources | 2022-08 | - |
 | 12 | Vous avez assisté à un festival (gastronomie, musique, sport). Racontez sur votre blog ce que vous avez apprécié et ce qui vous a déplu, en 120 à 150 mots. | The candidate must write a blog post about what they liked and disliked at a festival. | 2 sources | 2023-11 | - |
+| 13 | Je sais que tu fréquentes une salle de sport. Qu'en penses-tu ? Peux-tu m'en dire davantage ? J'aimerais savoir si elle te convient vraiment ! | Ask the examiner questions to find out about the gym they attend and whether it is good. | 2 sources | 2024-05 | - |
 
 ## Immigration
 
@@ -167,6 +168,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 14 | Cohabiter avec une personne âgée : une expérience qui enrichit ? Un site web collecte des témoignages sur ce sujet. Racontez votre propre expérience, en expliquant comment vous l'avez vécue, les difficultés que vous avez rencontrées et ce qu'elle vous a appris. | Write a testimonial about living with an elderly person, describing the experience, challenges and lessons learned. | 3 sources | 2025-01 | - |
 | 15 | À l'occasion de la Semaine du goût, vous avez participé à une activité de découverte des cuisines du monde. Rédigez un article pour le site Internet de votre ville, dans lequel vous racontez votre expérience et précisez ce qui vous a plu. | Write a website article recounting participation in a world cuisine discovery event and what was enjoyed. | 3 sources | 2025-11 | - |
 | 16 | Vous avez pris part à un concours culinaire. Sur votre site Internet, vous racontez le déroulement de cette journée et précisez ce qui vous a plu ou moins plu dans cette expérience. | Write a blog post recounting a cooking contest and what you liked or disliked about it. | 3 sources | 2026-01 | - |
+| 17 | Sur le site de la salle de sport, vous réagissez à ce message : vous racontez votre propre expérience et vous exprimez votre opinion. | Respond on the gym's website by recounting your own experience there and giving your opinion. | 2 sources | 2024-02 | - |
 
 ## Work
 

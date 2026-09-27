@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-271 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+272 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Family](#family) (24)
 - [Health](#health) (20)
 - [Immigration](#immigration) (39)
-- [Miscellaneous](#miscellaneous) (41)
+- [Miscellaneous](#miscellaneous) (42)
 - [Technology](#technology) (32)
 - [Work](#work) (40)
 
@@ -255,8 +255,9 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 37 | À votre avis, la télé-réalité exerce-t-elle une mauvaise influence sur les jeunes ? | The candidate must give and defend an opinion on whether reality TV negatively influences young people. | 5 sources | 2023-03 | - |
 | 38 | De nombreuses personnes optent aujourd'hui pour le végétarisme. Quel est votre avis sur ce type de régime alimentaire ? | The candidate must give and defend their opinion on vegetarianism. | 5 sources | 2023-06 | - |
 | 39 | Concilier travail et études en même temps est compliqué. Partagez-vous cette opinion ? | Give and defend your opinion on whether working and studying at the same time is difficult. | 5 sources | 2023-09 | - |
-| 40 | Aujourd'hui, tout le monde cherche à conserver sa jeunesse. Quel est votre avis sur cette question ? | Give your opinion on the fact that everyone today wants to stay young. | 5 sources | 2024-06 | - |
-| 41 | Les habitudes alimentaires évoluent-elles au fil du temps ? Donnez votre opinion sur ce sujet. | The candidate must give and defend an opinion on whether eating habits change over time. | 5 sources | 2024-10 | - |
+| 40 | Selon vous, qui devrait venir en aide aux personnes en difficulté : l'État ou les citoyens eux-mêmes ? Donnez votre point de vue. | Give and defend your opinion on whether the government or citizens should help people in difficulty. | 5 sources | 2023-09 | - |
+| 41 | Aujourd'hui, tout le monde cherche à conserver sa jeunesse. Quel est votre avis sur cette question ? | Give your opinion on the fact that everyone today wants to stay young. | 5 sources | 2024-06 | - |
+| 42 | Les habitudes alimentaires évoluent-elles au fil du temps ? Donnez votre opinion sur ce sujet. | The candidate must give and defend an opinion on whether eating habits change over time. | 5 sources | 2024-10 | - |
 
 ## Technology
 

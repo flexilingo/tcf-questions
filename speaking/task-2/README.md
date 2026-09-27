@@ -4,14 +4,14 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-275 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+276 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (50)
 - [Economy](#economy) (24)
 - [Education](#education) (50)
-- [Environment](#environment) (6)
+- [Environment](#environment) (7)
 - [Family](#family) (70)
 - [Health](#health) (17)
 - [Immigration](#immigration) (4)
@@ -166,8 +166,9 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 2 | Vous parlez avec votre voisin(e). Je possède une petite maison en bord de mer que je loue durant les vacances. Cela vous intéresse. Posez-moi des questions pour décider si vous souhaitez la louer : équipement, cadre, tarif, etc. | The candidate must ask a neighbor questions about a seaside house for rent (facilities, surroundings, price) to decide whether to rent it. | 7 sources | 2024-02 | - |
 | 3 | Vous appelez un office de tourisme. Vous aimeriez visiter un parc à thème (aquarium, zoo, réserve naturelle). Posez-moi des questions pour obtenir des détails : horaires d'ouverture, tarifs, possibilités de restauration, etc. | The candidate must call a tourist office and ask questions about a theme park (hours, prices, food options). | 7 sources | 2024-03 | - |
 | 4 | Vous discutez avec un(e) ami(e) car vous envisagez de venir habiter dans ma ville. Vous êtes à la recherche d'un quartier où il ferait bon vivre. Posez-moi des questions afin de choisir celui qui vous conviendra le mieux : ambiance, coût, services disponibles, etc. | The candidate must ask a friend questions about neighborhoods (atmosphere, cost, services) to choose the best one to live in. | 6 sources | 2024-01 | - |
-| 5 | Je suis employé(e) dans une animalerie. Vous voulez adopter un animal de compagnie. Posez-moi des questions qui vous aideront à faire le bon choix. | The candidate must ask the pet shop employee questions to choose the right animal to adopt. | 5 sources | 2023-02 | - |
-| 6 | Vous échangez avec votre voisin(e). Je suis bénévole dans une association de protection de l'environnement. Intéressé(e), vous souhaitez y participer. Posez-moi des questions pour en savoir plus (types d'activités, horaires, autres bénévoles, etc.). | The candidate must ask a neighbor questions to learn about joining an environmental volunteer association. | 5 sources | 2024-10 | - |
+| 5 | Un voisin ou une voisine vous confie son animal pendant une semaine ; posez-lui des questions à ce sujet. | Ask a neighbour questions about looking after their pet for a week. | 5 sources | 2022-12 | - |
+| 6 | Je suis employé(e) dans une animalerie. Vous voulez adopter un animal de compagnie. Posez-moi des questions qui vous aideront à faire le bon choix. | The candidate must ask the pet shop employee questions to choose the right animal to adopt. | 5 sources | 2023-02 | - |
+| 7 | Vous échangez avec votre voisin(e). Je suis bénévole dans une association de protection de l'environnement. Intéressé(e), vous souhaitez y participer. Posez-moi des questions pour en savoir plus (types d'activités, horaires, autres bénévoles, etc.). | The candidate must ask a neighbor questions to learn about joining an environmental volunteer association. | 5 sources | 2024-10 | - |
 
 ## Family
 

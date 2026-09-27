@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-211 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+213 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -17,7 +17,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (5)
 - [Technology](#technology) (15)
-- [Work](#work) (40)
+- [Work](#work) (42)
 
 ## Culture
 
@@ -279,6 +279,8 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 38 | La diminution du temps de travail. D'un côté, réduire le temps de travail aide les salariés à mieux concilier vie professionnelle et vie personnelle. En travaillant moins, ils disposent de davantage de temps pour leur famille, leurs loisirs et leur santé, ce qui accroît leur satisfaction et réduit leur stress, améliorant ainsi la productivité globale. Salariés et dirigeants devraient examiner les résultats après une phase de test. Cette phase permettrait de mesurer les effets avant une généralisation. À long terme, la mesure pourrait renforcer la solidarité et la confiance. De l'autre côté, cette réduction peut aussi profiter aux entreprises en limitant l'absentéisme et en fidélisant les employés. Avec des horaires plus souples, les salariés se montrent souvent plus motivés et impliqués. Cela exige néanmoins une organisation solide et une adaptation des processus pour préserver l'efficacité et répondre aux besoins de l'entreprise. Salariés et dirigeants devraient examiner les résultats après une phase de test. Celle-ci serait nécessaire pour vérifier que les effets demeurent acceptables. Les personnes disposant de moins de ressources pourraient être les plus touchées. | Compare arguments for and against reducing working hours, and give your opinion. | 2 sources | 2024-08 | - |
 | 39 | Notamment grâce aux contrats publicitaires conclus avec les grandes marques sportives, certaines vedettes de disciplines comme le football, le tennis ou le basketball touchent chaque année des dizaines de millions d'euros. Une interrogation demeure : ces sommes sont-elles conciliables avec les valeurs fondamentales du sport ? Les amateurs de sport se posent régulièrement cette question, d'autant plus dans un contexte marqué par le chômage et la crise économique. | Read this text questioning whether athletes' huge salaries fit with sport's core values, compare it with the opposing viewpoint, and write a 120-180 word text discussing both. | 2 sources | 2024-09 | - |
 | 40 | Quand on examine de près la rémunération des sportifs de haut niveau, on est vite pris de vertige. Ce thème a toujours suscité la controverse dans l'opinion publique. Ceux qui approuvent ces salaires considèrent que, compte tenu du talent et de la courte durée de leur carrière, ces sommes sont pleinement justifiées. C'est l'avis de l'ancienne star de Liverpool et du Real Madrid, Michael Owen, qui souligne qu'un joueur professionnel fait rêver ses supporters, tout comme une vedette de la musique qui gagne aussi énormément en se produisant devant des milliers de spectateurs. | Read this text defending athletes' high salaries, compare it with the opposing viewpoint, and write a 120-180 word text discussing both. | 2 sources | 2024-09 | - |
+| 41 | Paul, 63 ans, juge que verser de l'argent ne suffit pas vraiment pour venir en aide à ceux qui en ont besoin. Il préfère s'engager dans une association de quartier qui accompagne les sans-abris vers un travail et un logement stable, une solution plus durable. | Second opposing text: a man who believes long-term association work, not donations, truly helps the homeless. | 2 sources | 2025-01 | - |
+| 42 | Pierre, 65 ans, considère que donner de l'argent n'apporte pas de solution durable. À son avis, l'essentiel est d'aider ces personnes à retrouver leur indépendance grâce à un logement et un emploi. Il s'engage au quotidien dans une association qui accompagne les sans-abris vers une réinsertion professionnelle. | Second text: a man who believes sustainable help through association work is better than giving money. | 2 sources | 2025-01 | - |
 
 ---
 

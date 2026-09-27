@@ -4,7 +4,7 @@
 
 A message to one or more people, 60 to 120 words.
 
-128 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+130 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,9 +14,9 @@ A message to one or more people, 60 to 120 words.
 - [Family](#family) (15)
 - [Health](#health) (18)
 - [Immigration](#immigration) (4)
-- [Miscellaneous](#miscellaneous) (15)
+- [Miscellaneous](#miscellaneous) (16)
 - [Technology](#technology) (2)
-- [Work](#work) (13)
+- [Work](#work) (14)
 
 ## Culture
 
@@ -165,6 +165,7 @@ A message to one or more people, 60 to 120 words.
 | 13 | Votre amie Léa vous propose un pique-nique et vous demande si vous connaissez un endroit sympa pour l'organiser. Répondez favorablement à son invitation en suggérant un lieu et en décrivant les activités possibles sur place. | Reply to a friend's picnic invitation, accepting and suggesting a place with possible activities. | 4 sources | 2024-10 | - |
 | 14 | Vous préparez la fête de votre anniversaire. Rédigez un message destiné à vos amis pour les convier, en précisant le déroulement de la soirée et en sollicitant leur aide pour l'organisation. | Write a message inviting friends to your birthday party, explaining the program and asking for help preparing it. | 4 sources | 2026-01 | - |
 | 15 | Rédigez un message à vos amis afin de les inviter à explorer avec vous une ville touristique. | The candidate must write a message inviting friends to discover a touristic city. | 3 sources | 2023-11 | - |
+| 16 | Rédigez un message destiné à votre ami qui a accepté de garder votre maison et votre jardin durant votre absence, afin de lui indiquer les tâches à réaliser. | Write a message to a friend explaining what to do while looking after your house and garden during your absence. | 2 sources | 2022-09 | - |
 
 ## Technology
 
@@ -190,6 +191,7 @@ A message to one or more people, 60 to 120 words.
 | 11 | Écrivez un message à votre ami(e) pour lui raconter comment s'est déroulé votre entretien d'embauche (entreprise, salaire proposé, type de poste, etc.). | The candidate must write to a friend describing a job interview (company, salary, type of position). | 3 sources | 2024-01 | - |
 | 12 | Ali vous a écrit pour savoir comment se déroule votre nouvel emploi et si vous en êtes content(e). Répondez-lui en décrivant votre poste (lieu de travail, ambiance, collègues, etc.) et en lui faisant part de vos impressions. | Reply to a friend's message describing your new job and your impressions of it. | 3 sources | 2025-02 | - |
 | 13 | Vous avez suivi une journée de formation organisée par votre entreprise. Vous rédigez un courriel à vos collègues pour décrire le déroulement de cette journée et ce que vous en avez retenu de positif. | The candidate must write an email to colleagues describing a training day and what they appreciated. | 3 sources | 2025-02 | - |
+| 14 | Rédigez un message à vos amis dans lequel vous partagez votre expérience professionnelle vécue à l'étranger. | Write a message to your friends about your professional experience abroad. | 2 sources | 2022-09 | - |
 
 ---
 

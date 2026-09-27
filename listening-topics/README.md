@@ -4,7 +4,7 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-52 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+53 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,7 +13,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 - [Education](#education) (4)
 - [Environment](#environment) (3)
 - [Health](#health) (4)
-- [Miscellaneous](#miscellaneous) (14)
+- [Miscellaneous](#miscellaneous) (15)
 - [Technology](#technology) (4)
 - [Work](#work) (5)
 
@@ -89,6 +89,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 12 | Un débat sur les qualités nutritionnelles d'un aliment. | A debate about the nutritional value of a food. | 1 source | 2026-09 | - |
 | 13 | Un reportage relatant un incident ayant provoqué des blessés. | A report about an incident that caused injuries. | 1 source | 2026-09 | - |
 | 14 | Un reportage sur des tensions sociales et leur traitement médiatique. | A report about social unrest and its media coverage. | 1 source | 2026-09 | - |
+| 15 | Un reportage sur la manipulation des avis publiés sur les sites d'évaluation en ligne. | A report on the manipulation of online review sites. | 1 source | 2026-09 | - |
 
 ## Technology
 
