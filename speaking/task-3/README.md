@@ -4,14 +4,14 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-272 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+273 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (27)
 - [Economy](#economy) (6)
 - [Education](#education) (28)
-- [Environment](#environment) (14)
+- [Environment](#environment) (15)
 - [Family](#family) (24)
 - [Health](#health) (20)
 - [Immigration](#immigration) (39)
@@ -109,10 +109,11 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 8 | D'après vous, peut-on concilier développement économique et préservation de l'environnement ? | The candidate must give and defend an opinion on whether economic growth and environmental protection can coexist. | 5 sources | 2022-11 | - |
 | 9 | Je suis votre voisin(e). Je pars en vacances et j'aimerais que vous gardiez mon animal pendant mon absence. Posez-moi des questions pour décider si vous acceptez (dates, habitudes de l'animal, consignes, etc.). | Ask a neighbor questions about pet-sitting to decide whether to accept the request. | 5 sources | 2023-06 | - |
 | 10 | Il conviendrait de réduire la circulation automobile dans les villes. Partagez-vous ce point de vue ? | Give and defend your opinion on whether car traffic in cities should be reduced. | 5 sources | 2023-08 | - |
-| 11 | La place accordée aux animaux de compagnie dans notre société est-elle excessive ? Quel est votre point de vue sur cette question ? | The candidate must give and defend an opinion on whether pets are given too much importance in society. | 5 sources | 2024-10 | - |
-| 12 | Pour protéger l'environnement, les gestes individuels (tri des déchets, économie d'eau et d'énergie, etc.) sont-ils réellement efficaces ? Quel est votre avis sur cette question ? | The candidate must give and defend an opinion on whether individual eco-actions are effective. | 5 sources | 2024-10 | - |
-| 13 | Toutes les espèces menacées devraient-elles être protégées ? Partagez-vous ce point de vue ? Expliquez pourquoi. | Give and defend your opinion on whether all endangered animals should be protected. | 5 sources | 2025-10 | - |
-| 14 | Que pensez-vous du fait d'avoir un animal de compagnie à la maison ? | The candidate must give their opinion on keeping a pet at home. | 5 sources | 2026-03 | - |
+| 11 | Trier ses déchets est un geste accessible à tout le monde. Qu'en pensez-vous ? | Give and defend your opinion on whether waste sorting is something everyone can do. | 5 sources | 2023-09 | - |
+| 12 | La place accordée aux animaux de compagnie dans notre société est-elle excessive ? Quel est votre point de vue sur cette question ? | The candidate must give and defend an opinion on whether pets are given too much importance in society. | 5 sources | 2024-10 | - |
+| 13 | Pour protéger l'environnement, les gestes individuels (tri des déchets, économie d'eau et d'énergie, etc.) sont-ils réellement efficaces ? Quel est votre avis sur cette question ? | The candidate must give and defend an opinion on whether individual eco-actions are effective. | 5 sources | 2024-10 | - |
+| 14 | Toutes les espèces menacées devraient-elles être protégées ? Partagez-vous ce point de vue ? Expliquez pourquoi. | Give and defend your opinion on whether all endangered animals should be protected. | 5 sources | 2025-10 | - |
+| 15 | Que pensez-vous du fait d'avoir un animal de compagnie à la maison ? | The candidate must give their opinion on keeping a pet at home. | 5 sources | 2026-03 | - |
 
 ## Family
 

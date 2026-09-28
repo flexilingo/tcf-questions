@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-213 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+215 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,8 +15,8 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Family](#family) (23)
 - [Health](#health) (23)
 - [Immigration](#immigration) (1)
-- [Miscellaneous](#miscellaneous) (5)
-- [Technology](#technology) (15)
+- [Miscellaneous](#miscellaneous) (6)
+- [Technology](#technology) (16)
 - [Work](#work) (42)
 
 ## Culture
@@ -214,6 +214,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 3 | Deuxième avis : celui d'Élise, psychologue spécialisée dans l'accompagnement des adolescents. | Present the second opinion, given by Élise, a psychologist for teenagers. | 4 sources | 2023-06 | - |
 | 4 | « Je recherche une bicyclette en bon état, à petit prix. Contactez-moi par mail : [email protected] » | Compare two documents/ads with opposing viewpoints as required by the task. | 4 sources | 2023-11 | - |
 | 5 | « Maman d'une petite fille, Marie raconte : « Lorsque je travaillais cinq jours par semaine, mes moments de repos passaient dans les tâches ménagères : rangement, ménage, lessive, etc. Et il fallait faire les courses le samedi, quand les magasins sont bondés ! Aujourd'hui, j'ai davantage de temps libre. Je profite de ma fille et je fais des activités qui me plaisent. Je ne voudrais plus reprendre un rythme de cinq jours par semaine ! » Marie » | Compare two opposing texts about a shorter working week and write your own view. | 3 sources | 2024-11 | - |
+| 6 | Toutefois, cette pratique n'est pas sans inconvénients. En restant à leur poste pendant la pause déjeuner, les employés s'exposent à une fatigue accrue et à un manque de contacts sociaux. De plus, les services de livraison, souvent surchargés, entraînent des retards et une offre de repas moins variée. | Present the downside that skipping lunch breaks at the office causes fatigue, less socializing, and delivery service problems. | 2 sources | 2025-01 | - |
 
 ## Technology
 
@@ -234,6 +235,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 13 | Cependant, un temps d'écran trop important peut nuire aux enfants. Passer de longues heures devant la télévision réduit les échanges sociaux, diminue le goût de la lecture et favorise un mode de vie sédentaire. Il convient donc d'en limiter l'usage. | Present the downside that excessive TV watching harms children's social life, reading habits, and physical activity. | 2 sources | 2025-01 | - |
 | 14 | Malgré les progrès du numérique, beaucoup de lecteurs restent fidèles au livre papier. Tenir un livre entre les mains, sentir son odeur, pouvoir l'offrir ou y écrire des notes en font un objet à part. À l'inverse, le livre numérique peut paraître froid et exige un minimum de maîtrise informatique. | Present both viewpoints comparing paper books' sensory appeal versus digital books' impersonal, tech-dependent nature. | 2 sources | 2025-01 | - |
 | 15 | Nombre de lecteurs se sont tournés vers le livre numérique pour sa commodité et son coût plus abordable. Il permet d'emporter une vaste bibliothèque sur un seul appareil et propose des fonctions utiles pour les personnes handicapées. | Present the viewpoint favoring e-books for their convenience, lower cost, and accessibility features. | 2 sources | 2025-01 | - |
+| 16 | Avec l'essor des réseaux sociaux et des formations en ligne, plusieurs autodidactes se sont fait un nom en cuisine. Le parcours d'une passionnée devenue cheffe reconnue et auteure de livres de recettes prouve qu'on peut réussir sans suivre le chemin traditionnel. | Present the view that self-taught cooks can succeed through social media and online courses, without formal training. | 2 sources | 2025-02 | - |
 
 ## Work
 

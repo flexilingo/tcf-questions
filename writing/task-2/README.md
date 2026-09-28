@@ -4,20 +4,20 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-112 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+114 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (41)
 - [Economy](#economy) (2)
-- [Education](#education) (8)
+- [Education](#education) (9)
 - [Environment](#environment) (4)
 - [Family](#family) (6)
 - [Health](#health) (13)
 - [Immigration](#immigration) (12)
 - [Miscellaneous](#miscellaneous) (3)
 - [Technology](#technology) (17)
-- [Work](#work) (6)
+- [Work](#work) (7)
 
 ## Culture
 
@@ -84,6 +84,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 6 | Votre première semaine de cours à l'Université de Montréal s'achève. Écrivez à un(e) ami(e) pour lui raconter vos débuts et donner votre opinion sur l'établissement et les cours suivis. | The candidate must write to a friend describing their first week at university and give their opinion on it. | 3 sources | 2025-04 | - |
 | 7 | Rédigez un billet de blog racontant votre parcours d'apprentissage d'une langue étrangère (le français ou une autre). Évoquez les obstacles rencontrés, les progrès accomplis et les méthodes qui se sont révélées efficaces. | Write a blog post about your experience learning a foreign language, its challenges, progress and effective methods. | 3 sources | 2025-07 | - |
 | 8 | Vous avez suivi un programme dans une école de langues. Rédigez un article pour le site de l'école racontant cette expérience (120 à 150 mots). | The candidate must write an article for a website recounting their experience in a language school program. | 2 sources | 2023-10 | - |
+| 9 | Vous découvrez une annonce en ligne mettant en relation des personnes désirant apprendre le français avec des partenaires linguistiques pour progresser. Vous rédigez un courriel pour répondre à cette annonce, en vous présentant et en précisant les raisons pour lesquelles vous souhaitez pratiquer le français. | Write an email responding to an ad for language exchange partners, introducing yourself and explaining why you want to practice French. | 2 sources | 2024-06 | - |
 
 ## Environment
 
@@ -180,6 +181,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 4 | L'école de votre quartier organise un projet pour faire découvrir divers métiers aux élèves. Souhaitant y contribuer en racontant votre parcours, vous rédigez un texte destiné aux enseignants dans lequel vous décrivez votre profession (tâches quotidiennes, collègues, etc.) et expliquez les raisons pour lesquelles vous appréciez ce métier. | The candidate must write to teachers describing their job and explaining why they find it interesting. | 4 sources | 2024-09 | - |
 | 5 | Vous venez de participer à un pique-nique organisé avec vos collègues de travail. Vous rédigez un article pour le journal interne de votre entreprise, dans lequel vous racontez le déroulement de cet événement (endroit, repas, temps qu'il faisait, etc.). | Write an article for the company newsletter recounting the picnic with colleagues. | 4 sources | 2025-04 | - |
 | 6 | Vous êtes parti(e) travailler à l'étranger. Rédigez pour vos amis un article de blog racontant cette nouvelle expérience professionnelle, en précisant ce qui vous a le plus plu. | The candidate must write a blog article about working abroad, specifying what they liked most. | 2 sources | 2022-08 | - |
+| 7 | Vous venez de débuter un nouvel emploi. Rédigez un courriel à vos amis pour leur raconter le déroulement de votre première semaine et leur donner votre avis sur ce nouveau poste. | Write an email to your friends telling them about your first week at a new job and what you think of it. | 2 sources | 2024-05 | - |
 
 ---
 

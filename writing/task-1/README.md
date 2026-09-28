@@ -4,17 +4,17 @@
 
 A message to one or more people, 60 to 120 words.
 
-130 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+132 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (38)
+- [Culture](#culture) (39)
 - [Economy](#economy) (7)
 - [Education](#education) (16)
 - [Family](#family) (15)
 - [Health](#health) (18)
 - [Immigration](#immigration) (4)
-- [Miscellaneous](#miscellaneous) (16)
+- [Miscellaneous](#miscellaneous) (17)
 - [Technology](#technology) (2)
 - [Work](#work) (14)
 
@@ -60,6 +60,7 @@ A message to one or more people, 60 to 120 words.
 | 36 | Écrivez à un(e) ami(e) pour l'inviter à un festival de musique qui se déroule dans votre ville. Précisez le lieu, la date, les artistes présents ainsi que des informations pratiques. | The candidate must write a message inviting a friend to a music festival, giving place, date, artists and practical details. | 3 sources | 2026-06 | - |
 | 37 | Vous partez en voyage et votre ami Cédric a accepté de veiller sur votre maison. Rédigez-lui un mail expliquant ce qu'il doit faire. | The candidate must write an email to a friend explaining what to do while house-sitting. | 2 sources | 2022-08 | - |
 | 38 | Vous souhaitez partir en vacances entre amis et vous avez trouvé un appartement. Rédigez un message à vos amis pour le décrire (emplacement, prix, équipements, etc.) et leur conseiller de le réserver. | The candidate must write a message describing an apartment to friends and recommending they book it. | 2 sources | 2022-08 | - |
+| 39 | Rédigez un message à vos amis pour leur annoncer que vous avez déniché un hôtel pour votre séjour de vacances. | Write a message to your friends telling them you found a hotel for your vacation. | 2 sources | 2022-09 | - |
 
 ## Economy
 
@@ -166,6 +167,7 @@ A message to one or more people, 60 to 120 words.
 | 14 | Vous préparez la fête de votre anniversaire. Rédigez un message destiné à vos amis pour les convier, en précisant le déroulement de la soirée et en sollicitant leur aide pour l'organisation. | Write a message inviting friends to your birthday party, explaining the program and asking for help preparing it. | 4 sources | 2026-01 | - |
 | 15 | Rédigez un message à vos amis afin de les inviter à explorer avec vous une ville touristique. | The candidate must write a message inviting friends to discover a touristic city. | 3 sources | 2023-11 | - |
 | 16 | Rédigez un message destiné à votre ami qui a accepté de garder votre maison et votre jardin durant votre absence, afin de lui indiquer les tâches à réaliser. | Write a message to a friend explaining what to do while looking after your house and garden during your absence. | 2 sources | 2022-09 | - |
+| 17 | Vous écrivez à votre ami Mathieu pour lui présenter un endroit incontournable de votre région, qu'il devrait absolument découvrir. | Write a message to your friend Mathieu describing a must-see place in your region. | 2 sources | 2024-02 | - |
 
 ## Technology
 

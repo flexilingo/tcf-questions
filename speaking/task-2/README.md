@@ -4,12 +4,12 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-276 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+277 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (50)
-- [Economy](#economy) (24)
+- [Economy](#economy) (25)
 - [Education](#education) (50)
 - [Environment](#environment) (7)
 - [Family](#family) (70)
@@ -97,11 +97,12 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 17 | Je suis votre voisin(e). Vous venez d'arriver à Vancouver et cherchez où faire vos courses. Posez-moi des questions sur les commerces du quartier (types de magasins, emplacements, services, etc.). | The candidate must ask a neighbor in Vancouver about local shops. | 5 sources | 2022-09 | - |
 | 18 | Vous jouez le rôle d'un(e) ami(e) qui déménage prochainement et souhaite vendre ses meubles. Votre interlocuteur est intéressé et vous pose des questions. | The candidate must ask a friend who is moving and selling their furniture questions about it. | 5 sources | 2022-11 | - |
 | 19 | Je suis un(e) ami(e) à vous. C'est bientôt l'anniversaire de ma sœur et vous aimeriez lui offrir un cadeau. Posez-moi des questions pour mieux la connaître (ses loisirs, son caractère, ses préférences, etc.). | The candidate must ask the friend questions about the sister's hobbies, personality and tastes to choose a gift. | 5 sources | 2022-12 | - |
-| 20 | Vous vous présentez à l'accueil du nouveau centre culturel de votre ville, intéressé(e) par ses activités. Posez-moi des questions sur ce qu'il propose (horaires, tarifs, etc.). | The candidate must ask reception staff questions about a new cultural center's offerings. | 5 sources | 2024-10 | - |
-| 21 | Vous vous rendez dans une agence de voyages qui propose des excursions d'une journée. Intéressé(e), posez-moi des questions sur ces sorties (destinations, tarifs, déroulement, etc.). | The candidate must ask a travel agent questions about day-trip excursions. | 5 sources | 2024-10 | - |
-| 22 | Vous vous présentez à l'accueil d'une agence de location de voitures pour louer un véhicule pour vos vacances. Posez-moi des questions sur les différentes offres (tarifs, type de voiture, assurance, etc.). | The candidate must ask a car rental agent questions about rental offers. | 5 sources | 2024-12 | - |
-| 23 | Je travaille à la bibliothèque. Vous avez besoin d'emprunter des documents. Posez-moi des questions sur les modalités d'emprunt (nombre, durée, tarifs, etc.). | The candidate must ask a librarian questions about borrowing documents. | 5 sources | 2025-01 | - |
-| 24 | Vous appelez un magasin d'alimentation. En tant que client(e), vous souhaitez faire livrer vos courses à domicile. Vous me questionnez sur les conditions proposées : délais, coût, mode de livraison, etc. | The candidate calls a grocery store to ask about home delivery conditions (timing, cost, method). | 5 sources | 2025-02 | - |
+| 20 | Je suis employé(e) de la mairie. Vous souhaitez louer la salle des fêtes. Posez-moi des questions sur l'organisation d'un événement (prestations, tarifs, sécurité, etc.). | The candidate must ask the town hall employee questions about renting an event hall. | 5 sources | 2023-03 | - |
+| 21 | Vous vous présentez à l'accueil du nouveau centre culturel de votre ville, intéressé(e) par ses activités. Posez-moi des questions sur ce qu'il propose (horaires, tarifs, etc.). | The candidate must ask reception staff questions about a new cultural center's offerings. | 5 sources | 2024-10 | - |
+| 22 | Vous vous rendez dans une agence de voyages qui propose des excursions d'une journée. Intéressé(e), posez-moi des questions sur ces sorties (destinations, tarifs, déroulement, etc.). | The candidate must ask a travel agent questions about day-trip excursions. | 5 sources | 2024-10 | - |
+| 23 | Vous vous présentez à l'accueil d'une agence de location de voitures pour louer un véhicule pour vos vacances. Posez-moi des questions sur les différentes offres (tarifs, type de voiture, assurance, etc.). | The candidate must ask a car rental agent questions about rental offers. | 5 sources | 2024-12 | - |
+| 24 | Je travaille à la bibliothèque. Vous avez besoin d'emprunter des documents. Posez-moi des questions sur les modalités d'emprunt (nombre, durée, tarifs, etc.). | The candidate must ask a librarian questions about borrowing documents. | 5 sources | 2025-01 | - |
+| 25 | Vous appelez un magasin d'alimentation. En tant que client(e), vous souhaitez faire livrer vos courses à domicile. Vous me questionnez sur les conditions proposées : délais, coût, mode de livraison, etc. | The candidate calls a grocery store to ask about home delivery conditions (timing, cost, method). | 5 sources | 2025-02 | - |
 
 ## Education
 

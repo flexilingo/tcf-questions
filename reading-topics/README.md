@@ -4,14 +4,14 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-56 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+57 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (14)
 - [Economy](#economy) (11)
 - [Education](#education) (3)
-- [Environment](#environment) (4)
+- [Environment](#environment) (5)
 - [Health](#health) (9)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (5)
@@ -69,6 +69,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 2 | Un article portant sur un programme d'agriculture en milieu urbain. | An article about an urban farming program. | 1 source | 2026-09 | - |
 | 3 | Un article présentant des solutions pour les déplacements en ville. | An article about urban transport solutions. | 1 source | 2026-09 | - |
 | 4 | Un article sur les conséquences environnementales de notre alimentation. | An article about the environmental impact of food choices. | 1 source | 2026-09 | - |
+| 5 | Un article évoquant les dangers qui menacent la production d'huîtres. | An article about threats to oyster farming. | 1 source | 2026-09 | - |
 
 ## Health
 
