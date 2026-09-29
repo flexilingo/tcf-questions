@@ -4,14 +4,14 @@
 
 A message to one or more people, 60 to 120 words.
 
-132 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+134 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (39)
 - [Economy](#economy) (7)
-- [Education](#education) (16)
-- [Family](#family) (15)
+- [Education](#education) (17)
+- [Family](#family) (16)
 - [Health](#health) (18)
 - [Immigration](#immigration) (4)
 - [Miscellaneous](#miscellaneous) (17)
@@ -94,6 +94,7 @@ A message to one or more people, 60 to 120 words.
 | 14 | Vous préparez une fête surprise pour l'anniversaire de votre meilleur(e) ami(e). Rédigez un message aux invités contenant toutes les informations utiles (programme, cadeau, lieu, etc.). | The candidate must write a message to guests with all details for a surprise birthday party. | 4 sources | 2024-09 | - |
 | 15 | Votre établissement scolaire vous a chargé(e) d'organiser une journée de bienvenue destinée aux nouveaux étudiants francophones. Rédigez, à leur attention, un courriel comportant toutes les informations nécessaires au bon déroulement de cette journée. | Write an email to new francophone students giving all the practical details of a welcome day you're organizing. | 3 sources | 2023-04 | - |
 | 16 | Vous cherchez quelqu'un pour faire du sport avec vous et vous rédigez une annonce pour le journal de votre université. Vous mentionnez la discipline choisie, les jours et créneaux horaires souhaités, ainsi que le profil de la personne que vous recherchez. | Write a university newspaper ad looking for a sports partner, specifying the sport, schedule and desired profile. | 3 sources | 2025-01 | - |
+| 17 | Vous répondez à Alex en lui décrivant votre université : les enseignants, les étudiants, les activités proposées, etc. | Reply to Alex describing your university: teachers, students, activities offered, etc. | 2 sources | 2024-09 | - |
 
 ## Family
 
@@ -114,6 +115,7 @@ A message to one or more people, 60 to 120 words.
 | 13 | Vous venez de déménager dans une autre ville. Écrivez à un(e) ami(e) pour l'inviter à venir passer ses vacances chez vous. | The candidate must write inviting a friend to spend vacation at their new home. | 4 sources | 2024-11 | - |
 | 14 | Vous souhaitez passer une journée avec un(e) ami(e). Écrivez-lui un message pour l'inviter en précisant le programme de la journée (heure et lieu de rendez-vous, activités prévues, etc.) | Write to a friend inviting them for a day out and describing the planned schedule. | 3 sources | 2024-10 | - |
 | 15 | L'anniversaire de votre meilleur(e) ami(e) approche. Vous envoyez un message à votre groupe d'amis pour proposer d'offrir un cadeau collectif. Vous précisez le cadeau envisagé et expliquez comment chacun peut y contribuer. | The candidate must write a message to friends proposing a group gift for a best friend's birthday, describing the gift and how to contribute. | 3 sources | 2025-02 | - |
+| 16 | Racontez à vos amis, dans un message, une fête de famille à laquelle vous avez assisté, en expliquant ce qui vous a plu. | Write a message to your friends about a family celebration and what you enjoyed about it. | 2 sources | 2024-10 | - |
 
 ## Health
 
@@ -188,9 +190,9 @@ A message to one or more people, 60 to 120 words.
 | 6 | Vous achevez un séjour professionnel dans un pays étranger et vous voulez organiser un dîner avant de repartir. Rédigez un courriel à vos collègues pour les inviter au restaurant, en présentant votre projet et en précisant les informations utiles (adresse, date, heure, etc.). | Write an email inviting colleagues to a farewell restaurant dinner with practical details. | 5 sources | 2023-11 | - |
 | 7 | Les professeurs de votre quartier envisagent d'organiser une réunion pour aider leurs élèves à choisir leur future orientation professionnelle. Écrivez un courriel présentant les avantages de votre métier. | Write an email to teachers presenting the advantages of your profession for a career-guidance meeting. | 4 sources | 2023-05 | - |
 | 8 | « Coucou,Alors, ça y est, tu as démarré ton nouvel emploi ? Raconte-moi comment ça se passe. Est-ce que ça te plaît ?Ali » | Reply to Ali telling him about your new job and whether you're happy with it. | 4 sources | 2023-11 | - |
-| 9 | Vous partez bientôt en mission professionnelle à l'étranger. Rédigez un courriel invitant vos collègues à célébrer votre départ, en indiquant l'adresse, le lieu, la date et l'objectif de cette rencontre. | Write an email inviting colleagues to a farewell party before your professional trip abroad, including address, place, date and purpose. | 3 sources | 2023-04 | - |
-| 10 | Le déménagement des bureaux de votre entreprise vient de se terminer. Envoyez un courriel à Lucas pour lui décrire vos nouveaux locaux (emplacement, superficie, équipements…). | The candidate must write to a friend describing the new company premises after a move. | 3 sources | 2023-09 | - |
-| 11 | Écrivez un message à votre ami(e) pour lui raconter comment s'est déroulé votre entretien d'embauche (entreprise, salaire proposé, type de poste, etc.). | The candidate must write to a friend describing a job interview (company, salary, type of position). | 3 sources | 2024-01 | - |
+| 9 | Écrivez un message à votre ami(e) pour lui raconter comment s'est déroulé votre entretien d'embauche (entreprise, salaire proposé, type de poste, etc.). | The candidate must write to a friend describing a job interview (company, salary, type of position). | 4 sources | 2024-01 | - |
+| 10 | Vous partez bientôt en mission professionnelle à l'étranger. Rédigez un courriel invitant vos collègues à célébrer votre départ, en indiquant l'adresse, le lieu, la date et l'objectif de cette rencontre. | Write an email inviting colleagues to a farewell party before your professional trip abroad, including address, place, date and purpose. | 3 sources | 2023-04 | - |
+| 11 | Le déménagement des bureaux de votre entreprise vient de se terminer. Envoyez un courriel à Lucas pour lui décrire vos nouveaux locaux (emplacement, superficie, équipements…). | The candidate must write to a friend describing the new company premises after a move. | 3 sources | 2023-09 | - |
 | 12 | Ali vous a écrit pour savoir comment se déroule votre nouvel emploi et si vous en êtes content(e). Répondez-lui en décrivant votre poste (lieu de travail, ambiance, collègues, etc.) et en lui faisant part de vos impressions. | Reply to a friend's message describing your new job and your impressions of it. | 3 sources | 2025-02 | - |
 | 13 | Vous avez suivi une journée de formation organisée par votre entreprise. Vous rédigez un courriel à vos collègues pour décrire le déroulement de cette journée et ce que vous en avez retenu de positif. | The candidate must write an email to colleagues describing a training day and what they appreciated. | 3 sources | 2025-02 | - |
 | 14 | Rédigez un message à vos amis dans lequel vous partagez votre expérience professionnelle vécue à l'étranger. | Write a message to your friends about your professional experience abroad. | 2 sources | 2022-09 | - |

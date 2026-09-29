@@ -4,7 +4,7 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-57 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+58 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,7 +14,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 - [Environment](#environment) (5)
 - [Health](#health) (9)
 - [Immigration](#immigration) (1)
-- [Miscellaneous](#miscellaneous) (5)
+- [Miscellaneous](#miscellaneous) (6)
 - [Technology](#technology) (3)
 - [Work](#work) (6)
 
@@ -100,6 +100,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 3 | Un article sur la croissance de la population mondiale. | An article about the increase in world population. | 1 source | 2026-09 | - |
 | 4 | Un article sur le lien entre la météo et les réseaux sociaux. | An article about weather and social media. | 1 source | 2026-09 | - |
 | 5 | Un article traitant de la psychologie liée aux prénoms. | An article about the psychology of first names. | 1 source | 2026-09 | - |
+| 6 | Un bulletin annonçant les prévisions météorologiques. | A weather forecast bulletin. | 1 source | 2026-09 | - |
 
 ## Technology
 

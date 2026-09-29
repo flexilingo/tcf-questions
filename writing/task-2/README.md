@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-114 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+116 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (41)
+- [Culture](#culture) (43)
 - [Economy](#economy) (2)
 - [Education](#education) (9)
 - [Environment](#environment) (4)
@@ -23,8 +23,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Vous admirez une personne, célèbre ou non, pour son courage, sa générosité ou une autre qualité. Vous rédigez un article pour votre blog personnel dans lequel vous racontez un moment marquant de sa vie et expliquez les raisons de votre admiration. | The candidate must write a blog post narrating a key event in an admired person's life and explaining why they admire them. | 8 sources | 2023-05 | - |
-| 2 | Sur votre blog, vous racontez pourquoi une fête organisée entre voisins de votre quartier vous a plu. | Write a blog post about why you enjoyed a neighborhood get-together. | 8 sources | 2023-07 | - |
+| 1 | Sur votre blog, vous racontez pourquoi une fête organisée entre voisins de votre quartier vous a plu. | Write a blog post about why you enjoyed a neighborhood get-together. | 9 sources | 2023-07 | - |
+| 2 | Vous admirez une personne, célèbre ou non, pour son courage, sa générosité ou une autre qualité. Vous rédigez un article pour votre blog personnel dans lequel vous racontez un moment marquant de sa vie et expliquez les raisons de votre admiration. | The candidate must write a blog post narrating a key event in an admired person's life and explaining why they admire them. | 8 sources | 2023-05 | - |
 | 3 | Rédigez une lettre de plainte concernant les services médiocres fournis par une agence de voyages, suite à un séjour qui s'est mal déroulé. Exprimez votre insatisfaction. | Write a complaint letter expressing dissatisfaction with a travel agency after a poorly organized trip. | 7 sources | 2022-09 | - |
 | 4 | Racontez à vos amis, dans un article ou un récit, votre expérience à un salon du livre en évoquant les conférences, les stands et votre rencontre avec des auteurs. | Write a 120-150 word account of attending a book fair, mentioning talks, exhibits and meeting authors. | 7 sources | 2022-11 | - |
 | 5 | Rédigez un article de blog présentant le meilleur souvenir que vous gardez d'un voyage. | Write a blog post about your favorite travel memory. | 7 sources | 2023-01 | - |
@@ -64,12 +64,14 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 39 | Rédigez pour votre blog le compte-rendu de votre dernier repas au restaurant. Décrivez le lieu, les plats dégustés et la qualité du service, puis précisez ce qui vous a le plus plu. | The candidate must write a blog post about a recent restaurant visit, describing place, dishes, service, and favorite aspect. | 3 sources | 2026-06 | - |
 | 40 | Vous avez participé à une journée de vide-grenier dans votre ville. Racontez sur votre blog ce qui vous a plu dans cette expérience. | The candidate must write a blog post about what they enjoyed at a flea market event. | 2 sources | 2023-11 | - |
 | 41 | Jeu-concours « Remportez deux billets pour la destination de votre choix avec la compagnie Air Tropiques. Partagez votre plus beau voyage sur notre forum. » Publiez un message sur le forum de la compagnie Air Tropiques dans lequel vous racontez votre plus beau voyage (date, destination, activités, etc.) et expliquez pourquoi il a compté pour vous. | Post on a travel company forum describing your most memorable trip and why it mattered to you. | 2 sources | 2024-01 | - |
+| 42 | Participez à notre concours et tentez de remporter un séjour pour deux personnes dans la destination de votre choix. Écrivez un article sur le thème « La vie de mon artiste préféré(e) ». Vous prenez part à ce concours : expliquez le choix de cet artiste et retracez son parcours de vie. | Write a contest article about your favorite artist, explaining your choice and telling their life story. | 2 sources | 2024-07 | - |
+| 43 | Vous avez pris part à un concours artistique (musique, danse, dessin, etc.). Sur votre blog, rédigez un court article pour raconter cet événement et préciser ce que vous avez apprécié. | Write a short blog post recounting an artistic contest you took part in and what you liked about it. | 2 sources | 2024-09 | - |
 
 ## Economy
 
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Vous avez participé à un vide-grenier (vente/achat d'objets d'occasion) dans votre ville. Racontez sur votre blog personnel pourquoi cette expérience vous a plu. | Write a blog post about a flea market experience and why you enjoyed it. | 7 sources | 2023-06 | - |
+| 1 | Vous avez participé à un vide-grenier (vente/achat d'objets d'occasion) dans votre ville. Racontez sur votre blog personnel pourquoi cette expérience vous a plu. | Write a blog post about a flea market experience and why you enjoyed it. | 8 sources | 2023-06 | - |
 | 2 | Vous avez visité une brocante. Racontez cette expérience sur votre blog et précisez ce qui vous a le plus plu. | The candidate must write a blog post about visiting a flea market, specifying what they liked most. | 2 sources | 2022-08 | - |
 
 ## Education
@@ -90,7 +92,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Vous avez participé à une soirée organisée à l'université sur le thème de l'écologie et de la protection de la planète. Rédigez un billet pour votre blog racontant cette soirée et expliquant ce qui vous a plu. | Write a blog post about attending a university evening on ecology and why it interested you. | 8 sources | 2023-04 | - |
+| 1 | Vous avez participé à une soirée organisée à l'université sur le thème de l'écologie et de la protection de la planète. Rédigez un billet pour votre blog racontant cette soirée et expliquant ce qui vous a plu. | Write a blog post about attending a university evening on ecology and why it interested you. | 9 sources | 2023-04 | - |
 | 2 | Vous avez passé une journée à la campagne entre amis. De retour chez vous, publiez un message sur votre forum pour raconter à vos amis le déroulement de cette journée. Précisez ce que vous avez apprécié (activités, lieu, animaux, etc.). | The candidate must post a forum message recounting a day in the countryside and what they enjoyed. | 7 sources | 2024-08 | - |
 | 3 | Vous avez pris part à une initiative organisée pour la « Journée mondiale du nettoyage de notre planète », en ramassant des déchets dans un endroit public (plage, forêt, rue, etc.) aux côtés d'autres bénévoles. Racontez cette expérience à vos amis et expliquez en quoi il est important de s'impliquer dans ce genre d'action. | The candidate must recount to friends their experience taking part in a World Cleanup Day activity and explain why participating matters. | 4 sources | 2024-08 | - |
 | 4 | Vous avez pris part à une action bénévole visant à préserver la nature et l'écosystème. Laissez un commentaire dans lequel vous racontez cette expérience. | The candidate must write a comment sharing their experience volunteering to protect nature and the ecosystem. | 3 sources | 2023-06 | - |

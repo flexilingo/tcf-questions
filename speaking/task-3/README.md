@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-273 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+274 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Family](#family) (24)
 - [Health](#health) (20)
 - [Immigration](#immigration) (39)
-- [Miscellaneous](#miscellaneous) (42)
+- [Miscellaneous](#miscellaneous) (43)
 - [Technology](#technology) (32)
 - [Work](#work) (40)
 
@@ -23,9 +23,9 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | La gastronomie représente-t-elle un excellent moyen de faire découvrir son pays ? Quel est votre avis ? | State and defend your opinion on whether food is a great way to showcase one's country. | 8 sources | 2019-08 | - |
-| 2 | Est-il aisé de rester attaché à sa culture d'origine lorsqu'on s'installe dans un autre pays ? Pourquoi ? | The candidate must give an opinion on whether it's easy to keep ties to one's original culture when living abroad. | 8 sources | 2021-01 | - |
-| 3 | Selon vous, en vivant longtemps à l'étranger, peut-on finir par perdre la culture de son pays natal ? | Speaking: give and defend your opinion on whether living abroad for a long time makes people forget their home culture. | 8 sources | 2023-05 | - |
+| 1 | Selon vous, en vivant longtemps à l'étranger, peut-on finir par perdre la culture de son pays natal ? | Speaking: give and defend your opinion on whether living abroad for a long time makes people forget their home culture. | 9 sources | 2023-05 | - |
+| 2 | La gastronomie représente-t-elle un excellent moyen de faire découvrir son pays ? Quel est votre avis ? | State and defend your opinion on whether food is a great way to showcase one's country. | 8 sources | 2019-08 | - |
+| 3 | Est-il aisé de rester attaché à sa culture d'origine lorsqu'on s'installe dans un autre pays ? Pourquoi ? | The candidate must give an opinion on whether it's easy to keep ties to one's original culture when living abroad. | 8 sources | 2021-01 | - |
 | 4 | L'État est incapable de tout maîtriser : partagez-vous cette idée ? Pourquoi ? | Give your opinion on whether the state cannot control everything. | 8 sources | 2023-09 | - |
 | 5 | On associe souvent la lecture à la culture. Faut-il lire pour être une personne cultivée ? Exposez votre point de vue. | Give and defend your opinion on whether reading is necessary to be cultured. | 7 sources | 2022-11 | - |
 | 6 | Aujourd'hui, peut-on vraiment se passer de médicaments ? Partagez-vous cet avis ? Pourquoi ? | Give and defend your opinion on whether it's possible to live without medication nowadays. | 7 sources | 2023-02 | - |
@@ -84,16 +84,16 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 16 | Selon vous, est-il essentiel d'étudier des langues étrangères ? Justifiez votre opinion. | Give and defend your opinion on whether learning foreign languages is important. | 6 sources | 2025-05 | - |
 | 17 | Selon vous, peut-on se fier aux informations trouvées sur Internet ? Pourquoi ? | Give and defend your opinion on trusting information found online. | 6 sources | 2025-09 | - |
 | 18 | L'école donne-t-elle les mêmes chances à tous les élèves ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether school gives every student equal chances. | 6 sources | 2025-10 | - |
-| 19 | Selon vous, les nouvelles technologies ont-elles un effet bénéfique sur l'éducation des enfants ? | Give and defend your opinion on whether new technologies positively impact children's education. | 5 sources | 2022-12 | - |
-| 20 | Selon vous, faudrait-il interdire les téléphones portables dans les écoles ? Pour quelles raisons ? | The candidate must give and defend an opinion on banning mobile phones at school. | 5 sources | 2023-04 | - |
-| 21 | Je suis un parent d'élève. Vous souhaitez inscrire vos enfants à une activité extrascolaire. Demandez-moi des informations et des conseils sur les options disponibles dans le quartier (nature des activités, horaires, tarifs, encadrement, etc.). | Ask a fellow parent for advice about after-school activities for your children (type, schedule, price, supervision). | 5 sources | 2023-05 | - |
-| 22 | Je partage un appartement à Winnipeg avec des colocataires. Une chambre est libre. Vous êtes intéressé(e). Posez-moi des questions pour en savoir plus sur le logement (chambre et pièces communes, loyer, autres colocataires, etc.). | The candidate must ask the examiner (playing a roommate) questions about a room available for rent. | 5 sources | 2023-07 | - |
-| 23 | Je travaille dans une auto-école. Vous voulez apprendre à conduire. Posez-moi des questions pour obtenir davantage d'informations (tarifs, durée de la formation, papiers requis, etc.). | The candidate must ask the examiner (playing a driving school employee) questions about learning to drive. | 5 sources | 2023-07 | - |
-| 24 | Faut-il obligatoirement avoir fait de longues études pour réussir sa vie ? | Give your opinion on whether long studies are necessary to succeed in life. | 5 sources | 2024-10 | - |
-| 25 | La diversité en milieu scolaire favorise-t-elle l'épanouissement de tous les élèves ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether school diversity benefits all students. | 5 sources | 2024-10 | - |
-| 26 | Les entreprises devraient offrir à leurs salariés la possibilité de se former tout au long de leur carrière. Cela est-il utile à tous ? Quelle est votre position sur ce sujet ? | The candidate must give and defend an opinion on lifelong training offered by employers. | 5 sources | 2025-03 | - |
-| 27 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
-| 28 | Pensez-vous qu’il soit indispensable de parler la langue du pays où l’on réside ? Pourquoi ? | Give and defend your opinion on whether it's essential to speak the language of the country one lives in. | 5 sources | 2025-12 | - |
+| 19 | Pensez-vous qu’il soit indispensable de parler la langue du pays où l’on réside ? Pourquoi ? | Give and defend your opinion on whether it's essential to speak the language of the country one lives in. | 6 sources | 2025-12 | - |
+| 20 | Selon vous, les nouvelles technologies ont-elles un effet bénéfique sur l'éducation des enfants ? | Give and defend your opinion on whether new technologies positively impact children's education. | 5 sources | 2022-12 | - |
+| 21 | Selon vous, faudrait-il interdire les téléphones portables dans les écoles ? Pour quelles raisons ? | The candidate must give and defend an opinion on banning mobile phones at school. | 5 sources | 2023-04 | - |
+| 22 | Je suis un parent d'élève. Vous souhaitez inscrire vos enfants à une activité extrascolaire. Demandez-moi des informations et des conseils sur les options disponibles dans le quartier (nature des activités, horaires, tarifs, encadrement, etc.). | Ask a fellow parent for advice about after-school activities for your children (type, schedule, price, supervision). | 5 sources | 2023-05 | - |
+| 23 | Je partage un appartement à Winnipeg avec des colocataires. Une chambre est libre. Vous êtes intéressé(e). Posez-moi des questions pour en savoir plus sur le logement (chambre et pièces communes, loyer, autres colocataires, etc.). | The candidate must ask the examiner (playing a roommate) questions about a room available for rent. | 5 sources | 2023-07 | - |
+| 24 | Je travaille dans une auto-école. Vous voulez apprendre à conduire. Posez-moi des questions pour obtenir davantage d'informations (tarifs, durée de la formation, papiers requis, etc.). | The candidate must ask the examiner (playing a driving school employee) questions about learning to drive. | 5 sources | 2023-07 | - |
+| 25 | Faut-il obligatoirement avoir fait de longues études pour réussir sa vie ? | Give your opinion on whether long studies are necessary to succeed in life. | 5 sources | 2024-10 | - |
+| 26 | La diversité en milieu scolaire favorise-t-elle l'épanouissement de tous les élèves ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether school diversity benefits all students. | 5 sources | 2024-10 | - |
+| 27 | Les entreprises devraient offrir à leurs salariés la possibilité de se former tout au long de leur carrière. Cela est-il utile à tous ? Quelle est votre position sur ce sujet ? | The candidate must give and defend an opinion on lifelong training offered by employers. | 5 sources | 2025-03 | - |
+| 28 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
 
 ## Environment
 
@@ -257,8 +257,9 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 38 | De nombreuses personnes optent aujourd'hui pour le végétarisme. Quel est votre avis sur ce type de régime alimentaire ? | The candidate must give and defend their opinion on vegetarianism. | 5 sources | 2023-06 | - |
 | 39 | Concilier travail et études en même temps est compliqué. Partagez-vous cette opinion ? | Give and defend your opinion on whether working and studying at the same time is difficult. | 5 sources | 2023-09 | - |
 | 40 | Selon vous, qui devrait venir en aide aux personnes en difficulté : l'État ou les citoyens eux-mêmes ? Donnez votre point de vue. | Give and defend your opinion on whether the government or citizens should help people in difficulty. | 5 sources | 2023-09 | - |
-| 41 | Aujourd'hui, tout le monde cherche à conserver sa jeunesse. Quel est votre avis sur cette question ? | Give your opinion on the fact that everyone today wants to stay young. | 5 sources | 2024-06 | - |
-| 42 | Les habitudes alimentaires évoluent-elles au fil du temps ? Donnez votre opinion sur ce sujet. | The candidate must give and defend an opinion on whether eating habits change over time. | 5 sources | 2024-10 | - |
+| 41 | À quoi servent les zoos ? Justifiez votre réponse. | Give and defend an opinion on the usefulness of zoos. | 5 sources | 2023-09 | - |
+| 42 | Aujourd'hui, tout le monde cherche à conserver sa jeunesse. Quel est votre avis sur cette question ? | Give your opinion on the fact that everyone today wants to stay young. | 5 sources | 2024-06 | - |
+| 43 | Les habitudes alimentaires évoluent-elles au fil du temps ? Donnez votre opinion sur ce sujet. | The candidate must give and defend an opinion on whether eating habits change over time. | 5 sources | 2024-10 | - |
 
 ## Technology
 

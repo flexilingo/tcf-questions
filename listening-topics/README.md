@@ -4,7 +4,7 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-54 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+55 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,7 +14,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 - [Environment](#environment) (3)
 - [Health](#health) (5)
 - [Miscellaneous](#miscellaneous) (15)
-- [Technology](#technology) (4)
+- [Technology](#technology) (5)
 - [Work](#work) (5)
 
 ## Culture
@@ -100,6 +100,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 2 | Un appel téléphonique pour signaler un problème lié à un téléphone. | A phone call complaining about a phone issue. | 1 source | 2026-09 | - |
 | 3 | Un dialogue où une personne signale un souci lié à un téléphone ou à ses accessoires. | A conversation reporting a problem with a phone or its accessories. | 1 source | 2026-09 | - |
 | 4 | Un document expliquant le fonctionnement d'un système de recommandation en ligne. | A document about how an online recommendation system works. | 1 source | 2026-09 | - |
+| 5 | Un reportage sur le piratage de données personnelles d'un réseau social. | A report about a data leak on a social network. | 1 source | 2026-09 | - |
 
 ## Work
 
