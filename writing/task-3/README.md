@@ -4,15 +4,15 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-217 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+219 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (32)
-- [Economy](#economy) (28)
+- [Economy](#economy) (29)
 - [Education](#education) (29)
 - [Environment](#environment) (17)
-- [Family](#family) (23)
+- [Family](#family) (24)
 - [Health](#health) (23)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (6)
@@ -88,6 +88,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 26 | Chaque hiver, Christine, 56 ans, offre du temps et de l'argent pour soutenir les personnes sans abri. Elle juge la solidarité envers les plus démunis essentielle et pense qu'un geste, même modeste, peut avoir un réel impact. | First text: a woman who values donating time and money to help the homeless, even modestly. | 2 sources | 2025-01 | - |
 | 27 | Chaque hiver, Marie, 58 ans, donne un peu de son temps et de son argent pour venir en aide aux personnes sans domicile. Selon elle, la solidarité est fondamentale et chacun peut agir, même à travers de petits gestes. | First opposing text: a woman who believes small acts of solidarity, giving time and money, matter to help homeless people. | 2 sources | 2025-01 | - |
 | 28 | Christine, 56 ans : « Chaque hiver, je consacre un peu de mon temps et de mon argent à venir en aide aux personnes sans domicile qui souffrent du froid. Pour moi, il est essentiel de penser à ceux qui sont dans la difficulté. Je juge important de verser quelques dollars directement à ces personnes ou aux organismes qui les soutiennent. En plus, ce geste me donne le sentiment d'être utile, ne serait-ce qu'une fois par an ! C'est un acte de solidarité accessible à tous. » | Present Christine's view that everyone should help homeless people in winter through donations, as an act of solidarity. | 2 sources | 2025-01 | - |
+| 29 | Laura, mère de famille âgée de 45 ans, explique que sortir au restaurant coûte souvent trop cher pour elle. Même si elle aimerait parfois ne pas cuisiner, le budget familial ne le lui permet pas. Elle critique aussi la qualité des plats servis au restaurant et préfère savoir précisément ce qu'elle mange en préparant elle-même ses repas. | Compare two opposing viewpoints about eating at restaurants versus cooking at home, then give your opinion. | 2 sources | 2025-02 | - |
 
 ## Education
 
@@ -172,6 +173,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 21 | Les maisons de retraite risquent d'éloigner les personnes âgées de leur famille et de leur donner un sentiment d'abandon. En outre, les conditions d'accueil ne sont pas toujours bonnes, et certains établissements manquent de personnel qualifié. À mon sens, l'aide à domicile reste la meilleure solution pour vieillir entouré de ses proches. | Compare two opposing texts about retirement homes and write your own view. | 3 sources | 2024-10 | - |
 | 22 | « J'ai 19 ans et je vis encore chez mes parents. Je suis majeure et je me sens responsable, pourtant mes parents restent stricts avec moi. Avant mes 18 ans, quand je sortais, je devais être rentrée avant 20 h et je n'avais pas la permission de dormir chez des copines. Bien que je puisse maintenant rentrer plus tard, ma mère continue de s'inquiéter. Elle m'appelle sur mon téléphone pour savoir où je suis et n'arrive pas à trouver le sommeil tant que je ne suis pas revenue. Mes parents m'accordent tout de même une certaine liberté, mais j'ai l'impression d'en avoir moins que les autres jeunes de mon âge. » Marion | Compare two opposing viewpoints (120-180 words) about parental strictness, based on a testimony. | 3 sources | 2025-10 | - |
 | 23 | Document 1 : Des scientifiques ont établi que, parmi tous les types d'alimentation, seule la restauration rapide est liée à une intensification des crises d'asthme et d'allergies, indépendamment du pays, du milieu social ou du sexe. Ainsi, consommer trois hamburgers ou plus par semaine ferait grimper le risque d'asthme sévère de 39 % chez les adolescents et de 27 % chez les enfants. Document 2 : D'autres experts nuancent ce constat, estimant que le fast-food n'est pas le seul responsable et que d'autres facteurs (pollution, sédentarité, génétique) jouent un rôle tout aussi important dans l'apparition de ces troubles respiratoires et allergiques chez les jeunes. | Compare two documents presenting opposing views on whether fast food is the main cause of increased asthma and allergy symptoms in children and teenagers. | 2 sources | 2022-09 | - |
+| 24 | Faire la lecture avec ses enfants est un moment aussi plaisant que profitable. Cette pratique favorise leur développement, puisqu'une lecture régulière leur fait découvrir de nouveaux mots. Elle améliore aussi leur capacité d'écoute et les familiarise avec le langage écrit. C'est également l'occasion de partager un moment de complicité familiale, dans la détente et le jeu. Les parents devraient s'efforcer de lire des histoires à leurs enfants dès leur plus jeune âge, même à la fin d'une longue journée. Cinq à dix minutes quotidiennes suffisent pour leur transmettre durablement le goût de la lecture. | Present the view that reading with children daily, even briefly, is highly beneficial for their development. | 2 sources | 2025-02 | - |
 
 ## Health
 

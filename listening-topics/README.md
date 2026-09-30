@@ -4,7 +4,7 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-55 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+56 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,7 +12,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 - [Economy](#economy) (7)
 - [Education](#education) (4)
 - [Environment](#environment) (3)
-- [Health](#health) (5)
+- [Health](#health) (6)
 - [Miscellaneous](#miscellaneous) (15)
 - [Technology](#technology) (5)
 - [Work](#work) (5)
@@ -71,6 +71,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 3 | Un document présentant une technologie destinée à traiter la perte auditive. | A document about a technology for treating hearing loss. | 1 source | 2026-09 | - |
 | 4 | Un document sur la réglementation du tabac dans les discothèques. | A document about smoking regulations in nightclubs. | 1 source | 2026-09 | - |
 | 5 | Un reportage sur le lien entre la dépression et l'activité du cerveau. | A report about the link between depression and brain activity. | 1 source | 2026-09 | - |
+| 6 | Un reportage sur le recours aux médicaments génériques. | A report about the use of generic medicines. | 1 source | 2026-09 | - |
 
 ## Miscellaneous
 

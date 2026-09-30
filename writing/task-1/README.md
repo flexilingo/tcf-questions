@@ -4,11 +4,11 @@
 
 A message to one or more people, 60 to 120 words.
 
-134 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+136 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (39)
+- [Culture](#culture) (41)
 - [Economy](#economy) (7)
 - [Education](#education) (17)
 - [Family](#family) (16)
@@ -61,6 +61,8 @@ A message to one or more people, 60 to 120 words.
 | 37 | Vous partez en voyage et votre ami Cédric a accepté de veiller sur votre maison. Rédigez-lui un mail expliquant ce qu'il doit faire. | The candidate must write an email to a friend explaining what to do while house-sitting. | 2 sources | 2022-08 | - |
 | 38 | Vous souhaitez partir en vacances entre amis et vous avez trouvé un appartement. Rédigez un message à vos amis pour le décrire (emplacement, prix, équipements, etc.) et leur conseiller de le réserver. | The candidate must write a message describing an apartment to friends and recommending they book it. | 2 sources | 2022-08 | - |
 | 39 | Rédigez un message à vos amis pour leur annoncer que vous avez déniché un hôtel pour votre séjour de vacances. | Write a message to your friends telling them you found a hotel for your vacation. | 2 sources | 2022-09 | - |
+| 40 | Vous préparez une fête et écrivez à vos amis pour leur demander de vous aider à l'organiser. | Write to your friends asking them to help you organize a party you're planning. | 2 sources | 2024-10 | - |
+| 41 | Vous répondez à Aaron et Perla en leur faisant des suggestions, que vous justifiez en racontant vos dernières vacances. | Reply to Aaron and Perla with suggestions, justified by recounting your last vacation. | 2 sources | 2024-10 | - |
 
 ## Economy
 

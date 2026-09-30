@@ -4,7 +4,7 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-116 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+118 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,7 +14,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Environment](#environment) (4)
 - [Family](#family) (6)
 - [Health](#health) (13)
-- [Immigration](#immigration) (12)
+- [Immigration](#immigration) (14)
 - [Miscellaneous](#miscellaneous) (3)
 - [Technology](#technology) (17)
 - [Work](#work) (7)
@@ -142,6 +142,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 10 | Vous avez suivi des études dans une université étrangère durant six mois. Vous écrivez à vos amis pour leur raconter cette expérience et leur dire ce qui vous a plu. | The candidate must write to friends recounting their six-month study abroad experience and what they liked. | 3 sources | 2020-02 | - |
 | 11 | Vous avez étudié pendant six mois dans un autre pays. Écrivez un article pour votre blog racontant cette expérience. | The candidate must write a blog article about a six-month study abroad experience. | 2 sources | 2022-08 | - |
 | 12 | Vous venez de vivre un échange scolaire dans un établissement à l'étranger. Racontez à vos amis ce qui vous a particulièrement plu durant cette expérience. | Tell your friends what you enjoyed most about your school exchange abroad. | 2 sources | 2022-09 | - |
+| 13 | Julie, étudiante de 19 ans, se prépare à partir étudier à l'étranger et cherche des témoignages sur un forum. Ayant vous-même vécu une expérience d'études à l'étranger, racontez-la en précisant si vous l'avez appréciée ou non, et pourquoi. | Share your own study-abroad experience on a forum for a student preparing to leave, explaining whether you liked it and why. | 2 sources | 2025-01 | - |
+| 14 | Vous avez passé un an à étudier à l'étranger. Vous postez un message sur un forum pour raconter cette expérience : vous dites si elle vous a plu ou non et vous en expliquez les raisons. | Write a forum post recounting a year of studying abroad, saying whether it was enjoyable and why. | 2 sources | 2025-01 | - |
 
 ## Miscellaneous
 

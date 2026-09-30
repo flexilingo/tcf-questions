@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-274 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+275 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,7 +12,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Economy](#economy) (6)
 - [Education](#education) (28)
 - [Environment](#environment) (15)
-- [Family](#family) (24)
+- [Family](#family) (25)
 - [Health](#health) (20)
 - [Immigration](#immigration) (39)
 - [Miscellaneous](#miscellaneous) (43)
@@ -141,8 +141,9 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 20 | Les sorties éducatives pour enfants (musées, zoos, galeries) sont-elles vraiment utiles ? Expliquez pourquoi. | The candidate must give and defend an opinion on the benefits of educational outings for children. | 5 sources | 2023-03 | - |
 | 21 | Pensez-vous qu'il soit nécessaire d'être autoritaire avec ses enfants ? Donnez votre point de vue. | Give and defend your opinion on whether parents should be authoritarian with their children. | 5 sources | 2023-05 | - |
 | 22 | Vous êtes mon voisin ou ma voisine. Vous venez tout juste d'arriver au Canada et vous devez trouver un établissement scolaire pour vos enfants. Posez-moi des questions à ce sujet (genres d'écoles, démarches d'inscription, activités proposées, etc.). | The candidate must ask the examiner (playing a neighbor) questions to find a school for their children in Canada. | 5 sources | 2023-05 | - |
-| 23 | Peut-on être heureux en vivant seul ? Quelle est votre position sur cette question ? | Give and defend your opinion on whether one can be happy living alone. | 5 sources | 2025-10 | - |
-| 24 | Certains parents choisissent d'instruire eux-mêmes leurs enfants à domicile. Quel est votre avis sur cette pratique ? | The candidate must give and defend an opinion on homeschooling. | 4 sources | 2023-04 | - |
+| 23 | Certains décident de ne jamais fonder de famille avec enfants. Quel est votre avis sur ce choix ? | Give and defend an opinion on people choosing to never have children. | 5 sources | 2023-10 | - |
+| 24 | Peut-on être heureux en vivant seul ? Quelle est votre position sur cette question ? | Give and defend your opinion on whether one can be happy living alone. | 5 sources | 2025-10 | - |
+| 25 | Certains parents choisissent d'instruire eux-mêmes leurs enfants à domicile. Quel est votre avis sur cette pratique ? | The candidate must give and defend an opinion on homeschooling. | 4 sources | 2023-04 | - |
 
 ## Health
 
