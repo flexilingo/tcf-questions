@@ -4,16 +4,16 @@
 
 A message to one or more people, 60 to 120 words.
 
-136 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+138 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (41)
 - [Economy](#economy) (7)
-- [Education](#education) (17)
+- [Education](#education) (18)
 - [Family](#family) (16)
 - [Health](#health) (18)
-- [Immigration](#immigration) (4)
+- [Immigration](#immigration) (5)
 - [Miscellaneous](#miscellaneous) (17)
 - [Technology](#technology) (2)
 - [Work](#work) (14)
@@ -97,6 +97,7 @@ A message to one or more people, 60 to 120 words.
 | 15 | Votre établissement scolaire vous a chargé(e) d'organiser une journée de bienvenue destinée aux nouveaux étudiants francophones. Rédigez, à leur attention, un courriel comportant toutes les informations nécessaires au bon déroulement de cette journée. | Write an email to new francophone students giving all the practical details of a welcome day you're organizing. | 3 sources | 2023-04 | - |
 | 16 | Vous cherchez quelqu'un pour faire du sport avec vous et vous rédigez une annonce pour le journal de votre université. Vous mentionnez la discipline choisie, les jours et créneaux horaires souhaités, ainsi que le profil de la personne que vous recherchez. | Write a university newspaper ad looking for a sports partner, specifying the sport, schedule and desired profile. | 3 sources | 2025-01 | - |
 | 17 | Vous répondez à Alex en lui décrivant votre université : les enseignants, les étudiants, les activités proposées, etc. | Reply to Alex describing your university: teachers, students, activities offered, etc. | 2 sources | 2024-09 | - |
+| 18 | Vous répondez à une annonce d'échange linguistique afin de pratiquer le français (présentation personnelle, centres d'intérêt, etc.). | Respond to a language-exchange ad to practice French, introducing yourself and your interests. | 2 sources | 2024-10 | - |
 
 ## Family
 
@@ -150,6 +151,7 @@ A message to one or more people, 60 to 120 words.
 | 2 | Vous comptez déménager et avez déniché un appartement. Vous souhaitez en informer un ami en précisant les caractéristiques du logement : nombre de pièces, situation géographique et loyer. | The candidate must write a message informing a friend about a new apartment they found, giving details like rooms, location and price. | 6 sources | 2023-04 | - |
 | 3 | Votre amie Jeanne compte venir découvrir votre pays. Écrivez-lui un message personnel dans lequel vous lui suggérez un programme de visite. Mentionnez plusieurs types de lieux — villes, sites touristiques, monuments emblématiques — en justifiant brièvement chaque suggestion. | The candidate must write a personal message to a friend proposing a travel itinerary with various places and brief reasons for each recommendation. | 4 sources | 2024-06 | - |
 | 4 | Vous êtes parti(e) à l'étranger dans le cadre d'un séjour organisé par une agence de voyage et vous avez été déçu(e) par les prestations fournies. Écrivez à l'agence pour raconter votre expérience et donner votre avis sur ce séjour. | Write a message to a travel agency describing a disappointing organized trip and giving an opinion. | 3 sources | 2025-11 | - |
+| 5 | Répondez à Justine en respectant ces consignes : - Racontez un séjour d'études que vous avez effectué dans un autre pays. - Précisez pourquoi cette expérience a été, selon vous, positive ou négative. | Reply to Justine describing a study-abroad experience and explaining whether it was positive or negative. | 2 sources | 2024-11 | - |
 
 ## Miscellaneous
 

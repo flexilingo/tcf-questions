@@ -4,13 +4,13 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-219 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+221 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (32)
 - [Economy](#economy) (29)
-- [Education](#education) (29)
+- [Education](#education) (31)
 - [Environment](#environment) (17)
 - [Family](#family) (24)
 - [Health](#health) (23)
@@ -123,6 +123,8 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 27 | Les amateurs de cuisine peuvent réaliser de très bons plats, mais ils n'ont pas forcément le savoir-faire ni les techniques d'un chef professionnel. Une véritable formation et de l'expérience restent nécessaires pour acquérir une maîtrise précise et un niveau de qualité constant. | Argue that amateur cooks lack the training and technique of professional chefs. | 2 sources | 2025-01 | - |
 | 28 | Néanmoins, apprendre une langue en ligne ne convient pas à tout le monde. Cela suppose de disposer d'une connexion Internet fiable et d'un équipement adapté (ordinateur, smartphone, tablette). Par ailleurs, sans professeur en face à face, la motivation peut baisser et la progression devenir plus laborieuse. | Present the opposing viewpoint that online language learning requires equipment and internet access and can reduce motivation without a teacher present. | 2 sources | 2025-01 | - |
 | 29 | En France, les inscriptions dans les établissements privés ne cessent d'augmenter. Cette popularité s'explique surtout par leur réputation, plus que par leurs résultats scolaires. Les parents valorisent la rigueur ainsi que le suivi personnalisé, les enseignants y étant souvent jugés plus impliqués. Par ailleurs, ces écoles accueillent en majorité des élèves de familles favorisées, ce qui renforce leur uniformité sociale. Cependant, leurs frais élevés en limitent l'accès par rapport au public. | Compare two opposing viewpoints about the rise of private schools in France, then give your opinion. | 2 sources | 2025-02 | - |
+| 30 | Les amateurs de cuisine parviennent à réaliser certaines recettes, mais leur savoir-faire et leur expérience restent loin de ceux des chefs professionnels. Devenir un vrai expert en cuisine exige un apprentissage long et une pratique poussée. | Present the view that cooking mastery requires formal training and extensive practice, unlike amateur cooking. | 2 sources | 2025-02 | - |
+| 31 | Les écoles privées accueillent peu d'élèves venant de familles modestes. Le prix de la scolarité représente un obstacle pour beaucoup de familles. Cette division entre public et privé nuit à la mixité sociale au sein des établissements scolaires. Les jeunes scolarisés dans le privé côtoient donc moins souvent des camarades d'origines différentes. Pour certains, ce fonctionnement renforce les inégalités sociales et peut accroître le sentiment d'exclusion chez une partie des jeunes. | Present the view that private schools worsen social inequality and reduce social mixing among students. | 2 sources | 2025-02 | - |
 
 ## Environment
 

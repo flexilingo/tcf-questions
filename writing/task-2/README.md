@@ -4,17 +4,17 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-118 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+120 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (43)
+- [Culture](#culture) (44)
 - [Economy](#economy) (2)
 - [Education](#education) (9)
 - [Environment](#environment) (4)
 - [Family](#family) (6)
 - [Health](#health) (13)
-- [Immigration](#immigration) (14)
+- [Immigration](#immigration) (15)
 - [Miscellaneous](#miscellaneous) (3)
 - [Technology](#technology) (17)
 - [Work](#work) (7)
@@ -66,6 +66,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 41 | Jeu-concours « Remportez deux billets pour la destination de votre choix avec la compagnie Air Tropiques. Partagez votre plus beau voyage sur notre forum. » Publiez un message sur le forum de la compagnie Air Tropiques dans lequel vous racontez votre plus beau voyage (date, destination, activités, etc.) et expliquez pourquoi il a compté pour vous. | Post on a travel company forum describing your most memorable trip and why it mattered to you. | 2 sources | 2024-01 | - |
 | 42 | Participez à notre concours et tentez de remporter un séjour pour deux personnes dans la destination de votre choix. Écrivez un article sur le thème « La vie de mon artiste préféré(e) ». Vous prenez part à ce concours : expliquez le choix de cet artiste et retracez son parcours de vie. | Write a contest article about your favorite artist, explaining your choice and telling their life story. | 2 sources | 2024-07 | - |
 | 43 | Vous avez pris part à un concours artistique (musique, danse, dessin, etc.). Sur votre blog, rédigez un court article pour raconter cet événement et préciser ce que vous avez apprécié. | Write a short blog post recounting an artistic contest you took part in and what you liked about it. | 2 sources | 2024-09 | - |
+| 44 | Un concours en ligne demande aux participants de raconter la fête la plus mémorable de leur vie. Vous décidez d'y participer. Dans votre texte, vous décrivez comment cette fête s'est passée (anniversaire, fête traditionnelle, etc.) et vous expliquez ce qui vous en reste aujourd'hui. | Write an entry for an online contest describing your most memorable celebration and what you remember from it. | 2 sources | 2025-02 | - |
 
 ## Economy
 
@@ -144,6 +145,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 12 | Vous venez de vivre un échange scolaire dans un établissement à l'étranger. Racontez à vos amis ce qui vous a particulièrement plu durant cette expérience. | Tell your friends what you enjoyed most about your school exchange abroad. | 2 sources | 2022-09 | - |
 | 13 | Julie, étudiante de 19 ans, se prépare à partir étudier à l'étranger et cherche des témoignages sur un forum. Ayant vous-même vécu une expérience d'études à l'étranger, racontez-la en précisant si vous l'avez appréciée ou non, et pourquoi. | Share your own study-abroad experience on a forum for a student preparing to leave, explaining whether you liked it and why. | 2 sources | 2025-01 | - |
 | 14 | Vous avez passé un an à étudier à l'étranger. Vous postez un message sur un forum pour raconter cette expérience : vous dites si elle vous a plu ou non et vous en expliquez les raisons. | Write a forum post recounting a year of studying abroad, saying whether it was enjoyable and why. | 2 sources | 2025-01 | - |
+| 15 | Sur votre blog, racontez votre expérience d'un séjour d'études effectué à l'étranger. | Write a blog post recounting your experience studying abroad. | 2 sources | 2025-02 | - |
 
 ## Miscellaneous
 
