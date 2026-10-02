@@ -4,20 +4,20 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-221 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+223 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (32)
 - [Economy](#economy) (29)
-- [Education](#education) (31)
+- [Education](#education) (32)
 - [Environment](#environment) (17)
 - [Family](#family) (24)
 - [Health](#health) (23)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (6)
 - [Technology](#technology) (16)
-- [Work](#work) (42)
+- [Work](#work) (43)
 
 ## Culture
 
@@ -125,6 +125,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 29 | En France, les inscriptions dans les établissements privés ne cessent d'augmenter. Cette popularité s'explique surtout par leur réputation, plus que par leurs résultats scolaires. Les parents valorisent la rigueur ainsi que le suivi personnalisé, les enseignants y étant souvent jugés plus impliqués. Par ailleurs, ces écoles accueillent en majorité des élèves de familles favorisées, ce qui renforce leur uniformité sociale. Cependant, leurs frais élevés en limitent l'accès par rapport au public. | Compare two opposing viewpoints about the rise of private schools in France, then give your opinion. | 2 sources | 2025-02 | - |
 | 30 | Les amateurs de cuisine parviennent à réaliser certaines recettes, mais leur savoir-faire et leur expérience restent loin de ceux des chefs professionnels. Devenir un vrai expert en cuisine exige un apprentissage long et une pratique poussée. | Present the view that cooking mastery requires formal training and extensive practice, unlike amateur cooking. | 2 sources | 2025-02 | - |
 | 31 | Les écoles privées accueillent peu d'élèves venant de familles modestes. Le prix de la scolarité représente un obstacle pour beaucoup de familles. Cette division entre public et privé nuit à la mixité sociale au sein des établissements scolaires. Les jeunes scolarisés dans le privé côtoient donc moins souvent des camarades d'origines différentes. Pour certains, ce fonctionnement renforce les inégalités sociales et peut accroître le sentiment d'exclusion chez une partie des jeunes. | Present the view that private schools worsen social inequality and reduce social mixing among students. | 2 sources | 2025-02 | - |
+| 32 | Quelle est l'utilité réelle des études universitaires ? On cite souvent des chefs d'entreprise célèbres ayant réussi sans passer par l'université. Ces parcours pourraient donner l'impression qu'un talent suffit pour diriger une société. Certains entrepreneurs pensent même que les études supérieures nuisent à la réussite : l'université favoriserait, selon eux, la conformité et brimerait la créativité en poussant les étudiants vers des voies traditionnelles. Pour créer son entreprise, rien ne remplacerait, à leurs yeux, l'apprentissage autodidacte et l'expérience du terrain, sans passer par aucune institution. D'après imomete.fr. | Compare two opposing viewpoints about the usefulness of university studies for entrepreneurs, then give your opinion. | 2 sources | 2025-02 | - |
 
 ## Environment
 
@@ -289,6 +290,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 40 | Quand on examine de près la rémunération des sportifs de haut niveau, on est vite pris de vertige. Ce thème a toujours suscité la controverse dans l'opinion publique. Ceux qui approuvent ces salaires considèrent que, compte tenu du talent et de la courte durée de leur carrière, ces sommes sont pleinement justifiées. C'est l'avis de l'ancienne star de Liverpool et du Real Madrid, Michael Owen, qui souligne qu'un joueur professionnel fait rêver ses supporters, tout comme une vedette de la musique qui gagne aussi énormément en se produisant devant des milliers de spectateurs. | Read this text defending athletes' high salaries, compare it with the opposing viewpoint, and write a 120-180 word text discussing both. | 2 sources | 2024-09 | - |
 | 41 | Paul, 63 ans, juge que verser de l'argent ne suffit pas vraiment pour venir en aide à ceux qui en ont besoin. Il préfère s'engager dans une association de quartier qui accompagne les sans-abris vers un travail et un logement stable, une solution plus durable. | Second opposing text: a man who believes long-term association work, not donations, truly helps the homeless. | 2 sources | 2025-01 | - |
 | 42 | Pierre, 65 ans, considère que donner de l'argent n'apporte pas de solution durable. À son avis, l'essentiel est d'aider ces personnes à retrouver leur indépendance grâce à un logement et un emploi. Il s'engage au quotidien dans une association qui accompagne les sans-abris vers une réinsertion professionnelle. | Second text: a man who believes sustainable help through association work is better than giving money. | 2 sources | 2025-01 | - |
+| 43 | Même si la livraison de repas au travail offre des avantages, elle présente aussi des inconvénients. Face à une forte demande, les services de livraison peuvent être saturés certains jours, causant retards et attente stressante. De plus, rester trop longtemps assis à son bureau sans pause peut accentuer la fatigue des salariés. Ne jamais s'éloigner de son environnement de travail peut nuire au bien-être et à la concentration. Il est donc important de prévoir des pauses pour se reposer et garder un bon équilibre entre vie professionnelle et repos. | Compare two opposing viewpoints about food delivery at work, then give your opinion. | 2 sources | 2025-02 | - |
 
 ---
 

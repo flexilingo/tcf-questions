@@ -4,12 +4,12 @@
 
 A message to one or more people, 60 to 120 words.
 
-138 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+140 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (41)
-- [Economy](#economy) (7)
+- [Culture](#culture) (42)
+- [Economy](#economy) (8)
 - [Education](#education) (18)
 - [Family](#family) (16)
 - [Health](#health) (18)
@@ -63,6 +63,7 @@ A message to one or more people, 60 to 120 words.
 | 39 | Rédigez un message à vos amis pour leur annoncer que vous avez déniché un hôtel pour votre séjour de vacances. | Write a message to your friends telling them you found a hotel for your vacation. | 2 sources | 2022-09 | - |
 | 40 | Vous préparez une fête et écrivez à vos amis pour leur demander de vous aider à l'organiser. | Write to your friends asking them to help you organize a party you're planning. | 2 sources | 2024-10 | - |
 | 41 | Vous répondez à Aaron et Perla en leur faisant des suggestions, que vous justifiez en racontant vos dernières vacances. | Reply to Aaron and Perla with suggestions, justified by recounting your last vacation. | 2 sources | 2024-10 | - |
+| 42 | Vos amis Aaron et Perla comptent passer leurs prochaines vacances dans votre pays et aimeraient découvrir des monuments historiques ainsi que la gastronomie locale. Écrivez-leur un message pour leur suggérer des endroits à visiter et des plats à goûter, en vous appuyant sur vos propres souvenirs de voyage. | Write a message to friends suggesting historical sites and local dishes to try, based on your own travel experience. | 2 sources | 2025-01 | - |
 
 ## Economy
 
@@ -75,6 +76,7 @@ A message to one or more people, 60 to 120 words.
 | 5 | Vous souhaitez vendre votre vélo. Écrivez un courriel à cette adresse en décrivant ses caractéristiques. | Write an email to sell your bike, describing its features. | 4 sources | 2023-05 | - |
 | 6 | Vous voulez vendre votre vélo. Rédigez un courriel présentant le vélo et son prix, puis proposez un rendez-vous pour que l’acheteur puisse l’essayer. | The candidate must write an email selling a bike, including price and a meeting to test it. | 4 sources | 2023-11 | - |
 | 7 | « Ateliers gratuits, spectacles, activités diverses. On vous attend vendredi à partir de 9h ! » | Read a flyer announcing a free event with workshops, concerts and activities starting Friday at 9am. | 4 sources | 2024-08 | - |
+| 8 | « Rendez-vous vendredi, à partir de 9 heures » | The candidate must respond to a note about a meeting on Friday from 9 a.m. | 2 sources | 2024-12 | - |
 
 ## Education
 

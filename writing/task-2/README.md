@@ -4,20 +4,20 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-120 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+122 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (44)
 - [Economy](#economy) (2)
-- [Education](#education) (9)
+- [Education](#education) (10)
 - [Environment](#environment) (4)
 - [Family](#family) (6)
 - [Health](#health) (13)
 - [Immigration](#immigration) (15)
 - [Miscellaneous](#miscellaneous) (3)
 - [Technology](#technology) (17)
-- [Work](#work) (7)
+- [Work](#work) (8)
 
 ## Culture
 
@@ -88,6 +88,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 7 | Rédigez un billet de blog racontant votre parcours d'apprentissage d'une langue étrangère (le français ou une autre). Évoquez les obstacles rencontrés, les progrès accomplis et les méthodes qui se sont révélées efficaces. | Write a blog post about your experience learning a foreign language, its challenges, progress and effective methods. | 3 sources | 2025-07 | - |
 | 8 | Vous avez suivi un programme dans une école de langues. Rédigez un article pour le site de l'école racontant cette expérience (120 à 150 mots). | The candidate must write an article for a website recounting their experience in a language school program. | 2 sources | 2023-10 | - |
 | 9 | Vous découvrez une annonce en ligne mettant en relation des personnes désirant apprendre le français avec des partenaires linguistiques pour progresser. Vous rédigez un courriel pour répondre à cette annonce, en vous présentant et en précisant les raisons pour lesquelles vous souhaitez pratiquer le français. | Write an email responding to an ad for language exchange partners, introducing yourself and explaining why you want to practice French. | 2 sources | 2024-06 | - |
+| 10 | Sur votre blog, racontez comment s'est déroulé votre apprentissage d'une langue étrangère. | Write a blog post about your experience learning a foreign language. | 2 sources | 2025-04 | - |
 
 ## Environment
 
@@ -188,6 +189,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 5 | Vous venez de participer à un pique-nique organisé avec vos collègues de travail. Vous rédigez un article pour le journal interne de votre entreprise, dans lequel vous racontez le déroulement de cet événement (endroit, repas, temps qu'il faisait, etc.). | Write an article for the company newsletter recounting the picnic with colleagues. | 4 sources | 2025-04 | - |
 | 6 | Vous êtes parti(e) travailler à l'étranger. Rédigez pour vos amis un article de blog racontant cette nouvelle expérience professionnelle, en précisant ce qui vous a le plus plu. | The candidate must write a blog article about working abroad, specifying what they liked most. | 2 sources | 2022-08 | - |
 | 7 | Vous venez de débuter un nouvel emploi. Rédigez un courriel à vos amis pour leur raconter le déroulement de votre première semaine et leur donner votre avis sur ce nouveau poste. | Write an email to your friends telling them about your first week at a new job and what you think of it. | 2 sources | 2024-05 | - |
+| 8 | Dans le cadre professionnel, vous avez suivi une journée de formation. Votre entreprise vous demande de rédiger un article destiné à vos collègues pour raconter cette journée et donner votre point de vue. | Write an article for colleagues about a professional training day, describing it and giving your opinion. | 2 sources | 2025-04 | - |
 
 ---
 
