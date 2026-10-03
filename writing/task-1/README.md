@@ -4,14 +4,14 @@
 
 A message to one or more people, 60 to 120 words.
 
-140 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+142 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (42)
+- [Culture](#culture) (43)
 - [Economy](#economy) (8)
 - [Education](#education) (18)
-- [Family](#family) (16)
+- [Family](#family) (17)
 - [Health](#health) (18)
 - [Immigration](#immigration) (5)
 - [Miscellaneous](#miscellaneous) (17)
@@ -64,6 +64,7 @@ A message to one or more people, 60 to 120 words.
 | 40 | Vous préparez une fête et écrivez à vos amis pour leur demander de vous aider à l'organiser. | Write to your friends asking them to help you organize a party you're planning. | 2 sources | 2024-10 | - |
 | 41 | Vous répondez à Aaron et Perla en leur faisant des suggestions, que vous justifiez en racontant vos dernières vacances. | Reply to Aaron and Perla with suggestions, justified by recounting your last vacation. | 2 sources | 2024-10 | - |
 | 42 | Vos amis Aaron et Perla comptent passer leurs prochaines vacances dans votre pays et aimeraient découvrir des monuments historiques ainsi que la gastronomie locale. Écrivez-leur un message pour leur suggérer des endroits à visiter et des plats à goûter, en vous appuyant sur vos propres souvenirs de voyage. | Write a message to friends suggesting historical sites and local dishes to try, based on your own travel experience. | 2 sources | 2025-01 | - |
+| 43 | Aaron et Perla vous ont écrit pour vous annoncer qu'ils visiteront votre pays en janvier pendant leurs vacances. Ils souhaitent découvrir des sites historiques et goûter des plats typiques. Répondez-leur en leur faisant des suggestions, en justifiant vos choix grâce à votre propre expérience et en partageant des lieux et souvenirs de vos dernières vacances. | Reply to friends visiting your country, suggesting historical sites and local food based on your own experience. | 2 sources | 2025-02 | - |
 
 ## Economy
 
@@ -121,6 +122,7 @@ A message to one or more people, 60 to 120 words.
 | 14 | Vous souhaitez passer une journée avec un(e) ami(e). Écrivez-lui un message pour l'inviter en précisant le programme de la journée (heure et lieu de rendez-vous, activités prévues, etc.) | Write to a friend inviting them for a day out and describing the planned schedule. | 3 sources | 2024-10 | - |
 | 15 | L'anniversaire de votre meilleur(e) ami(e) approche. Vous envoyez un message à votre groupe d'amis pour proposer d'offrir un cadeau collectif. Vous précisez le cadeau envisagé et expliquez comment chacun peut y contribuer. | The candidate must write a message to friends proposing a group gift for a best friend's birthday, describing the gift and how to contribute. | 3 sources | 2025-02 | - |
 | 16 | Racontez à vos amis, dans un message, une fête de famille à laquelle vous avez assisté, en expliquant ce qui vous a plu. | Write a message to your friends about a family celebration and what you enjoyed about it. | 2 sources | 2024-10 | - |
+| 17 | Léa vous a envoyé un message pour vous proposer un pique-nique samedi prochain et vous demander si vous connaissez un endroit agréable, adapté aux enfants comme aux adultes. Répondez-lui en acceptant son invitation, en proposant un lieu adapté, en décrivant cet endroit et en indiquant les activités qu'on peut y faire. | Reply to a friend accepting a picnic invitation and suggesting a suitable location with a description and activities. | 2 sources | 2025-02 | - |
 
 ## Health
 

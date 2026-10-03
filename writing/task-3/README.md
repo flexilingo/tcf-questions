@@ -4,12 +4,12 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-223 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+225 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (32)
-- [Economy](#economy) (29)
+- [Culture](#culture) (33)
+- [Economy](#economy) (30)
 - [Education](#education) (32)
 - [Environment](#environment) (17)
 - [Family](#family) (24)
@@ -55,6 +55,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 30 | Certains autodidactes se sont fait connaître grâce aux réseaux sociaux, où ils diffusent leurs recettes et astuces. Plusieurs ont même publié des ouvrages de cuisine et sont devenus des modèles pour les passionnés voulant progresser. | Argue that self-taught cooks can become successful references through social media without formal training. | 2 sources | 2025-01 | - |
 | 31 | En revanche, le livre papier garde une place de choix aux yeux de nombreux lecteurs. Tourner les pages, sentir l'odeur du papier, pouvoir offrir un livre : autant de plaisirs qui rendent ce format irremplaçable. | Present the opposing viewpoint that paper books remain irreplaceable for sensory and gift-giving reasons. | 2 sources | 2025-01 | - |
 | 32 | J'ai 19 ans et je vais bientôt quitter mon pays pour poursuivre mes études à l'étranger. J'aimerais lire des témoignages d'étudiants qui ont déjà vécu loin de chez eux pour se former. | A 19-year-old about to study abroad asks to read testimonies from students who already had this experience. | 2 sources | 2025-01 | - |
+| 33 | « Il ne faut surtout pas forcer les enfants à lire. L'acte de lecture est quelque chose de très particulier. Pour les enfants qui aiment le sport, par exemple, on ne les oblige pas mais on cherche à les motiver. C'est pareil pour la lecture », affirme Laurence T., pédopsychiatre spécialisée dans l'enfance. Selon elle, « on ne peut pas imposer le goût de la lecture ». | Compare two opposing viewpoints about whether children should be forced to read, then give your own opinion. | 2 sources | 2025-02 | - |
 
 ## Economy
 
@@ -89,6 +90,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 27 | Chaque hiver, Marie, 58 ans, donne un peu de son temps et de son argent pour venir en aide aux personnes sans domicile. Selon elle, la solidarité est fondamentale et chacun peut agir, même à travers de petits gestes. | First opposing text: a woman who believes small acts of solidarity, giving time and money, matter to help homeless people. | 2 sources | 2025-01 | - |
 | 28 | Christine, 56 ans : « Chaque hiver, je consacre un peu de mon temps et de mon argent à venir en aide aux personnes sans domicile qui souffrent du froid. Pour moi, il est essentiel de penser à ceux qui sont dans la difficulté. Je juge important de verser quelques dollars directement à ces personnes ou aux organismes qui les soutiennent. En plus, ce geste me donne le sentiment d'être utile, ne serait-ce qu'une fois par an ! C'est un acte de solidarité accessible à tous. » | Present Christine's view that everyone should help homeless people in winter through donations, as an act of solidarity. | 2 sources | 2025-01 | - |
 | 29 | Laura, mère de famille âgée de 45 ans, explique que sortir au restaurant coûte souvent trop cher pour elle. Même si elle aimerait parfois ne pas cuisiner, le budget familial ne le lui permet pas. Elle critique aussi la qualité des plats servis au restaurant et préfère savoir précisément ce qu'elle mange en préparant elle-même ses repas. | Compare two opposing viewpoints about eating at restaurants versus cooking at home, then give your opinion. | 2 sources | 2025-02 | - |
+| 30 | Aider les petits commerces : l'opération « Un mois sans supermarché » Créée pour s'opposer à la suprématie des grandes surfaces, cette initiative invite les consommateurs à privilégier les commerces de quartier pendant un mois entier. En achetant dans les épiceries locales, les clients bénéficient de produits plus frais et de meilleure qualité, tout en resserrant les liens sociaux avec leur voisinage. | Compare two documents about a challenge encouraging people to shop at local stores instead of supermarkets for a month. | 2 sources | 2025-03 | - |
 
 ## Education
 

@@ -4,13 +4,13 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-122 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+124 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (44)
 - [Economy](#economy) (2)
-- [Education](#education) (10)
+- [Education](#education) (12)
 - [Environment](#environment) (4)
 - [Family](#family) (6)
 - [Health](#health) (13)
@@ -89,6 +89,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 8 | Vous avez suivi un programme dans une école de langues. Rédigez un article pour le site de l'école racontant cette expérience (120 à 150 mots). | The candidate must write an article for a website recounting their experience in a language school program. | 2 sources | 2023-10 | - |
 | 9 | Vous découvrez une annonce en ligne mettant en relation des personnes désirant apprendre le français avec des partenaires linguistiques pour progresser. Vous rédigez un courriel pour répondre à cette annonce, en vous présentant et en précisant les raisons pour lesquelles vous souhaitez pratiquer le français. | Write an email responding to an ad for language exchange partners, introducing yourself and explaining why you want to practice French. | 2 sources | 2024-06 | - |
 | 10 | Sur votre blog, racontez comment s'est déroulé votre apprentissage d'une langue étrangère. | Write a blog post about your experience learning a foreign language. | 2 sources | 2025-04 | - |
+| 11 | Vous avez suivi un cours de langue. Sur un forum en ligne, vous écrivez un article où vous racontez votre expérience (endroit, déroulement, durée, etc.) et donnez votre avis sur ce cours. | Write a forum article about a language course you took, describing it and giving your opinion. | 2 sources | 2025-04 | - |
+| 12 | Un forum en ligne invite ses membres à partager leur expérience d'apprentissage des langues étrangères. Rédigez un message pour ce forum dans lequel vous racontez comment vous avez appris le français, ou une autre langue, et expliquez en quoi il est important, selon vous, d'apprendre des langues étrangères. | Write a forum post recounting how you learned French (or another language) and explaining why learning foreign languages matters. | 2 sources | 2025-05 | - |
 
 ## Environment
 
@@ -183,7 +185,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Votre société recherche une salle capable d'accueillir cent invités pour sa fête de fin d'année. Rédigez un message à la direction pour présenter le lieu que vous avez déniché, en précisant son emplacement, son coût et les prestations comprises. | Write a message informing management about a venue found for the company's year-end party, with location, price, and included services. | 7 sources | 2023-07 | - |
-| 2 | Vous êtes parti(e) travailler dans un pays étranger. Écrivez un message à vos amis pour leur raconter cette nouvelle expérience professionnelle et leur indiquer ce que vous avez apprécié le plus. | Write a message to friends recounting a work experience abroad and what you enjoyed most about it. | 6 sources | 2024-05 | - |
+| 2 | Vous êtes parti(e) travailler dans un pays étranger. Écrivez un message à vos amis pour leur raconter cette nouvelle expérience professionnelle et leur indiquer ce que vous avez apprécié le plus. | Write a message to friends recounting a work experience abroad and what you enjoyed most about it. | 7 sources | 2024-05 | - |
 | 3 | Vous venez de suivre une journée de formation dans votre entreprise. Écrivez un article destiné à un forum interne pour raconter à vos collègues votre expérience et ce que vous en avez retenu de positif. | Write a forum article for colleagues sharing your experience and what you appreciated about a company training day. | 5 sources | 2023-08 | - |
 | 4 | L'école de votre quartier organise un projet pour faire découvrir divers métiers aux élèves. Souhaitant y contribuer en racontant votre parcours, vous rédigez un texte destiné aux enseignants dans lequel vous décrivez votre profession (tâches quotidiennes, collègues, etc.) et expliquez les raisons pour lesquelles vous appréciez ce métier. | The candidate must write to teachers describing their job and explaining why they find it interesting. | 4 sources | 2024-09 | - |
 | 5 | Vous venez de participer à un pique-nique organisé avec vos collègues de travail. Vous rédigez un article pour le journal interne de votre entreprise, dans lequel vous racontez le déroulement de cet événement (endroit, repas, temps qu'il faisait, etc.). | Write an article for the company newsletter recounting the picnic with colleagues. | 4 sources | 2025-04 | - |

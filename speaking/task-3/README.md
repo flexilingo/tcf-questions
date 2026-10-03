@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-277 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+278 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,7 +16,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Health](#health) (20)
 - [Immigration](#immigration) (40)
 - [Miscellaneous](#miscellaneous) (43)
-- [Technology](#technology) (32)
+- [Technology](#technology) (33)
 - [Work](#work) (40)
 
 ## Culture
@@ -157,13 +157,13 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 5 | Le stress peut-il être considéré comme un moteur positif ? Quelle est votre position sur cette question ? | The candidate must give and defend their opinion on whether stress can be a positive stimulant. | 7 sources | 2023-10 | - |
 | 6 | Vivre à la campagne serait plus bénéfique pour la santé que vivre en ville. Partagez-vous cette opinion ? | Give and defend your opinion on whether living in the countryside is healthier than living in the city. | 7 sources | 2024-10 | - |
 | 7 | Faut-il contraindre les enfants à pratiquer une activité sportive ? Partagez-vous ce point de vue ? Expliquez pourquoi. | The candidate must give and defend their opinion on forcing children to do sport. | 6 sources | 2023-02 | - |
-| 8 | Pour être en bonne santé, il faudrait arrêter de manger de la viande. Que pensez-vous de cette affirmation ? | The candidate must give and defend an opinion on whether one must stop eating meat to be healthy. | 6 sources | 2023-08 | - |
-| 9 | Avoir un animal de compagnie est-il indispensable au bien-être des personnes âgées ? Donnez votre avis. | Give and defend your opinion on whether pets are essential for elderly people's well-being. | 6 sources | 2023-10 | - |
-| 10 | Les repas végétariens constituent-ils une option saine et durable face à l'alimentation classique ? Donnez votre point de vue. | Give and defend your opinion on vegetarian meals as a healthy, sustainable alternative. | 6 sources | 2023-10 | - |
-| 11 | Le tourisme constitue-t-il, selon vous, une bonne piste de développement pour tous les pays ? Expliquez votre réponse. | Give and defend your opinion on whether tourism is a good development path for every country. | 6 sources | 2025-02 | - |
-| 12 | Selon vous, est-ce une bonne idée de se mettre au sport après 50 ans ? | Give and defend your opinion on starting a sport after age 50. | 6 sources | 2025-10 | - |
-| 13 | D'après vous, les personnes en situation de handicap occupent-elles une place suffisante dans la société ? Justifiez votre réponse. | The candidate must give and defend an opinion on whether people with disabilities have a satisfactory place in society. | 6 sources | 2025-11 | - |
-| 14 | Je travaille à l'accueil d'un club de sport de votre ville. Vous souhaitez faire du sport. Posez-moi des questions pour décider si vous allez vous inscrire (cours proposés, tarifs, horaires, etc.). | Ask a sports club receptionist questions to decide whether to sign up. | 5 sources | 2023-06 | - |
+| 8 | Je travaille à l'accueil d'un club de sport de votre ville. Vous souhaitez faire du sport. Posez-moi des questions pour décider si vous allez vous inscrire (cours proposés, tarifs, horaires, etc.). | Ask a sports club receptionist questions to decide whether to sign up. | 6 sources | 2023-06 | - |
+| 9 | Pour être en bonne santé, il faudrait arrêter de manger de la viande. Que pensez-vous de cette affirmation ? | The candidate must give and defend an opinion on whether one must stop eating meat to be healthy. | 6 sources | 2023-08 | - |
+| 10 | Avoir un animal de compagnie est-il indispensable au bien-être des personnes âgées ? Donnez votre avis. | Give and defend your opinion on whether pets are essential for elderly people's well-being. | 6 sources | 2023-10 | - |
+| 11 | Les repas végétariens constituent-ils une option saine et durable face à l'alimentation classique ? Donnez votre point de vue. | Give and defend your opinion on vegetarian meals as a healthy, sustainable alternative. | 6 sources | 2023-10 | - |
+| 12 | Le tourisme constitue-t-il, selon vous, une bonne piste de développement pour tous les pays ? Expliquez votre réponse. | Give and defend your opinion on whether tourism is a good development path for every country. | 6 sources | 2025-02 | - |
+| 13 | Selon vous, est-ce une bonne idée de se mettre au sport après 50 ans ? | Give and defend your opinion on starting a sport after age 50. | 6 sources | 2025-10 | - |
+| 14 | D'après vous, les personnes en situation de handicap occupent-elles une place suffisante dans la société ? Justifiez votre réponse. | The candidate must give and defend an opinion on whether people with disabilities have a satisfactory place in society. | 6 sources | 2025-11 | - |
 | 15 | Il faudrait inciter les enfants à prendre part à des compétitions sportives. Partagez-vous cette opinion ? | Give and defend an opinion on encouraging children to take part in sports competitions. | 5 sources | 2023-09 | - |
 | 16 | Pour préserver l'environnement, il faudrait consommer des produits locaux et de saison. Quel est votre avis sur cette idée ? | The candidate must give and defend an opinion on eating local, seasonal food to protect the environment. | 5 sources | 2025-01 | - |
 | 17 | Selon vous, les jeunes d'aujourd'hui s'engagent-ils moins qu'avant (environnement, politique, santé, etc.) ? Pourquoi ? | The candidate must give and defend an opinion on whether young people today are less engaged in causes. | 5 sources | 2025-04 | - |
@@ -299,7 +299,8 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 29 | Les jeux vidéo représentent-ils un risque pour ceux qui y jouent ? Justifiez votre point de vue. | Give and defend your opinion on whether video games are dangerous for players. | 5 sources | 2022-12 | - |
 | 30 | Certaines personnes préfèrent ne pas suivre l'actualité à la télévision. Quel est votre point de vue sur cette question ? | The candidate must give and defend their opinion on people who avoid watching TV news. | 5 sources | 2023-07 | - |
 | 31 | On peut aisément se passer de son téléphone portable. Partagez-vous ce point de vue ? | Give and defend an opinion on whether one can easily live without a mobile phone. | 5 sources | 2023-09 | - |
-| 32 | Il vaudrait mieux ne pas offrir de téléphone portable à un enfant. Quel est votre point de vue ? | The candidate must give and defend an opinion on not giving children mobile phones. | 5 sources | 2025-02 | - |
+| 32 | Selon vous, Internet contribue-t-il à notre bonheur ? | Give and defend your opinion on whether the internet makes us happy. | 5 sources | 2023-11 | - |
+| 33 | Il vaudrait mieux ne pas offrir de téléphone portable à un enfant. Quel est votre point de vue ? | The candidate must give and defend an opinion on not giving children mobile phones. | 5 sources | 2025-02 | - |
 
 ## Work
 

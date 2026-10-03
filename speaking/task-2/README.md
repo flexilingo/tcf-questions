@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-281 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+282 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Family](#family) (70)
 - [Health](#health) (18)
 - [Immigration](#immigration) (4)
-- [Miscellaneous](#miscellaneous) (11)
+- [Miscellaneous](#miscellaneous) (12)
 - [Technology](#technology) (5)
 - [Work](#work) (38)
 
@@ -296,6 +296,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 9 | Nous patientons dans une salle d’attente, sans nous connaître. Notre train est retardé. Je viens de vous confier ma passion pour la montagne. Posez-moi des questions sur cette passion (endroits, activités, équipement, etc.). | The candidate must ask a stranger questions about their passion for the mountains. | 6 sources | 2024-09 | - |
 | 10 | Vous jouez le rôle d'un(e) ami(e). Votre interlocuteur s'apprête à accueillir ses neveux et vous demande conseil. | The candidate must ask a friend for advice about hosting their nephews/nieces. | 5 sources | 2022-11 | - |
 | 11 | Vous jouez le rôle d'un(e) ami(e). Votre interlocuteur va recevoir un groupe d'amis chez lui/elle et a besoin de conseils. Il/elle vous pose des questions. | The candidate must ask a friend for advice about hosting a group of friends at home. | 5 sources | 2022-11 | - |
+| 12 | Je suis votre collègue. Je vous propose une chambre en colocation et vous êtes intéressé(e). Posez-moi des questions à ce sujet. | Ask a colleague questions about a shared room they are offering you. | 5 sources | 2023-05 | - |
 
 ## Technology
 
