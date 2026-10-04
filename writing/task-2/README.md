@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-124 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+126 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (44)
+- [Culture](#culture) (46)
 - [Economy](#economy) (2)
 - [Education](#education) (12)
 - [Environment](#environment) (4)
@@ -67,6 +67,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 42 | Participez à notre concours et tentez de remporter un séjour pour deux personnes dans la destination de votre choix. Écrivez un article sur le thème « La vie de mon artiste préféré(e) ». Vous prenez part à ce concours : expliquez le choix de cet artiste et retracez son parcours de vie. | Write a contest article about your favorite artist, explaining your choice and telling their life story. | 2 sources | 2024-07 | - |
 | 43 | Vous avez pris part à un concours artistique (musique, danse, dessin, etc.). Sur votre blog, rédigez un court article pour raconter cet événement et préciser ce que vous avez apprécié. | Write a short blog post recounting an artistic contest you took part in and what you liked about it. | 2 sources | 2024-09 | - |
 | 44 | Un concours en ligne demande aux participants de raconter la fête la plus mémorable de leur vie. Vous décidez d'y participer. Dans votre texte, vous décrivez comment cette fête s'est passée (anniversaire, fête traditionnelle, etc.) et vous expliquez ce qui vous en reste aujourd'hui. | Write an entry for an online contest describing your most memorable celebration and what you remember from it. | 2 sources | 2025-02 | - |
+| 45 | Vous avez participé à un festival (cinéma, musique, gastronomie, etc.) qui n'a pas répondu à vos attentes. Racontez cette expérience sur votre blog et expliquez les raisons de votre déception. | Write a blog post recounting a disappointing festival experience and explaining the reasons for your dissatisfaction. | 2 sources | 2025-06 | - |
+| 46 | « École de musique ! Cours gratuits, concerts, animations. Rendez-vous vendredi dès 9 heures. » Vous avez assisté à cet événement. Écrivez un message à vos amis pour raconter ce que vous avez vécu et donner votre avis sur cette journée. | Write a message to friends recounting your experience at a free music school event and giving your opinion. | 2 sources | 2026-02 | - |
 
 ## Economy
 

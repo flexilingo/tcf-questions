@@ -4,13 +4,13 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-225 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+227 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (33)
+- [Culture](#culture) (34)
 - [Economy](#economy) (30)
-- [Education](#education) (32)
+- [Education](#education) (33)
 - [Environment](#environment) (17)
 - [Family](#family) (24)
 - [Health](#health) (23)
@@ -56,6 +56,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 31 | En revanche, le livre papier garde une place de choix aux yeux de nombreux lecteurs. Tourner les pages, sentir l'odeur du papier, pouvoir offrir un livre : autant de plaisirs qui rendent ce format irremplaçable. | Present the opposing viewpoint that paper books remain irreplaceable for sensory and gift-giving reasons. | 2 sources | 2025-01 | - |
 | 32 | J'ai 19 ans et je vais bientôt quitter mon pays pour poursuivre mes études à l'étranger. J'aimerais lire des témoignages d'étudiants qui ont déjà vécu loin de chez eux pour se former. | A 19-year-old about to study abroad asks to read testimonies from students who already had this experience. | 2 sources | 2025-01 | - |
 | 33 | « Il ne faut surtout pas forcer les enfants à lire. L'acte de lecture est quelque chose de très particulier. Pour les enfants qui aiment le sport, par exemple, on ne les oblige pas mais on cherche à les motiver. C'est pareil pour la lecture », affirme Laurence T., pédopsychiatre spécialisée dans l'enfance. Selon elle, « on ne peut pas imposer le goût de la lecture ». | Compare two opposing viewpoints about whether children should be forced to read, then give your own opinion. | 2 sources | 2025-02 | - |
+| 34 | À l'ère du numérique, les nouvelles technologies occupent une place toujours plus grande dans le quotidien, éloignant beaucoup d'enfants de la lecture. Jeux vidéo, sport, musique ou réseaux sociaux captent leur attention bien davantage que les livres. À la différence des générations précédentes, qui lisaient abondamment, les jeunes d'aujourd'hui préfèrent des loisirs modernes influencés par des personnalités du sport et du divertissement. Faut-il alors les obliger à lire ? Comme le dit un proverbe, « on ne force pas le goût de la lecture ». Il vaut donc mieux leur laisser la liberté de choisir leurs lectures, sans contrainte. | Compare two documents about whether children should be forced to read despite preferring modern digital entertainment. | 2 sources | 2025-03 | - |
 
 ## Economy
 
@@ -128,6 +129,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 30 | Les amateurs de cuisine parviennent à réaliser certaines recettes, mais leur savoir-faire et leur expérience restent loin de ceux des chefs professionnels. Devenir un vrai expert en cuisine exige un apprentissage long et une pratique poussée. | Present the view that cooking mastery requires formal training and extensive practice, unlike amateur cooking. | 2 sources | 2025-02 | - |
 | 31 | Les écoles privées accueillent peu d'élèves venant de familles modestes. Le prix de la scolarité représente un obstacle pour beaucoup de familles. Cette division entre public et privé nuit à la mixité sociale au sein des établissements scolaires. Les jeunes scolarisés dans le privé côtoient donc moins souvent des camarades d'origines différentes. Pour certains, ce fonctionnement renforce les inégalités sociales et peut accroître le sentiment d'exclusion chez une partie des jeunes. | Present the view that private schools worsen social inequality and reduce social mixing among students. | 2 sources | 2025-02 | - |
 | 32 | Quelle est l'utilité réelle des études universitaires ? On cite souvent des chefs d'entreprise célèbres ayant réussi sans passer par l'université. Ces parcours pourraient donner l'impression qu'un talent suffit pour diriger une société. Certains entrepreneurs pensent même que les études supérieures nuisent à la réussite : l'université favoriserait, selon eux, la conformité et brimerait la créativité en poussant les étudiants vers des voies traditionnelles. Pour créer son entreprise, rien ne remplacerait, à leurs yeux, l'apprentissage autodidacte et l'expérience du terrain, sans passer par aucune institution. D'après imomete.fr. | Compare two opposing viewpoints about the usefulness of university studies for entrepreneurs, then give your opinion. | 2 sources | 2025-02 | - |
+| 33 | Les frais de scolarité élevés des établissements privés réservent l'accès à ces écoles aux familles aisées, écartant ainsi les élèves de milieux plus modestes. Cette division entre public et privé nuit à la diversité sociale et limite les contacts entre jeunes d'origines différentes. Ce système éducatif contribue donc à maintenir, voire aggraver, les inégalités sociales. | Present the viewpoint that private schools' high fees exclude poorer families and worsen social inequality. | 2 sources | 2025-03 | - |
 
 ## Environment
 

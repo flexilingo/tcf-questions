@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-278 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+279 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Family](#family) (25)
 - [Health](#health) (20)
 - [Immigration](#immigration) (40)
-- [Miscellaneous](#miscellaneous) (43)
+- [Miscellaneous](#miscellaneous) (44)
 - [Technology](#technology) (33)
 - [Work](#work) (40)
 
@@ -261,8 +261,9 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 39 | Concilier travail et études en même temps est compliqué. Partagez-vous cette opinion ? | Give and defend your opinion on whether working and studying at the same time is difficult. | 5 sources | 2023-09 | - |
 | 40 | Selon vous, qui devrait venir en aide aux personnes en difficulté : l'État ou les citoyens eux-mêmes ? Donnez votre point de vue. | Give and defend your opinion on whether the government or citizens should help people in difficulty. | 5 sources | 2023-09 | - |
 | 41 | À quoi servent les zoos ? Justifiez votre réponse. | Give and defend an opinion on the usefulness of zoos. | 5 sources | 2023-09 | - |
-| 42 | Aujourd'hui, tout le monde cherche à conserver sa jeunesse. Quel est votre avis sur cette question ? | Give your opinion on the fact that everyone today wants to stay young. | 5 sources | 2024-06 | - |
-| 43 | Les habitudes alimentaires évoluent-elles au fil du temps ? Donnez votre opinion sur ce sujet. | The candidate must give and defend an opinion on whether eating habits change over time. | 5 sources | 2024-10 | - |
+| 42 | Décider de quitter son pays natal est une chose facile. Partagez-vous cet avis ? | Give and defend your opinion on whether leaving one's country is an easy decision. | 5 sources | 2023-12 | - |
+| 43 | Aujourd'hui, tout le monde cherche à conserver sa jeunesse. Quel est votre avis sur cette question ? | Give your opinion on the fact that everyone today wants to stay young. | 5 sources | 2024-06 | - |
+| 44 | Les habitudes alimentaires évoluent-elles au fil du temps ? Donnez votre opinion sur ce sujet. | The candidate must give and defend an opinion on whether eating habits change over time. | 5 sources | 2024-10 | - |
 
 ## Technology
 

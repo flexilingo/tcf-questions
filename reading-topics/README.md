@@ -4,12 +4,12 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-62 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+63 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (15)
-- [Economy](#economy) (13)
+- [Economy](#economy) (14)
 - [Education](#education) (4)
 - [Environment](#environment) (5)
 - [Health](#health) (9)
@@ -55,6 +55,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 11 | Un article évoquant l'évolution des règles de stationnement. | An article about changes to parking regulations. | 1 source | 2026-09 | - |
 | 12 | Un compte rendu écrit portant sur la réforme des retraites. | A report on pension reform. | 1 source | 2026-09 | - |
 | 13 | Un contrat d'assurance automobile. | A car insurance contract. | 1 source | 2026-09 | - |
+| 14 | Un document d'information présentant des offres de location de maisons ou d'appartements pour les vacances. | An informational document about renting vacation homes. | 1 source | 2026-09 | - |
 
 ## Education
 

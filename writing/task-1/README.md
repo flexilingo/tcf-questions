@@ -4,14 +4,14 @@
 
 A message to one or more people, 60 to 120 words.
 
-142 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+144 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (43)
 - [Economy](#economy) (8)
-- [Education](#education) (18)
-- [Family](#family) (17)
+- [Education](#education) (19)
+- [Family](#family) (18)
 - [Health](#health) (18)
 - [Immigration](#immigration) (5)
 - [Miscellaneous](#miscellaneous) (17)
@@ -101,6 +101,7 @@ A message to one or more people, 60 to 120 words.
 | 16 | Vous cherchez quelqu'un pour faire du sport avec vous et vous rédigez une annonce pour le journal de votre université. Vous mentionnez la discipline choisie, les jours et créneaux horaires souhaités, ainsi que le profil de la personne que vous recherchez. | Write a university newspaper ad looking for a sports partner, specifying the sport, schedule and desired profile. | 3 sources | 2025-01 | - |
 | 17 | Vous répondez à Alex en lui décrivant votre université : les enseignants, les étudiants, les activités proposées, etc. | Reply to Alex describing your university: teachers, students, activities offered, etc. | 2 sources | 2024-09 | - |
 | 18 | Vous répondez à une annonce d'échange linguistique afin de pratiquer le français (présentation personnelle, centres d'intérêt, etc.). | Respond to a language-exchange ad to practice French, introducing yourself and your interests. | 2 sources | 2024-10 | - |
+| 19 | Rédigez un message racontant votre expérience d'une formation suivie en ligne. Présentez les points positifs du programme, mais mentionnez aussi les difficultés éventuellement rencontrées durant l'apprentissage. | Write a message describing your experience with an online training course, mentioning both positives and difficulties. | 2 sources | 2025-02 | - |
 
 ## Family
 
@@ -123,6 +124,7 @@ A message to one or more people, 60 to 120 words.
 | 15 | L'anniversaire de votre meilleur(e) ami(e) approche. Vous envoyez un message à votre groupe d'amis pour proposer d'offrir un cadeau collectif. Vous précisez le cadeau envisagé et expliquez comment chacun peut y contribuer. | The candidate must write a message to friends proposing a group gift for a best friend's birthday, describing the gift and how to contribute. | 3 sources | 2025-02 | - |
 | 16 | Racontez à vos amis, dans un message, une fête de famille à laquelle vous avez assisté, en expliquant ce qui vous a plu. | Write a message to your friends about a family celebration and what you enjoyed about it. | 2 sources | 2024-10 | - |
 | 17 | Léa vous a envoyé un message pour vous proposer un pique-nique samedi prochain et vous demander si vous connaissez un endroit agréable, adapté aux enfants comme aux adultes. Répondez-lui en acceptant son invitation, en proposant un lieu adapté, en décrivant cet endroit et en indiquant les activités qu'on peut y faire. | Reply to a friend accepting a picnic invitation and suggesting a suitable location with a description and activities. | 2 sources | 2025-02 | - |
+| 18 | Parc d'attractions : « Je suis impatient(e) de passer la journée avec toi demain. Dis-moi quelles activités nous pourrons y faire ! » Répondez à ce message de votre ami(e). | Reply to a friend's message asking what activities you can do together at an amusement park. | 2 sources | 2025-02 | - |
 
 ## Health
 
