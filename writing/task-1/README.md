@@ -4,18 +4,18 @@
 
 A message to one or more people, 60 to 120 words.
 
-144 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+146 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (43)
+- [Culture](#culture) (44)
 - [Economy](#economy) (8)
 - [Education](#education) (19)
 - [Family](#family) (18)
 - [Health](#health) (18)
 - [Immigration](#immigration) (5)
 - [Miscellaneous](#miscellaneous) (17)
-- [Technology](#technology) (2)
+- [Technology](#technology) (3)
 - [Work](#work) (14)
 
 ## Culture
@@ -65,6 +65,7 @@ A message to one or more people, 60 to 120 words.
 | 41 | Vous répondez à Aaron et Perla en leur faisant des suggestions, que vous justifiez en racontant vos dernières vacances. | Reply to Aaron and Perla with suggestions, justified by recounting your last vacation. | 2 sources | 2024-10 | - |
 | 42 | Vos amis Aaron et Perla comptent passer leurs prochaines vacances dans votre pays et aimeraient découvrir des monuments historiques ainsi que la gastronomie locale. Écrivez-leur un message pour leur suggérer des endroits à visiter et des plats à goûter, en vous appuyant sur vos propres souvenirs de voyage. | Write a message to friends suggesting historical sites and local dishes to try, based on your own travel experience. | 2 sources | 2025-01 | - |
 | 43 | Aaron et Perla vous ont écrit pour vous annoncer qu'ils visiteront votre pays en janvier pendant leurs vacances. Ils souhaitent découvrir des sites historiques et goûter des plats typiques. Répondez-leur en leur faisant des suggestions, en justifiant vos choix grâce à votre propre expérience et en partageant des lieux et souvenirs de vos dernières vacances. | Reply to friends visiting your country, suggesting historical sites and local food based on your own experience. | 2 sources | 2025-02 | - |
+| 44 | Vous avez mangé dans un nouveau restaurant. Écrivez un message à votre ami(e) pour lui décrire ce restaurant : l'ambiance, la décoration, les plats et le service. | Write a message to a friend describing a new restaurant you dined at. | 2 sources | 2025-04 | - |
 
 ## Economy
 
@@ -119,8 +120,8 @@ A message to one or more people, 60 to 120 words.
 | 10 | Écrivez un message à votre ami(e) pour l'inviter à passer le prochain week-end avec vous, en précisant les activités prévues, le lieu, etc. | Write a message inviting a friend to spend next weekend with you, giving activities and place. | 5 sources | 2023-06 | - |
 | 11 | Rédigez un message à votre ami(e) pour lui proposer de venir avec vous à un festival de musique. | The candidate must write a message inviting a friend to a music festival. | 4 sources | 2022-10 | - |
 | 12 | La bibliothèque de votre quartier organise une rencontre avec un auteur / une autrice. Vous aimeriez y assister avec un(e) ami(e). Rédigez-lui un message pour présenter l'événement et l'inviter à vous accompagner. | Write a message to a friend presenting a library event with an author and inviting them along. | 4 sources | 2024-01 | - |
-| 13 | Vous venez de déménager dans une autre ville. Écrivez à un(e) ami(e) pour l'inviter à venir passer ses vacances chez vous. | The candidate must write inviting a friend to spend vacation at their new home. | 4 sources | 2024-11 | - |
-| 14 | Vous souhaitez passer une journée avec un(e) ami(e). Écrivez-lui un message pour l'inviter en précisant le programme de la journée (heure et lieu de rendez-vous, activités prévues, etc.) | Write to a friend inviting them for a day out and describing the planned schedule. | 3 sources | 2024-10 | - |
+| 13 | Vous souhaitez passer une journée avec un(e) ami(e). Écrivez-lui un message pour l'inviter en précisant le programme de la journée (heure et lieu de rendez-vous, activités prévues, etc.) | Write to a friend inviting them for a day out and describing the planned schedule. | 4 sources | 2024-10 | - |
+| 14 | Vous venez de déménager dans une autre ville. Écrivez à un(e) ami(e) pour l'inviter à venir passer ses vacances chez vous. | The candidate must write inviting a friend to spend vacation at their new home. | 4 sources | 2024-11 | - |
 | 15 | L'anniversaire de votre meilleur(e) ami(e) approche. Vous envoyez un message à votre groupe d'amis pour proposer d'offrir un cadeau collectif. Vous précisez le cadeau envisagé et expliquez comment chacun peut y contribuer. | The candidate must write a message to friends proposing a group gift for a best friend's birthday, describing the gift and how to contribute. | 3 sources | 2025-02 | - |
 | 16 | Racontez à vos amis, dans un message, une fête de famille à laquelle vous avez assisté, en expliquant ce qui vous a plu. | Write a message to your friends about a family celebration and what you enjoyed about it. | 2 sources | 2024-10 | - |
 | 17 | Léa vous a envoyé un message pour vous proposer un pique-nique samedi prochain et vous demander si vous connaissez un endroit agréable, adapté aux enfants comme aux adultes. Répondez-lui en acceptant son invitation, en proposant un lieu adapté, en décrivant cet endroit et en indiquant les activités qu'on peut y faire. | Reply to a friend accepting a picnic invitation and suggesting a suitable location with a description and activities. | 2 sources | 2025-02 | - |
@@ -187,6 +188,7 @@ A message to one or more people, 60 to 120 words.
 | --- | --- | --- | --- | --- | --- |
 | 1 | Vous êtes tombé(e) sur une petite annonce en ligne proposant un appartement à louer. Écrivez un courriel afin d'obtenir davantage d'informations sur le logement ainsi que sur le voisinage. | Write an email asking for more details about a rental apartment and its neighborhood seen in an online ad. | 3 sources | 2023-03 | - |
 | 2 | France Télévision réalise un reportage sur le sport pratiqué en amateur. Et vous, quel genre de sportif êtes-vous ? Partagez votre témoignage sur francetelevision.fr. | Write a message to France Télévisions describing your experience as an amateur athlete. | 3 sources | 2024-01 | - |
+| 3 | Vous avez passé commande d'un article sur internet, mais celui-ci arrive abîmé. Écrivez un courriel au service client pour signaler l'incident, décrire les dégâts constatés sur le produit et préciser ce que vous souhaitez comme solution. | Write an email to customer service reporting a damaged online order and requesting a resolution. | 2 sources | 2025-02 | - |
 
 ## Work
 

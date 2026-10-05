@@ -4,16 +4,16 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-227 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+229 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (34)
-- [Economy](#economy) (30)
+- [Economy](#economy) (31)
 - [Education](#education) (33)
 - [Environment](#environment) (17)
 - [Family](#family) (24)
-- [Health](#health) (23)
+- [Health](#health) (24)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (6)
 - [Technology](#technology) (16)
@@ -92,6 +92,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 28 | Christine, 56 ans : « Chaque hiver, je consacre un peu de mon temps et de mon argent à venir en aide aux personnes sans domicile qui souffrent du froid. Pour moi, il est essentiel de penser à ceux qui sont dans la difficulté. Je juge important de verser quelques dollars directement à ces personnes ou aux organismes qui les soutiennent. En plus, ce geste me donne le sentiment d'être utile, ne serait-ce qu'une fois par an ! C'est un acte de solidarité accessible à tous. » | Present Christine's view that everyone should help homeless people in winter through donations, as an act of solidarity. | 2 sources | 2025-01 | - |
 | 29 | Laura, mère de famille âgée de 45 ans, explique que sortir au restaurant coûte souvent trop cher pour elle. Même si elle aimerait parfois ne pas cuisiner, le budget familial ne le lui permet pas. Elle critique aussi la qualité des plats servis au restaurant et préfère savoir précisément ce qu'elle mange en préparant elle-même ses repas. | Compare two opposing viewpoints about eating at restaurants versus cooking at home, then give your opinion. | 2 sources | 2025-02 | - |
 | 30 | Aider les petits commerces : l'opération « Un mois sans supermarché » Créée pour s'opposer à la suprématie des grandes surfaces, cette initiative invite les consommateurs à privilégier les commerces de quartier pendant un mois entier. En achetant dans les épiceries locales, les clients bénéficient de produits plus frais et de meilleure qualité, tout en resserrant les liens sociaux avec leur voisinage. | Compare two documents about a challenge encouraging people to shop at local stores instead of supermarkets for a month. | 2 sources | 2025-03 | - |
+| 31 | Bernard (journaliste à la FRM) : « La chasse répond à des motivations variées : se nourrir, faire du commerce, gérer la faune, protéger des biens, faire de l'exercice, se divertir ou rechercher une reconnaissance sociale. » | Compare two documents presenting opposing viewpoints on hunting. | 2 sources | 2025-04 | - |
 
 ## Education
 
@@ -209,6 +210,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 21 | Devant l'aggravation de la pollution, plusieurs villes ont choisi d'interdire la circulation automobile dans leur centre. Oslo, par exemple, a mis en œuvre cette mesure avec succès : moins d'accidents, moins de dépendance au pétrole et un air plus sain. | First text: cities like Oslo successfully banned cars downtown, reducing accidents and pollution. | 2 sources | 2025-01 | - |
 | 22 | Laura, mère de plusieurs enfants, juge que manger au restaurant représente une dépense difficile à assumer pour une famille nombreuse. Elle préfère cuisiner à la maison, solution plus économique qui lui permet aussi de mieux maîtriser la qualité des repas. | Present the opposing viewpoint that home cooking is cheaper and allows better quality control than eating out. | 2 sources | 2025-01 | - |
 | 23 | Même si bannir la voiture des centres-villes présente des atouts, cela soulève aussi des difficultés. De nombreuses villes manquent encore des infrastructures nécessaires pour réussir cette transition. Il faudrait prévoir des parkings, développer les transports collectifs et laisser passer certains véhicules indispensables comme les ambulances ou les camions de livraison. | Second text: banning cars poses infrastructure challenges requiring parking, public transit and exceptions for essential vehicles. | 2 sources | 2025-01 | - |
+| 24 | Bannir la voiture en ville : une bonne idée ? La voiture reste un moyen de transport essentiel. Nombreuses sont les personnes qui ne peuvent se déplacer autrement, comme les malades ou les personnes âgées, incapables d'utiliser les transports en commun. De plus, la hausse du prix des logements en ville a poussé de nombreuses familles à s'installer plus loin, les obligeant à utiliser leur voiture pour aller travailler ou faire leurs achats. | Compare two documents debating whether cities should ban or restrict cars. | 2 sources | 2025-04 | - |
 
 ## Immigration
 

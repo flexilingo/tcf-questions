@@ -4,11 +4,11 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-283 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+284 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (52)
+- [Culture](#culture) (53)
 - [Economy](#economy) (25)
 - [Education](#education) (52)
 - [Environment](#environment) (7)
@@ -68,13 +68,14 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 43 | Vous êtes un(e) collègue de travail. Votre interlocuteur souhaite vous accompagner à un événement culturel (spectacle). Il vous pose des questions (programme, date, lieu). | The candidate must ask a colleague questions about joining them at a cultural show, covering program, date and venue. | 5 sources | 2022-10 | - |
 | 44 | Je suis votre ami(e). Je pars en vacances et je vous confie mon appartement. Posez-moi des questions à ce sujet. | The candidate must ask the friend questions about looking after their apartment while away. | 5 sources | 2023-03 | - |
 | 45 | Je travaille comme agent immobilier. Vous cherchez à louer un chalet en bord de mer pour vos prochaines vacances. Posez-moi des questions à ce sujet. | Ask a real estate agent questions to rent a seaside chalet for a holiday. | 5 sources | 2023-05 | - |
-| 46 | Nous sommes ami(e)s. J'ai fêté mon anniversaire récemment mais vous n'avez pas pu venir. Posez-moi des questions pour savoir comment la soirée s'est déroulée (activités, invités, cadeaux, etc.). | The candidate must ask a friend questions about how a birthday party went. | 5 sources | 2024-12 | - |
-| 47 | Vous discutez avec votre voisin(e). Je prends part fréquemment à des activités culturelles proposées par la municipalité. Cela vous intéresse : vous me posez des questions sur ces activités (endroits, dates, modalités, etc.). | The candidate asks the neighbor questions about municipal cultural outings (places, dates, options). | 5 sources | 2024-12 | - |
-| 48 | Vous discutez avec un(e) collègue. J'organise une fête pour mon départ à la retraite et je vous y ai invité(e). Posez-moi des questions (date, lieu, invités, etc.). | The candidate must ask a colleague questions about a retirement party. | 5 sources | 2025-01 | - |
-| 49 | Je suis agent immobilier. Vous souhaitez louer votre appartement pendant les vacances afin d'obtenir un revenu supplémentaire, et vous me posez des questions (tarifs, durée de location, profil des locataires, etc.). | The candidate asks a real estate agent about renting out their apartment for vacations (rates, period, tenant type). | 5 sources | 2025-02 | - |
-| 50 | Vous discutez avec un(e) ami(e) francophone. Vous cherchez une destination pour un voyage. Vous voulez savoir dans quels pays je suis déjà allé(e) et vous me questionnez à ce sujet. | Ask your friend about the countries they have visited to help you choose a travel destination. | 5 sources | 2025-12 | - |
-| 51 | Vous êtes dans une agence de voyages. Ayant remporté un concours, vous avez gagné un séjour et devez choisir entre Montréal, Dakar, Bruxelles ou Hanoï. Posez-moi des questions sur ces quatre villes (climat, activités, coût de la vie, etc.) afin de faire votre choix. | The candidate must question a travel agent about four cities to decide which prize destination to choose. | 5 sources | 2026-03 | - |
-| 52 | Vous êtes responsable de l'organisation d'un festival de cinéma en langue française. Votre interlocuteur, rencontré pendant son séjour touristique dans votre ville, vous pose des questions sur ce festival afin de savoir s'il souhaite y assister (dates, horaires, programmation, tarifs, etc.). | The candidate must ask the examiner (organizer of a French-language film festival) questions to decide whether to attend, covering dates, schedule, program and prices. | 5 sources | 2026-03 | - |
+| 46 | Je suis votre ami et j'organise une fête d'anniversaire. Vous acceptez de m'aider et vous me posez des questions à ce sujet. | Ask your friend, who is organizing a birthday party, questions to help him plan it. | 5 sources | 2023-07 | - |
+| 47 | Nous sommes ami(e)s. J'ai fêté mon anniversaire récemment mais vous n'avez pas pu venir. Posez-moi des questions pour savoir comment la soirée s'est déroulée (activités, invités, cadeaux, etc.). | The candidate must ask a friend questions about how a birthday party went. | 5 sources | 2024-12 | - |
+| 48 | Vous discutez avec votre voisin(e). Je prends part fréquemment à des activités culturelles proposées par la municipalité. Cela vous intéresse : vous me posez des questions sur ces activités (endroits, dates, modalités, etc.). | The candidate asks the neighbor questions about municipal cultural outings (places, dates, options). | 5 sources | 2024-12 | - |
+| 49 | Vous discutez avec un(e) collègue. J'organise une fête pour mon départ à la retraite et je vous y ai invité(e). Posez-moi des questions (date, lieu, invités, etc.). | The candidate must ask a colleague questions about a retirement party. | 5 sources | 2025-01 | - |
+| 50 | Je suis agent immobilier. Vous souhaitez louer votre appartement pendant les vacances afin d'obtenir un revenu supplémentaire, et vous me posez des questions (tarifs, durée de location, profil des locataires, etc.). | The candidate asks a real estate agent about renting out their apartment for vacations (rates, period, tenant type). | 5 sources | 2025-02 | - |
+| 51 | Vous discutez avec un(e) ami(e) francophone. Vous cherchez une destination pour un voyage. Vous voulez savoir dans quels pays je suis déjà allé(e) et vous me questionnez à ce sujet. | Ask your friend about the countries they have visited to help you choose a travel destination. | 5 sources | 2025-12 | - |
+| 52 | Vous êtes dans une agence de voyages. Ayant remporté un concours, vous avez gagné un séjour et devez choisir entre Montréal, Dakar, Bruxelles ou Hanoï. Posez-moi des questions sur ces quatre villes (climat, activités, coût de la vie, etc.) afin de faire votre choix. | The candidate must question a travel agent about four cities to decide which prize destination to choose. | 5 sources | 2026-03 | - |
+| 53 | Vous êtes responsable de l'organisation d'un festival de cinéma en langue française. Votre interlocuteur, rencontré pendant son séjour touristique dans votre ville, vous pose des questions sur ce festival afin de savoir s'il souhaite y assister (dates, horaires, programmation, tarifs, etc.). | The candidate must ask the examiner (organizer of a French-language film festival) questions to decide whether to attend, covering dates, schedule, program and prices. | 5 sources | 2026-03 | - |
 
 ## Economy
 
