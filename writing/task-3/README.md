@@ -4,16 +4,16 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-229 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+231 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (34)
 - [Economy](#economy) (31)
 - [Education](#education) (33)
-- [Environment](#environment) (17)
+- [Environment](#environment) (18)
 - [Family](#family) (24)
-- [Health](#health) (24)
+- [Health](#health) (25)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (6)
 - [Technology](#technology) (16)
@@ -153,6 +153,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 15 | Depuis mon installation à la campagne, mon quotidien a été bouleversé. Le chant des oiseaux et mon potager ont pris la place des pharmacies et des salles de cinéma que je connaissais en ville. Je cherchais à échapper au vacarme, à la pollution et à l'agitation, pour retrouver le calme et de larges espaces verts. Désormais, j'apprécie la sérénité et les grandes étendues, loin de tout voisinage. (Marie, 42 ans) | Rewrite this testimony about moving from the city to the countryside, part of a two-document comparison task. | 3 sources | 2025-06 | - |
 | 16 | Fabriquer ses produits soi-même : êtes-vous pour ou contre ? Confectionner ses propres produits naturels à la maison offre la possibilité de choisir précisément les ingrédients, garantissant ainsi des résultats plus adaptés et bénéfiques pour la santé. Cette pratique contribue également à réduire les déchets plastiques grâce à l'usage de contenants réutilisables. De plus, elle permet de réaliser des économies durables et de développer un savoir-faire créatif, tout en favorisant un mode de vie plus responsable. Toutefois, fabriquer ses produits naturels comporte quelques inconvénients. Une erreur dans une recette peut rendre le produit inefficace, voire provoquer des réactions indésirables. En outre, rechercher et préparer les ingrédients nécessite du temps et de l'énergie. Ces fabrications maison n'offrent pas toujours de garanties en matière de sécurité ou de conservation, ce qui peut favoriser le développement de bactéries. Enfin, l'achat initial d'ingrédients de qualité représente un coût qui peut freiner certaines personnes. | Summarize and compare two opposing views (120-180 words) on making homemade products. | 3 sources | 2025-07 | - |
 | 17 | Chaque année, d'énormes quantités de plastique finissent dans les océans, provoquant de graves dégâts sur la faune et la flore marines. Ces déchets fragilisent l'écosystème et peuvent même s'infiltrer dans la chaîne alimentaire. Il devient donc essentiel de réduire notre usage du plastique et de privilégier des solutions durables. | Argue that plastic waste harms marine ecosystems and urge reducing plastic use in favor of sustainable alternatives. | 2 sources | 2025-01 | - |
+| 18 | Gala (29 ans) : « Je fais partie de ceux qui ne comprennent pas comment on peut prendre du plaisir à tuer des animaux. Je fais aussi partie de ceux qui ne comprennent pas comment on peut prétendre aimer la nature tout en participant à sa destruction. » | Compare two documents presenting opposing viewpoints on hunting. | 2 sources | 2025-04 | - |
 
 ## Family
 
@@ -211,6 +212,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 22 | Laura, mère de plusieurs enfants, juge que manger au restaurant représente une dépense difficile à assumer pour une famille nombreuse. Elle préfère cuisiner à la maison, solution plus économique qui lui permet aussi de mieux maîtriser la qualité des repas. | Present the opposing viewpoint that home cooking is cheaper and allows better quality control than eating out. | 2 sources | 2025-01 | - |
 | 23 | Même si bannir la voiture des centres-villes présente des atouts, cela soulève aussi des difficultés. De nombreuses villes manquent encore des infrastructures nécessaires pour réussir cette transition. Il faudrait prévoir des parkings, développer les transports collectifs et laisser passer certains véhicules indispensables comme les ambulances ou les camions de livraison. | Second text: banning cars poses infrastructure challenges requiring parking, public transit and exceptions for essential vehicles. | 2 sources | 2025-01 | - |
 | 24 | Bannir la voiture en ville : une bonne idée ? La voiture reste un moyen de transport essentiel. Nombreuses sont les personnes qui ne peuvent se déplacer autrement, comme les malades ou les personnes âgées, incapables d'utiliser les transports en commun. De plus, la hausse du prix des logements en ville a poussé de nombreuses familles à s'installer plus loin, les obligeant à utiliser leur voiture pour aller travailler ou faire leurs achats. | Compare two documents debating whether cities should ban or restrict cars. | 2 sources | 2025-04 | - |
+| 25 | De plus en plus de grandes métropoles dans le monde cherchent à réduire ou à interdire la voiture, jugée trop polluante. Limiter la circulation, c'est avant tout une question de santé publique, mais aussi un moyen de réaliser des économies d'énergie. À Paris, par exemple, une politique volontariste encourage le vélo, ferme de grands axes routiers et développe les transports en commun. Alors, à pied ou à vélo, nos villes pourraient-elles devenir de véritables paradis pour piétons ? D'après Ouest-France. | Compare two documents debating whether cities should ban or restrict cars. | 2 sources | 2025-04 | - |
 
 ## Immigration
 

@@ -4,14 +4,14 @@
 
 A message to one or more people, 60 to 120 words.
 
-146 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+148 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (44)
 - [Economy](#economy) (8)
-- [Education](#education) (19)
-- [Family](#family) (18)
+- [Education](#education) (20)
+- [Family](#family) (19)
 - [Health](#health) (18)
 - [Immigration](#immigration) (5)
 - [Miscellaneous](#miscellaneous) (17)
@@ -103,6 +103,7 @@ A message to one or more people, 60 to 120 words.
 | 17 | Vous répondez à Alex en lui décrivant votre université : les enseignants, les étudiants, les activités proposées, etc. | Reply to Alex describing your university: teachers, students, activities offered, etc. | 2 sources | 2024-09 | - |
 | 18 | Vous répondez à une annonce d'échange linguistique afin de pratiquer le français (présentation personnelle, centres d'intérêt, etc.). | Respond to a language-exchange ad to practice French, introducing yourself and your interests. | 2 sources | 2024-10 | - |
 | 19 | Rédigez un message racontant votre expérience d'une formation suivie en ligne. Présentez les points positifs du programme, mais mentionnez aussi les difficultés éventuellement rencontrées durant l'apprentissage. | Write a message describing your experience with an online training course, mentioning both positives and difficulties. | 2 sources | 2025-02 | - |
+| 20 | Salut ! Merci de m'avoir invité(e) à ton mariage. Je suis vraiment heureux(se) pour toi ! La cérémonie se tient au château Saint-Simon, que je ne connais pas du tout. Peux-tu m'indiquer comment m'y rendre ? À bientôt, Éric. Vous répondez à Éric en lui donnant toutes les indications nécessaires pour trouver ce château (adresse, situation, moyens de transport, etc.) | Reply to Éric's email giving directions and information to find the château. | 2 sources | 2025-05 | - |
 
 ## Family
 
@@ -126,6 +127,7 @@ A message to one or more people, 60 to 120 words.
 | 16 | Racontez à vos amis, dans un message, une fête de famille à laquelle vous avez assisté, en expliquant ce qui vous a plu. | Write a message to your friends about a family celebration and what you enjoyed about it. | 2 sources | 2024-10 | - |
 | 17 | Léa vous a envoyé un message pour vous proposer un pique-nique samedi prochain et vous demander si vous connaissez un endroit agréable, adapté aux enfants comme aux adultes. Répondez-lui en acceptant son invitation, en proposant un lieu adapté, en décrivant cet endroit et en indiquant les activités qu'on peut y faire. | Reply to a friend accepting a picnic invitation and suggesting a suitable location with a description and activities. | 2 sources | 2025-02 | - |
 | 18 | Parc d'attractions : « Je suis impatient(e) de passer la journée avec toi demain. Dis-moi quelles activités nous pourrons y faire ! » Répondez à ce message de votre ami(e). | Reply to a friend's message asking what activities you can do together at an amusement park. | 2 sources | 2025-02 | - |
+| 19 | Vous avez récemment testé un nouveau restaurant proche de votre domicile. Vous écrivez un courriel à un(e) ami(e) pour partager vos impressions (décor, personnel, prix, cuisine, etc.) | Write an email to a friend describing your impressions of a new restaurant you visited. | 2 sources | 2025-04 | - |
 
 ## Health
 

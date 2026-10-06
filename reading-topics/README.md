@@ -4,11 +4,11 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-64 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+65 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (16)
+- [Culture](#culture) (17)
 - [Economy](#economy) (14)
 - [Education](#education) (4)
 - [Environment](#environment) (5)
@@ -38,6 +38,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 14 | Un article traitant du lien entre liberté de la presse et démocratie. | An article about press freedom and democracy. | 1 source | 2026-09 | - |
 | 15 | Un commentaire critique sur un film. | A commentary about a film. | 1 source | 2026-09 | - |
 | 16 | Un document précisant les critères pour intégrer un projet musical. | A document about the criteria to join a music project. | 1 source | 2026-09 | - |
+| 17 | Un document présentant des changements envisagés dans la grille des programmes d'une chaîne télévisée. | A document about proposed changes to a TV channel's programming. | 1 source | 2026-09 | - |
 
 ## Economy
 

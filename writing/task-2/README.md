@@ -4,15 +4,15 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-128 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+130 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (47)
+- [Culture](#culture) (48)
 - [Economy](#economy) (2)
 - [Education](#education) (13)
 - [Environment](#environment) (4)
-- [Family](#family) (6)
+- [Family](#family) (7)
 - [Health](#health) (13)
 - [Immigration](#immigration) (15)
 - [Miscellaneous](#miscellaneous) (3)
@@ -70,6 +70,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 45 | Vous avez participé à un festival (cinéma, musique, gastronomie, etc.) qui n'a pas répondu à vos attentes. Racontez cette expérience sur votre blog et expliquez les raisons de votre déception. | Write a blog post recounting a disappointing festival experience and explaining the reasons for your dissatisfaction. | 2 sources | 2025-06 | - |
 | 46 | « École de musique ! Cours gratuits, concerts, animations. Rendez-vous vendredi dès 9 heures. » Vous avez assisté à cet événement. Écrivez un message à vos amis pour raconter ce que vous avez vécu et donner votre avis sur cette journée. | Write a message to friends recounting your experience at a free music school event and giving your opinion. | 2 sources | 2026-02 | - |
 | 47 | Pour votre blog, écrivez un billet sur le voyage qui vous a laissé le meilleur souvenir. Décrivez le contexte de ce séjour et précisez ce qui l'a rendu mémorable. | Write a blog post about your most memorable trip, describing the circumstances and why it was unforgettable. | 2 sources | 2026-09 | - |
+| 48 | Vous avez pris part à un concours artistique, musical ou de dessin, et vous racontez cette expérience sur votre blog. | Write a 120-150 word blog post recounting your participation in an artistic competition. | 1 source | 2020-02 | - |
 
 ## Economy
 
@@ -115,6 +116,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 4 | Vous êtes bénévole dans une association venant en aide aux personnes âgées. Rédigez un billet de blog racontant votre expérience afin d'inciter d'autres personnes à rejoindre l'association. | The candidate must write a blog post about volunteering with elderly people to encourage others to join. | 6 sources | 2024-11 | - |
 | 5 | Racontez votre expérience de bénévole au sein d'une association qui vient en aide aux personnes âgées. | Recount your volunteering experience in an association helping elderly people. | 4 sources | 2023-05 | - |
 | 6 | RUBRIQUE FAMILLE — Cohabiter avec une personne âgée : quels conseils ? Notre site recueille des témoignages. Vous avez partagé votre logement avec une personne âgée. Racontez cette expérience. | The candidate must write a testimonial-style article about their experience living with an elderly person. | 4 sources | 2025-02 | - |
+| 7 | Vous préparez une fête pour l'anniversaire d'un ami et vous invitez ses proches. Vous décrivez cet événement : le lieu, la date et les activités prévues. | Write a 120-150 word text describing a birthday party you are organising for a friend, including place, date and activities. | 1 source | 2020-02 | - |
 
 ## Health
 
