@@ -4,7 +4,7 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-65 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+66 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,7 +13,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 - [Education](#education) (4)
 - [Environment](#environment) (5)
 - [Health](#health) (9)
-- [Immigration](#immigration) (1)
+- [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (6)
 - [Technology](#technology) (3)
 - [Work](#work) (6)
@@ -97,6 +97,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | # | Topic (French) | In English | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Un article retraçant le parcours de vie de la chanteuse Angèle. | An article about the life story of singer Angèle. | 1 source | 2026-09 | - |
+| 2 | Un document présentant les conditions de séjour des ressortissants étrangers. | A document about residence conditions for foreign nationals. | 1 source | 2026-09 | - |
 
 ## Miscellaneous
 

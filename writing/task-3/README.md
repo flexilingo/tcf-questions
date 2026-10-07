@@ -4,16 +4,16 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-231 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+233 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (34)
-- [Economy](#economy) (31)
+- [Economy](#economy) (32)
 - [Education](#education) (33)
 - [Environment](#environment) (18)
 - [Family](#family) (24)
-- [Health](#health) (25)
+- [Health](#health) (26)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (6)
 - [Technology](#technology) (16)
@@ -93,6 +93,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 29 | Laura, mère de famille âgée de 45 ans, explique que sortir au restaurant coûte souvent trop cher pour elle. Même si elle aimerait parfois ne pas cuisiner, le budget familial ne le lui permet pas. Elle critique aussi la qualité des plats servis au restaurant et préfère savoir précisément ce qu'elle mange en préparant elle-même ses repas. | Compare two opposing viewpoints about eating at restaurants versus cooking at home, then give your opinion. | 2 sources | 2025-02 | - |
 | 30 | Aider les petits commerces : l'opération « Un mois sans supermarché » Créée pour s'opposer à la suprématie des grandes surfaces, cette initiative invite les consommateurs à privilégier les commerces de quartier pendant un mois entier. En achetant dans les épiceries locales, les clients bénéficient de produits plus frais et de meilleure qualité, tout en resserrant les liens sociaux avec leur voisinage. | Compare two documents about a challenge encouraging people to shop at local stores instead of supermarkets for a month. | 2 sources | 2025-03 | - |
 | 31 | Bernard (journaliste à la FRM) : « La chasse répond à des motivations variées : se nourrir, faire du commerce, gérer la faune, protéger des biens, faire de l'exercice, se divertir ou rechercher une reconnaissance sociale. » | Compare two documents presenting opposing viewpoints on hunting. | 2 sources | 2025-04 | - |
+| 32 | L'organisation d'événements sportifs internationaux Certains estiment que l'État doit se porter candidat pour accueillir de grandes compétitions sportives internationales telles que les Jeux Olympiques, la Coupe du Monde ou la Coupe d'Afrique des Nations. Selon eux, ce type d'événement offre une vitrine exceptionnelle pour faire rayonner notre culture à l'échelle planétaire. Ils stimulent également l'économie locale, en créant de nombreux emplois et en permettant la rénovation des infrastructures, ce qui profite durablement à l'ensemble des habitants. Il convient toutefois de continuer à donner la priorité aux besoins des populations vulnérables. Une phase de test permettrait d'évaluer les conséquences avant toute généralisation. D'autres, au contraire, estiment que ces grandes manifestations sportives coûtent extrêmement cher à l'État. Plutôt que de financer des compétitions onéreuses, les budgets publics gagneraient à être consacrés en priorité à des domaines fondamentaux comme la santé ou l'éducation. En outre, plusieurs pays organisateurs se sont lourdement endettés sans que la population n'en tire de véritables bénéfices. Là encore, la priorité doit rester donnée aux personnes les plus vulnérables, et une période d'essai serait indispensable pour s'assurer que les conséquences demeurent acceptables. | Compare two opposing texts on whether the state should host major international sporting events and write a synthesis of about 120-180 words. | 2 sources | 2025-04 | - |
 
 ## Education
 
@@ -213,6 +214,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 23 | Même si bannir la voiture des centres-villes présente des atouts, cela soulève aussi des difficultés. De nombreuses villes manquent encore des infrastructures nécessaires pour réussir cette transition. Il faudrait prévoir des parkings, développer les transports collectifs et laisser passer certains véhicules indispensables comme les ambulances ou les camions de livraison. | Second text: banning cars poses infrastructure challenges requiring parking, public transit and exceptions for essential vehicles. | 2 sources | 2025-01 | - |
 | 24 | Bannir la voiture en ville : une bonne idée ? La voiture reste un moyen de transport essentiel. Nombreuses sont les personnes qui ne peuvent se déplacer autrement, comme les malades ou les personnes âgées, incapables d'utiliser les transports en commun. De plus, la hausse du prix des logements en ville a poussé de nombreuses familles à s'installer plus loin, les obligeant à utiliser leur voiture pour aller travailler ou faire leurs achats. | Compare two documents debating whether cities should ban or restrict cars. | 2 sources | 2025-04 | - |
 | 25 | De plus en plus de grandes métropoles dans le monde cherchent à réduire ou à interdire la voiture, jugée trop polluante. Limiter la circulation, c'est avant tout une question de santé publique, mais aussi un moyen de réaliser des économies d'énergie. À Paris, par exemple, une politique volontariste encourage le vélo, ferme de grands axes routiers et développe les transports en commun. Alors, à pied ou à vélo, nos villes pourraient-elles devenir de véritables paradis pour piétons ? D'après Ouest-France. | Compare two documents debating whether cities should ban or restrict cars. | 2 sources | 2025-04 | - |
+| 26 | Le régime végétarien offre de nombreux bénéfices. D'abord, il contribue à la santé : consommer davantage de fruits et légumes diminue les risques de maladies cardiovasculaires. Ensuite, il participe à la préservation de l'environnement en réduisant la pollution générée par la production de viande. Enfin, ce mode de vie témoigne d'un respect envers les animaux, une valeur de plus en plus partagée en Europe. | Write a short paragraph presenting the benefits of vegetarianism (health, environment, animal welfare) as part of a two-document comparison task. | 2 sources | 2025-04 | - |
 
 ## Immigration
 

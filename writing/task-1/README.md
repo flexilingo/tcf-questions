@@ -4,13 +4,13 @@
 
 A message to one or more people, 60 to 120 words.
 
-148 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+150 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (44)
-- [Economy](#economy) (8)
-- [Education](#education) (20)
+- [Economy](#economy) (9)
+- [Education](#education) (21)
 - [Family](#family) (19)
 - [Health](#health) (18)
 - [Immigration](#immigration) (5)
@@ -79,6 +79,7 @@ A message to one or more people, 60 to 120 words.
 | 6 | Vous voulez vendre votre vélo. Rédigez un courriel présentant le vélo et son prix, puis proposez un rendez-vous pour que l’acheteur puisse l’essayer. | The candidate must write an email selling a bike, including price and a meeting to test it. | 4 sources | 2023-11 | - |
 | 7 | « Ateliers gratuits, spectacles, activités diverses. On vous attend vendredi à partir de 9h ! » | Read a flyer announcing a free event with workshops, concerts and activities starting Friday at 9am. | 4 sources | 2024-08 | - |
 | 8 | « Rendez-vous vendredi, à partir de 9 heures » | The candidate must respond to a note about a meeting on Friday from 9 a.m. | 2 sources | 2024-12 | - |
+| 9 | Vous préparez votre déménagement à Nice. Adressez un message à une agence immobilière pour rechercher un appartement, en précisant vos critères (surface, budget, nombre de pièces, quartier, etc.). | Write a message to a real estate agency listing your requirements for an apartment in Nice. | 2 sources | 2025-07 | - |
 
 ## Education
 
@@ -104,6 +105,7 @@ A message to one or more people, 60 to 120 words.
 | 18 | Vous répondez à une annonce d'échange linguistique afin de pratiquer le français (présentation personnelle, centres d'intérêt, etc.). | Respond to a language-exchange ad to practice French, introducing yourself and your interests. | 2 sources | 2024-10 | - |
 | 19 | Rédigez un message racontant votre expérience d'une formation suivie en ligne. Présentez les points positifs du programme, mais mentionnez aussi les difficultés éventuellement rencontrées durant l'apprentissage. | Write a message describing your experience with an online training course, mentioning both positives and difficulties. | 2 sources | 2025-02 | - |
 | 20 | Salut ! Merci de m'avoir invité(e) à ton mariage. Je suis vraiment heureux(se) pour toi ! La cérémonie se tient au château Saint-Simon, que je ne connais pas du tout. Peux-tu m'indiquer comment m'y rendre ? À bientôt, Éric. Vous répondez à Éric en lui donnant toutes les indications nécessaires pour trouver ce château (adresse, situation, moyens de transport, etc.) | Reply to Éric's email giving directions and information to find the château. | 2 sources | 2025-05 | - |
+| 21 | Vous venez de commencer des cours dans une école de langues. Écrivez un message à vos amis pour leur raconter votre première semaine et leur faire part de vos impressions sur les cours, les professeurs et l'ambiance. | Write a message to friends sharing your impressions of your first week at a language school. | 2 sources | 2025-07 | - |
 
 ## Family
 

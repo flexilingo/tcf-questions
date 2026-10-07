@@ -4,13 +4,13 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-130 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+132 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (48)
+- [Culture](#culture) (49)
 - [Economy](#economy) (2)
-- [Education](#education) (13)
+- [Education](#education) (14)
 - [Environment](#environment) (4)
 - [Family](#family) (7)
 - [Health](#health) (13)
@@ -71,6 +71,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 46 | « École de musique ! Cours gratuits, concerts, animations. Rendez-vous vendredi dès 9 heures. » Vous avez assisté à cet événement. Écrivez un message à vos amis pour raconter ce que vous avez vécu et donner votre avis sur cette journée. | Write a message to friends recounting your experience at a free music school event and giving your opinion. | 2 sources | 2026-02 | - |
 | 47 | Pour votre blog, écrivez un billet sur le voyage qui vous a laissé le meilleur souvenir. Décrivez le contexte de ce séjour et précisez ce qui l'a rendu mémorable. | Write a blog post about your most memorable trip, describing the circumstances and why it was unforgettable. | 2 sources | 2026-09 | - |
 | 48 | Vous avez pris part à un concours artistique, musical ou de dessin, et vous racontez cette expérience sur votre blog. | Write a 120-150 word blog post recounting your participation in an artistic competition. | 1 source | 2020-02 | - |
+| 49 | Vous rédigez, sur votre blog, un billet consacré à un événement culturel auquel vous avez assisté, en exprimant ce que vous avez ressenti. | Write a 120-150 word blog post about a cultural event, expressing your feelings about it. | 1 source | 2020-02 | - |
 
 ## Economy
 
@@ -96,6 +97,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 11 | Vous avez suivi un cours de langue. Sur un forum en ligne, vous écrivez un article où vous racontez votre expérience (endroit, déroulement, durée, etc.) et donnez votre avis sur ce cours. | Write a forum article about a language course you took, describing it and giving your opinion. | 2 sources | 2025-04 | - |
 | 12 | Un forum en ligne invite ses membres à partager leur expérience d'apprentissage des langues étrangères. Rédigez un message pour ce forum dans lequel vous racontez comment vous avez appris le français, ou une autre langue, et expliquez en quoi il est important, selon vous, d'apprendre des langues étrangères. | Write a forum post recounting how you learned French (or another language) and explaining why learning foreign languages matters. | 2 sources | 2025-05 | - |
 | 13 | Vous avez participé à une formation (langue, informatique, etc.). Vous publiez un message sur un site Internet pour raconter votre expérience (contenu des cours, autres participants, formateurs, etc.). Vous précisez ce qui vous a plu ou déplu pendant cette formation. | The candidate must write a 120-150 word post recounting their experience of a training course, mentioning likes and dislikes. | 2 sources | 2026-03 | - |
+| 14 | Sur un forum, vous exposez votre point de vue sur la manière et les raisons d'apprendre une langue étrangère. | Write a 120-150 word forum post giving your opinion on how and why to learn a foreign language. | 1 source | 2021-01 | - |
 
 ## Environment
 
