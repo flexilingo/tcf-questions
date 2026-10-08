@@ -4,18 +4,18 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-233 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+235 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (34)
 - [Economy](#economy) (32)
 - [Education](#education) (33)
-- [Environment](#environment) (18)
+- [Environment](#environment) (19)
 - [Family](#family) (24)
 - [Health](#health) (26)
 - [Immigration](#immigration) (1)
-- [Miscellaneous](#miscellaneous) (6)
+- [Miscellaneous](#miscellaneous) (7)
 - [Technology](#technology) (16)
 - [Work](#work) (43)
 
@@ -155,6 +155,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 16 | Fabriquer ses produits soi-même : êtes-vous pour ou contre ? Confectionner ses propres produits naturels à la maison offre la possibilité de choisir précisément les ingrédients, garantissant ainsi des résultats plus adaptés et bénéfiques pour la santé. Cette pratique contribue également à réduire les déchets plastiques grâce à l'usage de contenants réutilisables. De plus, elle permet de réaliser des économies durables et de développer un savoir-faire créatif, tout en favorisant un mode de vie plus responsable. Toutefois, fabriquer ses produits naturels comporte quelques inconvénients. Une erreur dans une recette peut rendre le produit inefficace, voire provoquer des réactions indésirables. En outre, rechercher et préparer les ingrédients nécessite du temps et de l'énergie. Ces fabrications maison n'offrent pas toujours de garanties en matière de sécurité ou de conservation, ce qui peut favoriser le développement de bactéries. Enfin, l'achat initial d'ingrédients de qualité représente un coût qui peut freiner certaines personnes. | Summarize and compare two opposing views (120-180 words) on making homemade products. | 3 sources | 2025-07 | - |
 | 17 | Chaque année, d'énormes quantités de plastique finissent dans les océans, provoquant de graves dégâts sur la faune et la flore marines. Ces déchets fragilisent l'écosystème et peuvent même s'infiltrer dans la chaîne alimentaire. Il devient donc essentiel de réduire notre usage du plastique et de privilégier des solutions durables. | Argue that plastic waste harms marine ecosystems and urge reducing plastic use in favor of sustainable alternatives. | 2 sources | 2025-01 | - |
 | 18 | Gala (29 ans) : « Je fais partie de ceux qui ne comprennent pas comment on peut prendre du plaisir à tuer des animaux. Je fais aussi partie de ceux qui ne comprennent pas comment on peut prétendre aimer la nature tout en participant à sa destruction. » | Compare two documents presenting opposing viewpoints on hunting. | 2 sources | 2025-04 | - |
+| 19 | Le végétarisme en Europe Certains rappellent qu'on dénombre en France plus d'un million et demi de végétariens. D'après Brigitte G., membre d'une association, devenir végétarien relève avant tout d'un refus d'exploiter les animaux et d'une volonté de les défendre. Cette démarche s'accompagne fréquemment d'une préoccupation écologique : une étude scientifique attribue à l'élevage près de 18 % des émissions mondiales de CO2. Bien que la majorité des Français continue de consommer de tout, la sensibilité au bien-être animal s'est nettement développée. Qu'elle relève d'une conviction personnelle, d'une préoccupation environnementale ou d'une forme de contestation, la volonté de respecter la vie animale constitue le principal motif poussant les Français à renoncer aux produits d'origine animale. D'autres soulignent, à l'inverse, qu'une étude scientifique conclut qu'une alimentation végétarienne pourrait s'avérer plus polluante qu'un régime classique incluant de la viande. Des chercheurs de l'université Carnegie-Mellon ont comparé les émissions carbone liées à la culture des fruits et légumes à celles de l'élevage destiné à la consommation. Il en ressort que produire et transporter une laitue serait trois fois plus polluant que le faire pour un poulet. Cette étude vient ainsi remettre en question plusieurs idées reçues. | Compare two opposing texts on vegetarianism in Europe (ethical/ecological arguments vs a study claiming it's more polluting) and write a synthesis of about 120-180 words. | 2 sources | 2025-04 | - |
 
 ## Family
 
@@ -232,6 +233,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 4 | « Je recherche une bicyclette en bon état, à petit prix. Contactez-moi par mail : [email protected] » | Compare two documents/ads with opposing viewpoints as required by the task. | 4 sources | 2023-11 | - |
 | 5 | « Maman d'une petite fille, Marie raconte : « Lorsque je travaillais cinq jours par semaine, mes moments de repos passaient dans les tâches ménagères : rangement, ménage, lessive, etc. Et il fallait faire les courses le samedi, quand les magasins sont bondés ! Aujourd'hui, j'ai davantage de temps libre. Je profite de ma fille et je fais des activités qui me plaisent. Je ne voudrais plus reprendre un rythme de cinq jours par semaine ! » Marie » | Compare two opposing texts about a shorter working week and write your own view. | 3 sources | 2024-11 | - |
 | 6 | Toutefois, cette pratique n'est pas sans inconvénients. En restant à leur poste pendant la pause déjeuner, les employés s'exposent à une fatigue accrue et à un manque de contacts sociaux. De plus, les services de livraison, souvent surchargés, entraînent des retards et une offre de repas moins variée. | Present the downside that skipping lunch breaks at the office causes fatigue, less socializing, and delivery service problems. | 2 sources | 2025-01 | - |
+| 7 | Le végétarisme ne convient pas forcément à chacun. Certains ont besoin de viande afin d'obtenir des nutriments indispensables tels que le fer ou les protéines. En Europe, les habitudes culinaires traditionnelles intègrent souvent la viande, et il n'est pas toujours simple de rompre avec ces coutumes. De surcroît, adopter une alimentation végétarienne exige parfois davantage de temps et de savoir-faire pour composer des repas équilibrés, ce qui n'est pas toujours commode. | Write a short paragraph presenting the drawbacks of vegetarianism (nutrition, tradition, practicality) as part of a two-document comparison task. | 2 sources | 2025-04 | - |
 
 ## Technology
 

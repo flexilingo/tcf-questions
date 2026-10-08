@@ -4,13 +4,13 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-282 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+283 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (28)
 - [Economy](#economy) (6)
-- [Education](#education) (29)
+- [Education](#education) (30)
 - [Environment](#environment) (15)
 - [Family](#family) (25)
 - [Health](#health) (21)
@@ -92,10 +92,11 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 23 | Je partage un appartement à Winnipeg avec des colocataires. Une chambre est libre. Vous êtes intéressé(e). Posez-moi des questions pour en savoir plus sur le logement (chambre et pièces communes, loyer, autres colocataires, etc.). | The candidate must ask the examiner (playing a roommate) questions about a room available for rent. | 5 sources | 2023-07 | - |
 | 24 | Je travaille dans une auto-école. Vous voulez apprendre à conduire. Posez-moi des questions pour obtenir davantage d'informations (tarifs, durée de la formation, papiers requis, etc.). | The candidate must ask the examiner (playing a driving school employee) questions about learning to drive. | 5 sources | 2023-07 | - |
 | 25 | Il est courant que les jeunes travaillent pour payer leurs études. Quel est votre avis sur cette question ? | Give and defend your opinion on young people working to fund their studies. | 5 sources | 2024-01 | - |
-| 26 | Faut-il obligatoirement avoir fait de longues études pour réussir sa vie ? | Give your opinion on whether long studies are necessary to succeed in life. | 5 sources | 2024-10 | - |
-| 27 | La diversité en milieu scolaire favorise-t-elle l'épanouissement de tous les élèves ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether school diversity benefits all students. | 5 sources | 2024-10 | - |
-| 28 | Les entreprises devraient offrir à leurs salariés la possibilité de se former tout au long de leur carrière. Cela est-il utile à tous ? Quelle est votre position sur ce sujet ? | The candidate must give and defend an opinion on lifelong training offered by employers. | 5 sources | 2025-03 | - |
-| 29 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
+| 26 | Trouvez-vous essentiel de maîtriser la langue du pays d'accueil pour réussir son intégration ? Justifiez votre point de vue. | Give and defend your opinion on whether learning the local language is essential for integration. | 5 sources | 2024-01 | - |
+| 27 | Faut-il obligatoirement avoir fait de longues études pour réussir sa vie ? | Give your opinion on whether long studies are necessary to succeed in life. | 5 sources | 2024-10 | - |
+| 28 | La diversité en milieu scolaire favorise-t-elle l'épanouissement de tous les élèves ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether school diversity benefits all students. | 5 sources | 2024-10 | - |
+| 29 | Les entreprises devraient offrir à leurs salariés la possibilité de se former tout au long de leur carrière. Cela est-il utile à tous ? Quelle est votre position sur ce sujet ? | The candidate must give and defend an opinion on lifelong training offered by employers. | 5 sources | 2025-03 | - |
+| 30 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
 
 ## Environment
 

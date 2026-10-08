@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-132 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+134 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (49)
+- [Culture](#culture) (50)
 - [Economy](#economy) (2)
 - [Education](#education) (14)
 - [Environment](#environment) (4)
@@ -17,7 +17,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Immigration](#immigration) (15)
 - [Miscellaneous](#miscellaneous) (3)
 - [Technology](#technology) (17)
-- [Work](#work) (8)
+- [Work](#work) (9)
 
 ## Culture
 
@@ -72,6 +72,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 47 | Pour votre blog, écrivez un billet sur le voyage qui vous a laissé le meilleur souvenir. Décrivez le contexte de ce séjour et précisez ce qui l'a rendu mémorable. | Write a blog post about your most memorable trip, describing the circumstances and why it was unforgettable. | 2 sources | 2026-09 | - |
 | 48 | Vous avez pris part à un concours artistique, musical ou de dessin, et vous racontez cette expérience sur votre blog. | Write a 120-150 word blog post recounting your participation in an artistic competition. | 1 source | 2020-02 | - |
 | 49 | Vous rédigez, sur votre blog, un billet consacré à un événement culturel auquel vous avez assisté, en exprimant ce que vous avez ressenti. | Write a 120-150 word blog post about a cultural event, expressing your feelings about it. | 1 source | 2020-02 | - |
+| 50 | Vous avez passé une excellente soirée au restaurant la veille. Rédigez un article sur votre blog pour raconter ce moment. | The candidate must write a blog article about a great evening spent at a restaurant. | 1 source | 2022-10 | - |
 
 ## Economy
 
@@ -200,6 +201,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 6 | Vous êtes parti(e) travailler à l'étranger. Rédigez pour vos amis un article de blog racontant cette nouvelle expérience professionnelle, en précisant ce qui vous a le plus plu. | The candidate must write a blog article about working abroad, specifying what they liked most. | 2 sources | 2022-08 | - |
 | 7 | Vous venez de débuter un nouvel emploi. Rédigez un courriel à vos amis pour leur raconter le déroulement de votre première semaine et leur donner votre avis sur ce nouveau poste. | Write an email to your friends telling them about your first week at a new job and what you think of it. | 2 sources | 2024-05 | - |
 | 8 | Dans le cadre professionnel, vous avez suivi une journée de formation. Votre entreprise vous demande de rédiger un article destiné à vos collègues pour raconter cette journée et donner votre point de vue. | Write an article for colleagues about a professional training day, describing it and giving your opinion. | 2 sources | 2025-04 | - |
+| 9 | À la demande de votre employeur, vous rédigez pour vos collègues un compte rendu de la semaine de formation professionnelle que vous venez de suivre. | Write a 120-150 word report for colleagues about a week of professional training, as requested by your employer. | 1 source | 2021-03 | - |
 
 ---
 

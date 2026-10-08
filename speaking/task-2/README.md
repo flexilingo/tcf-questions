@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-286 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+287 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,7 +13,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Education](#education) (53)
 - [Environment](#environment) (7)
 - [Family](#family) (70)
-- [Health](#health) (18)
+- [Health](#health) (19)
 - [Immigration](#immigration) (4)
 - [Miscellaneous](#miscellaneous) (12)
 - [Technology](#technology) (5)
@@ -270,10 +270,11 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 12 | Je suis votre ami(e) et je vis au Canada. Posez-moi des questions pour savoir comment les Canadiens occupent généralement leurs fins de semaine (loisirs, habitudes, sport, etc.). | Ask a friend living in Canada questions about how Canadians typically spend their weekends. | 5 sources | 2022-12 | - |
 | 13 | Je suis votre voisin(e). Vous venez d'arriver au Canada et vous souhaitez vous renseigner sur les transports en commun. Posez-moi des questions (horaires, tarifs, moyens de transport disponibles, etc.). | The candidate must ask the neighbour questions about public transport schedules, fares and types. | 5 sources | 2023-02 | - |
 | 14 | Je suis votre ami(e) et je pratique un sport depuis longtemps. Vous voulez vous y mettre avec moi. Posez-moi des questions pour vous renseigner (type de sport, lieu, équipement, etc.). | The candidate must ask the friend questions about starting a sport together. | 5 sources | 2023-03 | - |
-| 15 | Je travaille à l'accueil d'un centre de loisirs. Vous souhaitez vous inscrire à une activité (sport, dessin, sculpture, etc.). Posez-moi des questions sur les cours proposés (tarifs, horaires, matériel requis, etc.). | The candidate must ask a leisure center receptionist questions about a class. | 5 sources | 2024-12 | - |
-| 16 | Vous discutez avec un(e) ami(e). Je viens de m'inscrire au nouveau centre sportif de notre ville. Intéressé(e), posez-moi des questions à ce sujet (horaires, tarifs, activités proposées, etc.). | The candidate must ask a friend questions about a new sports center. | 5 sources | 2024-12 | - |
-| 17 | Je suis un(e) ami(e) qui vit au Québec depuis des années. Vous venez d'arriver dans ma ville. Vous me demandez des conseils concrets pour vous installer (logement, formalités administratives, transports, magasins, activités, etc.). | The candidate asks a long-time friend for practical advice on settling into a new city in Quebec. | 5 sources | 2025-01 | - |
-| 18 | Vous vous adressez au/à la secrétaire de votre médecin, qui est actuellement en vacances. Vous me posez des questions sur son remplacement (médecin remplaçant, horaires, durée, etc.). | The candidate asks the doctor's secretary about a temporary replacement doctor (who, hours, duration). | 5 sources | 2025-03 | - |
+| 15 | Je suis votre voisin, vous venez d'emménager dans l'immeuble et vous recherchez une salle de sport. Posez-moi des questions. | The candidate must ask the examiner (playing a neighbor) questions about finding a gym. | 5 sources | 2023-07 | - |
+| 16 | Je travaille à l'accueil d'un centre de loisirs. Vous souhaitez vous inscrire à une activité (sport, dessin, sculpture, etc.). Posez-moi des questions sur les cours proposés (tarifs, horaires, matériel requis, etc.). | The candidate must ask a leisure center receptionist questions about a class. | 5 sources | 2024-12 | - |
+| 17 | Vous discutez avec un(e) ami(e). Je viens de m'inscrire au nouveau centre sportif de notre ville. Intéressé(e), posez-moi des questions à ce sujet (horaires, tarifs, activités proposées, etc.). | The candidate must ask a friend questions about a new sports center. | 5 sources | 2024-12 | - |
+| 18 | Je suis un(e) ami(e) qui vit au Québec depuis des années. Vous venez d'arriver dans ma ville. Vous me demandez des conseils concrets pour vous installer (logement, formalités administratives, transports, magasins, activités, etc.). | The candidate asks a long-time friend for practical advice on settling into a new city in Quebec. | 5 sources | 2025-01 | - |
+| 19 | Vous vous adressez au/à la secrétaire de votre médecin, qui est actuellement en vacances. Vous me posez des questions sur son remplacement (médecin remplaçant, horaires, durée, etc.). | The candidate asks the doctor's secretary about a temporary replacement doctor (who, hours, duration). | 5 sources | 2025-03 | - |
 
 ## Immigration
 

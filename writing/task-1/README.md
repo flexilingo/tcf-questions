@@ -4,17 +4,17 @@
 
 A message to one or more people, 60 to 120 words.
 
-150 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+152 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (44)
+- [Culture](#culture) (45)
 - [Economy](#economy) (9)
 - [Education](#education) (21)
 - [Family](#family) (19)
 - [Health](#health) (18)
 - [Immigration](#immigration) (5)
-- [Miscellaneous](#miscellaneous) (17)
+- [Miscellaneous](#miscellaneous) (18)
 - [Technology](#technology) (3)
 - [Work](#work) (14)
 
@@ -66,6 +66,7 @@ A message to one or more people, 60 to 120 words.
 | 42 | Vos amis Aaron et Perla comptent passer leurs prochaines vacances dans votre pays et aimeraient découvrir des monuments historiques ainsi que la gastronomie locale. Écrivez-leur un message pour leur suggérer des endroits à visiter et des plats à goûter, en vous appuyant sur vos propres souvenirs de voyage. | Write a message to friends suggesting historical sites and local dishes to try, based on your own travel experience. | 2 sources | 2025-01 | - |
 | 43 | Aaron et Perla vous ont écrit pour vous annoncer qu'ils visiteront votre pays en janvier pendant leurs vacances. Ils souhaitent découvrir des sites historiques et goûter des plats typiques. Répondez-leur en leur faisant des suggestions, en justifiant vos choix grâce à votre propre expérience et en partageant des lieux et souvenirs de vos dernières vacances. | Reply to friends visiting your country, suggesting historical sites and local food based on your own experience. | 2 sources | 2025-02 | - |
 | 44 | Vous avez mangé dans un nouveau restaurant. Écrivez un message à votre ami(e) pour lui décrire ce restaurant : l'ambiance, la décoration, les plats et le service. | Write a message to a friend describing a new restaurant you dined at. | 2 sources | 2025-04 | - |
+| 45 | Salut ! D'accord pour veiller sur ta maison et ton jardin le temps de tes vacances. Explique-moi ce que je dois faire. À bientôt. Répondez à Cédric en précisant les tâches qu'il devra effectuer chez vous pendant votre absence. | The candidate must reply to Cédric describing what he must do at the house during the absence. | 2 sources | 2025-11 | - |
 
 ## Economy
 
@@ -185,6 +186,7 @@ A message to one or more people, 60 to 120 words.
 | 15 | Rédigez un message à vos amis afin de les inviter à explorer avec vous une ville touristique. | The candidate must write a message inviting friends to discover a touristic city. | 3 sources | 2023-11 | - |
 | 16 | Rédigez un message destiné à votre ami qui a accepté de garder votre maison et votre jardin durant votre absence, afin de lui indiquer les tâches à réaliser. | Write a message to a friend explaining what to do while looking after your house and garden during your absence. | 2 sources | 2022-09 | - |
 | 17 | Vous écrivez à votre ami Mathieu pour lui présenter un endroit incontournable de votre région, qu'il devrait absolument découvrir. | Write a message to your friend Mathieu describing a must-see place in your region. | 2 sources | 2024-02 | - |
+| 18 | Vous souhaitez convier vos amis à découvrir un site touristique qui vous plaît particulièrement. Écrivez un message présentant votre projet de sortie (lieu, dates, hébergement, etc.). | The candidate must write a message inviting friends to a tourist site, giving details of the trip. | 2 sources | 2025-09 | - |
 
 ## Technology
 
