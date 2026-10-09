@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-134 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+136 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (50)
+- [Culture](#culture) (52)
 - [Economy](#economy) (2)
 - [Education](#education) (14)
 - [Environment](#environment) (4)
@@ -73,6 +73,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 48 | Vous avez pris part à un concours artistique, musical ou de dessin, et vous racontez cette expérience sur votre blog. | Write a 120-150 word blog post recounting your participation in an artistic competition. | 1 source | 2020-02 | - |
 | 49 | Vous rédigez, sur votre blog, un billet consacré à un événement culturel auquel vous avez assisté, en exprimant ce que vous avez ressenti. | Write a 120-150 word blog post about a cultural event, expressing your feelings about it. | 1 source | 2020-02 | - |
 | 50 | Vous avez passé une excellente soirée au restaurant la veille. Rédigez un article sur votre blog pour raconter ce moment. | The candidate must write a blog article about a great evening spent at a restaurant. | 1 source | 2022-10 | - |
+| 51 | Vous avez pris part à un événement appelé « la semaine de la gastronomie ». Rédigez un article racontant cette expérience. | The candidate must write an article recounting their experience at a 'cooking week' event. | 1 source | 2022-10 | - |
+| 52 | Rédigez un article de blog présentant votre artiste préféré(e) et expliquant les raisons de votre admiration. | The candidate must write a blog article describing their favorite artist and explaining why they like them. | 1 source | 2022-11 | - |
 
 ## Economy
 

@@ -4,11 +4,11 @@
 
 A message to one or more people, 60 to 120 words.
 
-152 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+154 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (45)
+- [Culture](#culture) (46)
 - [Economy](#economy) (9)
 - [Education](#education) (21)
 - [Family](#family) (19)
@@ -16,7 +16,7 @@ A message to one or more people, 60 to 120 words.
 - [Immigration](#immigration) (5)
 - [Miscellaneous](#miscellaneous) (18)
 - [Technology](#technology) (3)
-- [Work](#work) (14)
+- [Work](#work) (15)
 
 ## Culture
 
@@ -67,6 +67,7 @@ A message to one or more people, 60 to 120 words.
 | 43 | Aaron et Perla vous ont écrit pour vous annoncer qu'ils visiteront votre pays en janvier pendant leurs vacances. Ils souhaitent découvrir des sites historiques et goûter des plats typiques. Répondez-leur en leur faisant des suggestions, en justifiant vos choix grâce à votre propre expérience et en partageant des lieux et souvenirs de vos dernières vacances. | Reply to friends visiting your country, suggesting historical sites and local food based on your own experience. | 2 sources | 2025-02 | - |
 | 44 | Vous avez mangé dans un nouveau restaurant. Écrivez un message à votre ami(e) pour lui décrire ce restaurant : l'ambiance, la décoration, les plats et le service. | Write a message to a friend describing a new restaurant you dined at. | 2 sources | 2025-04 | - |
 | 45 | Salut ! D'accord pour veiller sur ta maison et ton jardin le temps de tes vacances. Explique-moi ce que je dois faire. À bientôt. Répondez à Cédric en précisant les tâches qu'il devra effectuer chez vous pendant votre absence. | The candidate must reply to Cédric describing what he must do at the house during the absence. | 2 sources | 2025-11 | - |
+| 46 | « Salut ! Je veux bien surveiller ta maison et ton jardin pendant tes vacances. Dis-moi précisément ce que je dois faire. À bientôt, Cédric » Répondez à votre ami Cédric en lui donnant des consignes pour l'entretien de votre maison et de votre jardin durant votre absence. | The candidate must write a reply to Cédric giving instructions for house and garden care during absence. | 2 sources | 2025-11 | - |
 
 ## Economy
 
@@ -214,6 +215,7 @@ A message to one or more people, 60 to 120 words.
 | 12 | Ali vous a écrit pour savoir comment se déroule votre nouvel emploi et si vous en êtes content(e). Répondez-lui en décrivant votre poste (lieu de travail, ambiance, collègues, etc.) et en lui faisant part de vos impressions. | Reply to a friend's message describing your new job and your impressions of it. | 3 sources | 2025-02 | - |
 | 13 | Vous avez suivi une journée de formation organisée par votre entreprise. Vous rédigez un courriel à vos collègues pour décrire le déroulement de cette journée et ce que vous en avez retenu de positif. | The candidate must write an email to colleagues describing a training day and what they appreciated. | 3 sources | 2025-02 | - |
 | 14 | Rédigez un message à vos amis dans lequel vous partagez votre expérience professionnelle vécue à l'étranger. | Write a message to your friends about your professional experience abroad. | 2 sources | 2022-09 | - |
+| 15 | Vous venez de débuter un emploi à l'étranger. Envoyez un message à vos amis pour raconter cette nouvelle expérience professionnelle et ce que vous avez particulièrement apprécié. | The candidate must write a message describing a new job abroad and what they enjoyed most. | 2 sources | 2025-11 | - |
 
 ---
 

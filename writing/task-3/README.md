@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-235 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+237 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -17,7 +17,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (7)
 - [Technology](#technology) (16)
-- [Work](#work) (43)
+- [Work](#work) (45)
 
 ## Culture
 
@@ -303,6 +303,8 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 41 | Paul, 63 ans, juge que verser de l'argent ne suffit pas vraiment pour venir en aide à ceux qui en ont besoin. Il préfère s'engager dans une association de quartier qui accompagne les sans-abris vers un travail et un logement stable, une solution plus durable. | Second opposing text: a man who believes long-term association work, not donations, truly helps the homeless. | 2 sources | 2025-01 | - |
 | 42 | Pierre, 65 ans, considère que donner de l'argent n'apporte pas de solution durable. À son avis, l'essentiel est d'aider ces personnes à retrouver leur indépendance grâce à un logement et un emploi. Il s'engage au quotidien dans une association qui accompagne les sans-abris vers une réinsertion professionnelle. | Second text: a man who believes sustainable help through association work is better than giving money. | 2 sources | 2025-01 | - |
 | 43 | Même si la livraison de repas au travail offre des avantages, elle présente aussi des inconvénients. Face à une forte demande, les services de livraison peuvent être saturés certains jours, causant retards et attente stressante. De plus, rester trop longtemps assis à son bureau sans pause peut accentuer la fatigue des salariés. Ne jamais s'éloigner de son environnement de travail peut nuire au bien-être et à la concentration. Il est donc important de prévoir des pauses pour se reposer et garder un bon équilibre entre vie professionnelle et repos. | Compare two opposing viewpoints about food delivery at work, then give your opinion. | 2 sources | 2025-02 | - |
+| 44 | Depuis quelque temps, la passion pour la cuisine gagne de plus en plus de monde. Les blogs culinaires se multiplient sur Internet, chacun y partageant ses essais plus ou moins réussis… Pourtant, une différence majeure sépare ces amateurs des professionnels comme moi : la formation ! Aujourd'hui, on croit que le métier de cuisinier est à la portée de tous, alors qu'il exige de nombreuses compétences et connaissances. C'est un métier exigeant, mais quelle satisfaction et quelle fierté d'être un vrai cuisinier ! D'après Gustave, chef dans un grand restaurant lyonnais. | Compare two documents debating amateur cooking blogs versus professional cooking training. | 2 sources | 2025-05 | - |
+| 45 | Le Salon du blog culinaire tient sa toute première édition en Belgique : 450 bloggeurs se retrouvent jusqu'à dimanche pour des démonstrations publiques et des échanges d'expériences. Pour certains, cette passion devient un vrai métier, à l'image de Pascale Weeks, première Française à avoir créé son blog. Depuis, elle a publié cinq livres de recettes et teste chaque jour des produits pour diverses marques. D'amateure, elle est devenue professionnelle ! D'après blog-cuisine.com. | Compare two documents debating amateur cooking blogs versus professional cooking training. | 2 sources | 2025-05 | - |
 
 ---
 
