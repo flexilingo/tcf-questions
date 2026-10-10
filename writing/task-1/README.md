@@ -4,16 +4,16 @@
 
 A message to one or more people, 60 to 120 words.
 
-154 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+156 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (46)
+- [Culture](#culture) (47)
 - [Economy](#economy) (9)
 - [Education](#education) (21)
 - [Family](#family) (19)
 - [Health](#health) (18)
-- [Immigration](#immigration) (5)
+- [Immigration](#immigration) (6)
 - [Miscellaneous](#miscellaneous) (18)
 - [Technology](#technology) (3)
 - [Work](#work) (15)
@@ -68,6 +68,7 @@ A message to one or more people, 60 to 120 words.
 | 44 | Vous avez mangé dans un nouveau restaurant. Écrivez un message à votre ami(e) pour lui décrire ce restaurant : l'ambiance, la décoration, les plats et le service. | Write a message to a friend describing a new restaurant you dined at. | 2 sources | 2025-04 | - |
 | 45 | Salut ! D'accord pour veiller sur ta maison et ton jardin le temps de tes vacances. Explique-moi ce que je dois faire. À bientôt. Répondez à Cédric en précisant les tâches qu'il devra effectuer chez vous pendant votre absence. | The candidate must reply to Cédric describing what he must do at the house during the absence. | 2 sources | 2025-11 | - |
 | 46 | « Salut ! Je veux bien surveiller ta maison et ton jardin pendant tes vacances. Dis-moi précisément ce que je dois faire. À bientôt, Cédric » Répondez à votre ami Cédric en lui donnant des consignes pour l'entretien de votre maison et de votre jardin durant votre absence. | The candidate must write a reply to Cédric giving instructions for house and garden care during absence. | 2 sources | 2025-11 | - |
+| 47 | Un proche envisage un voyage pour découvrir un nouveau pays. Envoyez-lui un message présentant votre pays et ses coutumes (endroits à voir, sites touristiques, monuments, etc.). | The candidate must write a message presenting their country and its traditions to a traveling friend. | 2 sources | 2026-01 | - |
 
 ## Economy
 
@@ -165,6 +166,7 @@ A message to one or more people, 60 to 120 words.
 | 3 | Votre amie Jeanne compte venir découvrir votre pays. Écrivez-lui un message personnel dans lequel vous lui suggérez un programme de visite. Mentionnez plusieurs types de lieux — villes, sites touristiques, monuments emblématiques — en justifiant brièvement chaque suggestion. | The candidate must write a personal message to a friend proposing a travel itinerary with various places and brief reasons for each recommendation. | 4 sources | 2024-06 | - |
 | 4 | Vous êtes parti(e) à l'étranger dans le cadre d'un séjour organisé par une agence de voyage et vous avez été déçu(e) par les prestations fournies. Écrivez à l'agence pour raconter votre expérience et donner votre avis sur ce séjour. | Write a message to a travel agency describing a disappointing organized trip and giving an opinion. | 3 sources | 2025-11 | - |
 | 5 | Répondez à Justine en respectant ces consignes : - Racontez un séjour d'études que vous avez effectué dans un autre pays. - Précisez pourquoi cette expérience a été, selon vous, positive ou négative. | Reply to Justine describing a study-abroad experience and explaining whether it was positive or negative. | 2 sources | 2024-11 | - |
+| 6 | Vous débarquez dans un nouveau pays. Écrivez à vos amis pour leur raconter votre arrivée et vos toutes premières impressions. | The candidate must write a message describing their arrival and first impressions in a new country. | 2 sources | 2025-12 | - |
 
 ## Miscellaneous
 

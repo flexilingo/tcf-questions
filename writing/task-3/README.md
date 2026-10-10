@@ -4,15 +4,15 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-237 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+239 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (34)
 - [Economy](#economy) (32)
-- [Education](#education) (33)
+- [Education](#education) (34)
 - [Environment](#environment) (19)
-- [Family](#family) (24)
+- [Family](#family) (25)
 - [Health](#health) (26)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (7)
@@ -132,6 +132,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 31 | Les écoles privées accueillent peu d'élèves venant de familles modestes. Le prix de la scolarité représente un obstacle pour beaucoup de familles. Cette division entre public et privé nuit à la mixité sociale au sein des établissements scolaires. Les jeunes scolarisés dans le privé côtoient donc moins souvent des camarades d'origines différentes. Pour certains, ce fonctionnement renforce les inégalités sociales et peut accroître le sentiment d'exclusion chez une partie des jeunes. | Present the view that private schools worsen social inequality and reduce social mixing among students. | 2 sources | 2025-02 | - |
 | 32 | Quelle est l'utilité réelle des études universitaires ? On cite souvent des chefs d'entreprise célèbres ayant réussi sans passer par l'université. Ces parcours pourraient donner l'impression qu'un talent suffit pour diriger une société. Certains entrepreneurs pensent même que les études supérieures nuisent à la réussite : l'université favoriserait, selon eux, la conformité et brimerait la créativité en poussant les étudiants vers des voies traditionnelles. Pour créer son entreprise, rien ne remplacerait, à leurs yeux, l'apprentissage autodidacte et l'expérience du terrain, sans passer par aucune institution. D'après imomete.fr. | Compare two opposing viewpoints about the usefulness of university studies for entrepreneurs, then give your opinion. | 2 sources | 2025-02 | - |
 | 33 | Les frais de scolarité élevés des établissements privés réservent l'accès à ces écoles aux familles aisées, écartant ainsi les élèves de milieux plus modestes. Cette division entre public et privé nuit à la diversité sociale et limite les contacts entre jeunes d'origines différentes. Ce système éducatif contribue donc à maintenir, voire aggraver, les inégalités sociales. | Present the viewpoint that private schools' high fees exclude poorer families and worsen social inequality. | 2 sources | 2025-03 | - |
+| 34 | Habiter à la campagne n'est pas fait pour tout le monde. Les magasins, les activités de loisirs ainsi que les services essentiels comme les écoles ou les hôpitaux se trouvent parfois éloignés de plusieurs kilomètres. Posséder une voiture devient alors indispensable, et même l'accès à Internet peut poser problème selon les régions. À l'inverse, la ville procure souvent davantage de liberté de mouvement grâce aux transports en commun, tout en offrant un cadre de vie confortable. | Write one of two opposing texts on whether countryside living suits everyone, focusing on the drawbacks compared to city life. | 2 sources | 2025-06 | - |
 
 ## Environment
 
@@ -185,6 +186,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 22 | « J'ai 19 ans et je vis encore chez mes parents. Je suis majeure et je me sens responsable, pourtant mes parents restent stricts avec moi. Avant mes 18 ans, quand je sortais, je devais être rentrée avant 20 h et je n'avais pas la permission de dormir chez des copines. Bien que je puisse maintenant rentrer plus tard, ma mère continue de s'inquiéter. Elle m'appelle sur mon téléphone pour savoir où je suis et n'arrive pas à trouver le sommeil tant que je ne suis pas revenue. Mes parents m'accordent tout de même une certaine liberté, mais j'ai l'impression d'en avoir moins que les autres jeunes de mon âge. » Marion | Compare two opposing viewpoints (120-180 words) about parental strictness, based on a testimony. | 3 sources | 2025-10 | - |
 | 23 | Document 1 : Des scientifiques ont établi que, parmi tous les types d'alimentation, seule la restauration rapide est liée à une intensification des crises d'asthme et d'allergies, indépendamment du pays, du milieu social ou du sexe. Ainsi, consommer trois hamburgers ou plus par semaine ferait grimper le risque d'asthme sévère de 39 % chez les adolescents et de 27 % chez les enfants. Document 2 : D'autres experts nuancent ce constat, estimant que le fast-food n'est pas le seul responsable et que d'autres facteurs (pollution, sédentarité, génétique) jouent un rôle tout aussi important dans l'apparition de ces troubles respiratoires et allergiques chez les jeunes. | Compare two documents presenting opposing views on whether fast food is the main cause of increased asthma and allergy symptoms in children and teenagers. | 2 sources | 2022-09 | - |
 | 24 | Faire la lecture avec ses enfants est un moment aussi plaisant que profitable. Cette pratique favorise leur développement, puisqu'une lecture régulière leur fait découvrir de nouveaux mots. Elle améliore aussi leur capacité d'écoute et les familiarise avec le langage écrit. C'est également l'occasion de partager un moment de complicité familiale, dans la détente et le jeu. Les parents devraient s'efforcer de lire des histoires à leurs enfants dès leur plus jeune âge, même à la fin d'une longue journée. Cinq à dix minutes quotidiennes suffisent pour leur transmettre durablement le goût de la lecture. | Present the view that reading with children daily, even briefly, is highly beneficial for their development. | 2 sources | 2025-02 | - |
+| 25 | Dans mon pays, les maisons de retraite sont peu nombreuses. Lorsqu'une personne âgée perd son autonomie, elle s'installe chez ses enfants ou petits-enfants, et cela se passe généralement bien. Confier nos aînés à des inconnus nous paraît une idée étrange. | The candidate must compare a viewpoint favoring family care of elderly relatives with an opposing viewpoint (from a linked second text). | 2 sources | 2025-06 | - |
 
 ## Health
 

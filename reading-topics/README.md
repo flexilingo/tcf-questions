@@ -4,11 +4,11 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-68 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+69 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (18)
+- [Culture](#culture) (19)
 - [Economy](#economy) (14)
 - [Education](#education) (4)
 - [Environment](#environment) (5)
@@ -40,6 +40,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 16 | Un document précisant les critères pour intégrer un projet musical. | A document about the criteria to join a music project. | 1 source | 2026-09 | - |
 | 17 | Un document présentant des changements envisagés dans la grille des programmes d'une chaîne télévisée. | A document about proposed changes to a TV channel's programming. | 1 source | 2026-09 | - |
 | 18 | Un document présentant un événement culturel à venir. | A document presenting an upcoming cultural event. | 1 source | 2026-09 | - |
+| 19 | Un document présentant une exposition. | A document about an exhibition. | 1 source | 2026-09 | - |
 
 ## Economy
 

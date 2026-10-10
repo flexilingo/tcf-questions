@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-136 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+138 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (52)
+- [Culture](#culture) (54)
 - [Economy](#economy) (2)
 - [Education](#education) (14)
 - [Environment](#environment) (4)
@@ -75,6 +75,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 50 | Vous avez passé une excellente soirée au restaurant la veille. Rédigez un article sur votre blog pour raconter ce moment. | The candidate must write a blog article about a great evening spent at a restaurant. | 1 source | 2022-10 | - |
 | 51 | Vous avez pris part à un événement appelé « la semaine de la gastronomie ». Rédigez un article racontant cette expérience. | The candidate must write an article recounting their experience at a 'cooking week' event. | 1 source | 2022-10 | - |
 | 52 | Rédigez un article de blog présentant votre artiste préféré(e) et expliquant les raisons de votre admiration. | The candidate must write a blog article describing their favorite artist and explaining why they like them. | 1 source | 2022-11 | - |
+| 53 | Sur votre blog, rédigez un article racontant votre expérience vécue lors d'un salon du livre. | The candidate must write a blog article about their experience at a book fair. | 1 source | 2022-11 | - |
+| 54 | Sur le forum de la compagnie Air Tropiques, racontez le voyage le plus inoubliable que vous ayez fait et expliquez les raisons de votre enthousiasme. Les meilleurs témoignages seront récompensés par deux billets d'avion vers la destination de leur choix, offerts par Air Tropiques. | Write a forum post about your most memorable trip and why you loved it, to possibly win two plane tickets. | 1 source | 2023-03 | - |
 
 ## Economy
 

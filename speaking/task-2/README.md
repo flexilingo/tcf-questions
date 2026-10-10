@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-288 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+289 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,7 +12,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Economy](#economy) (25)
 - [Education](#education) (53)
 - [Environment](#environment) (7)
-- [Family](#family) (70)
+- [Family](#family) (71)
 - [Health](#health) (19)
 - [Immigration](#immigration) (4)
 - [Miscellaneous](#miscellaneous) (12)
@@ -242,16 +242,17 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 58 | Vous jouez le rôle d'un(e) voisin(e) qui part en vacances et confie la garde de son chien à votre interlocuteur. Celui-ci vous pose des questions. | The candidate must ask a neighbor going on vacation questions about looking after their dog. | 5 sources | 2022-11 | - |
 | 59 | Je suis un(e) ami(e) installé(e) au Canada. Vous venez d'arriver dans le pays avec votre famille et vous cherchez un moyen de faire garder vos enfants. Posez-moi des questions sur les solutions possibles. | The candidate must ask the friend questions about childcare options after moving to Canada. | 5 sources | 2023-02 | - |
 | 60 | Je suis votre voisin(e). Vous venez d'emménager dans la région et vous voulez organiser une sortie en famille pour le week-end. Demandez-moi ce qu'il y a à découvrir aux alentours. | The candidate must ask the neighbour questions about places to visit nearby for a family weekend. | 5 sources | 2023-02 | - |
-| 61 | Vous discutez avec un(e) camarade canadien(ne). Votre enseignant(e) de français vous a chargé(e) de préparer un court exposé sur le mariage afin de comparer les coutumes de votre pays avec celles du Canada. Posez-lui des questions sur le mariage au Canada. | The candidate must ask questions comparing marriage customs to prepare a class presentation. | 5 sources | 2024-05 | - |
-| 62 | Je suis un(e) ami(e) qui tient un blog. Comme vous aimeriez voyager, vous me demandez des conseils pour créer votre propre blog. Posez-moi vos questions. | The candidate must ask a friend questions to get advice on starting a travel blog. | 5 sources | 2024-10 | - |
-| 63 | Je suis votre voisin(e). Vous venez d'arriver au Canada et vous souhaitez organiser l'anniversaire de votre conjoint(e). Posez-moi des questions pour préparer cette fête. | The candidate must ask a neighbor questions to organize a spouse's birthday party. | 5 sources | 2024-10 | - |
-| 64 | Vous échangez avec votre voisin(e), dont l'enfant est ami avec le vôtre. Je vous propose d'emmener votre enfant en vacances avec ma famille. Posez-moi des questions avant de donner votre accord (destination, dates, activités prévues, etc.). | The candidate must ask a neighbor questions before agreeing to a family vacation invite for their child. | 5 sources | 2024-10 | - |
-| 65 | Vous êtes mon ami(e) et vous allez m'aider à déménager vers mon nouveau logement. Posez-moi des questions sur l'organisation de cette journée (lieu, date, personnes présentes, etc.). | The candidate must ask a friend questions to organize a moving day. | 5 sources | 2024-10 | - |
-| 66 | Je suis un(e) ami(e) qui tient un blog depuis longtemps. Vous prévoyez de tenir un blog pendant votre prochain séjour au Canada. Vous me demandez des conseils (types de contenu, fréquence de publication, rubriques, etc.). | The candidate asks a friend, an experienced blogger, for advice on running a blog during a trip to Canada. | 5 sources | 2025-03 | - |
-| 67 | Vous discutez avec votre voisin(e). Je fais régulièrement des trajets en voiture et je vous propose de partager le covoiturage. Vous êtes intéressé(e) et vous me posez des questions (horaires, prix, organisation, etc.). | The candidate asks a neighbor about carpooling arrangements (times, price, organization). | 5 sources | 2025-06 | - |
-| 68 | Je suis votre ami(e). Vous voulez savoir comment s’est déroulée ma première journée dans mon nouvel emploi (atmosphère, collègues, tâches, etc.). | Ask your friend questions about how their first day at their new job went. | 5 sources | 2025-09 | - |
-| 69 | Vous discutez avec un(e) ami(e) francophone. Vous prévoyez de vous installer dans ma ville et vous me demandez des conseils pour trouver un logement. | The candidate must ask a francophone friend for advice on finding housing in their city. | 5 sources | 2025-12 | - |
-| 70 | Je suis un(e) ami(e). Vous voulez faire découvrir des spécialités québécoises à vos amis. Vous me demandez des suggestions pour organiser ce repas (lieu, menu, budget, etc.). | Ask your friend for suggestions to organise a meal featuring Quebec specialties. | 5 sources | 2026-01 | - |
+| 61 | Vous êtes mon voisin. Je m'apprête à participer à une course à pied et j'ai appris que cela vous intéresse aussi. Posez-moi des questions pour en savoir plus sur cet événement. | Ask the examiner, who is your neighbor training for a race, questions to learn more about the event. | 5 sources | 2023-07 | - |
+| 62 | Vous discutez avec un(e) camarade canadien(ne). Votre enseignant(e) de français vous a chargé(e) de préparer un court exposé sur le mariage afin de comparer les coutumes de votre pays avec celles du Canada. Posez-lui des questions sur le mariage au Canada. | The candidate must ask questions comparing marriage customs to prepare a class presentation. | 5 sources | 2024-05 | - |
+| 63 | Je suis un(e) ami(e) qui tient un blog. Comme vous aimeriez voyager, vous me demandez des conseils pour créer votre propre blog. Posez-moi vos questions. | The candidate must ask a friend questions to get advice on starting a travel blog. | 5 sources | 2024-10 | - |
+| 64 | Je suis votre voisin(e). Vous venez d'arriver au Canada et vous souhaitez organiser l'anniversaire de votre conjoint(e). Posez-moi des questions pour préparer cette fête. | The candidate must ask a neighbor questions to organize a spouse's birthday party. | 5 sources | 2024-10 | - |
+| 65 | Vous échangez avec votre voisin(e), dont l'enfant est ami avec le vôtre. Je vous propose d'emmener votre enfant en vacances avec ma famille. Posez-moi des questions avant de donner votre accord (destination, dates, activités prévues, etc.). | The candidate must ask a neighbor questions before agreeing to a family vacation invite for their child. | 5 sources | 2024-10 | - |
+| 66 | Vous êtes mon ami(e) et vous allez m'aider à déménager vers mon nouveau logement. Posez-moi des questions sur l'organisation de cette journée (lieu, date, personnes présentes, etc.). | The candidate must ask a friend questions to organize a moving day. | 5 sources | 2024-10 | - |
+| 67 | Je suis un(e) ami(e) qui tient un blog depuis longtemps. Vous prévoyez de tenir un blog pendant votre prochain séjour au Canada. Vous me demandez des conseils (types de contenu, fréquence de publication, rubriques, etc.). | The candidate asks a friend, an experienced blogger, for advice on running a blog during a trip to Canada. | 5 sources | 2025-03 | - |
+| 68 | Vous discutez avec votre voisin(e). Je fais régulièrement des trajets en voiture et je vous propose de partager le covoiturage. Vous êtes intéressé(e) et vous me posez des questions (horaires, prix, organisation, etc.). | The candidate asks a neighbor about carpooling arrangements (times, price, organization). | 5 sources | 2025-06 | - |
+| 69 | Je suis votre ami(e). Vous voulez savoir comment s’est déroulée ma première journée dans mon nouvel emploi (atmosphère, collègues, tâches, etc.). | Ask your friend questions about how their first day at their new job went. | 5 sources | 2025-09 | - |
+| 70 | Vous discutez avec un(e) ami(e) francophone. Vous prévoyez de vous installer dans ma ville et vous me demandez des conseils pour trouver un logement. | The candidate must ask a francophone friend for advice on finding housing in their city. | 5 sources | 2025-12 | - |
+| 71 | Je suis un(e) ami(e). Vous voulez faire découvrir des spécialités québécoises à vos amis. Vous me demandez des suggestions pour organiser ce repas (lieu, menu, budget, etc.). | Ask your friend for suggestions to organise a meal featuring Quebec specialties. | 5 sources | 2026-01 | - |
 
 ## Health
 

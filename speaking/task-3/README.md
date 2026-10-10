@@ -4,11 +4,11 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-284 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+285 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (28)
+- [Culture](#culture) (29)
 - [Economy](#economy) (6)
 - [Education](#education) (30)
 - [Environment](#environment) (15)
@@ -49,8 +49,9 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 24 | Que pensez-vous du développement de l'agriculture biologique ? Donnez votre opinion et défendez-la à l'aide d'exemples. | Give and defend your opinion on the growth of organic farming. | 5 sources | 2023-03 | - |
 | 25 | Changer de pays revient à changer de culture. Qu'en pensez-vous ? | Give and defend an opinion on whether moving to another country means adopting a new culture. | 5 sources | 2023-11 | - |
 | 26 | De nos jours, on envoie de moins en moins de courriers, qu'il s'agisse de cartes de vœux ou de lettres d'amour. Trouvez-vous cela regrettable ? | Give your opinion on whether it's a pity that people send fewer and fewer letters and greeting cards nowadays. | 5 sources | 2024-04 | - |
-| 27 | Lire, est-ce du temps perdu ? Êtes-vous d’accord avec cette idée ? Pourquoi ? | Give and defend your opinion on whether reading is a waste of time. | 5 sources | 2025-10 | - |
-| 28 | Beaucoup de gens n'aiment pas voyager en solitaire. Êtes-vous d'accord avec cette idée ? Expliquez pourquoi. | The candidate must give and defend their opinion on whether they agree that many people dislike traveling alone. | 5 sources | 2025-12 | - |
+| 27 | Est-il possible de connaître un pays uniquement à travers la lecture ? Pourquoi ? | Give and defend your opinion on whether one can discover a country only through books. | 5 sources | 2024-05 | - |
+| 28 | Lire, est-ce du temps perdu ? Êtes-vous d’accord avec cette idée ? Pourquoi ? | Give and defend your opinion on whether reading is a waste of time. | 5 sources | 2025-10 | - |
+| 29 | Beaucoup de gens n'aiment pas voyager en solitaire. Êtes-vous d'accord avec cette idée ? Expliquez pourquoi. | The candidate must give and defend their opinion on whether they agree that many people dislike traveling alone. | 5 sources | 2025-12 | - |
 
 ## Economy
 
