@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-138 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+140 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (54)
+- [Culture](#culture) (55)
 - [Economy](#economy) (2)
 - [Education](#education) (14)
 - [Environment](#environment) (4)
@@ -17,7 +17,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Immigration](#immigration) (15)
 - [Miscellaneous](#miscellaneous) (3)
 - [Technology](#technology) (17)
-- [Work](#work) (9)
+- [Work](#work) (10)
 
 ## Culture
 
@@ -77,6 +77,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 52 | Rédigez un article de blog présentant votre artiste préféré(e) et expliquant les raisons de votre admiration. | The candidate must write a blog article describing their favorite artist and explaining why they like them. | 1 source | 2022-11 | - |
 | 53 | Sur votre blog, rédigez un article racontant votre expérience vécue lors d'un salon du livre. | The candidate must write a blog article about their experience at a book fair. | 1 source | 2022-11 | - |
 | 54 | Sur le forum de la compagnie Air Tropiques, racontez le voyage le plus inoubliable que vous ayez fait et expliquez les raisons de votre enthousiasme. Les meilleurs témoignages seront récompensés par deux billets d'avion vers la destination de leur choix, offerts par Air Tropiques. | Write a forum post about your most memorable trip and why you loved it, to possibly win two plane tickets. | 1 source | 2023-03 | - |
+| 55 | Rédigez un billet de blog dans lequel vous racontez ce que vous avez vécu en participant à un festival de musique. | Write a blog post about your experience attending a music festival. | 1 source | 2023-04 | - |
 
 ## Economy
 
@@ -206,6 +207,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 7 | Vous venez de débuter un nouvel emploi. Rédigez un courriel à vos amis pour leur raconter le déroulement de votre première semaine et leur donner votre avis sur ce nouveau poste. | Write an email to your friends telling them about your first week at a new job and what you think of it. | 2 sources | 2024-05 | - |
 | 8 | Dans le cadre professionnel, vous avez suivi une journée de formation. Votre entreprise vous demande de rédiger un article destiné à vos collègues pour raconter cette journée et donner votre point de vue. | Write an article for colleagues about a professional training day, describing it and giving your opinion. | 2 sources | 2025-04 | - |
 | 9 | À la demande de votre employeur, vous rédigez pour vos collègues un compte rendu de la semaine de formation professionnelle que vous venez de suivre. | Write a 120-150 word report for colleagues about a week of professional training, as requested by your employer. | 1 source | 2021-03 | - |
+| 10 | NIEMA : « Mon mari a quitté son emploi de banquier à Paris pour qu'on ouvre ensemble une boulangerie en province. Avez-vous déjà vécu un changement de vie comparable, sur le plan professionnel ou personnel ? » Vous tombez sur ce message en ligne : donnez votre avis en commentaire sur le choix de Niema et de son mari Paul, puis expliquez ce que vous auriez fait dans une situation comparable. | Comment on a post about a couple changing careers to open a bakery, giving your opinion and what you would have done. | 1 source | 2023-12 | - |
 
 ---
 

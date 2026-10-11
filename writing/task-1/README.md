@@ -4,15 +4,15 @@
 
 A message to one or more people, 60 to 120 words.
 
-156 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+158 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (47)
 - [Economy](#economy) (9)
-- [Education](#education) (21)
+- [Education](#education) (22)
 - [Family](#family) (19)
-- [Health](#health) (18)
+- [Health](#health) (19)
 - [Immigration](#immigration) (6)
 - [Miscellaneous](#miscellaneous) (18)
 - [Technology](#technology) (3)
@@ -109,6 +109,7 @@ A message to one or more people, 60 to 120 words.
 | 19 | Rédigez un message racontant votre expérience d'une formation suivie en ligne. Présentez les points positifs du programme, mais mentionnez aussi les difficultés éventuellement rencontrées durant l'apprentissage. | Write a message describing your experience with an online training course, mentioning both positives and difficulties. | 2 sources | 2025-02 | - |
 | 20 | Salut ! Merci de m'avoir invité(e) à ton mariage. Je suis vraiment heureux(se) pour toi ! La cérémonie se tient au château Saint-Simon, que je ne connais pas du tout. Peux-tu m'indiquer comment m'y rendre ? À bientôt, Éric. Vous répondez à Éric en lui donnant toutes les indications nécessaires pour trouver ce château (adresse, situation, moyens de transport, etc.) | Reply to Éric's email giving directions and information to find the château. | 2 sources | 2025-05 | - |
 | 21 | Vous venez de commencer des cours dans une école de langues. Écrivez un message à vos amis pour leur raconter votre première semaine et leur faire part de vos impressions sur les cours, les professeurs et l'ambiance. | Write a message to friends sharing your impressions of your first week at a language school. | 2 sources | 2025-07 | - |
+| 22 | « Coucou, ça va ? Alors, ta nouvelle université, comment c'est ? Les étudiants sont-ils sympathiques ? Et les professeurs ? À bientôt, Alex. » Répondez à Alex par un message dans lequel vous décrivez votre université : professeurs, camarades, activités proposées, etc. | Write a reply message to a friend describing your university (teachers, students, activities). | 2 sources | 2026-01 | - |
 
 ## Family
 
@@ -156,6 +157,7 @@ A message to one or more people, 60 to 120 words.
 | 16 | Votre ami vous écrit : « J'attends avec impatience notre journée ensemble demain. Peux-tu me dire quelles activités nous ferons ? » Répondez-lui en décrivant la sortie prévue au parc de loisirs (horaires, transport, billets, activités). | The candidate must reply to a friend describing an amusement park outing with schedule, transport, tickets and activities. | 3 sources | 2024-01 | - |
 | 17 | Votre amie Carole ainsi que sa famille comptent venir visiter votre ville bientôt. Rédigez-leur un message dans lequel vous leur suggérez un hôtel pour leur séjour (prix, activités possibles, moyens de transport, etc.). | Write a short message recommending a hotel to a friend's family visiting your city, including price, activities and transport. | 3 sources | 2025-07 | - |
 | 18 | « Coucou, on m'a dit que tu fréquentes une salle de sport géniale. Tu peux me raconter ? » Répondez-lui par un message en donnant des précisions sur cette salle (atmosphère, équipements, tarifs, etc.). | Write a message replying to a friend describing your gym (atmosphere, equipment, prices). | 3 sources | 2025-07 | - |
+| 19 | Coucou, Je sais que tu fréquentes une salle de sport. Ça te plaît ? Tu peux me donner plus de détails ? J'aimerais savoir si elle vaut le coup ! Merci d'avance ! Joanna Vous répondez à votre amie Joanna. Dans votre message, vous décrivez la salle de sport où vous allez (activités proposées, horaires, tarifs, etc.). | The candidate must reply to a friend describing their gym (activities, hours, prices). | 2 sources | 2026-03 | - |
 
 ## Immigration
 

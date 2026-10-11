@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-285 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+286 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,7 +14,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Environment](#environment) (15)
 - [Family](#family) (25)
 - [Health](#health) (21)
-- [Immigration](#immigration) (40)
+- [Immigration](#immigration) (41)
 - [Miscellaneous](#miscellaneous) (44)
 - [Technology](#technology) (33)
 - [Work](#work) (42)
@@ -210,15 +210,16 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 29 | L'immigration apporte des avantages au pays qui accueille les immigrés. Partagez-vous cette affirmation ? | Give and defend your opinion on whether immigration benefits the host country. | 5 sources | 2022-12 | - |
 | 30 | On peut tout à fait s'installer dans un pays étranger sans en maîtriser la langue. Partagez-vous cet avis ? Justifiez votre réponse. | The candidate must give and defend an opinion on whether one can live abroad without speaking the local language. | 5 sources | 2023-02 | - |
 | 31 | Quelles sont les raisons principales qui poussent les individus à émigrer vers d'autres pays ? Pourquoi ? | Give and defend an opinion on the main reasons people emigrate to other countries. | 5 sources | 2023-11 | - |
-| 32 | Émigrer seul(e) ou avec sa famille : quel est votre avis sur cette question ? | Give your opinion on whether it's better to immigrate alone or with family. | 5 sources | 2024-10 | - |
-| 33 | D'après vous, quelles sont les motivations qui peuvent amener une personne à aller travailler à l'étranger ? | The candidate must discuss reasons that push people to work abroad. | 5 sources | 2025-02 | - |
-| 34 | Selon vous, faut-il du courage pour quitter son pays natal et aller vivre ailleurs ? Défendez votre point de vue. | Give and defend your opinion on whether leaving one's country to live abroad requires courage. | 5 sources | 2025-02 | - |
-| 35 | S'expatrier en famille serait plus simple que de le faire seul(e). Que pensez-vous de cette idée ? | The candidate must give and defend an opinion on whether expatriating is easier with family than alone. | 5 sources | 2025-03 | - |
-| 36 | S’adapter à un pays qu’on ne connaît pas est une épreuve difficile. Qu’en pensez-vous ? | Give and defend your opinion on whether settling in a new country is difficult. | 5 sources | 2025-07 | - |
-| 37 | D’après vous, est-il possible de s’épanouir en vivant seul ? | Give and defend your opinion on whether one can thrive living alone. | 5 sources | 2025-10 | - |
-| 38 | Explorer un nouveau pays, c’est aussi s’intéresser à ses artistes ? Êtes-vous d’accord avec cette affirmation ? | Give and defend your opinion on whether discovering a country means discovering its artists too. | 5 sources | 2025-10 | - |
-| 39 | Selon vous, les avantages de vivre à l’étranger l’emportent-ils sur les inconvénients ? Pourquoi ? | Give and defend your opinion on whether the benefits of living abroad outweigh the drawbacks. | 5 sources | 2025-10 | - |
-| 40 | Pour quelles raisons pourrait-on avoir envie de poursuivre ses études à l'étranger ? | The candidate must give their opinion on why someone might want to study abroad. | 5 sources | 2026-03 | - |
+| 32 | Pour bien s'intégrer dans un pays, faudrait-il renoncer à ses propres traditions ? Qu'en pensez-vous ? | Give and defend your opinion on whether one should abandon their traditions to integrate into a country. | 5 sources | 2024-05 | - |
+| 33 | Émigrer seul(e) ou avec sa famille : quel est votre avis sur cette question ? | Give your opinion on whether it's better to immigrate alone or with family. | 5 sources | 2024-10 | - |
+| 34 | D'après vous, quelles sont les motivations qui peuvent amener une personne à aller travailler à l'étranger ? | The candidate must discuss reasons that push people to work abroad. | 5 sources | 2025-02 | - |
+| 35 | Selon vous, faut-il du courage pour quitter son pays natal et aller vivre ailleurs ? Défendez votre point de vue. | Give and defend your opinion on whether leaving one's country to live abroad requires courage. | 5 sources | 2025-02 | - |
+| 36 | S'expatrier en famille serait plus simple que de le faire seul(e). Que pensez-vous de cette idée ? | The candidate must give and defend an opinion on whether expatriating is easier with family than alone. | 5 sources | 2025-03 | - |
+| 37 | S’adapter à un pays qu’on ne connaît pas est une épreuve difficile. Qu’en pensez-vous ? | Give and defend your opinion on whether settling in a new country is difficult. | 5 sources | 2025-07 | - |
+| 38 | D’après vous, est-il possible de s’épanouir en vivant seul ? | Give and defend your opinion on whether one can thrive living alone. | 5 sources | 2025-10 | - |
+| 39 | Explorer un nouveau pays, c’est aussi s’intéresser à ses artistes ? Êtes-vous d’accord avec cette affirmation ? | Give and defend your opinion on whether discovering a country means discovering its artists too. | 5 sources | 2025-10 | - |
+| 40 | Selon vous, les avantages de vivre à l’étranger l’emportent-ils sur les inconvénients ? Pourquoi ? | Give and defend your opinion on whether the benefits of living abroad outweigh the drawbacks. | 5 sources | 2025-10 | - |
+| 41 | Pour quelles raisons pourrait-on avoir envie de poursuivre ses études à l'étranger ? | The candidate must give their opinion on why someone might want to study abroad. | 5 sources | 2026-03 | - |
 
 ## Miscellaneous
 

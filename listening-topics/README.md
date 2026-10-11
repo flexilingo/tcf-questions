@@ -4,14 +4,14 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-66 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+67 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (12)
 - [Economy](#economy) (8)
 - [Education](#education) (4)
-- [Environment](#environment) (5)
+- [Environment](#environment) (6)
 - [Health](#health) (8)
 - [Miscellaneous](#miscellaneous) (18)
 - [Technology](#technology) (6)
@@ -65,6 +65,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 3 | Un reportage présentant une solution alimentaire durable. | A report about a sustainable food alternative. | 1 source | 2026-09 | - |
 | 4 | Un reportage sur les conséquences du changement climatique sur la biodiversité d'un parc. | A report on the effects of climate change on a park's biodiversity. | 1 source | 2026-09 | - |
 | 5 | Un reportage sur les conséquences écologiques de la culture des fleurs. | A report on the ecological impact of flower farming. | 1 source | 2026-09 | - |
+| 6 | Un reportage sur une catastrophe liée aux conditions météorologiques. | A report about a weather-related disaster. | 1 source | 2026-09 | - |
 
 ## Health
 
