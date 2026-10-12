@@ -4,20 +4,20 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-140 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+142 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (55)
 - [Economy](#economy) (2)
-- [Education](#education) (14)
+- [Education](#education) (15)
 - [Environment](#environment) (4)
 - [Family](#family) (7)
 - [Health](#health) (13)
 - [Immigration](#immigration) (15)
 - [Miscellaneous](#miscellaneous) (3)
 - [Technology](#technology) (17)
-- [Work](#work) (10)
+- [Work](#work) (11)
 
 ## Culture
 
@@ -104,6 +104,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 12 | Un forum en ligne invite ses membres à partager leur expérience d'apprentissage des langues étrangères. Rédigez un message pour ce forum dans lequel vous racontez comment vous avez appris le français, ou une autre langue, et expliquez en quoi il est important, selon vous, d'apprendre des langues étrangères. | Write a forum post recounting how you learned French (or another language) and explaining why learning foreign languages matters. | 2 sources | 2025-05 | - |
 | 13 | Vous avez participé à une formation (langue, informatique, etc.). Vous publiez un message sur un site Internet pour raconter votre expérience (contenu des cours, autres participants, formateurs, etc.). Vous précisez ce qui vous a plu ou déplu pendant cette formation. | The candidate must write a 120-150 word post recounting their experience of a training course, mentioning likes and dislikes. | 2 sources | 2026-03 | - |
 | 14 | Sur un forum, vous exposez votre point de vue sur la manière et les raisons d'apprendre une langue étrangère. | Write a 120-150 word forum post giving your opinion on how and why to learn a foreign language. | 1 source | 2021-01 | - |
+| 15 | Vous avez participé à des cours de langue ; racontez comment s'est déroulée votre première semaine (emploi du temps, contenu des cours, activités). | Write a text sharing your first week experience of language classes (schedule, courses, activities). | 1 source | 2023-12 | - |
 
 ## Environment
 
@@ -208,6 +209,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 8 | Dans le cadre professionnel, vous avez suivi une journée de formation. Votre entreprise vous demande de rédiger un article destiné à vos collègues pour raconter cette journée et donner votre point de vue. | Write an article for colleagues about a professional training day, describing it and giving your opinion. | 2 sources | 2025-04 | - |
 | 9 | À la demande de votre employeur, vous rédigez pour vos collègues un compte rendu de la semaine de formation professionnelle que vous venez de suivre. | Write a 120-150 word report for colleagues about a week of professional training, as requested by your employer. | 1 source | 2021-03 | - |
 | 10 | NIEMA : « Mon mari a quitté son emploi de banquier à Paris pour qu'on ouvre ensemble une boulangerie en province. Avez-vous déjà vécu un changement de vie comparable, sur le plan professionnel ou personnel ? » Vous tombez sur ce message en ligne : donnez votre avis en commentaire sur le choix de Niema et de son mari Paul, puis expliquez ce que vous auriez fait dans une situation comparable. | Comment on a post about a couple changing careers to open a bakery, giving your opinion and what you would have done. | 1 source | 2023-12 | - |
+| 11 | Vous devez bientôt passer un entretien d'embauche dans une entreprise canadienne. Écrivez à un ami canadien pour lui demander de vous renseigner sur les conditions de travail là-bas (horaires, durée du contrat, etc.). | Write a message to a Canadian friend asking about working conditions ahead of a job interview. | 1 source | 2024-01 | - |
 
 ---
 

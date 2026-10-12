@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-286 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+287 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -17,7 +17,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Immigration](#immigration) (41)
 - [Miscellaneous](#miscellaneous) (44)
 - [Technology](#technology) (33)
-- [Work](#work) (42)
+- [Work](#work) (43)
 
 ## Culture
 
@@ -349,11 +349,12 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 35 | Je suis votre collègue et je suis des cours de langue financés par l'entreprise. Cela vous intéresse. Posez-moi des questions à ce sujet (langues enseignées, horaires, qualité des cours, etc.). | The candidate must ask the examiner (playing a colleague) questions about company-funded language courses. | 5 sources | 2023-07 | - |
 | 36 | Je suis votre collègue et je mets ma voiture en vente. Vous êtes intéressé(e) par cet achat. Posez-moi des questions sur le véhicule (prix, état, caractéristiques, etc.). | Ask your colleague questions about the car they are selling (price, condition, features). | 5 sources | 2024-01 | - |
 | 37 | Selon vous, vivre une expérience à l'étranger assure-t-elle une réussite professionnelle ? Expliquez votre position. | Give and defend your opinion on whether living abroad guarantees career success. | 5 sources | 2024-02 | - |
-| 38 | Les employeurs devraient-ils favoriser la formation continue tout au long de la carrière ? Cela profite-t-il à tous ? | The candidate must give and defend an opinion on employers encouraging lifelong training. | 5 sources | 2024-10 | - |
-| 39 | Chacun devrait pouvoir choisir de travailler à distance. Qu'en pensez-vous ? | The candidate must give and defend an opinion on everyone having the right to work remotely. | 5 sources | 2025-01 | - |
-| 40 | Selon vous, avoir séjourné dans un pays étranger représente-t-il un avantage pour construire une carrière réussie ? | The candidate must give and defend an opinion on whether living abroad helps career success. | 5 sources | 2025-02 | - |
-| 41 | Selon vous, jusqu'à quel âge peut-on raisonnablement continuer à travailler ? Justifiez votre réponse. | The candidate must give and defend an opinion on the reasonable age limit for working. | 5 sources | 2025-03 | - |
-| 42 | À votre avis, quelles démarches un jeune devrait-il entreprendre pour décrocher un emploi ? | The candidate must give their opinion on what a young person should do to find a job. | 5 sources | 2026-01 | - |
+| 38 | Quelle est votre position concernant le travail à distance ? | The candidate must give and defend their opinion on remote work. | 5 sources | 2024-05 | - |
+| 39 | Les employeurs devraient-ils favoriser la formation continue tout au long de la carrière ? Cela profite-t-il à tous ? | The candidate must give and defend an opinion on employers encouraging lifelong training. | 5 sources | 2024-10 | - |
+| 40 | Chacun devrait pouvoir choisir de travailler à distance. Qu'en pensez-vous ? | The candidate must give and defend an opinion on everyone having the right to work remotely. | 5 sources | 2025-01 | - |
+| 41 | Selon vous, avoir séjourné dans un pays étranger représente-t-il un avantage pour construire une carrière réussie ? | The candidate must give and defend an opinion on whether living abroad helps career success. | 5 sources | 2025-02 | - |
+| 42 | Selon vous, jusqu'à quel âge peut-on raisonnablement continuer à travailler ? Justifiez votre réponse. | The candidate must give and defend an opinion on the reasonable age limit for working. | 5 sources | 2025-03 | - |
+| 43 | À votre avis, quelles démarches un jeune devrait-il entreprendre pour décrocher un emploi ? | The candidate must give their opinion on what a young person should do to find a job. | 5 sources | 2026-01 | - |
 
 ---
 

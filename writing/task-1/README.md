@@ -4,13 +4,13 @@
 
 A message to one or more people, 60 to 120 words.
 
-158 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+160 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (47)
 - [Economy](#economy) (9)
-- [Education](#education) (22)
+- [Education](#education) (24)
 - [Family](#family) (19)
 - [Health](#health) (19)
 - [Immigration](#immigration) (6)
@@ -110,6 +110,8 @@ A message to one or more people, 60 to 120 words.
 | 20 | Salut ! Merci de m'avoir invité(e) à ton mariage. Je suis vraiment heureux(se) pour toi ! La cérémonie se tient au château Saint-Simon, que je ne connais pas du tout. Peux-tu m'indiquer comment m'y rendre ? À bientôt, Éric. Vous répondez à Éric en lui donnant toutes les indications nécessaires pour trouver ce château (adresse, situation, moyens de transport, etc.) | Reply to Éric's email giving directions and information to find the château. | 2 sources | 2025-05 | - |
 | 21 | Vous venez de commencer des cours dans une école de langues. Écrivez un message à vos amis pour leur raconter votre première semaine et leur faire part de vos impressions sur les cours, les professeurs et l'ambiance. | Write a message to friends sharing your impressions of your first week at a language school. | 2 sources | 2025-07 | - |
 | 22 | « Coucou, ça va ? Alors, ta nouvelle université, comment c'est ? Les étudiants sont-ils sympathiques ? Et les professeurs ? À bientôt, Alex. » Répondez à Alex par un message dans lequel vous décrivez votre université : professeurs, camarades, activités proposées, etc. | Write a reply message to a friend describing your university (teachers, students, activities). | 2 sources | 2026-01 | - |
+| 23 | « Tu t'es inscrit(e) au centre de langues-cultures pour tous ? Raconte-moi comment est cette école ! Bisous, Paul. » Répondez à Paul en décrivant l'établissement (salle de classe, équipements, enseignant, etc.). | Write a reply to a friend describing a language school (classroom, equipment, teacher, etc.). | 2 sources | 2026-06 | - |
+| 24 | Vous rédigez un message à un ami dans lequel vous parlez de votre université : vos professeurs, vos cours et les activités que vous y pratiquez. | Write a 60-120 word message to a friend describing your university, its teachers, courses and activities. | 1 source | 2019-12 | - |
 
 ## Family
 

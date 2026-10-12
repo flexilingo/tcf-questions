@@ -4,16 +4,16 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-241 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+243 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (34)
-- [Economy](#economy) (33)
+- [Economy](#economy) (34)
 - [Education](#education) (34)
 - [Environment](#environment) (19)
 - [Family](#family) (25)
-- [Health](#health) (27)
+- [Health](#health) (28)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (7)
 - [Technology](#technology) (16)
@@ -95,6 +95,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 31 | Bernard (journaliste à la FRM) : « La chasse répond à des motivations variées : se nourrir, faire du commerce, gérer la faune, protéger des biens, faire de l'exercice, se divertir ou rechercher une reconnaissance sociale. » | Compare two documents presenting opposing viewpoints on hunting. | 2 sources | 2025-04 | - |
 | 32 | L'organisation d'événements sportifs internationaux Certains estiment que l'État doit se porter candidat pour accueillir de grandes compétitions sportives internationales telles que les Jeux Olympiques, la Coupe du Monde ou la Coupe d'Afrique des Nations. Selon eux, ce type d'événement offre une vitrine exceptionnelle pour faire rayonner notre culture à l'échelle planétaire. Ils stimulent également l'économie locale, en créant de nombreux emplois et en permettant la rénovation des infrastructures, ce qui profite durablement à l'ensemble des habitants. Il convient toutefois de continuer à donner la priorité aux besoins des populations vulnérables. Une phase de test permettrait d'évaluer les conséquences avant toute généralisation. D'autres, au contraire, estiment que ces grandes manifestations sportives coûtent extrêmement cher à l'État. Plutôt que de financer des compétitions onéreuses, les budgets publics gagneraient à être consacrés en priorité à des domaines fondamentaux comme la santé ou l'éducation. En outre, plusieurs pays organisateurs se sont lourdement endettés sans que la population n'en tire de véritables bénéfices. Là encore, la priorité doit rester donnée aux personnes les plus vulnérables, et une période d'essai serait indispensable pour s'assurer que les conséquences demeurent acceptables. | Compare two opposing texts on whether the state should host major international sporting events and write a synthesis of about 120-180 words. | 2 sources | 2025-04 | - |
 | 33 | Récemment, j'ai décidé de quitter la ville pour m'installer à la campagne, désirant profiter d'un cadre plus vert et plus calme. Désormais, au lieu de sortir au restaurant ou en soirée, je reçois mes proches chez moi, sur la terrasse, autour d'un verre ou d'un barbecue. Le coût du logement a aussi pesé lourd dans ma décision : dans les campagnes, les habitations sont bien moins chères qu'en zone urbaine. Avec un budget identique, j'ai pu acquérir une grande maison avec jardin, chose impensable en ville. | The candidate must compare this text with an opposing one on living in the countryside vs the city. | 2 sources | 2025-08 | - |
+| 34 | Je fais mes courses de nourriture à moins de dix kilomètres de chez moi. Vivant à la campagne, je peux acheter directement chez les producteurs et échanger avec eux. Certes, les prix sont parfois plus élevés, mais la qualité est meilleure et je sais d'où viennent les produits. Pour moi, il est primordial de faire confiance aux producteurs du coin et de consommer local. | The candidate must compare this text with an opposing one about local vs other food shopping. | 2 sources | 2025-09 | - |
 
 ## Education
 
@@ -220,6 +221,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 25 | De plus en plus de grandes métropoles dans le monde cherchent à réduire ou à interdire la voiture, jugée trop polluante. Limiter la circulation, c'est avant tout une question de santé publique, mais aussi un moyen de réaliser des économies d'énergie. À Paris, par exemple, une politique volontariste encourage le vélo, ferme de grands axes routiers et développe les transports en commun. Alors, à pied ou à vélo, nos villes pourraient-elles devenir de véritables paradis pour piétons ? D'après Ouest-France. | Compare two documents debating whether cities should ban or restrict cars. | 2 sources | 2025-04 | - |
 | 26 | Le régime végétarien offre de nombreux bénéfices. D'abord, il contribue à la santé : consommer davantage de fruits et légumes diminue les risques de maladies cardiovasculaires. Ensuite, il participe à la préservation de l'environnement en réduisant la pollution générée par la production de viande. Enfin, ce mode de vie témoigne d'un respect envers les animaux, une valeur de plus en plus partagée en Europe. | Write a short paragraph presenting the benefits of vegetarianism (health, environment, animal welfare) as part of a two-document comparison task. | 2 sources | 2025-04 | - |
 | 27 | Ce système comporte cependant certaines limites. Lorsque les commandes affluent, les livreurs risquent de se retrouver surchargés, entraînant retards et tension. Par ailleurs, rester assis en continu sans véritable pause peut engendrer de la fatigue. Il est donc recommandé de s'accorder une coupure, même courte, afin de conserver son efficacité. | Write a paragraph about the limits of a delivery/work system (overload, fatigue) as part of a two-document comparison task. | 2 sources | 2025-07 | - |
+| 28 | Votre ami Cédric, convié à votre mariage au Château de Chombony, ne sait pas comment s'y rendre. Écrivez-lui un message pour lui indiquer où se trouve le château et comment y accéder (emplacement, itinéraire, moyens de transport, etc.). | The candidate must write a message explaining to Cédric how to get to the wedding venue. | 2 sources | 2025-09 | - |
 
 ## Immigration
 

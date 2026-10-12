@@ -4,7 +4,7 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-67 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+68 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,7 +14,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 - [Environment](#environment) (6)
 - [Health](#health) (8)
 - [Miscellaneous](#miscellaneous) (18)
-- [Technology](#technology) (6)
+- [Technology](#technology) (7)
 - [Work](#work) (5)
 
 ## Culture
@@ -113,6 +113,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 4 | Un document expliquant le fonctionnement d'un système de recommandation en ligne. | A document about how an online recommendation system works. | 1 source | 2026-09 | - |
 | 5 | Un reportage sur le piratage de données personnelles d'un réseau social. | A report about a data leak on a social network. | 1 source | 2026-09 | - |
 | 6 | Un reportage sur les pistes de recherche actuelles concernant le clonage humain. | A report on current research directions in human cloning. | 1 source | 2026-09 | - |
+| 7 | Un reportage sur une découverte scientifique en astrophysique. | A report about a scientific discovery in astrophysics. | 1 source | 2026-09 | - |
 
 ## Work
 
