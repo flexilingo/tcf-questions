@@ -4,14 +4,14 @@
 
 A message to one or more people, 60 to 120 words.
 
-160 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+162 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (47)
 - [Economy](#economy) (9)
 - [Education](#education) (24)
-- [Family](#family) (19)
+- [Family](#family) (21)
 - [Health](#health) (19)
 - [Immigration](#immigration) (6)
 - [Miscellaneous](#miscellaneous) (18)
@@ -136,6 +136,8 @@ A message to one or more people, 60 to 120 words.
 | 17 | Léa vous a envoyé un message pour vous proposer un pique-nique samedi prochain et vous demander si vous connaissez un endroit agréable, adapté aux enfants comme aux adultes. Répondez-lui en acceptant son invitation, en proposant un lieu adapté, en décrivant cet endroit et en indiquant les activités qu'on peut y faire. | Reply to a friend accepting a picnic invitation and suggesting a suitable location with a description and activities. | 2 sources | 2025-02 | - |
 | 18 | Parc d'attractions : « Je suis impatient(e) de passer la journée avec toi demain. Dis-moi quelles activités nous pourrons y faire ! » Répondez à ce message de votre ami(e). | Reply to a friend's message asking what activities you can do together at an amusement park. | 2 sources | 2025-02 | - |
 | 19 | Vous avez récemment testé un nouveau restaurant proche de votre domicile. Vous écrivez un courriel à un(e) ami(e) pour partager vos impressions (décor, personnel, prix, cuisine, etc.) | Write an email to a friend describing your impressions of a new restaurant you visited. | 2 sources | 2025-04 | - |
+| 20 | Vous préparez une fête surprise pour l'anniversaire d'un ami et vous écrivez aux copains de celui-ci pour les convier. | Write a 60-120 word message inviting your friend's friends to a surprise birthday party. | 1 source | 2020-02 | - |
+| 21 | Vous écrivez à un ami convié à votre mariage, célébré au château Saint-Simon, afin de lui expliquer comment s'y rendre. | Write a 60-120 word message giving directions to a friend invited to your wedding at Château Saint-Simon. | 1 source | 2021-01 | - |
 
 ## Health
 

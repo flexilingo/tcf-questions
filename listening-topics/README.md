@@ -4,11 +4,11 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-68 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+69 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (12)
+- [Culture](#culture) (13)
 - [Economy](#economy) (8)
 - [Education](#education) (4)
 - [Environment](#environment) (6)
@@ -33,6 +33,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 10 | Un portrait consacré à un artisan boulanger. | A profile of an artisan baker. | 1 source | 2026-09 | - |
 | 11 | Un reportage retraçant l'évolution de la carrière d'une artiste. | A report about the career development of an artist. | 1 source | 2026-09 | - |
 | 12 | Un reportage sur les bienfaits ou particularités de certains aliments alternatifs. | A report on the benefits or features of alternative foods. | 1 source | 2026-09 | - |
+| 13 | Un reportage sur une tradition festive liée aux illuminations. | A report about a festive tradition of light displays. | 1 source | 2026-09 | - |
 
 ## Economy
 

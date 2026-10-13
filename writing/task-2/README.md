@@ -4,19 +4,19 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-142 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+144 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (55)
 - [Economy](#economy) (2)
-- [Education](#education) (15)
+- [Education](#education) (16)
 - [Environment](#environment) (4)
 - [Family](#family) (7)
 - [Health](#health) (13)
 - [Immigration](#immigration) (15)
 - [Miscellaneous](#miscellaneous) (3)
-- [Technology](#technology) (17)
+- [Technology](#technology) (18)
 - [Work](#work) (11)
 
 ## Culture
@@ -105,6 +105,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 13 | Vous avez participé à une formation (langue, informatique, etc.). Vous publiez un message sur un site Internet pour raconter votre expérience (contenu des cours, autres participants, formateurs, etc.). Vous précisez ce qui vous a plu ou déplu pendant cette formation. | The candidate must write a 120-150 word post recounting their experience of a training course, mentioning likes and dislikes. | 2 sources | 2026-03 | - |
 | 14 | Sur un forum, vous exposez votre point de vue sur la manière et les raisons d'apprendre une langue étrangère. | Write a 120-150 word forum post giving your opinion on how and why to learn a foreign language. | 1 source | 2021-01 | - |
 | 15 | Vous avez participé à des cours de langue ; racontez comment s'est déroulée votre première semaine (emploi du temps, contenu des cours, activités). | Write a text sharing your first week experience of language classes (schedule, courses, activities). | 1 source | 2023-12 | - |
+| 16 | Vous venez de commencer vos études à l'université de Montréal. Écrivez à un ami ou une amie pour lui raconter votre première semaine sur le campus. | Write a message to a friend about your first week at university in Montreal. | 1 source | 2024-01 | - |
 
 ## Environment
 
@@ -194,6 +195,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 15 | À l'occasion de la Semaine du goût, vous avez participé à une activité de découverte des cuisines du monde. Rédigez un article pour le site Internet de votre ville, dans lequel vous racontez votre expérience et précisez ce qui vous a plu. | Write a website article recounting participation in a world cuisine discovery event and what was enjoyed. | 3 sources | 2025-11 | - |
 | 16 | Vous avez pris part à un concours culinaire. Sur votre site Internet, vous racontez le déroulement de cette journée et précisez ce qui vous a plu ou moins plu dans cette expérience. | Write a blog post recounting a cooking contest and what you liked or disliked about it. | 3 sources | 2026-01 | - |
 | 17 | Sur le site de la salle de sport, vous réagissez à ce message : vous racontez votre propre expérience et vous exprimez votre opinion. | Respond on the gym's website by recounting your own experience there and giving your opinion. | 2 sources | 2024-02 | - |
+| 18 | Un produit acheté en ligne ne correspondait pas à sa description. Écrivez au service client pour signaler le problème et demander un remboursement ou un échange. | Write to customer service complaining about a mismatched online purchase and requesting a refund or exchange. | 1 source | 2024-02 | - |
 
 ## Work
 

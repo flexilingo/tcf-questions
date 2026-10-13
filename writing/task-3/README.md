@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-243 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+245 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,7 +12,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Economy](#economy) (34)
 - [Education](#education) (34)
 - [Environment](#environment) (19)
-- [Family](#family) (25)
+- [Family](#family) (27)
 - [Health](#health) (28)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (7)
@@ -189,6 +189,8 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 23 | Document 1 : Des scientifiques ont établi que, parmi tous les types d'alimentation, seule la restauration rapide est liée à une intensification des crises d'asthme et d'allergies, indépendamment du pays, du milieu social ou du sexe. Ainsi, consommer trois hamburgers ou plus par semaine ferait grimper le risque d'asthme sévère de 39 % chez les adolescents et de 27 % chez les enfants. Document 2 : D'autres experts nuancent ce constat, estimant que le fast-food n'est pas le seul responsable et que d'autres facteurs (pollution, sédentarité, génétique) jouent un rôle tout aussi important dans l'apparition de ces troubles respiratoires et allergiques chez les jeunes. | Compare two documents presenting opposing views on whether fast food is the main cause of increased asthma and allergy symptoms in children and teenagers. | 2 sources | 2022-09 | - |
 | 24 | Faire la lecture avec ses enfants est un moment aussi plaisant que profitable. Cette pratique favorise leur développement, puisqu'une lecture régulière leur fait découvrir de nouveaux mots. Elle améliore aussi leur capacité d'écoute et les familiarise avec le langage écrit. C'est également l'occasion de partager un moment de complicité familiale, dans la détente et le jeu. Les parents devraient s'efforcer de lire des histoires à leurs enfants dès leur plus jeune âge, même à la fin d'une longue journée. Cinq à dix minutes quotidiennes suffisent pour leur transmettre durablement le goût de la lecture. | Present the view that reading with children daily, even briefly, is highly beneficial for their development. | 2 sources | 2025-02 | - |
 | 25 | Dans mon pays, les maisons de retraite sont peu nombreuses. Lorsqu'une personne âgée perd son autonomie, elle s'installe chez ses enfants ou petits-enfants, et cela se passe généralement bien. Confier nos aînés à des inconnus nous paraît une idée étrange. | The candidate must compare a viewpoint favoring family care of elderly relatives with an opposing viewpoint (from a linked second text). | 2 sources | 2025-06 | - |
+| 26 | Certains parents, ne voulant pas se montrer trop stricts, exercent peu d'autorité sur leurs enfants. Ils craignent qu'en leur imposant des limites, ceux-ci deviennent malheureux ou perdent leur personnalité. Ils cèdent donc à toutes leurs demandes. Jusqu'à l'adolescence, cela n'a guère de conséquences. Mais devenus adultes, ces enfants peineront à s'intégrer en société, ayant du mal à respecter les règles. | The candidate must compare this text with an opposing one about parental strictness. | 2 sources | 2025-10 | - |
+| 27 | Bernard : « Je défends la restauration rapide. Je travaille dans une chaîne réputée et je considère qu'on peut y manger équilibré. Les menus proposent légumes, salades, pain, viande. C'est au client de décider de ce qu'il mange : prendre plusieurs sandwichs et trop de sauce, ce n'est pas sain. Ces établissements sont aussi impeccables et accessibles, aussi bien pour les familles que pour les groupes d'amis. » | The candidate must compare this text with an opposing one about fast food. | 2 sources | 2025-11 | - |
 
 ## Health
 

@@ -4,7 +4,7 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-71 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+72 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,7 +14,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 - [Environment](#environment) (5)
 - [Health](#health) (9)
 - [Immigration](#immigration) (2)
-- [Miscellaneous](#miscellaneous) (7)
+- [Miscellaneous](#miscellaneous) (8)
 - [Technology](#technology) (3)
 - [Work](#work) (6)
 
@@ -114,6 +114,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 5 | Un article traitant de la psychologie liée aux prénoms. | An article about the psychology of first names. | 1 source | 2026-09 | - |
 | 6 | Un bulletin annonçant les prévisions météorologiques. | A weather forecast bulletin. | 1 source | 2026-09 | - |
 | 7 | Un document présentant les obligations légales à respecter pour voyager. | A document about legal requirements for travel. | 1 source | 2026-09 | - |
+| 8 | Un document sur la manière dont les Français passent leurs vacances d'été. | A document about how French people spend their summer holidays. | 1 source | 2026-09 | - |
 
 ## Technology
 
