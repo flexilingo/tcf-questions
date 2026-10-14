@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-245 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+247 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,11 +13,11 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Education](#education) (34)
 - [Environment](#environment) (19)
 - [Family](#family) (27)
-- [Health](#health) (28)
+- [Health](#health) (29)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (7)
 - [Technology](#technology) (16)
-- [Work](#work) (45)
+- [Work](#work) (46)
 
 ## Culture
 
@@ -224,6 +224,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 26 | Le régime végétarien offre de nombreux bénéfices. D'abord, il contribue à la santé : consommer davantage de fruits et légumes diminue les risques de maladies cardiovasculaires. Ensuite, il participe à la préservation de l'environnement en réduisant la pollution générée par la production de viande. Enfin, ce mode de vie témoigne d'un respect envers les animaux, une valeur de plus en plus partagée en Europe. | Write a short paragraph presenting the benefits of vegetarianism (health, environment, animal welfare) as part of a two-document comparison task. | 2 sources | 2025-04 | - |
 | 27 | Ce système comporte cependant certaines limites. Lorsque les commandes affluent, les livreurs risquent de se retrouver surchargés, entraînant retards et tension. Par ailleurs, rester assis en continu sans véritable pause peut engendrer de la fatigue. Il est donc recommandé de s'accorder une coupure, même courte, afin de conserver son efficacité. | Write a paragraph about the limits of a delivery/work system (overload, fatigue) as part of a two-document comparison task. | 2 sources | 2025-07 | - |
 | 28 | Votre ami Cédric, convié à votre mariage au Château de Chombony, ne sait pas comment s'y rendre. Écrivez-lui un message pour lui indiquer où se trouve le château et comment y accéder (emplacement, itinéraire, moyens de transport, etc.). | The candidate must write a message explaining to Cédric how to get to the wedding venue. | 2 sources | 2025-09 | - |
+| 29 | Je suis pour la restauration rapide. Je travaille dans une grande chaîne et j'estime qu'on peut y manger sainement. Les menus offrent des plats complets : légumes, salades, pain, viande... C'est au consommateur d'assumer ses choix. Prendre deux sandwichs avec beaucoup de ketchup, ce n'est pas équilibré. Par ailleurs, ces restaurants respectent des normes d'hygiène strictes et sont pratiques, que l'on vienne avec des enfants ou entre amis. Opal | The candidate must compare this text with an opposing one about fast food. | 2 sources | 2025-11 | - |
 
 ## Immigration
 
@@ -313,6 +314,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 43 | Même si la livraison de repas au travail offre des avantages, elle présente aussi des inconvénients. Face à une forte demande, les services de livraison peuvent être saturés certains jours, causant retards et attente stressante. De plus, rester trop longtemps assis à son bureau sans pause peut accentuer la fatigue des salariés. Ne jamais s'éloigner de son environnement de travail peut nuire au bien-être et à la concentration. Il est donc important de prévoir des pauses pour se reposer et garder un bon équilibre entre vie professionnelle et repos. | Compare two opposing viewpoints about food delivery at work, then give your opinion. | 2 sources | 2025-02 | - |
 | 44 | Depuis quelque temps, la passion pour la cuisine gagne de plus en plus de monde. Les blogs culinaires se multiplient sur Internet, chacun y partageant ses essais plus ou moins réussis… Pourtant, une différence majeure sépare ces amateurs des professionnels comme moi : la formation ! Aujourd'hui, on croit que le métier de cuisinier est à la portée de tous, alors qu'il exige de nombreuses compétences et connaissances. C'est un métier exigeant, mais quelle satisfaction et quelle fierté d'être un vrai cuisinier ! D'après Gustave, chef dans un grand restaurant lyonnais. | Compare two documents debating amateur cooking blogs versus professional cooking training. | 2 sources | 2025-05 | - |
 | 45 | Le Salon du blog culinaire tient sa toute première édition en Belgique : 450 bloggeurs se retrouvent jusqu'à dimanche pour des démonstrations publiques et des échanges d'expériences. Pour certains, cette passion devient un vrai métier, à l'image de Pascale Weeks, première Française à avoir créé son blog. Depuis, elle a publié cinq livres de recettes et teste chaque jour des produits pour diverses marques. D'amateure, elle est devenue professionnelle ! D'après blog-cuisine.com. | Compare two documents debating amateur cooking blogs versus professional cooking training. | 2 sources | 2025-05 | - |
+| 46 | Dans certaines régions, comme le Québec, l'égalité entre hommes et femmes est bien réelle. De nombreuses femmes accèdent à des postes à responsabilités et exercent des métiers longtemps réservés aux hommes, comme la construction ou la direction d'entreprise. Grâce aux lois sur l'égalité et à l'évolution des esprits, les femmes ont maintenant accès aux mêmes carrières que les hommes, sans être discriminées. | The candidate must compare this text with an opposing one about gender equality at work. | 2 sources | 2026-01 | - |
 
 ---
 

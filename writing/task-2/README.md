@@ -4,7 +4,7 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-144 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+146 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -17,7 +17,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Immigration](#immigration) (15)
 - [Miscellaneous](#miscellaneous) (3)
 - [Technology](#technology) (18)
-- [Work](#work) (11)
+- [Work](#work) (13)
 
 ## Culture
 
@@ -212,6 +212,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 9 | À la demande de votre employeur, vous rédigez pour vos collègues un compte rendu de la semaine de formation professionnelle que vous venez de suivre. | Write a 120-150 word report for colleagues about a week of professional training, as requested by your employer. | 1 source | 2021-03 | - |
 | 10 | NIEMA : « Mon mari a quitté son emploi de banquier à Paris pour qu'on ouvre ensemble une boulangerie en province. Avez-vous déjà vécu un changement de vie comparable, sur le plan professionnel ou personnel ? » Vous tombez sur ce message en ligne : donnez votre avis en commentaire sur le choix de Niema et de son mari Paul, puis expliquez ce que vous auriez fait dans une situation comparable. | Comment on a post about a couple changing careers to open a bakery, giving your opinion and what you would have done. | 1 source | 2023-12 | - |
 | 11 | Vous devez bientôt passer un entretien d'embauche dans une entreprise canadienne. Écrivez à un ami canadien pour lui demander de vous renseigner sur les conditions de travail là-bas (horaires, durée du contrat, etc.). | Write a message to a Canadian friend asking about working conditions ahead of a job interview. | 1 source | 2024-01 | - |
+| 12 | Votre stage en entreprise n'a pas répondu à vos attentes. Écrivez au responsable pour exprimer votre déception et proposer des pistes d'amélioration pour les futurs stagiaires. | Write to a manager expressing disappointment about an internship and suggesting improvements. | 1 source | 2024-02 | - |
+| 13 | Après avoir assisté à une conférence professionnelle décevante, rédigez un article destiné au site de votre entreprise pour partager votre expérience et proposer des pistes d'amélioration pour les prochains événements, en 120 à 150 mots. | Write an article for your company's website about a disappointing professional conference and suggest improvements for future events, in 120-150 words. | 1 source | 2024-03 | - |
 
 ---
 

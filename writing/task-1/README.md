@@ -4,17 +4,17 @@
 
 A message to one or more people, 60 to 120 words.
 
-162 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+164 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (47)
 - [Economy](#economy) (9)
 - [Education](#education) (24)
-- [Family](#family) (21)
+- [Family](#family) (22)
 - [Health](#health) (19)
 - [Immigration](#immigration) (6)
-- [Miscellaneous](#miscellaneous) (18)
+- [Miscellaneous](#miscellaneous) (19)
 - [Technology](#technology) (3)
 - [Work](#work) (15)
 
@@ -138,6 +138,7 @@ A message to one or more people, 60 to 120 words.
 | 19 | Vous avez récemment testé un nouveau restaurant proche de votre domicile. Vous écrivez un courriel à un(e) ami(e) pour partager vos impressions (décor, personnel, prix, cuisine, etc.) | Write an email to a friend describing your impressions of a new restaurant you visited. | 2 sources | 2025-04 | - |
 | 20 | Vous préparez une fête surprise pour l'anniversaire d'un ami et vous écrivez aux copains de celui-ci pour les convier. | Write a 60-120 word message inviting your friend's friends to a surprise birthday party. | 1 source | 2020-02 | - |
 | 21 | Vous écrivez à un ami convié à votre mariage, célébré au château Saint-Simon, afin de lui expliquer comment s'y rendre. | Write a 60-120 word message giving directions to a friend invited to your wedding at Château Saint-Simon. | 1 source | 2021-01 | - |
+| 22 | La médiathèque de votre ville organise une rencontre avec un auteur. Rédigez un message pour convier votre ami(e) à cet événement. | The candidate must write a message inviting a friend to a library event to meet a writer. | 1 source | 2022-10 | - |
 
 ## Health
 
@@ -196,6 +197,7 @@ A message to one or more people, 60 to 120 words.
 | 16 | Rédigez un message destiné à votre ami qui a accepté de garder votre maison et votre jardin durant votre absence, afin de lui indiquer les tâches à réaliser. | Write a message to a friend explaining what to do while looking after your house and garden during your absence. | 2 sources | 2022-09 | - |
 | 17 | Vous écrivez à votre ami Mathieu pour lui présenter un endroit incontournable de votre région, qu'il devrait absolument découvrir. | Write a message to your friend Mathieu describing a must-see place in your region. | 2 sources | 2024-02 | - |
 | 18 | Vous souhaitez convier vos amis à découvrir un site touristique qui vous plaît particulièrement. Écrivez un message présentant votre projet de sortie (lieu, dates, hébergement, etc.). | The candidate must write a message inviting friends to a tourist site, giving details of the trip. | 2 sources | 2025-09 | - |
+| 19 | Vous écrivez à un ami pour lui proposer de passer une journée ensemble et lui suggérez un programme d'activités. | Write a 60-120 word message inviting a friend to spend a day together and proposing a schedule. | 1 source | 2021-03 | - |
 
 ## Technology
 
