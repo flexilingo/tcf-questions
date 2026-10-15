@@ -4,14 +4,14 @@
 
 A message to one or more people, 60 to 120 words.
 
-164 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+166 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (47)
+- [Culture](#culture) (48)
 - [Economy](#economy) (9)
 - [Education](#education) (24)
-- [Family](#family) (22)
+- [Family](#family) (23)
 - [Health](#health) (19)
 - [Immigration](#immigration) (6)
 - [Miscellaneous](#miscellaneous) (19)
@@ -69,6 +69,7 @@ A message to one or more people, 60 to 120 words.
 | 45 | Salut ! D'accord pour veiller sur ta maison et ton jardin le temps de tes vacances. Explique-moi ce que je dois faire. À bientôt. Répondez à Cédric en précisant les tâches qu'il devra effectuer chez vous pendant votre absence. | The candidate must reply to Cédric describing what he must do at the house during the absence. | 2 sources | 2025-11 | - |
 | 46 | « Salut ! Je veux bien surveiller ta maison et ton jardin pendant tes vacances. Dis-moi précisément ce que je dois faire. À bientôt, Cédric » Répondez à votre ami Cédric en lui donnant des consignes pour l'entretien de votre maison et de votre jardin durant votre absence. | The candidate must write a reply to Cédric giving instructions for house and garden care during absence. | 2 sources | 2025-11 | - |
 | 47 | Un proche envisage un voyage pour découvrir un nouveau pays. Envoyez-lui un message présentant votre pays et ses coutumes (endroits à voir, sites touristiques, monuments, etc.). | The candidate must write a message presenting their country and its traditions to a traveling friend. | 2 sources | 2026-01 | - |
+| 48 | Votre anniversaire approche. Rédigez un message à vos ami(e)s pour les inviter, en indiquant comment se déroulera la fête. | The candidate must write a message inviting friends to a birthday party, detailing how it will unfold. | 1 source | 2022-10 | - |
 
 ## Economy
 
@@ -139,6 +140,7 @@ A message to one or more people, 60 to 120 words.
 | 20 | Vous préparez une fête surprise pour l'anniversaire d'un ami et vous écrivez aux copains de celui-ci pour les convier. | Write a 60-120 word message inviting your friend's friends to a surprise birthday party. | 1 source | 2020-02 | - |
 | 21 | Vous écrivez à un ami convié à votre mariage, célébré au château Saint-Simon, afin de lui expliquer comment s'y rendre. | Write a 60-120 word message giving directions to a friend invited to your wedding at Château Saint-Simon. | 1 source | 2021-01 | - |
 | 22 | La médiathèque de votre ville organise une rencontre avec un auteur. Rédigez un message pour convier votre ami(e) à cet événement. | The candidate must write a message inviting a friend to a library event to meet a writer. | 1 source | 2022-10 | - |
+| 23 | Vous avez prévu de passer une journée dans un parc d'attractions avec votre ami(e). Rédigez-lui un message pour l'inviter et lui présenter le programme de la sortie. | The candidate must write a message inviting a friend to spend a day at an amusement park, with the planned schedule. | 1 source | 2022-11 | - |
 
 ## Health
 

@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-289 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+290 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,7 +16,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Health](#health) (21)
 - [Immigration](#immigration) (42)
 - [Miscellaneous](#miscellaneous) (44)
-- [Technology](#technology) (34)
+- [Technology](#technology) (35)
 - [Work](#work) (43)
 
 ## Culture
@@ -308,7 +308,8 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 31 | On peut aisément se passer de son téléphone portable. Partagez-vous ce point de vue ? | Give and defend an opinion on whether one can easily live without a mobile phone. | 5 sources | 2023-09 | - |
 | 32 | Selon vous, Internet contribue-t-il à notre bonheur ? | Give and defend your opinion on whether the internet makes us happy. | 5 sources | 2023-11 | - |
 | 33 | Vous donnez votre opinion sur la question : peut-on aujourd'hui se passer de la télévision ? | Give and defend your opinion on whether one can live without television nowadays. | 5 sources | 2024-07 | - |
-| 34 | Il vaudrait mieux ne pas offrir de téléphone portable à un enfant. Quel est votre point de vue ? | The candidate must give and defend an opinion on not giving children mobile phones. | 5 sources | 2025-02 | - |
+| 34 | Aujourd'hui, vivre sans technologie serait impensable. Quel est votre avis sur cette affirmation ? | The candidate must give and defend an opinion on whether life without technology is possible today. | 5 sources | 2024-10 | - |
+| 35 | Il vaudrait mieux ne pas offrir de téléphone portable à un enfant. Quel est votre point de vue ? | The candidate must give and defend an opinion on not giving children mobile phones. | 5 sources | 2025-02 | - |
 
 ## Work
 

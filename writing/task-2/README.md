@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-146 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+148 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (55)
+- [Culture](#culture) (57)
 - [Economy](#economy) (2)
 - [Education](#education) (16)
 - [Environment](#environment) (4)
@@ -78,6 +78,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 53 | Sur votre blog, rédigez un article racontant votre expérience vécue lors d'un salon du livre. | The candidate must write a blog article about their experience at a book fair. | 1 source | 2022-11 | - |
 | 54 | Sur le forum de la compagnie Air Tropiques, racontez le voyage le plus inoubliable que vous ayez fait et expliquez les raisons de votre enthousiasme. Les meilleurs témoignages seront récompensés par deux billets d'avion vers la destination de leur choix, offerts par Air Tropiques. | Write a forum post about your most memorable trip and why you loved it, to possibly win two plane tickets. | 1 source | 2023-03 | - |
 | 55 | Rédigez un billet de blog dans lequel vous racontez ce que vous avez vécu en participant à un festival de musique. | Write a blog post about your experience attending a music festival. | 1 source | 2023-04 | - |
+| 56 | Après avoir visité une exposition d'art qui vous a laissé une impression négative, rédigez un billet de blog racontant votre ressenti et proposant des pistes pour améliorer l'accueil des visiteurs, en 120 à 150 mots. | Write a blog post about a disappointing art exhibition and suggest ways to improve visitor experience, in 120-150 words. | 1 source | 2024-03 | - |
+| 57 | Suite à un atelier de cuisine qui n'a pas répondu à vos attentes, écrivez un message à l'animateur pour lui donner votre avis et lui suggérer des améliorations, en 60 à 120 mots. | Write a message to a cooking workshop organizer giving feedback and suggestions for improvement, in 60-120 words. | 1 source | 2024-03 | - |
 
 ## Economy
 

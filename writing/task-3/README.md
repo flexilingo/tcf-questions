@@ -4,15 +4,15 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-247 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+249 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (34)
-- [Economy](#economy) (34)
+- [Economy](#economy) (35)
 - [Education](#education) (34)
 - [Environment](#environment) (19)
-- [Family](#family) (27)
+- [Family](#family) (28)
 - [Health](#health) (29)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (7)
@@ -96,6 +96,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 32 | L'organisation d'événements sportifs internationaux Certains estiment que l'État doit se porter candidat pour accueillir de grandes compétitions sportives internationales telles que les Jeux Olympiques, la Coupe du Monde ou la Coupe d'Afrique des Nations. Selon eux, ce type d'événement offre une vitrine exceptionnelle pour faire rayonner notre culture à l'échelle planétaire. Ils stimulent également l'économie locale, en créant de nombreux emplois et en permettant la rénovation des infrastructures, ce qui profite durablement à l'ensemble des habitants. Il convient toutefois de continuer à donner la priorité aux besoins des populations vulnérables. Une phase de test permettrait d'évaluer les conséquences avant toute généralisation. D'autres, au contraire, estiment que ces grandes manifestations sportives coûtent extrêmement cher à l'État. Plutôt que de financer des compétitions onéreuses, les budgets publics gagneraient à être consacrés en priorité à des domaines fondamentaux comme la santé ou l'éducation. En outre, plusieurs pays organisateurs se sont lourdement endettés sans que la population n'en tire de véritables bénéfices. Là encore, la priorité doit rester donnée aux personnes les plus vulnérables, et une période d'essai serait indispensable pour s'assurer que les conséquences demeurent acceptables. | Compare two opposing texts on whether the state should host major international sporting events and write a synthesis of about 120-180 words. | 2 sources | 2025-04 | - |
 | 33 | Récemment, j'ai décidé de quitter la ville pour m'installer à la campagne, désirant profiter d'un cadre plus vert et plus calme. Désormais, au lieu de sortir au restaurant ou en soirée, je reçois mes proches chez moi, sur la terrasse, autour d'un verre ou d'un barbecue. Le coût du logement a aussi pesé lourd dans ma décision : dans les campagnes, les habitations sont bien moins chères qu'en zone urbaine. Avec un budget identique, j'ai pu acquérir une grande maison avec jardin, chose impensable en ville. | The candidate must compare this text with an opposing one on living in the countryside vs the city. | 2 sources | 2025-08 | - |
 | 34 | Je fais mes courses de nourriture à moins de dix kilomètres de chez moi. Vivant à la campagne, je peux acheter directement chez les producteurs et échanger avec eux. Certes, les prix sont parfois plus élevés, mais la qualité est meilleure et je sais d'où viennent les produits. Pour moi, il est primordial de faire confiance aux producteurs du coin et de consommer local. | The candidate must compare this text with an opposing one about local vs other food shopping. | 2 sources | 2025-09 | - |
+| 35 | L'aide aux personnes démunies Chaque hiver, je consacre un peu de mon temps et de mon argent aux personnes sans domicile souffrant du froid. Se soucier de ceux qui manquent de tout me paraît essentiel, et cette action me donne le sentiment d'être utile : un geste de solidarité accessible à tous. D'autres pensent qu'il vaudrait mieux repenser notre mode de vie plutôt que de donner de l'argent. C'est pourquoi certains préfèrent s'engager comme bénévoles dans une association locale. Selon eux, les sans-abri ont surtout besoin d'un logement et d'un emploi pour retrouver leur autonomie, plutôt que d'argent : un don monétaire ne servirait, selon ce point de vue, qu'à apaiser notre conscience. | Summarize and compare the two viewpoints on helping the homeless (giving money vs volunteering/systemic change). | 2 sources | 2026-01 | - |
 
 ## Education
 
@@ -191,6 +192,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 25 | Dans mon pays, les maisons de retraite sont peu nombreuses. Lorsqu'une personne âgée perd son autonomie, elle s'installe chez ses enfants ou petits-enfants, et cela se passe généralement bien. Confier nos aînés à des inconnus nous paraît une idée étrange. | The candidate must compare a viewpoint favoring family care of elderly relatives with an opposing viewpoint (from a linked second text). | 2 sources | 2025-06 | - |
 | 26 | Certains parents, ne voulant pas se montrer trop stricts, exercent peu d'autorité sur leurs enfants. Ils craignent qu'en leur imposant des limites, ceux-ci deviennent malheureux ou perdent leur personnalité. Ils cèdent donc à toutes leurs demandes. Jusqu'à l'adolescence, cela n'a guère de conséquences. Mais devenus adultes, ces enfants peineront à s'intégrer en société, ayant du mal à respecter les règles. | The candidate must compare this text with an opposing one about parental strictness. | 2 sources | 2025-10 | - |
 | 27 | Bernard : « Je défends la restauration rapide. Je travaille dans une chaîne réputée et je considère qu'on peut y manger équilibré. Les menus proposent légumes, salades, pain, viande. C'est au client de décider de ce qu'il mange : prendre plusieurs sandwichs et trop de sauce, ce n'est pas sain. Ces établissements sont aussi impeccables et accessibles, aussi bien pour les familles que pour les groupes d'amis. » | The candidate must compare this text with an opposing one about fast food. | 2 sources | 2025-11 | - |
+| 28 | L'uniforme scolaire Certains estiment que porter un uniforme étouffe la personnalité des jeunes, qui ne peuvent s'habiller à leur guise en aucune occasion. D'autres préfèrent, pour eux-mêmes ou leurs enfants, garder la liberté de s'exprimer par la tenue vestimentaire et de choisir chaque jour ce qu'ils porteront. Ainsi, les jeunes qui aiment se démarquer par un accessoire ou un vêtement se sentiront frustrés, comme enfermés dans cet uniforme. D'autres avancent au contraire que l'uniforme renforce le sentiment d'appartenance à l'établissement et à la communauté d'élèves. Il nourrit l'esprit collectif et la fierté d'en faire partie. Il réduit également les discriminations liées au style ou au milieu social : tous les parents ne peuvent pas offrir des vêtements de marque à leurs enfants. Imposer une tenue commune atténue donc les écarts entre classes sociales. | Summarize and compare the two opposing viewpoints on school uniforms. | 2 sources | 2026-01 | - |
 
 ## Health
 
