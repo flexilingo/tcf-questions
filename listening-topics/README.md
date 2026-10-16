@@ -4,12 +4,12 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-71 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+72 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (13)
-- [Economy](#economy) (8)
+- [Economy](#economy) (9)
 - [Education](#education) (5)
 - [Environment](#environment) (6)
 - [Health](#health) (8)
@@ -47,6 +47,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 6 | Un reportage sur la falsification des avis publiés en ligne. | A report about the manipulation of online reviews. | 1 source | 2026-09 | - |
 | 7 | Un reportage sur la fiabilité des offres promotionnelles. | A report on the reliability of commercial promotions. | 1 source | 2026-09 | - |
 | 8 | Un reportage sur les difficultés rencontrées par une entreprise de remorquage de véhicules. | A report about the troubles of a vehicle towing company. | 1 source | 2026-09 | - |
+| 9 | Un échange oral consacré à un conseil immobilier pour acheter ou louer un appartement. | An interaction about real estate advice for buying or renting an apartment. | 1 source | 2026-09 | - |
 
 ## Education
 

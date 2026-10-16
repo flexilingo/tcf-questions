@@ -4,11 +4,11 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-249 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+251 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (34)
+- [Culture](#culture) (36)
 - [Economy](#economy) (35)
 - [Education](#education) (34)
 - [Environment](#environment) (19)
@@ -57,6 +57,8 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 32 | J'ai 19 ans et je vais bientôt quitter mon pays pour poursuivre mes études à l'étranger. J'aimerais lire des témoignages d'étudiants qui ont déjà vécu loin de chez eux pour se former. | A 19-year-old about to study abroad asks to read testimonies from students who already had this experience. | 2 sources | 2025-01 | - |
 | 33 | « Il ne faut surtout pas forcer les enfants à lire. L'acte de lecture est quelque chose de très particulier. Pour les enfants qui aiment le sport, par exemple, on ne les oblige pas mais on cherche à les motiver. C'est pareil pour la lecture », affirme Laurence T., pédopsychiatre spécialisée dans l'enfance. Selon elle, « on ne peut pas imposer le goût de la lecture ». | Compare two opposing viewpoints about whether children should be forced to read, then give your own opinion. | 2 sources | 2025-02 | - |
 | 34 | À l'ère du numérique, les nouvelles technologies occupent une place toujours plus grande dans le quotidien, éloignant beaucoup d'enfants de la lecture. Jeux vidéo, sport, musique ou réseaux sociaux captent leur attention bien davantage que les livres. À la différence des générations précédentes, qui lisaient abondamment, les jeunes d'aujourd'hui préfèrent des loisirs modernes influencés par des personnalités du sport et du divertissement. Faut-il alors les obliger à lire ? Comme le dit un proverbe, « on ne force pas le goût de la lecture ». Il vaut donc mieux leur laisser la liberté de choisir leurs lectures, sans contrainte. | Compare two documents about whether children should be forced to read despite preferring modern digital entertainment. | 2 sources | 2025-03 | - |
+| 35 | La colocation entre adultes Vivre à plusieurs suppose une bonne entente et le respect de certaines règles communes : il n'est pas toujours possible d'écouter sa musique fort, d'inviter tous ses amis pour une fête ou de laisser la vaisselle sale traîner dans la cuisine. Établir des règles de vie commune et dialoguer dès qu'un problème apparaît devient donc indispensable. Pour un adulte, choisir la colocation permet en revanche d'accéder plus facilement à un logement spacieux à moindre coût. Certes, on ne dispose que d'une chambre privée et l'on partage cuisine, salon et salle de bain, mais cela peut aussi signifier vivre dans une maison avec jardin ou un grand appartement en plein centre-ville ! En partageant loyer et charges, les dépenses diminuent nettement par rapport à un logement individuel. | Summarize and compare the two viewpoints on adult shared housing (constraints vs benefits). | 2 sources | 2026-01 | - |
+| 36 | La livraison de repas à domicile Céline, 25 ans, apprécie la livraison de repas car elle fait gagner du temps : au travail, on peut se faire livrer sans se déplacer et rentrer plus tôt chez soi. Elle offre aussi un plus grand choix, chacun pouvant commander dans un restaurant différent, et reste accessible à toute heure, certains établissements livrant 24 heures sur 24. Ahmed, 40 ans, reconnaît le succès grandissant de ce service mais souligne ses inconvénients écologiques : les livraisons se font souvent en scooter ou en voiture, des transports polluants. Il pointe aussi un impact sur la vie sociale, cette habitude poussant à rester chez soi et à fréquenter toujours les mêmes personnes, alors qu'il est important de sortir et de rencontrer du monde. | Summarize and compare the two viewpoints on food delivery services (convenience vs environmental/social drawbacks). | 2 sources | 2026-01 | - |
 
 ## Economy
 

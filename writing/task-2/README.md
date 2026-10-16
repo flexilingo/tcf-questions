@@ -4,18 +4,18 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-148 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+150 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (57)
+- [Culture](#culture) (58)
 - [Economy](#economy) (2)
 - [Education](#education) (16)
 - [Environment](#environment) (4)
 - [Family](#family) (7)
 - [Health](#health) (13)
 - [Immigration](#immigration) (15)
-- [Miscellaneous](#miscellaneous) (3)
+- [Miscellaneous](#miscellaneous) (4)
 - [Technology](#technology) (18)
 - [Work](#work) (13)
 
@@ -80,6 +80,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 55 | Rédigez un billet de blog dans lequel vous racontez ce que vous avez vécu en participant à un festival de musique. | Write a blog post about your experience attending a music festival. | 1 source | 2023-04 | - |
 | 56 | Après avoir visité une exposition d'art qui vous a laissé une impression négative, rédigez un billet de blog racontant votre ressenti et proposant des pistes pour améliorer l'accueil des visiteurs, en 120 à 150 mots. | Write a blog post about a disappointing art exhibition and suggest ways to improve visitor experience, in 120-150 words. | 1 source | 2024-03 | - |
 | 57 | Suite à un atelier de cuisine qui n'a pas répondu à vos attentes, écrivez un message à l'animateur pour lui donner votre avis et lui suggérer des améliorations, en 60 à 120 mots. | Write a message to a cooking workshop organizer giving feedback and suggestions for improvement, in 60-120 words. | 1 source | 2024-03 | - |
+| 58 | Après avoir rencontré plusieurs problèmes avec une voiture de location pendant vos vacances, écrivez au service de location pour exprimer votre mécontentement et réclamer un dédommagement, en 60 à 120 mots. | Write to a car rental service expressing dissatisfaction and requesting compensation after problems during a trip. | 1 source | 2024-04 | - |
 
 ## Economy
 
@@ -175,6 +176,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 1 | Vous avez participé à un événement appelé « Une semaine sans voiture ». Racontez comment cela s'est passé et donnez votre avis sur cette initiative. Précisez le déroulement (dates, lieu, activités proposées). | The candidate must recount attending a 'car-free week' event, giving their opinion and describing its organization. | 8 sources | 2023-05 | - |
 | 2 | Une excursion organisée par une agence s'est mal déroulée. Rédigez un courriel pour exprimer votre insatisfaction et réclamer un remboursement. | Write an email complaining about a bad agency-organized excursion and requesting a refund. | 5 sources | 2023-05 | - |
 | 3 | Rédigez un article de blog présentant les habitudes alimentaires de votre pays. | Write a blog article about the eating habits of your country. | 4 sources | 2023-05 | - |
+| 4 | Après avoir essayé un service de livraison de repas dont la qualité était décevante, rédigez un avis en ligne racontant votre expérience et donnant des conseils pour améliorer le service, en 120 à 150 mots. | Write an online review about a disappointing home meal delivery service and give improvement suggestions, in 120-150 words. | 1 source | 2024-04 | - |
 
 ## Technology
 

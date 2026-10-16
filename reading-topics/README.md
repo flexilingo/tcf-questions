@@ -4,13 +4,13 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-74 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+75 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (20)
 - [Economy](#economy) (15)
-- [Education](#education) (5)
+- [Education](#education) (6)
 - [Environment](#environment) (5)
 - [Health](#health) (9)
 - [Immigration](#immigration) (2)
@@ -72,6 +72,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 3 | Un article rapporte différentes opinions sur la présence de distributeurs automatiques dans les écoles. | An article about opinions on vending machines in schools. | 1 source | 2026-09 | - |
 | 4 | Un document consacré aux programmes d'échange entre universités. | A document about university exchange programs. | 1 source | 2026-09 | - |
 | 5 | Un document relatif aux démarches d'inscription à l'université. | A document about university enrollment procedures. | 1 source | 2026-09 | - |
+| 6 | Un guide expliquant les démarches d'inscription à l'université. | A guide explaining university registration procedures. | 1 source | 2026-09 | - |
 
 ## Environment
 

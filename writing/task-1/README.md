@@ -4,17 +4,17 @@
 
 A message to one or more people, 60 to 120 words.
 
-166 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+168 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (48)
-- [Economy](#economy) (9)
+- [Economy](#economy) (10)
 - [Education](#education) (24)
 - [Family](#family) (23)
 - [Health](#health) (19)
 - [Immigration](#immigration) (6)
-- [Miscellaneous](#miscellaneous) (19)
+- [Miscellaneous](#miscellaneous) (20)
 - [Technology](#technology) (3)
 - [Work](#work) (15)
 
@@ -84,6 +84,7 @@ A message to one or more people, 60 to 120 words.
 | 7 | « Ateliers gratuits, spectacles, activités diverses. On vous attend vendredi à partir de 9h ! » | Read a flyer announcing a free event with workshops, concerts and activities starting Friday at 9am. | 4 sources | 2024-08 | - |
 | 8 | « Rendez-vous vendredi, à partir de 9 heures » | The candidate must respond to a note about a meeting on Friday from 9 a.m. | 2 sources | 2024-12 | - |
 | 9 | Vous préparez votre déménagement à Nice. Adressez un message à une agence immobilière pour rechercher un appartement, en précisant vos critères (surface, budget, nombre de pièces, quartier, etc.). | Write a message to a real estate agency listing your requirements for an apartment in Nice. | 2 sources | 2025-07 | - |
+| 10 | Vous allez prochainement emménager à Nice. Écrivez à une agence immobilière pour lui demander de l'aide dans votre recherche d'appartement (quartier, budget, superficie). | Write a message to a real estate agency asking for help finding an apartment, mentioning location, price, and size. | 1 source | 2023-12 | - |
 
 ## Education
 
@@ -200,6 +201,7 @@ A message to one or more people, 60 to 120 words.
 | 17 | Vous écrivez à votre ami Mathieu pour lui présenter un endroit incontournable de votre région, qu'il devrait absolument découvrir. | Write a message to your friend Mathieu describing a must-see place in your region. | 2 sources | 2024-02 | - |
 | 18 | Vous souhaitez convier vos amis à découvrir un site touristique qui vous plaît particulièrement. Écrivez un message présentant votre projet de sortie (lieu, dates, hébergement, etc.). | The candidate must write a message inviting friends to a tourist site, giving details of the trip. | 2 sources | 2025-09 | - |
 | 19 | Vous écrivez à un ami pour lui proposer de passer une journée ensemble et lui suggérez un programme d'activités. | Write a 60-120 word message inviting a friend to spend a day together and proposing a schedule. | 1 source | 2021-03 | - |
+| 20 | Rédigez un courriel destiné à un(e) ami(e) dans lequel vous présentez le déroulement prévu de votre déménagement. | Write an email to a friend explaining your moving plan. | 1 source | 2023-04 | - |
 
 ## Technology
 

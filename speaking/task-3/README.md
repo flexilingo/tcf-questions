@@ -4,12 +4,12 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-290 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+291 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (29)
-- [Economy](#economy) (6)
+- [Economy](#economy) (7)
 - [Education](#education) (30)
 - [Environment](#environment) (15)
 - [Family](#family) (25)
@@ -63,6 +63,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 4 | Manger bio serait un luxe réservé aux plus fortunés ? Partagez-vous cette opinion ? | The candidate must give and defend their opinion on whether eating organic food is only for the wealthy. | 6 sources | 2023-04 | - |
 | 5 | Je travaille dans un office de tourisme. Vous voulez partir en week-end sans dépenser beaucoup d'argent. Demandez-moi des conseils (destinations, activités, moyens de transport, etc.). | Ask a tourism office employee for advice on a low-budget weekend trip. | 5 sources | 2023-06 | - |
 | 6 | En tant qu'ami(e), j'ai mangé dans un restaurant à Ottawa, et vous aimeriez le découvrir aussi. Posez-moi des questions (type de cuisine, prix, atmosphère, etc.). | The candidate must ask the examiner (playing a friend) questions about a restaurant in Ottawa. | 5 sources | 2023-07 | - |
+| 7 | Que pensez-vous des habitudes de consommation dans les pays industrialisés ? | Give and defend your opinion on consumption habits in developed countries. | 4 sources | 2022-08 | - |
 
 ## Education
 
