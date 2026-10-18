@@ -4,7 +4,7 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-73 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+74 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,7 +13,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 - [Education](#education) (5)
 - [Environment](#environment) (6)
 - [Health](#health) (8)
-- [Miscellaneous](#miscellaneous) (19)
+- [Miscellaneous](#miscellaneous) (20)
 - [Technology](#technology) (7)
 - [Work](#work) (5)
 
@@ -107,6 +107,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 17 | Un reportage sur les difficultés rencontrées par les passagers aériens. | A report on problems faced by airline passengers. | 1 source | 2026-09 | - |
 | 18 | Un reportage sur les moyens de prévenir l'exposition au radon. | A report on preventing radon exposure. | 1 source | 2026-09 | - |
 | 19 | Un témoignage sur l'accès à des cursus universitaires en immersion bilingue. | A testimony about access to bilingual immersion university programs. | 1 source | 2026-09 | - |
+| 20 | Un échange à propos des obstacles rencontrés lors de l'inscription aux cours universitaires. | A conversation about difficulties registering for university courses. | 1 source | 2026-09 | - |
 
 ## Technology
 

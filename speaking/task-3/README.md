@@ -4,13 +4,13 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-261 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+262 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (26)
 - [Economy](#economy) (7)
-- [Education](#education) (27)
+- [Education](#education) (28)
 - [Environment](#environment) (14)
 - [Family](#family) (23)
 - [Health](#health) (15)
@@ -67,32 +67,33 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Pensez-vous qu'on puisse réellement connaître un pays sans en maîtriser la langue ? Justifiez votre réponse. | Give and defend your opinion on whether one can truly know a country without speaking its language. | 7 sources | 2022-09 | [Read](https://www.flexilingo.com/en/tcf-canada/sujet/tcf-eo-t3-connaitre-un-pays-sans-parler-sa-langue) |
-| 2 | On n'est jamais trop âgé pour apprendre : quelle est votre position sur cette affirmation ? | Give and defend your opinion on whether it's never too late to learn. | 8 sources | 2023-09 | - |
-| 3 | Peut-on s'installer dans un pays étranger sans en maîtriser la langue ? Donnez votre opinion. | The candidate must give and defend an opinion on whether one can live in a country without speaking its language. | 7 sources | 2022-09 | - |
-| 4 | L'école doit avant tout transmettre le programme scolaire. Que pensez-vous de cette affirmation ? Justifiez votre réponse. | The candidate must analyze and give an opinion on whether school's priority is teaching the curriculum. | 7 sources | 2022-11 | - |
-| 5 | La télévision constitue-t-elle un bon outil pour découvrir de nouvelles connaissances ? Donnez votre opinion et argumentez. | State and defend your opinion on whether TV is a good way to learn new things. | 7 sources | 2023-11 | - |
-| 6 | La réussite professionnelle est-elle liée au niveau d'études et au diplôme obtenu ? Qu'en pensez-vous ? | State and defend your opinion on whether career success depends on education level and degrees. | 7 sources | 2023-12 | - |
-| 7 | Quelle était votre matière préférée pendant votre scolarité ? Pour quelles raisons ? | The candidate must state and justify which school subject they liked best. | 7 sources | 2024-02 | - |
-| 8 | Selon vous, quelles matières devraient occuper une place plus importante à l'école ? Expliquez pourquoi. | The candidate must give and justify an opinion on which subjects should be taught more at school. | 7 sources | 2024-02 | - |
-| 9 | Selon vous, les universités devraient-elles bénéficier de davantage de moyens financiers ? Pourquoi ? | The candidate must give an opinion on whether universities need more funding. | 7 sources | 2024-03 | - |
-| 10 | Croyez-vous qu'il existe un âge limite pour reprendre ou poursuivre des études ? Exposez votre opinion. | The candidate must give and defend an opinion on whether there is an age limit for studying. | 6 sources | 2022-10 | - |
-| 11 | Pour saisir véritablement la culture d'un pays, faut-il obligatoirement en maîtriser la langue ? Quelle est votre opinion ? | The candidate must give and defend their opinion on whether you must speak a country's language to understand its culture. | 6 sources | 2023-03 | - |
-| 12 | Apprendre une langue étrangère est-il difficile ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether learning a foreign language is difficult. | 6 sources | 2023-08 | - |
-| 13 | Vaut-il mieux, à votre avis, commencer à apprendre une langue étrangère dès l'enfance ? Expliquez pourquoi. | Give and defend your opinion on whether it's better to start learning foreign languages in childhood. | 6 sources | 2025-02 | - |
-| 14 | Selon vous, est-il essentiel d'étudier des langues étrangères ? Justifiez votre opinion. | Give and defend your opinion on whether learning foreign languages is important. | 6 sources | 2025-05 | - |
-| 15 | Selon vous, peut-on se fier aux informations trouvées sur Internet ? Pourquoi ? | Give and defend your opinion on trusting information found online. | 6 sources | 2025-09 | - |
-| 16 | L'école donne-t-elle les mêmes chances à tous les élèves ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether school gives every student equal chances. | 6 sources | 2025-10 | - |
-| 17 | Pensez-vous qu’il soit indispensable de parler la langue du pays où l’on réside ? Pourquoi ? | Give and defend your opinion on whether it's essential to speak the language of the country one lives in. | 6 sources | 2025-12 | - |
-| 18 | Selon vous, les nouvelles technologies ont-elles un effet bénéfique sur l'éducation des enfants ? | Give and defend your opinion on whether new technologies positively impact children's education. | 5 sources | 2022-12 | - |
-| 19 | Je suis un parent d'élève. Vous souhaitez inscrire vos enfants à une activité extrascolaire. Demandez-moi des informations et des conseils sur les options disponibles dans le quartier (nature des activités, horaires, tarifs, encadrement, etc.). | Ask a fellow parent for advice about after-school activities for your children (type, schedule, price, supervision). | 5 sources | 2023-05 | - |
-| 20 | Je partage un appartement à Winnipeg avec des colocataires. Une chambre est libre. Vous êtes intéressé(e). Posez-moi des questions pour en savoir plus sur le logement (chambre et pièces communes, loyer, autres colocataires, etc.). | The candidate must ask the examiner (playing a roommate) questions about a room available for rent. | 5 sources | 2023-07 | - |
-| 21 | Je travaille dans une auto-école. Vous voulez apprendre à conduire. Posez-moi des questions pour obtenir davantage d'informations (tarifs, durée de la formation, papiers requis, etc.). | The candidate must ask the examiner (playing a driving school employee) questions about learning to drive. | 5 sources | 2023-07 | - |
-| 22 | Il est courant que les jeunes travaillent pour payer leurs études. Quel est votre avis sur cette question ? | Give and defend your opinion on young people working to fund their studies. | 5 sources | 2024-01 | - |
-| 23 | Trouvez-vous essentiel de maîtriser la langue du pays d'accueil pour réussir son intégration ? Justifiez votre point de vue. | Give and defend your opinion on whether learning the local language is essential for integration. | 5 sources | 2024-01 | - |
-| 24 | Faut-il obligatoirement avoir fait de longues études pour réussir sa vie ? | Give your opinion on whether long studies are necessary to succeed in life. | 5 sources | 2024-10 | - |
-| 25 | La diversité en milieu scolaire favorise-t-elle l'épanouissement de tous les élèves ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether school diversity benefits all students. | 5 sources | 2024-10 | - |
-| 26 | Les entreprises devraient offrir à leurs salariés la possibilité de se former tout au long de leur carrière. Cela est-il utile à tous ? Quelle est votre position sur ce sujet ? | The candidate must give and defend an opinion on lifelong training offered by employers. | 5 sources | 2025-03 | - |
-| 27 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
+| 2 | Pour avoir un bon salaire, il faut avoir fait de longues études. Que pensez-vous de cette affirmation ? | Give and defend your opinion on whether long studies are necessary to earn a good living. | 8 sources | 2023-02 | - |
+| 3 | On n'est jamais trop âgé pour apprendre : quelle est votre position sur cette affirmation ? | Give and defend your opinion on whether it's never too late to learn. | 8 sources | 2023-09 | - |
+| 4 | Peut-on s'installer dans un pays étranger sans en maîtriser la langue ? Donnez votre opinion. | The candidate must give and defend an opinion on whether one can live in a country without speaking its language. | 7 sources | 2022-09 | - |
+| 5 | L'école doit avant tout transmettre le programme scolaire. Que pensez-vous de cette affirmation ? Justifiez votre réponse. | The candidate must analyze and give an opinion on whether school's priority is teaching the curriculum. | 7 sources | 2022-11 | - |
+| 6 | La télévision constitue-t-elle un bon outil pour découvrir de nouvelles connaissances ? Donnez votre opinion et argumentez. | State and defend your opinion on whether TV is a good way to learn new things. | 7 sources | 2023-11 | - |
+| 7 | La réussite professionnelle est-elle liée au niveau d'études et au diplôme obtenu ? Qu'en pensez-vous ? | State and defend your opinion on whether career success depends on education level and degrees. | 7 sources | 2023-12 | - |
+| 8 | Quelle était votre matière préférée pendant votre scolarité ? Pour quelles raisons ? | The candidate must state and justify which school subject they liked best. | 7 sources | 2024-02 | - |
+| 9 | Selon vous, quelles matières devraient occuper une place plus importante à l'école ? Expliquez pourquoi. | The candidate must give and justify an opinion on which subjects should be taught more at school. | 7 sources | 2024-02 | - |
+| 10 | Selon vous, les universités devraient-elles bénéficier de davantage de moyens financiers ? Pourquoi ? | The candidate must give an opinion on whether universities need more funding. | 7 sources | 2024-03 | - |
+| 11 | Croyez-vous qu'il existe un âge limite pour reprendre ou poursuivre des études ? Exposez votre opinion. | The candidate must give and defend an opinion on whether there is an age limit for studying. | 6 sources | 2022-10 | - |
+| 12 | Pour saisir véritablement la culture d'un pays, faut-il obligatoirement en maîtriser la langue ? Quelle est votre opinion ? | The candidate must give and defend their opinion on whether you must speak a country's language to understand its culture. | 6 sources | 2023-03 | - |
+| 13 | Apprendre une langue étrangère est-il difficile ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether learning a foreign language is difficult. | 6 sources | 2023-08 | - |
+| 14 | Vaut-il mieux, à votre avis, commencer à apprendre une langue étrangère dès l'enfance ? Expliquez pourquoi. | Give and defend your opinion on whether it's better to start learning foreign languages in childhood. | 6 sources | 2025-02 | - |
+| 15 | Selon vous, est-il essentiel d'étudier des langues étrangères ? Justifiez votre opinion. | Give and defend your opinion on whether learning foreign languages is important. | 6 sources | 2025-05 | - |
+| 16 | Selon vous, peut-on se fier aux informations trouvées sur Internet ? Pourquoi ? | Give and defend your opinion on trusting information found online. | 6 sources | 2025-09 | - |
+| 17 | L'école donne-t-elle les mêmes chances à tous les élèves ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether school gives every student equal chances. | 6 sources | 2025-10 | - |
+| 18 | Pensez-vous qu’il soit indispensable de parler la langue du pays où l’on réside ? Pourquoi ? | Give and defend your opinion on whether it's essential to speak the language of the country one lives in. | 6 sources | 2025-12 | - |
+| 19 | Selon vous, les nouvelles technologies ont-elles un effet bénéfique sur l'éducation des enfants ? | Give and defend your opinion on whether new technologies positively impact children's education. | 5 sources | 2022-12 | - |
+| 20 | Je suis un parent d'élève. Vous souhaitez inscrire vos enfants à une activité extrascolaire. Demandez-moi des informations et des conseils sur les options disponibles dans le quartier (nature des activités, horaires, tarifs, encadrement, etc.). | Ask a fellow parent for advice about after-school activities for your children (type, schedule, price, supervision). | 5 sources | 2023-05 | - |
+| 21 | Je partage un appartement à Winnipeg avec des colocataires. Une chambre est libre. Vous êtes intéressé(e). Posez-moi des questions pour en savoir plus sur le logement (chambre et pièces communes, loyer, autres colocataires, etc.). | The candidate must ask the examiner (playing a roommate) questions about a room available for rent. | 5 sources | 2023-07 | - |
+| 22 | Je travaille dans une auto-école. Vous voulez apprendre à conduire. Posez-moi des questions pour obtenir davantage d'informations (tarifs, durée de la formation, papiers requis, etc.). | The candidate must ask the examiner (playing a driving school employee) questions about learning to drive. | 5 sources | 2023-07 | - |
+| 23 | Il est courant que les jeunes travaillent pour payer leurs études. Quel est votre avis sur cette question ? | Give and defend your opinion on young people working to fund their studies. | 5 sources | 2024-01 | - |
+| 24 | Trouvez-vous essentiel de maîtriser la langue du pays d'accueil pour réussir son intégration ? Justifiez votre point de vue. | Give and defend your opinion on whether learning the local language is essential for integration. | 5 sources | 2024-01 | - |
+| 25 | Faut-il obligatoirement avoir fait de longues études pour réussir sa vie ? | Give your opinion on whether long studies are necessary to succeed in life. | 5 sources | 2024-10 | - |
+| 26 | La diversité en milieu scolaire favorise-t-elle l'épanouissement de tous les élèves ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether school diversity benefits all students. | 5 sources | 2024-10 | - |
+| 27 | Les entreprises devraient offrir à leurs salariés la possibilité de se former tout au long de leur carrière. Cela est-il utile à tous ? Quelle est votre position sur ce sujet ? | The candidate must give and defend an opinion on lifelong training offered by employers. | 5 sources | 2025-03 | - |
+| 28 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
 
 ## Environment
 
