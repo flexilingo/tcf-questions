@@ -4,13 +4,13 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-74 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+75 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (13)
 - [Economy](#economy) (10)
-- [Education](#education) (5)
+- [Education](#education) (6)
 - [Environment](#environment) (6)
 - [Health](#health) (8)
 - [Miscellaneous](#miscellaneous) (20)
@@ -59,6 +59,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 3 | Un exposé sur le système judiciaire et les droits des citoyens. | A presentation on the legal system and citizens' rights. | 1 source | 2026-09 | - |
 | 4 | Un programme d'initiation à la voile ou à la navigation. | An introductory program on sailing or navigation. | 1 source | 2026-09 | - |
 | 5 | Un témoignage évoquant les difficultés d'accès aux programmes bilingues au Canada. | A testimony about barriers to accessing bilingual education in Canada. | 1 source | 2026-09 | - |
+| 6 | Une annonce concernant une réunion organisée dans un établissement scolaire. | An announcement about a school meeting. | 1 source | 2026-09 | - |
 
 ## Environment
 

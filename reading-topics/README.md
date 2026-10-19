@@ -4,7 +4,7 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-77 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+78 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,6 +12,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 - [Economy](#economy) (15)
 - [Education](#education) (6)
 - [Environment](#environment) (5)
+- [Family](#family) (1)
 - [Health](#health) (9)
 - [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (10)
@@ -84,6 +85,12 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 3 | Un article présentant des solutions pour les déplacements en ville. | An article about urban transport solutions. | 1 source | 2026-09 | - |
 | 4 | Un article sur les conséquences environnementales de notre alimentation. | An article about the environmental impact of food choices. | 1 source | 2026-09 | - |
 | 5 | Un article évoquant les dangers qui menacent la production d'huîtres. | An article about threats to oyster farming. | 1 source | 2026-09 | - |
+
+## Family
+
+| # | Topic (French) | In English | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Un message confirmant sa participation à un événement. | A message confirming attendance at a social event. | 1 source | 2026-09 | - |
 
 ## Health
 

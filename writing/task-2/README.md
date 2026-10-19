@@ -4,7 +4,7 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-131 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+133 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Family](#family) (7)
 - [Health](#health) (10)
 - [Immigration](#immigration) (12)
-- [Miscellaneous](#miscellaneous) (4)
+- [Miscellaneous](#miscellaneous) (6)
 - [Technology](#technology) (16)
 - [Work](#work) (10)
 
@@ -160,9 +160,11 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Sur votre blog, rédigez un article dans lequel vous expliquez les raisons qui vous ont poussé(e) à modifier votre façon de manger et vos habitudes alimentaires. | Write a blog article explaining why you decided to change your diet and eating habits. | 9 sources | 2023-04 | - |
-| 2 | Une excursion organisée par une agence s'est mal déroulée. Rédigez un courriel pour exprimer votre insatisfaction et réclamer un remboursement. | Write an email complaining about a bad agency-organized excursion and requesting a refund. | 5 sources | 2023-05 | - |
-| 3 | Rédigez un article de blog présentant les habitudes alimentaires de votre pays. | Write a blog article about the eating habits of your country. | 4 sources | 2023-05 | - |
-| 4 | Après avoir essayé un service de livraison de repas dont la qualité était décevante, rédigez un avis en ligne racontant votre expérience et donnant des conseils pour améliorer le service, en 120 à 150 mots. | Write an online review about a disappointing home meal delivery service and give improvement suggestions, in 120-150 words. | 1 source | 2024-04 | - |
+| 2 | Vous rentrez d'une journée passée à la campagne avec des amis. Écrivez un message pour un forum dans lequel vous racontez comment la journée s'est déroulée et ce que vous avez aimé. | Write a forum post recounting a day in the countryside with friends and explaining what you enjoyed. | 8 sources | 2024-08 | - |
+| 3 | Vous faites partie d'une association qui vient en aide aux personnes âgées. Rédigez un article pour un blog où vous partagez ce que vous avez vécu et où vous essayez de persuader d'autres personnes de s'engager dans l'association. | Write a blog article sharing your experiences in an association helping elderly people and trying to convince others to join it. | 8 sources | 2024-11 | - |
+| 4 | Une excursion organisée par une agence s'est mal déroulée. Rédigez un courriel pour exprimer votre insatisfaction et réclamer un remboursement. | Write an email complaining about a bad agency-organized excursion and requesting a refund. | 5 sources | 2023-05 | - |
+| 5 | Rédigez un article de blog présentant les habitudes alimentaires de votre pays. | Write a blog article about the eating habits of your country. | 4 sources | 2023-05 | - |
+| 6 | Après avoir essayé un service de livraison de repas dont la qualité était décevante, rédigez un avis en ligne racontant votre expérience et donnant des conseils pour améliorer le service, en 120 à 150 mots. | Write an online review about a disappointing home meal delivery service and give improvement suggestions, in 120-150 words. | 1 source | 2024-04 | - |
 
 ## Technology
 
