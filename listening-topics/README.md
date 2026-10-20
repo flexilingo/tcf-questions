@@ -4,7 +4,7 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-75 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+76 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 - [Health](#health) (8)
 - [Miscellaneous](#miscellaneous) (20)
 - [Technology](#technology) (7)
-- [Work](#work) (5)
+- [Work](#work) (6)
 
 ## Culture
 
@@ -131,6 +131,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 3 | Un document présentant des méthodes pour chercher un emploi. | A document about job-hunting methods. | 1 source | 2026-09 | - |
 | 4 | Un entretien d'embauche entre un recruteur et un candidat. | A job interview. | 1 source | 2026-09 | - |
 | 5 | Un entretien évaluant les compétences d'une candidate. | An interview assessing a candidate's qualifications. | 1 source | 2026-09 | - |
+| 6 | Une annonce décrivant le profil recherché chez des candidats. | An announcement describing the profile of candidates being sought. | 1 source | 2026-09 | - |
 
 ---
 

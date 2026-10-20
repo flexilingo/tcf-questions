@@ -10,14 +10,14 @@ Browse and practise them with full analyses at [flexilingo.com](https://www.flex
 
 | Section | Entries |
 | --- | --- |
-| [Writing Task 1](writing/task-1/README.md) | 152 |
-| [Writing Task 2](writing/task-2/README.md) | 133 |
-| [Writing Task 3](writing/task-3/README.md) | 252 |
-| [Speaking Task 2](speaking/task-2/README.md) | 277 |
-| [Speaking Task 3](speaking/task-3/README.md) | 263 |
-| [Reading topics](reading-topics/README.md) | 78 |
-| [Listening topics](listening-topics/README.md) | 75 |
-| **Total** | **1230** |
+| [Writing Task 1](writing/task-1/README.md) | 154 |
+| [Writing Task 2](writing/task-2/README.md) | 135 |
+| [Writing Task 3](writing/task-3/README.md) | 254 |
+| [Speaking Task 2](speaking/task-2/README.md) | 278 |
+| [Speaking Task 3](speaking/task-3/README.md) | 264 |
+| [Reading topics](reading-topics/README.md) | 79 |
+| [Listening topics](listening-topics/README.md) | 76 |
+| **Total** | **1240** |
 
 ## How to browse
 
