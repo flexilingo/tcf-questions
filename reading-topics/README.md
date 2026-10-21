@@ -4,12 +4,12 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-79 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+80 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (21)
-- [Economy](#economy) (15)
+- [Economy](#economy) (16)
 - [Education](#education) (7)
 - [Environment](#environment) (5)
 - [Family](#family) (1)
@@ -64,6 +64,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 13 | Un contrat d'assurance automobile. | A car insurance contract. | 1 source | 2026-09 | - |
 | 14 | Un document d'information présentant des offres de location de maisons ou d'appartements pour les vacances. | An informational document about renting vacation homes. | 1 source | 2026-09 | - |
 | 15 | Un document présentant une grande foire commerciale. | A document describing a large trade fair. | 1 source | 2026-09 | - |
+| 16 | Un message émanant d'un service client. | A customer service message. | 1 source | 2026-09 | - |
 
 ## Education
 

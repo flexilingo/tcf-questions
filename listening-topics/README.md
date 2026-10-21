@@ -4,12 +4,12 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-76 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+77 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (13)
-- [Economy](#economy) (10)
+- [Economy](#economy) (11)
 - [Education](#education) (6)
 - [Environment](#environment) (6)
 - [Health](#health) (8)
@@ -49,6 +49,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 8 | Un reportage sur les difficultés rencontrées par une entreprise de remorquage de véhicules. | A report about the troubles of a vehicle towing company. | 1 source | 2026-09 | - |
 | 9 | Un échange oral consacré à un conseil immobilier pour acheter ou louer un appartement. | An interaction about real estate advice for buying or renting an apartment. | 1 source | 2026-09 | - |
 | 10 | Un échange oral entre un client et un agent immobilier. | A conversation between a client and a real estate agent. | 1 source | 2026-09 | - |
+| 11 | Une annonce détaillant les modalités et garanties d'une réservation de voyage. | An announcement about the terms and guarantees of a transport booking. | 1 source | 2026-09 | - |
 
 ## Education
 
