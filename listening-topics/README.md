@@ -4,7 +4,7 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-77 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+78 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,6 +12,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 - [Economy](#economy) (11)
 - [Education](#education) (6)
 - [Environment](#environment) (6)
+- [Family](#family) (1)
 - [Health](#health) (8)
 - [Miscellaneous](#miscellaneous) (20)
 - [Technology](#technology) (7)
@@ -72,6 +73,12 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 4 | Un reportage sur les conséquences du changement climatique sur la biodiversité d'un parc. | A report on the effects of climate change on a park's biodiversity. | 1 source | 2026-09 | - |
 | 5 | Un reportage sur les conséquences écologiques de la culture des fleurs. | A report on the ecological impact of flower farming. | 1 source | 2026-09 | - |
 | 6 | Un reportage sur une catastrophe liée aux conditions météorologiques. | A report about a weather-related disaster. | 1 source | 2026-09 | - |
+
+## Family
+
+| # | Topic (French) | In English | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Une annonce faisant part du mariage d'une femme. | An announcement of a woman's wedding. | 1 source | 2026-09 | - |
 
 ## Health
 
