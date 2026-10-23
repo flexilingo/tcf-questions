@@ -4,20 +4,20 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-258 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+260 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (38)
 - [Economy](#economy) (36)
 - [Education](#education) (35)
-- [Environment](#environment) (19)
+- [Environment](#environment) (20)
 - [Family](#family) (31)
 - [Health](#health) (28)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (7)
 - [Technology](#technology) (17)
-- [Work](#work) (46)
+- [Work](#work) (47)
 
 ## Culture
 
@@ -166,6 +166,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 17 | Chaque année, d'énormes quantités de plastique finissent dans les océans, provoquant de graves dégâts sur la faune et la flore marines. Ces déchets fragilisent l'écosystème et peuvent même s'infiltrer dans la chaîne alimentaire. Il devient donc essentiel de réduire notre usage du plastique et de privilégier des solutions durables. | Argue that plastic waste harms marine ecosystems and urge reducing plastic use in favor of sustainable alternatives. | 2 sources | 2025-01 | - |
 | 18 | Gala (29 ans) : « Je fais partie de ceux qui ne comprennent pas comment on peut prendre du plaisir à tuer des animaux. Je fais aussi partie de ceux qui ne comprennent pas comment on peut prétendre aimer la nature tout en participant à sa destruction. » | Compare two documents presenting opposing viewpoints on hunting. | 2 sources | 2025-04 | - |
 | 19 | Le végétarisme en Europe Certains rappellent qu'on dénombre en France plus d'un million et demi de végétariens. D'après Brigitte G., membre d'une association, devenir végétarien relève avant tout d'un refus d'exploiter les animaux et d'une volonté de les défendre. Cette démarche s'accompagne fréquemment d'une préoccupation écologique : une étude scientifique attribue à l'élevage près de 18 % des émissions mondiales de CO2. Bien que la majorité des Français continue de consommer de tout, la sensibilité au bien-être animal s'est nettement développée. Qu'elle relève d'une conviction personnelle, d'une préoccupation environnementale ou d'une forme de contestation, la volonté de respecter la vie animale constitue le principal motif poussant les Français à renoncer aux produits d'origine animale. D'autres soulignent, à l'inverse, qu'une étude scientifique conclut qu'une alimentation végétarienne pourrait s'avérer plus polluante qu'un régime classique incluant de la viande. Des chercheurs de l'université Carnegie-Mellon ont comparé les émissions carbone liées à la culture des fruits et légumes à celles de l'élevage destiné à la consommation. Il en ressort que produire et transporter une laitue serait trois fois plus polluant que le faire pour un poulet. Cette étude vient ainsi remettre en question plusieurs idées reçues. | Compare two opposing texts on vegetarianism in Europe (ethical/ecological arguments vs a study claiming it's more polluting) and write a synthesis of about 120-180 words. | 2 sources | 2025-04 | - |
+| 20 | Le plastique : faut-il continuer à l'utiliser ? Franck défend une utilisation restreinte du plastique, rappelant son rôle essentiel dans plusieurs secteurs, notamment médical et alimentaire, pour conserver les aliments et stériliser le matériel de soins. Il prône une consommation responsable et le recyclage, tout en admettant que certains usages restent incontournables. Amicha s'oppose fermement à l'utilisation du plastique, dénonçant son impact environnemental désastreux : les déchets plastiques polluent océans et écosystèmes, causant des dégâts irréversibles. Elle milite pour des alternatives écologiques et durables, insistant sur l'urgence d'y renoncer pour protéger l'environnement et la santé publique. | Summarize and compare the two viewpoints on plastic use (limited but necessary vs total opposition). | 2 sources | 2026-01 | - |
 
 ## Family
 
@@ -326,6 +327,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 44 | Depuis quelque temps, la passion pour la cuisine gagne de plus en plus de monde. Les blogs culinaires se multiplient sur Internet, chacun y partageant ses essais plus ou moins réussis… Pourtant, une différence majeure sépare ces amateurs des professionnels comme moi : la formation ! Aujourd'hui, on croit que le métier de cuisinier est à la portée de tous, alors qu'il exige de nombreuses compétences et connaissances. C'est un métier exigeant, mais quelle satisfaction et quelle fierté d'être un vrai cuisinier ! D'après Gustave, chef dans un grand restaurant lyonnais. | Compare two documents debating amateur cooking blogs versus professional cooking training. | 2 sources | 2025-05 | - |
 | 45 | Le Salon du blog culinaire tient sa toute première édition en Belgique : 450 bloggeurs se retrouvent jusqu'à dimanche pour des démonstrations publiques et des échanges d'expériences. Pour certains, cette passion devient un vrai métier, à l'image de Pascale Weeks, première Française à avoir créé son blog. Depuis, elle a publié cinq livres de recettes et teste chaque jour des produits pour diverses marques. D'amateure, elle est devenue professionnelle ! D'après blog-cuisine.com. | Compare two documents debating amateur cooking blogs versus professional cooking training. | 2 sources | 2025-05 | - |
 | 46 | Dans certaines régions, comme le Québec, l'égalité entre hommes et femmes est bien réelle. De nombreuses femmes accèdent à des postes à responsabilités et exercent des métiers longtemps réservés aux hommes, comme la construction ou la direction d'entreprise. Grâce aux lois sur l'égalité et à l'évolution des esprits, les femmes ont maintenant accès aux mêmes carrières que les hommes, sans être discriminées. | The candidate must compare this text with an opposing one about gender equality at work. | 2 sources | 2026-01 | - |
+| 47 | Le travail : pour ou contre ? Certains estiment que le travail occupe une place trop importante dans nos existences. Dès le plus jeune âge, on nous demande quel métier nous voudrions exercer plus tard. Or, au lieu d'apporter épanouissement et accomplissement, le travail rime souvent avec épuisement et enfermement. Beaucoup regrettent de ne pas consacrer assez de temps à leurs proches et souhaiteraient travailler moins pour vivre mieux. D'autres rappellent au contraire que certains ont choisi d'arrêter de travailler pour changer de vie, mais que travailler reste aujourd'hui synonyme d'exister socialement. La question « que fais-tu dans la vie ? », posée dès une première rencontre, montre bien que le métier façonne notre identité. Selon le spécialiste Jean-Daniel Remond, l'environnement professionnel — relations quotidiennes, réseau, sentiment d'utilité, mais aussi difficultés rencontrées — participe pleinement à la construction de la personnalité. Une phase de test serait nécessaire avant toute réforme, afin de s'assurer que les conséquences demeurent acceptables. | Summarize and compare the two opposing viewpoints on whether work occupies too much space in life. | 2 sources | 2026-01 | - |
 
 ---
 
