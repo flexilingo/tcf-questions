@@ -4,12 +4,12 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-141 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+143 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (56)
-- [Economy](#economy) (2)
+- [Economy](#economy) (3)
 - [Education](#education) (16)
 - [Environment](#environment) (4)
 - [Family](#family) (7)
@@ -17,7 +17,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Immigration](#immigration) (13)
 - [Miscellaneous](#miscellaneous) (6)
 - [Technology](#technology) (16)
-- [Work](#work) (10)
+- [Work](#work) (11)
 
 ## Culture
 
@@ -85,7 +85,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Vous avez participé à un vide-grenier (vente/achat d'objets d'occasion) dans votre ville. Racontez sur votre blog personnel pourquoi cette expérience vous a plu. | Write a blog post about a flea market experience and why you enjoyed it. | 8 sources | 2023-06 | - |
-| 2 | Vous avez visité une brocante. Racontez cette expérience sur votre blog et précisez ce qui vous a le plus plu. | The candidate must write a blog post about visiting a flea market, specifying what they liked most. | 2 sources | 2022-08 | - |
+| 2 | Vous avez récemment fait un voyage avec une agence et les prestations ne vous ont pas satisfait(e). Écrivez un courriel de plainte où vous montrez votre déception, exposez les problèmes survenus et réclamez une solution. | Write a complaint email to a travel agency about a recent trip, describing the problems and asking for a solution. | 4 sources | 2025-04 | - |
+| 3 | Vous avez visité une brocante. Racontez cette expérience sur votre blog et précisez ce qui vous a le plus plu. | The candidate must write a blog post about visiting a flea market, specifying what they liked most. | 2 sources | 2022-08 | - |
 
 ## Education
 
@@ -203,12 +204,13 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 2 | Vous êtes parti(e) travailler dans un pays étranger. Écrivez un message à vos amis pour leur raconter cette nouvelle expérience professionnelle et leur indiquer ce que vous avez apprécié le plus. | Write a message to friends recounting a work experience abroad and what you enjoyed most about it. | 7 sources | 2024-05 | - |
 | 3 | Vous venez de suivre une journée de formation dans votre entreprise. Écrivez un article destiné à un forum interne pour raconter à vos collègues votre expérience et ce que vous en avez retenu de positif. | Write a forum article for colleagues sharing your experience and what you appreciated about a company training day. | 5 sources | 2023-08 | - |
 | 4 | L'école de votre quartier organise un projet pour faire découvrir divers métiers aux élèves. Souhaitant y contribuer en racontant votre parcours, vous rédigez un texte destiné aux enseignants dans lequel vous décrivez votre profession (tâches quotidiennes, collègues, etc.) et expliquez les raisons pour lesquelles vous appréciez ce métier. | The candidate must write to teachers describing their job and explaining why they find it interesting. | 4 sources | 2024-09 | - |
-| 5 | Vous êtes parti(e) travailler à l'étranger. Rédigez pour vos amis un article de blog racontant cette nouvelle expérience professionnelle, en précisant ce qui vous a le plus plu. | The candidate must write a blog article about working abroad, specifying what they liked most. | 2 sources | 2022-08 | - |
-| 6 | Vous venez de débuter un nouvel emploi. Rédigez un courriel à vos amis pour leur raconter le déroulement de votre première semaine et leur donner votre avis sur ce nouveau poste. | Write an email to your friends telling them about your first week at a new job and what you think of it. | 2 sources | 2024-05 | - |
-| 7 | À la demande de votre employeur, vous rédigez pour vos collègues un compte rendu de la semaine de formation professionnelle que vous venez de suivre. | Write a 120-150 word report for colleagues about a week of professional training, as requested by your employer. | 1 source | 2021-03 | - |
-| 8 | NIEMA : « Mon mari a quitté son emploi de banquier à Paris pour qu'on ouvre ensemble une boulangerie en province. Avez-vous déjà vécu un changement de vie comparable, sur le plan professionnel ou personnel ? » Vous tombez sur ce message en ligne : donnez votre avis en commentaire sur le choix de Niema et de son mari Paul, puis expliquez ce que vous auriez fait dans une situation comparable. | Comment on a post about a couple changing careers to open a bakery, giving your opinion and what you would have done. | 1 source | 2023-12 | - |
-| 9 | Votre stage en entreprise n'a pas répondu à vos attentes. Écrivez au responsable pour exprimer votre déception et proposer des pistes d'amélioration pour les futurs stagiaires. | Write to a manager expressing disappointment about an internship and suggesting improvements. | 1 source | 2024-02 | - |
-| 10 | Après avoir assisté à une conférence professionnelle décevante, rédigez un article destiné au site de votre entreprise pour partager votre expérience et proposer des pistes d'amélioration pour les prochains événements, en 120 à 150 mots. | Write an article for your company's website about a disappointing professional conference and suggest improvements for future events, in 120-150 words. | 1 source | 2024-03 | - |
+| 5 | Vous avez pique-niqué avec des collègues. Écrivez pour le journal interne de votre entreprise un récit de cette journée qui décrit l'endroit, le repas, le temps qu'il faisait et l'atmosphère. | Write an account for the company newsletter of a picnic with colleagues, describing the place, meal, weather and atmosphere. | 4 sources | 2025-04 | - |
+| 6 | Vous êtes parti(e) travailler à l'étranger. Rédigez pour vos amis un article de blog racontant cette nouvelle expérience professionnelle, en précisant ce qui vous a le plus plu. | The candidate must write a blog article about working abroad, specifying what they liked most. | 2 sources | 2022-08 | - |
+| 7 | Vous venez de débuter un nouvel emploi. Rédigez un courriel à vos amis pour leur raconter le déroulement de votre première semaine et leur donner votre avis sur ce nouveau poste. | Write an email to your friends telling them about your first week at a new job and what you think of it. | 2 sources | 2024-05 | - |
+| 8 | À la demande de votre employeur, vous rédigez pour vos collègues un compte rendu de la semaine de formation professionnelle que vous venez de suivre. | Write a 120-150 word report for colleagues about a week of professional training, as requested by your employer. | 1 source | 2021-03 | - |
+| 9 | NIEMA : « Mon mari a quitté son emploi de banquier à Paris pour qu'on ouvre ensemble une boulangerie en province. Avez-vous déjà vécu un changement de vie comparable, sur le plan professionnel ou personnel ? » Vous tombez sur ce message en ligne : donnez votre avis en commentaire sur le choix de Niema et de son mari Paul, puis expliquez ce que vous auriez fait dans une situation comparable. | Comment on a post about a couple changing careers to open a bakery, giving your opinion and what you would have done. | 1 source | 2023-12 | - |
+| 10 | Votre stage en entreprise n'a pas répondu à vos attentes. Écrivez au responsable pour exprimer votre déception et proposer des pistes d'amélioration pour les futurs stagiaires. | Write to a manager expressing disappointment about an internship and suggesting improvements. | 1 source | 2024-02 | - |
+| 11 | Après avoir assisté à une conférence professionnelle décevante, rédigez un article destiné au site de votre entreprise pour partager votre expérience et proposer des pistes d'amélioration pour les prochains événements, en 120 à 150 mots. | Write an article for your company's website about a disappointing professional conference and suggest improvements for future events, in 120-150 words. | 1 source | 2024-03 | - |
 
 ---
 

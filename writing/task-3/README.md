@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-260 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+262 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,12 +12,12 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Economy](#economy) (36)
 - [Education](#education) (35)
 - [Environment](#environment) (20)
-- [Family](#family) (31)
+- [Family](#family) (32)
 - [Health](#health) (28)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (7)
 - [Technology](#technology) (17)
-- [Work](#work) (47)
+- [Work](#work) (48)
 
 ## Culture
 
@@ -203,6 +203,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 29 | Bernard : « Je défends la restauration rapide. Je travaille dans une chaîne réputée et je considère qu'on peut y manger équilibré. Les menus proposent légumes, salades, pain, viande. C'est au client de décider de ce qu'il mange : prendre plusieurs sandwichs et trop de sauce, ce n'est pas sain. Ces établissements sont aussi impeccables et accessibles, aussi bien pour les familles que pour les groupes d'amis. » | The candidate must compare this text with an opposing one about fast food. | 2 sources | 2025-11 | - |
 | 30 | L'uniforme scolaire Certains estiment que porter un uniforme étouffe la personnalité des jeunes, qui ne peuvent s'habiller à leur guise en aucune occasion. D'autres préfèrent, pour eux-mêmes ou leurs enfants, garder la liberté de s'exprimer par la tenue vestimentaire et de choisir chaque jour ce qu'ils porteront. Ainsi, les jeunes qui aiment se démarquer par un accessoire ou un vêtement se sentiront frustrés, comme enfermés dans cet uniforme. D'autres avancent au contraire que l'uniforme renforce le sentiment d'appartenance à l'établissement et à la communauté d'élèves. Il nourrit l'esprit collectif et la fierté d'en faire partie. Il réduit également les discriminations liées au style ou au milieu social : tous les parents ne peuvent pas offrir des vêtements de marque à leurs enfants. Imposer une tenue commune atténue donc les écarts entre classes sociales. | Summarize and compare the two opposing viewpoints on school uniforms. | 2 sources | 2026-01 | - |
 | 31 | La sévérité parentale J'ai bientôt 22 ans et je vis encore chez mes parents. Bien que majeure, je reste soumise à leur autorité. Adolescente, quand je sortais avec des amies, je n'avais pas le droit de découcher ni de rentrer après 21 heures. Aujourd'hui, la situation a peu changé : certes je peux veiller plus tard, mais ma mère continue de m'appeler sans cesse tant que je ne suis pas rentrée. Certains parents redoutent d'être trop stricts, craignant qu'un excès d'autorité empêche leurs enfants de s'épanouir ou de développer leur personnalité. Pourtant, même si, par amour, certains parents cèdent à toutes les demandes de leurs enfants, cela peut avoir des répercussions négatives à l'âge adulte. En effet, vivre en société implique nécessairement de respecter certaines règles. | Summarize the two viewpoints (strict vs lenient parenting) from this personal account. | 2 sources | 2026-01 | - |
+| 32 | Les technologies modernes et les enfants. Document 1 : À l'école primaire, les enfants peuvent se servir des outils numériques pour chercher des vidéos sur les thèmes vus en classe ou pour utiliser des jeux qui renforcent leur aisance en calcul, leur compréhension en lecture ou leur rapidité au clavier. Document 2 : Les technologies modernes poussent les enfants à la sédentarité, ce qui inquiète beaucoup les parents. Elles ne laissent place ni au jeu libre et créatif, ni aux échanges en face à face, ni à l'activité physique ! Pourquoi ne pas proposer quelques activités amusantes pour inciter vos enfants à poser leurs écrans ? | Compare two documents with opposing views on new technologies for children, then give your opinion. | 2 sources | 2026-01 | - |
 
 ## Health
 
@@ -328,6 +329,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 45 | Le Salon du blog culinaire tient sa toute première édition en Belgique : 450 bloggeurs se retrouvent jusqu'à dimanche pour des démonstrations publiques et des échanges d'expériences. Pour certains, cette passion devient un vrai métier, à l'image de Pascale Weeks, première Française à avoir créé son blog. Depuis, elle a publié cinq livres de recettes et teste chaque jour des produits pour diverses marques. D'amateure, elle est devenue professionnelle ! D'après blog-cuisine.com. | Compare two documents debating amateur cooking blogs versus professional cooking training. | 2 sources | 2025-05 | - |
 | 46 | Dans certaines régions, comme le Québec, l'égalité entre hommes et femmes est bien réelle. De nombreuses femmes accèdent à des postes à responsabilités et exercent des métiers longtemps réservés aux hommes, comme la construction ou la direction d'entreprise. Grâce aux lois sur l'égalité et à l'évolution des esprits, les femmes ont maintenant accès aux mêmes carrières que les hommes, sans être discriminées. | The candidate must compare this text with an opposing one about gender equality at work. | 2 sources | 2026-01 | - |
 | 47 | Le travail : pour ou contre ? Certains estiment que le travail occupe une place trop importante dans nos existences. Dès le plus jeune âge, on nous demande quel métier nous voudrions exercer plus tard. Or, au lieu d'apporter épanouissement et accomplissement, le travail rime souvent avec épuisement et enfermement. Beaucoup regrettent de ne pas consacrer assez de temps à leurs proches et souhaiteraient travailler moins pour vivre mieux. D'autres rappellent au contraire que certains ont choisi d'arrêter de travailler pour changer de vie, mais que travailler reste aujourd'hui synonyme d'exister socialement. La question « que fais-tu dans la vie ? », posée dès une première rencontre, montre bien que le métier façonne notre identité. Selon le spécialiste Jean-Daniel Remond, l'environnement professionnel — relations quotidiennes, réseau, sentiment d'utilité, mais aussi difficultés rencontrées — participe pleinement à la construction de la personnalité. Une phase de test serait nécessaire avant toute réforme, afin de s'assurer que les conséquences demeurent acceptables. | Summarize and compare the two opposing viewpoints on whether work occupies too much space in life. | 2 sources | 2026-01 | - |
+| 48 | Le travail des jeunes durant les vacances Certains rappellent que les vacances sont censées être un moment de repos pour les étudiants après de longs mois de cours, l'occasion de voyager et de profiter du beau temps. Or, de nombreux jeunes renoncent à ce repos pour travailler : garde d'enfants, service en restauration, cueillette de fruits. Si ces emplois saisonniers présentent des avantages, ils privent aussi les jeunes de temps libre, de repos et de moments avec leurs proches, sans compter que ces postes sont parfois mal rémunérés, épuisants ou peu stimulants. D'autres soulignent au contraire que travailler pendant les vacances constitue une première approche du monde professionnel : cela apprend la responsabilité et fait découvrir un métier. Gagner un salaire est également motivant, permettant à certains de devenir financièrement indépendants pour voyager ou se faire plaisir, tandis que pour d'autres, c'est une nécessité afin de financer leurs études ou leur loyer. | Summarize and compare the two opposing viewpoints on students working during their holidays. | 2 sources | 2026-01 | - |
 
 ---
 
