@@ -4,11 +4,11 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-83 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+84 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (22)
+- [Culture](#culture) (23)
 - [Economy](#economy) (17)
 - [Education](#education) (7)
 - [Environment](#environment) (5)
@@ -45,6 +45,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 20 | Un document traitant de la qualité de la langue française dans le journalisme. | A document about the quality of French used in journalism. | 1 source | 2026-09 | - |
 | 21 | Un message adressé par un magazine à ses lecteurs. | A message from a magazine to its readers. | 1 source | 2026-09 | - |
 | 22 | Un reportage sociologique sur les habitants d'une grande capitale. | A sociological report about residents of the capital city. | 1 source | 2026-09 | - |
+| 23 | Un texte critique consacré à l'art de la peinture. | A critical essay about painting. | 1 source | 2026-09 | - |
 
 ## Economy
 

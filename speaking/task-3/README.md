@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-268 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+269 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,7 +13,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Education](#education) (28)
 - [Environment](#environment) (15)
 - [Family](#family) (24)
-- [Health](#health) (16)
+- [Health](#health) (17)
 - [Immigration](#immigration) (41)
 - [Miscellaneous](#miscellaneous) (41)
 - [Technology](#technology) (29)
@@ -151,20 +151,21 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | --- | --- | --- | --- | --- | --- |
 | 1 | Est-on en meilleure santé quand on habite à la campagne plutôt qu'en ville ? Donnez votre opinion. | Give and defend your view on whether living in the countryside is healthier than living in the city. | 7 sources | 2024-10 | [Read](https://www.flexilingo.com/en/tcf-canada/sujet/tcf-eo-t3-campagne-ou-ville-meilleure-sante-point-de-vue) |
 | 2 | Selon vous, quelles initiatives citoyennes (distribution alimentaire, accompagnement de malades, projets écologiques, etc.) trouvez-vous particulièrement admirables ? Pourquoi ? | Give your opinion on which civic actions you find most admirable and why. | 8 sources | 2023-09 | - |
-| 3 | Les transports en commun devraient-ils être gratuits pour tout le monde dans les grandes villes ? Quel est votre point de vue ? | The candidate must give and defend an opinion on whether public transport should be free in big cities. | 7 sources | 2022-09 | - |
-| 4 | D'aucuns estiment que les athlètes professionnels touchent des salaires excessifs. Partagez-vous ce point de vue ? | State and defend your opinion on whether athletes earn too much money. | 7 sources | 2023-06 | - |
-| 5 | Le stress peut-il être considéré comme un moteur positif ? Quelle est votre position sur cette question ? | The candidate must give and defend their opinion on whether stress can be a positive stimulant. | 7 sources | 2023-10 | - |
-| 6 | Faut-il contraindre les enfants à pratiquer une activité sportive ? Partagez-vous ce point de vue ? Expliquez pourquoi. | The candidate must give and defend their opinion on forcing children to do sport. | 6 sources | 2023-02 | - |
-| 7 | Je travaille à l'accueil d'un club de sport de votre ville. Vous souhaitez faire du sport. Posez-moi des questions pour décider si vous allez vous inscrire (cours proposés, tarifs, horaires, etc.). | Ask a sports club receptionist questions to decide whether to sign up. | 6 sources | 2023-06 | - |
-| 8 | Pour être en bonne santé, il faudrait arrêter de manger de la viande. Que pensez-vous de cette affirmation ? | The candidate must give and defend an opinion on whether one must stop eating meat to be healthy. | 6 sources | 2023-08 | - |
-| 9 | Avoir un animal de compagnie est-il indispensable au bien-être des personnes âgées ? Donnez votre avis. | Give and defend your opinion on whether pets are essential for elderly people's well-being. | 6 sources | 2023-10 | - |
-| 10 | Les repas végétariens constituent-ils une option saine et durable face à l'alimentation classique ? Donnez votre point de vue. | Give and defend your opinion on vegetarian meals as a healthy, sustainable alternative. | 6 sources | 2023-10 | - |
-| 11 | Le tourisme constitue-t-il, selon vous, une bonne piste de développement pour tous les pays ? Expliquez votre réponse. | Give and defend your opinion on whether tourism is a good development path for every country. | 6 sources | 2025-02 | - |
-| 12 | Selon vous, est-ce une bonne idée de se mettre au sport après 50 ans ? | Give and defend your opinion on starting a sport after age 50. | 6 sources | 2025-10 | - |
-| 13 | D'après vous, les personnes en situation de handicap occupent-elles une place suffisante dans la société ? Justifiez votre réponse. | The candidate must give and defend an opinion on whether people with disabilities have a satisfactory place in society. | 6 sources | 2025-11 | - |
-| 14 | Selon vous, les jeunes d'aujourd'hui s'engagent-ils moins qu'avant (environnement, politique, santé, etc.) ? Pourquoi ? | The candidate must give and defend an opinion on whether young people today are less engaged in causes. | 5 sources | 2025-04 | - |
-| 15 | Pour préserver sa santé, faut-il se limiter aux produits biologiques ? Partagez-vous cette opinion ? | Give and defend your opinion on whether staying healthy requires eating only organic products. | 5 sources | 2025-10 | - |
-| 16 | Pour être en bonne santé, l’essentiel est-il d’avoir une alimentation équilibrée ? Quel est votre avis sur ce sujet ? | Give and defend your opinion on whether balanced eating is the key to good health. | 5 sources | 2025-10 | - |
+| 3 | Dans les villes, les transports collectifs devraient être gratuits. Selon vous, est-ce une bonne idée ? Pourquoi ? | Give and defend your opinion on whether public transport in cities should be free. | 7 sources | 2022-09 | - |
+| 4 | Les transports en commun devraient-ils être gratuits pour tout le monde dans les grandes villes ? Quel est votre point de vue ? | The candidate must give and defend an opinion on whether public transport should be free in big cities. | 7 sources | 2022-09 | - |
+| 5 | D'aucuns estiment que les athlètes professionnels touchent des salaires excessifs. Partagez-vous ce point de vue ? | State and defend your opinion on whether athletes earn too much money. | 7 sources | 2023-06 | - |
+| 6 | Le stress peut-il être considéré comme un moteur positif ? Quelle est votre position sur cette question ? | The candidate must give and defend their opinion on whether stress can be a positive stimulant. | 7 sources | 2023-10 | - |
+| 7 | Faut-il contraindre les enfants à pratiquer une activité sportive ? Partagez-vous ce point de vue ? Expliquez pourquoi. | The candidate must give and defend their opinion on forcing children to do sport. | 6 sources | 2023-02 | - |
+| 8 | Je travaille à l'accueil d'un club de sport de votre ville. Vous souhaitez faire du sport. Posez-moi des questions pour décider si vous allez vous inscrire (cours proposés, tarifs, horaires, etc.). | Ask a sports club receptionist questions to decide whether to sign up. | 6 sources | 2023-06 | - |
+| 9 | Pour être en bonne santé, il faudrait arrêter de manger de la viande. Que pensez-vous de cette affirmation ? | The candidate must give and defend an opinion on whether one must stop eating meat to be healthy. | 6 sources | 2023-08 | - |
+| 10 | Avoir un animal de compagnie est-il indispensable au bien-être des personnes âgées ? Donnez votre avis. | Give and defend your opinion on whether pets are essential for elderly people's well-being. | 6 sources | 2023-10 | - |
+| 11 | Les repas végétariens constituent-ils une option saine et durable face à l'alimentation classique ? Donnez votre point de vue. | Give and defend your opinion on vegetarian meals as a healthy, sustainable alternative. | 6 sources | 2023-10 | - |
+| 12 | Le tourisme constitue-t-il, selon vous, une bonne piste de développement pour tous les pays ? Expliquez votre réponse. | Give and defend your opinion on whether tourism is a good development path for every country. | 6 sources | 2025-02 | - |
+| 13 | Selon vous, est-ce une bonne idée de se mettre au sport après 50 ans ? | Give and defend your opinion on starting a sport after age 50. | 6 sources | 2025-10 | - |
+| 14 | D'après vous, les personnes en situation de handicap occupent-elles une place suffisante dans la société ? Justifiez votre réponse. | The candidate must give and defend an opinion on whether people with disabilities have a satisfactory place in society. | 6 sources | 2025-11 | - |
+| 15 | Selon vous, les jeunes d'aujourd'hui s'engagent-ils moins qu'avant (environnement, politique, santé, etc.) ? Pourquoi ? | The candidate must give and defend an opinion on whether young people today are less engaged in causes. | 5 sources | 2025-04 | - |
+| 16 | Pour préserver sa santé, faut-il se limiter aux produits biologiques ? Partagez-vous cette opinion ? | Give and defend your opinion on whether staying healthy requires eating only organic products. | 5 sources | 2025-10 | - |
+| 17 | Pour être en bonne santé, l’essentiel est-il d’avoir une alimentation équilibrée ? Quel est votre avis sur ce sujet ? | Give and defend your opinion on whether balanced eating is the key to good health. | 5 sources | 2025-10 | - |
 
 ## Immigration
 
