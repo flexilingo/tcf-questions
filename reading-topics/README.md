@@ -4,7 +4,7 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-84 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+85 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 - [Family](#family) (2)
 - [Health](#health) (9)
 - [Immigration](#immigration) (2)
-- [Miscellaneous](#miscellaneous) (10)
+- [Miscellaneous](#miscellaneous) (11)
 - [Technology](#technology) (3)
 - [Work](#work) (6)
 
@@ -133,6 +133,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 8 | Un document sur la manière dont les Français passent leurs vacances d'été. | A document about how French people spend their summer holidays. | 1 source | 2026-09 | - |
 | 9 | Un document énonçant les consignes de sécurité d'un appareil. | A document about safety instructions for a device. | 1 source | 2026-09 | - |
 | 10 | Un message annonçant le changement d'un rendez-vous. | A message about rescheduling an appointment. | 1 source | 2026-09 | - |
+| 11 | Une annonce annonçant des travaux. | A notice about construction work. | 1 source | 2026-09 | - |
 
 ## Technology
 
