@@ -4,13 +4,13 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-266 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+268 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (40)
 - [Economy](#economy) (36)
-- [Education](#education) (35)
+- [Education](#education) (37)
 - [Environment](#environment) (20)
 - [Family](#family) (32)
 - [Health](#health) (28)
@@ -144,6 +144,8 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 33 | Quelle est l'utilité réelle des études universitaires ? On cite souvent des chefs d'entreprise célèbres ayant réussi sans passer par l'université. Ces parcours pourraient donner l'impression qu'un talent suffit pour diriger une société. Certains entrepreneurs pensent même que les études supérieures nuisent à la réussite : l'université favoriserait, selon eux, la conformité et brimerait la créativité en poussant les étudiants vers des voies traditionnelles. Pour créer son entreprise, rien ne remplacerait, à leurs yeux, l'apprentissage autodidacte et l'expérience du terrain, sans passer par aucune institution. D'après imomete.fr. | Compare two opposing viewpoints about the usefulness of university studies for entrepreneurs, then give your opinion. | 2 sources | 2025-02 | - |
 | 34 | Les frais de scolarité élevés des établissements privés réservent l'accès à ces écoles aux familles aisées, écartant ainsi les élèves de milieux plus modestes. Cette division entre public et privé nuit à la diversité sociale et limite les contacts entre jeunes d'origines différentes. Ce système éducatif contribue donc à maintenir, voire aggraver, les inégalités sociales. | Present the viewpoint that private schools' high fees exclude poorer families and worsen social inequality. | 2 sources | 2025-03 | - |
 | 35 | Habiter à la campagne n'est pas fait pour tout le monde. Les magasins, les activités de loisirs ainsi que les services essentiels comme les écoles ou les hôpitaux se trouvent parfois éloignés de plusieurs kilomètres. Posséder une voiture devient alors indispensable, et même l'accès à Internet peut poser problème selon les régions. À l'inverse, la ville procure souvent davantage de liberté de mouvement grâce aux transports en commun, tout en offrant un cadre de vie confortable. | Write one of two opposing texts on whether countryside living suits everyone, focusing on the drawbacks compared to city life. | 2 sources | 2025-06 | - |
+| 36 | Faut-il renforcer la place des nouvelles technologies à l'école ? Jean pense que l'école doit davantage recourir aux technologies pour bien préparer les élèves à l'ère numérique. D'après lui, les tablettes et ordinateurs stimulent la participation des jeunes en classe et facilitent l'accès à une multitude de ressources. Ces outils enrichissent les apprentissages tout en stimulant la créativité et l'autonomie. Sara, elle, redoute une trop grande place accordée aux technologies dans l'enseignement. Selon elle, les écrans risquent de créer une dépendance et de réduire les interactions humaines dont les élèves ont besoin. Pour garantir un développement équilibré, elle estime essentiel de maintenir les méthodes traditionnelles et de privilégier le contact direct entre enseignants et élèves. | The candidate must write a 120-180 word text comparing two opposing viewpoints on using technology in schools. | 2 sources | 2026-03 | - |
+| 37 | Faudrait-il rendre l'uniforme obligatoire dans toutes les écoles ? D'un côté, il dispense les familles d'acheter sans cesse des vêtements au gré de la mode et peut alléger leur budget, il renforce le sentiment d'appartenir à l'école et, en gommant les écarts sociaux et les styles individuels, il peut atténuer comparaisons et discriminations. De l'autre, bien que de plus en plus d'écoles publiques du Québec l'imposent, beaucoup d'adolescents s'y opposent : ils trouvent les uniformes inconfortables, ternes et trop chauds l'été, et s'habiller comme tous les autres les empêche de montrer leur personnalité. | Compare the arguments for and against compulsory school uniforms, then give your own position. | 2 sources | 2026-04 | - |
 
 ## Environment
 

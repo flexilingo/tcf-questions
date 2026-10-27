@@ -4,7 +4,7 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-147 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+149 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,11 +13,11 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Education](#education) (17)
 - [Environment](#environment) (4)
 - [Family](#family) (7)
-- [Health](#health) (11)
+- [Health](#health) (12)
 - [Immigration](#immigration) (13)
 - [Miscellaneous](#miscellaneous) (6)
 - [Technology](#technology) (16)
-- [Work](#work) (11)
+- [Work](#work) (12)
 
 ## Culture
 
@@ -146,9 +146,10 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 6 | Vous avez commencé une nouvelle activité sportive. Racontez cette expérience et incitez les autres à s'y mettre également. | Describe your experience starting a sport and encourage others to try it too. | 3 sources | 2023-04 | - |
 | 7 | Vous pratiquez un sport au sein d'un club et vous venez de gagner une compétition. Écrivez un courriel à vos amis pour leur raconter cet événement et leur annoncer votre victoire. | Write an email to friends telling them about winning a sports competition at your club. | 3 sources | 2023-04 | - |
 | 8 | Vous avez participé à une compétition sportive : rédigez un article (blog, magazine, etc.) en précisant le lieu, la date et l'organisation de l'événement. | Write an article about a sports competition you took part in, giving place, date and organization. | 3 sources | 2024-10 | - |
-| 9 | Vous avez pris part à une compétition sportive. Rédigez un article de blog pour raconter cette expérience. | The candidate must write a blog article recounting participation in a sports competition. | 2 sources | 2022-08 | - |
-| 10 | Vous avez assisté à un festival (gastronomie, musique, sport). Racontez sur votre blog ce que vous avez apprécié et ce qui vous a déplu, en 120 à 150 mots. | The candidate must write a blog post about what they liked and disliked at a festival. | 2 sources | 2023-11 | - |
-| 11 | Je sais que tu fréquentes une salle de sport. Qu'en penses-tu ? Peux-tu m'en dire davantage ? J'aimerais savoir si elle te convient vraiment ! | Ask the examiner questions to find out about the gym they attend and whether it is good. | 2 sources | 2024-05 | - |
+| 9 | Vous venez de vous lancer dans une nouvelle activité de loisir, par exemple la danse, la peinture ou un sport ; rédigez un message à vos amis pour leur raconter cette première expérience et dire ce que vous en pensez. | Write a message to friends telling them about a new leisure activity you have started and giving your opinion of it. | 3 sources | 2025-11 | - |
+| 10 | Vous avez pris part à une compétition sportive. Rédigez un article de blog pour raconter cette expérience. | The candidate must write a blog article recounting participation in a sports competition. | 2 sources | 2022-08 | - |
+| 11 | Vous avez assisté à un festival (gastronomie, musique, sport). Racontez sur votre blog ce que vous avez apprécié et ce qui vous a déplu, en 120 à 150 mots. | The candidate must write a blog post about what they liked and disliked at a festival. | 2 sources | 2023-11 | - |
+| 12 | Je sais que tu fréquentes une salle de sport. Qu'en penses-tu ? Peux-tu m'en dire davantage ? J'aimerais savoir si elle te convient vraiment ! | Ask the examiner questions to find out about the gym they attend and whether it is good. | 2 sources | 2024-05 | - |
 
 ## Immigration
 
@@ -209,12 +210,13 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 3 | Vous venez de suivre une journée de formation dans votre entreprise. Écrivez un article destiné à un forum interne pour raconter à vos collègues votre expérience et ce que vous en avez retenu de positif. | Write a forum article for colleagues sharing your experience and what you appreciated about a company training day. | 5 sources | 2023-08 | - |
 | 4 | L'école de votre quartier organise un projet pour faire découvrir divers métiers aux élèves. Souhaitant y contribuer en racontant votre parcours, vous rédigez un texte destiné aux enseignants dans lequel vous décrivez votre profession (tâches quotidiennes, collègues, etc.) et expliquez les raisons pour lesquelles vous appréciez ce métier. | The candidate must write to teachers describing their job and explaining why they find it interesting. | 4 sources | 2024-09 | - |
 | 5 | Vous avez pique-niqué avec des collègues. Écrivez pour le journal interne de votre entreprise un récit de cette journée qui décrit l'endroit, le repas, le temps qu'il faisait et l'atmosphère. | Write an account for the company newsletter of a picnic with colleagues, describing the place, meal, weather and atmosphere. | 4 sources | 2025-04 | - |
-| 6 | Vous êtes parti(e) travailler à l'étranger. Rédigez pour vos amis un article de blog racontant cette nouvelle expérience professionnelle, en précisant ce qui vous a le plus plu. | The candidate must write a blog article about working abroad, specifying what they liked most. | 2 sources | 2022-08 | - |
-| 7 | Vous venez de débuter un nouvel emploi. Rédigez un courriel à vos amis pour leur raconter le déroulement de votre première semaine et leur donner votre avis sur ce nouveau poste. | Write an email to your friends telling them about your first week at a new job and what you think of it. | 2 sources | 2024-05 | - |
-| 8 | À la demande de votre employeur, vous rédigez pour vos collègues un compte rendu de la semaine de formation professionnelle que vous venez de suivre. | Write a 120-150 word report for colleagues about a week of professional training, as requested by your employer. | 1 source | 2021-03 | - |
-| 9 | NIEMA : « Mon mari a quitté son emploi de banquier à Paris pour qu'on ouvre ensemble une boulangerie en province. Avez-vous déjà vécu un changement de vie comparable, sur le plan professionnel ou personnel ? » Vous tombez sur ce message en ligne : donnez votre avis en commentaire sur le choix de Niema et de son mari Paul, puis expliquez ce que vous auriez fait dans une situation comparable. | Comment on a post about a couple changing careers to open a bakery, giving your opinion and what you would have done. | 1 source | 2023-12 | - |
-| 10 | Votre stage en entreprise n'a pas répondu à vos attentes. Écrivez au responsable pour exprimer votre déception et proposer des pistes d'amélioration pour les futurs stagiaires. | Write to a manager expressing disappointment about an internship and suggesting improvements. | 1 source | 2024-02 | - |
-| 11 | Après avoir assisté à une conférence professionnelle décevante, rédigez un article destiné au site de votre entreprise pour partager votre expérience et proposer des pistes d'amélioration pour les prochains événements, en 120 à 150 mots. | Write an article for your company's website about a disappointing professional conference and suggest improvements for future events, in 120-150 words. | 1 source | 2024-03 | - |
+| 6 | Vous avez suivi une journée de formation dans le cadre de votre emploi et votre employeur vous demande de rédiger un article destiné à vos collègues, dans lequel vous décrivez cette journée et donnez votre appréciation. | Write an article for your colleagues describing a professional training day you attended and giving your opinion of it. | 3 sources | 2025-04 | - |
+| 7 | Vous êtes parti(e) travailler à l'étranger. Rédigez pour vos amis un article de blog racontant cette nouvelle expérience professionnelle, en précisant ce qui vous a le plus plu. | The candidate must write a blog article about working abroad, specifying what they liked most. | 2 sources | 2022-08 | - |
+| 8 | Vous venez de débuter un nouvel emploi. Rédigez un courriel à vos amis pour leur raconter le déroulement de votre première semaine et leur donner votre avis sur ce nouveau poste. | Write an email to your friends telling them about your first week at a new job and what you think of it. | 2 sources | 2024-05 | - |
+| 9 | À la demande de votre employeur, vous rédigez pour vos collègues un compte rendu de la semaine de formation professionnelle que vous venez de suivre. | Write a 120-150 word report for colleagues about a week of professional training, as requested by your employer. | 1 source | 2021-03 | - |
+| 10 | NIEMA : « Mon mari a quitté son emploi de banquier à Paris pour qu'on ouvre ensemble une boulangerie en province. Avez-vous déjà vécu un changement de vie comparable, sur le plan professionnel ou personnel ? » Vous tombez sur ce message en ligne : donnez votre avis en commentaire sur le choix de Niema et de son mari Paul, puis expliquez ce que vous auriez fait dans une situation comparable. | Comment on a post about a couple changing careers to open a bakery, giving your opinion and what you would have done. | 1 source | 2023-12 | - |
+| 11 | Votre stage en entreprise n'a pas répondu à vos attentes. Écrivez au responsable pour exprimer votre déception et proposer des pistes d'amélioration pour les futurs stagiaires. | Write to a manager expressing disappointment about an internship and suggesting improvements. | 1 source | 2024-02 | - |
+| 12 | Après avoir assisté à une conférence professionnelle décevante, rédigez un article destiné au site de votre entreprise pour partager votre expérience et proposer des pistes d'amélioration pour les prochains événements, en 120 à 150 mots. | Write an article for your company's website about a disappointing professional conference and suggest improvements for future events, in 120-150 words. | 1 source | 2024-03 | - |
 
 ---
 
