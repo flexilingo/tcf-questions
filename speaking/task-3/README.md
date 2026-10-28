@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-271 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+272 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,7 +14,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Environment](#environment) (15)
 - [Family](#family) (24)
 - [Health](#health) (17)
-- [Immigration](#immigration) (41)
+- [Immigration](#immigration) (42)
 - [Miscellaneous](#miscellaneous) (41)
 - [Technology](#technology) (30)
 - [Work](#work) (41)
@@ -188,30 +188,31 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 15 | Lorsqu'on s'installe dans un autre pays, est-il important de fréquenter des compatriotes ? Donnez votre avis. | Give your opinion on whether one should meet people from one's home country when living abroad. | 7 sources | 2023-02 | - |
 | 16 | Les personnes qui immigrent doivent-elles bien connaître le pays qui les accueille ? Expliquez pourquoi. | Give your opinion on whether immigrants should have good knowledge of their host country. | 7 sources | 2023-03 | - |
 | 17 | À votre avis, maîtriser la langue du pays où l'on s'installe suffit-il pour réussir son intégration ? Expliquez votre point de vue. | Give and defend an opinion on whether speaking the host country's language is enough for integration. | 7 sources | 2023-03 | - |
-| 18 | Peut-on réellement effectuer tous ses achats en ligne ? Donnez votre opinion sur cette question. | Give and defend an opinion on whether it's realistic to do all one's shopping online. | 7 sources | 2023-06 | - |
-| 19 | À votre avis, lorsqu'on emménage dans un nouveau pays, faut-il modifier ses habitudes de vie (alimentation, vacances, tenue vestimentaire, etc.) ? | Give and defend an opinion on whether one should change lifestyle habits when moving to a new country. | 7 sources | 2023-06 | - |
-| 20 | Les enfants s'adaptent-ils facilement à un pays étranger ? Quelle est votre opinion sur cette question ? | State and defend your opinion on whether children integrate easily into a foreign country. | 7 sources | 2023-12 | - |
-| 21 | L'intégration dans un nouveau pays est-elle facilitée lorsqu'on a des enfants ? Quel est votre avis sur cette question ? | The candidate must give an opinion on whether having children makes integration in a new country easier. | 7 sources | 2024-03 | - |
-| 22 | Selon vous, quels moyens permettraient de motiver les gens à pratiquer davantage d'activité physique ? | State and defend an opinion on how to encourage people to do more sport. | 7 sources | 2024-03 | - |
-| 23 | Selon vous, vivre à l'étranger constitue-t-il une expérience plutôt positive ou plutôt négative ? Pourquoi ? | The candidate must give an opinion on whether living abroad is a positive or negative experience. | 7 sources | 2024-03 | - |
-| 24 | À votre avis, quelles activités et quelles visites conseilleriez-vous à un(e) touriste étranger(ère) découvrant votre pays pour la première fois ? Pourquoi ? | The candidate must give an opinion on what activities/visits to recommend to a first-time foreign tourist in their country. | 7 sources | 2024-03 | - |
-| 25 | D'après vous, quelles sont les trois questions essentielles à se poser avant de commencer des démarches d'immigration au Québec ? Expliquez pourquoi vous retenez ces trois questions. | Give and justify the three key questions to ask before starting immigration procedures to Quebec. | 6 sources | 2023-09 | - |
-| 26 | Est-il plus simple de s’installer à l’étranger lorsqu’on est jeune ? Partagez-vous cet avis ? | The candidate must give their opinion on whether it's easier to move abroad when young. | 6 sources | 2024-10 | - |
-| 27 | Faut-il s'intégrer à la culture du pays d'accueil ou plutôt préserver sa propre culture ? Quel est votre avis ? | The candidate must give their opinion on integrating into a host country's culture versus preserving one's own. | 5 sources | 2022-09 | - |
-| 28 | Selon vous, faut-il conserver ses traditions et sa culture d'origine lorsqu'on s'installe dans un nouveau pays ? Vous exposerez votre opinion et la défendrez à l'aide d'arguments et d'exemples devant l'examinateur. | Give and defend your opinion on whether immigrants should preserve their traditions and culture in a host country. | 5 sources | 2022-11 | - |
-| 29 | L'immigration apporte des avantages au pays qui accueille les immigrés. Partagez-vous cette affirmation ? | Give and defend your opinion on whether immigration benefits the host country. | 5 sources | 2022-12 | - |
-| 30 | On peut tout à fait s'installer dans un pays étranger sans en maîtriser la langue. Partagez-vous cet avis ? Justifiez votre réponse. | The candidate must give and defend an opinion on whether one can live abroad without speaking the local language. | 5 sources | 2023-02 | - |
-| 31 | Quelles sont les raisons principales qui poussent les individus à émigrer vers d'autres pays ? Pourquoi ? | Give and defend an opinion on the main reasons people emigrate to other countries. | 5 sources | 2023-11 | - |
-| 32 | 5. Peu importe l'âge, il est toujours possible de s'intégrer dans un nouveau pays. Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether integration in a host country is possible at any age. | 5 sources | 2024-07 | - |
-| 33 | Émigrer seul(e) ou avec sa famille : quel est votre avis sur cette question ? | Give your opinion on whether it's better to immigrate alone or with family. | 5 sources | 2024-10 | - |
-| 34 | D'après vous, quelles sont les motivations qui peuvent amener une personne à aller travailler à l'étranger ? | The candidate must discuss reasons that push people to work abroad. | 5 sources | 2025-02 | - |
-| 35 | Selon vous, faut-il du courage pour quitter son pays natal et aller vivre ailleurs ? Défendez votre point de vue. | Give and defend your opinion on whether leaving one's country to live abroad requires courage. | 5 sources | 2025-02 | - |
-| 36 | S'expatrier en famille serait plus simple que de le faire seul(e). Que pensez-vous de cette idée ? | The candidate must give and defend an opinion on whether expatriating is easier with family than alone. | 5 sources | 2025-03 | - |
-| 37 | S’adapter à un pays qu’on ne connaît pas est une épreuve difficile. Qu’en pensez-vous ? | Give and defend your opinion on whether settling in a new country is difficult. | 5 sources | 2025-07 | - |
-| 38 | D’après vous, est-il possible de s’épanouir en vivant seul ? | Give and defend your opinion on whether one can thrive living alone. | 5 sources | 2025-10 | - |
-| 39 | Explorer un nouveau pays, c’est aussi s’intéresser à ses artistes ? Êtes-vous d’accord avec cette affirmation ? | Give and defend your opinion on whether discovering a country means discovering its artists too. | 5 sources | 2025-10 | - |
-| 40 | Selon vous, les avantages de vivre à l’étranger l’emportent-ils sur les inconvénients ? Pourquoi ? | Give and defend your opinion on whether the benefits of living abroad outweigh the drawbacks. | 5 sources | 2025-10 | - |
-| 41 | Pour quelles raisons pourrait-on avoir envie de poursuivre ses études à l'étranger ? | The candidate must give their opinion on why someone might want to study abroad. | 5 sources | 2026-03 | - |
+| 18 | D'après vous, qu'est-ce que les gens qui décident de s'installer à l'étranger cherchent à trouver ? | Give your opinion on what people who choose to move abroad are looking for. | 7 sources | 2023-05 | - |
+| 19 | Peut-on réellement effectuer tous ses achats en ligne ? Donnez votre opinion sur cette question. | Give and defend an opinion on whether it's realistic to do all one's shopping online. | 7 sources | 2023-06 | - |
+| 20 | À votre avis, lorsqu'on emménage dans un nouveau pays, faut-il modifier ses habitudes de vie (alimentation, vacances, tenue vestimentaire, etc.) ? | Give and defend an opinion on whether one should change lifestyle habits when moving to a new country. | 7 sources | 2023-06 | - |
+| 21 | Les enfants s'adaptent-ils facilement à un pays étranger ? Quelle est votre opinion sur cette question ? | State and defend your opinion on whether children integrate easily into a foreign country. | 7 sources | 2023-12 | - |
+| 22 | L'intégration dans un nouveau pays est-elle facilitée lorsqu'on a des enfants ? Quel est votre avis sur cette question ? | The candidate must give an opinion on whether having children makes integration in a new country easier. | 7 sources | 2024-03 | - |
+| 23 | Selon vous, quels moyens permettraient de motiver les gens à pratiquer davantage d'activité physique ? | State and defend an opinion on how to encourage people to do more sport. | 7 sources | 2024-03 | - |
+| 24 | Selon vous, vivre à l'étranger constitue-t-il une expérience plutôt positive ou plutôt négative ? Pourquoi ? | The candidate must give an opinion on whether living abroad is a positive or negative experience. | 7 sources | 2024-03 | - |
+| 25 | À votre avis, quelles activités et quelles visites conseilleriez-vous à un(e) touriste étranger(ère) découvrant votre pays pour la première fois ? Pourquoi ? | The candidate must give an opinion on what activities/visits to recommend to a first-time foreign tourist in their country. | 7 sources | 2024-03 | - |
+| 26 | D'après vous, quelles sont les trois questions essentielles à se poser avant de commencer des démarches d'immigration au Québec ? Expliquez pourquoi vous retenez ces trois questions. | Give and justify the three key questions to ask before starting immigration procedures to Quebec. | 6 sources | 2023-09 | - |
+| 27 | Est-il plus simple de s’installer à l’étranger lorsqu’on est jeune ? Partagez-vous cet avis ? | The candidate must give their opinion on whether it's easier to move abroad when young. | 6 sources | 2024-10 | - |
+| 28 | Faut-il s'intégrer à la culture du pays d'accueil ou plutôt préserver sa propre culture ? Quel est votre avis ? | The candidate must give their opinion on integrating into a host country's culture versus preserving one's own. | 5 sources | 2022-09 | - |
+| 29 | Selon vous, faut-il conserver ses traditions et sa culture d'origine lorsqu'on s'installe dans un nouveau pays ? Vous exposerez votre opinion et la défendrez à l'aide d'arguments et d'exemples devant l'examinateur. | Give and defend your opinion on whether immigrants should preserve their traditions and culture in a host country. | 5 sources | 2022-11 | - |
+| 30 | L'immigration apporte des avantages au pays qui accueille les immigrés. Partagez-vous cette affirmation ? | Give and defend your opinion on whether immigration benefits the host country. | 5 sources | 2022-12 | - |
+| 31 | On peut tout à fait s'installer dans un pays étranger sans en maîtriser la langue. Partagez-vous cet avis ? Justifiez votre réponse. | The candidate must give and defend an opinion on whether one can live abroad without speaking the local language. | 5 sources | 2023-02 | - |
+| 32 | Quelles sont les raisons principales qui poussent les individus à émigrer vers d'autres pays ? Pourquoi ? | Give and defend an opinion on the main reasons people emigrate to other countries. | 5 sources | 2023-11 | - |
+| 33 | 5. Peu importe l'âge, il est toujours possible de s'intégrer dans un nouveau pays. Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether integration in a host country is possible at any age. | 5 sources | 2024-07 | - |
+| 34 | Émigrer seul(e) ou avec sa famille : quel est votre avis sur cette question ? | Give your opinion on whether it's better to immigrate alone or with family. | 5 sources | 2024-10 | - |
+| 35 | D'après vous, quelles sont les motivations qui peuvent amener une personne à aller travailler à l'étranger ? | The candidate must discuss reasons that push people to work abroad. | 5 sources | 2025-02 | - |
+| 36 | Selon vous, faut-il du courage pour quitter son pays natal et aller vivre ailleurs ? Défendez votre point de vue. | Give and defend your opinion on whether leaving one's country to live abroad requires courage. | 5 sources | 2025-02 | - |
+| 37 | S'expatrier en famille serait plus simple que de le faire seul(e). Que pensez-vous de cette idée ? | The candidate must give and defend an opinion on whether expatriating is easier with family than alone. | 5 sources | 2025-03 | - |
+| 38 | S’adapter à un pays qu’on ne connaît pas est une épreuve difficile. Qu’en pensez-vous ? | Give and defend your opinion on whether settling in a new country is difficult. | 5 sources | 2025-07 | - |
+| 39 | D’après vous, est-il possible de s’épanouir en vivant seul ? | Give and defend your opinion on whether one can thrive living alone. | 5 sources | 2025-10 | - |
+| 40 | Explorer un nouveau pays, c’est aussi s’intéresser à ses artistes ? Êtes-vous d’accord avec cette affirmation ? | Give and defend your opinion on whether discovering a country means discovering its artists too. | 5 sources | 2025-10 | - |
+| 41 | Selon vous, les avantages de vivre à l’étranger l’emportent-ils sur les inconvénients ? Pourquoi ? | Give and defend your opinion on whether the benefits of living abroad outweigh the drawbacks. | 5 sources | 2025-10 | - |
+| 42 | Pour quelles raisons pourrait-on avoir envie de poursuivre ses études à l'étranger ? | The candidate must give their opinion on why someone might want to study abroad. | 5 sources | 2026-03 | - |
 
 ## Miscellaneous
 

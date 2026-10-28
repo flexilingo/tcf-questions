@@ -4,20 +4,20 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-268 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+270 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (40)
 - [Economy](#economy) (36)
-- [Education](#education) (37)
+- [Education](#education) (38)
 - [Environment](#environment) (20)
 - [Family](#family) (32)
 - [Health](#health) (28)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (7)
 - [Technology](#technology) (17)
-- [Work](#work) (50)
+- [Work](#work) (51)
 
 ## Culture
 
@@ -146,6 +146,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 35 | Habiter à la campagne n'est pas fait pour tout le monde. Les magasins, les activités de loisirs ainsi que les services essentiels comme les écoles ou les hôpitaux se trouvent parfois éloignés de plusieurs kilomètres. Posséder une voiture devient alors indispensable, et même l'accès à Internet peut poser problème selon les régions. À l'inverse, la ville procure souvent davantage de liberté de mouvement grâce aux transports en commun, tout en offrant un cadre de vie confortable. | Write one of two opposing texts on whether countryside living suits everyone, focusing on the drawbacks compared to city life. | 2 sources | 2025-06 | - |
 | 36 | Faut-il renforcer la place des nouvelles technologies à l'école ? Jean pense que l'école doit davantage recourir aux technologies pour bien préparer les élèves à l'ère numérique. D'après lui, les tablettes et ordinateurs stimulent la participation des jeunes en classe et facilitent l'accès à une multitude de ressources. Ces outils enrichissent les apprentissages tout en stimulant la créativité et l'autonomie. Sara, elle, redoute une trop grande place accordée aux technologies dans l'enseignement. Selon elle, les écrans risquent de créer une dépendance et de réduire les interactions humaines dont les élèves ont besoin. Pour garantir un développement équilibré, elle estime essentiel de maintenir les méthodes traditionnelles et de privilégier le contact direct entre enseignants et élèves. | The candidate must write a 120-180 word text comparing two opposing viewpoints on using technology in schools. | 2 sources | 2026-03 | - |
 | 37 | Faudrait-il rendre l'uniforme obligatoire dans toutes les écoles ? D'un côté, il dispense les familles d'acheter sans cesse des vêtements au gré de la mode et peut alléger leur budget, il renforce le sentiment d'appartenir à l'école et, en gommant les écarts sociaux et les styles individuels, il peut atténuer comparaisons et discriminations. De l'autre, bien que de plus en plus d'écoles publiques du Québec l'imposent, beaucoup d'adolescents s'y opposent : ils trouvent les uniformes inconfortables, ternes et trop chauds l'été, et s'habiller comme tous les autres les empêche de montrer leur personnalité. | Compare the arguments for and against compulsory school uniforms, then give your own position. | 2 sources | 2026-04 | - |
+| 38 | Faut-il installer des distributeurs automatiques dans les établissements scolaires ? Avis favorable : « Je soutiens la présence de distributeurs de boissons dans les lycées. D'abord, ils apportent une commodité aux élèves, en particulier à ceux qui manquent de temps pour se rendre à la cafétéria durant les pauses. Ensuite, bien gérés, ces appareils peuvent proposer des boissons saines : eau, jus de fruits purs, boissons fruitées sans sucre ajouté. Enfin, ils peuvent constituer une ressource financière supplémentaire pour l'établissement, réinvestissable dans les infrastructures ou les projets pédagogiques. » Avis défavorable : « Je m'oppose à l'installation de distributeurs de boissons dans les lycées. Ma crainte majeure concerne la santé des jeunes. Malheureusement, la plupart de ces machines proposent des sodas et boissons sucrées qui favorisent l'obésité infantile et d'autres troubles comme le diabète. Même les jus de fruits, réputés sains, renferment souvent beaucoup de sucre. Les écoles devraient promouvoir de bonnes habitudes alimentaires, et je redoute que ces distributeurs n'encouragent une consommation excessive de sucre. » | The candidate must compare two documents presenting opposing views on installing vending machines in schools. | 2 sources | 2026-05 | - |
 
 ## Environment
 
@@ -336,6 +337,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 48 | Le travail des jeunes durant les vacances Certains rappellent que les vacances sont censées être un moment de repos pour les étudiants après de longs mois de cours, l'occasion de voyager et de profiter du beau temps. Or, de nombreux jeunes renoncent à ce repos pour travailler : garde d'enfants, service en restauration, cueillette de fruits. Si ces emplois saisonniers présentent des avantages, ils privent aussi les jeunes de temps libre, de repos et de moments avec leurs proches, sans compter que ces postes sont parfois mal rémunérés, épuisants ou peu stimulants. D'autres soulignent au contraire que travailler pendant les vacances constitue une première approche du monde professionnel : cela apprend la responsabilité et fait découvrir un métier. Gagner un salaire est également motivant, permettant à certains de devenir financièrement indépendants pour voyager ou se faire plaisir, tandis que pour d'autres, c'est une nécessité afin de financer leurs études ou leur loyer. | Summarize and compare the two opposing viewpoints on students working during their holidays. | 2 sources | 2026-01 | - |
 | 49 | Malgré les efforts vers la parité, des inégalités persistent. Certains métiers restent très féminisés, tels que sage-femme ou assistante maternelle. De plus, certains pensent encore que les femmes devraient rester au foyer pour élever les enfants plutôt que d'exercer des métiers exigeants ou à responsabilités. Beaucoup reste donc à accomplir pour transformer les mentalités et offrir les mêmes chances aux deux sexes. | The candidate must compare this text with an opposing one about gender equality at work. | 2 sources | 2026-01 | - |
 | 50 | Égalité entre hommes et femmes Au Québec, l'égalité entre hommes et femmes constitue une valeur fondamentale : mêmes droits, mêmes devoirs. Les femmes choisissent librement leur profession et occupent des postes à responsabilités — députées, mairesses, conseillères, dirigeantes d'entreprise — y compris dans des métiers historiquement masculins. À l'inverse, Louis, 27 ans, vit une première journée de cours en tant qu'unique étudiant masculin de sa promotion. Une fois diplômé, il deviendra le tout premier homme sage-femme du Québec. C'est en exerçant comme masseur auprès de femmes enceintes qu'il a découvert sa vocation. Si l'arrivée d'un homme dans cette formation est bien accueillie, sa présence continue parfois de surprendre les patientes. | Summarize the situation illustrating gender equality progress and remaining surprise about a man entering a female-dominated profession. | 2 sources | 2026-01 | - |
+| 51 | Se faire livrer un repas sur son lieu de travail comporte plusieurs atouts. Cela fait gagner du temps car il n'est plus nécessaire de sortir pendant la pause déjeuner. Les salariés peuvent ainsi mieux gérer leur emploi du temps et parfois finir leur journée plus tôt. De plus, chacun peut choisir librement le plat qu'il préfère. Enfin, grâce au grand nombre de restaurants ouverts en continu, ce service demeure accessible à presque toute heure. | The candidate must write about the advantages of workplace meal delivery services. | 2 sources | 2026-04 | - |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-285 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+286 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,7 +14,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Environment](#environment) (6)
 - [Family](#family) (67)
 - [Health](#health) (18)
-- [Immigration](#immigration) (5)
+- [Immigration](#immigration) (6)
 - [Miscellaneous](#miscellaneous) (11)
 - [Technology](#technology) (5)
 - [Work](#work) (42)
@@ -278,8 +278,9 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 1 | Vous échangez avec un ami / une amie installé(e) au Québec depuis deux ans. Comme vous entamez vos propres démarches d'immigration, posez-lui des questions sur son vécu (nouvelles habitudes, quotidien, intégration, etc.). | The candidate must ask a friend who emigrated to Quebec two years ago questions about their experience adapting to life there. | 7 sources | 2023-09 | [Read](https://www.flexilingo.com/en/tcf-canada/sujet/tcf-eo-t2-echange-ami-installe-quebec-demarches-immigration) |
 | 2 | Vous jouez le rôle d'un ami qui déménage à l'étranger et ne peut pas emporter toutes ses affaires. Vous avez mis certains objets en vente. L'examinateur souhaite en savoir plus et vous pose des questions sur les articles proposés (meubles, objets divers, prix, etc.). | Ask a friend questions about items they're selling before moving abroad. | 5 sources | 2024-05 | [Read](https://www.flexilingo.com/en/tcf-canada/sujet/tcf-eo-t2-achat-meubles-objets-ami-demenagement-etranger) |
 | 3 | Pour préparer cette conversation, imaginez que vous venez d'arriver au Canada. Je suis un(e) ami(e) qui vous héberge pour un moment. Vous me demandez des conseils pour trouver et louer un logement (loyer, quartiers, démarches à suivre, etc.). | The candidate must ask a friend hosting them for advice on finding and renting an apartment in Canada. | 7 sources | 2022-11 | - |
-| 4 | Je suis ton ami(e). Tu viens d'arriver au Canada et tu es en quête d'un logement. Je te propose une chambre en colocation chez moi. Tu me poses des questions pour te renseigner. | The candidate must ask the friend questions about a room-sharing offer. | 6 sources | 2023-03 | - |
-| 5 | Vous travaillez à l'accueil de la mairie d'Ottawa. Un nouvel arrivant au Canada se présente devant vous. Posez-lui des questions pour l'aider dans ses démarches. | The candidate, as a newcomer, must ask the city hall receptionist questions to get help settling in. | 5 sources | 2022-11 | - |
+| 4 | Vous pensez louer un véhicule pendant vos vacances au Québec. Je suis employé(e) d'une agence de location : posez-moi des questions sur les prix, les conditions de location et les papiers à présenter. | Ask a car rental agency employee about prices, conditions and required documents for renting a car during your holiday in Quebec. | 7 sources | 2023-06 | - |
+| 5 | Je suis ton ami(e). Tu viens d'arriver au Canada et tu es en quête d'un logement. Je te propose une chambre en colocation chez moi. Tu me poses des questions pour te renseigner. | The candidate must ask the friend questions about a room-sharing offer. | 6 sources | 2023-03 | - |
+| 6 | Vous travaillez à l'accueil de la mairie d'Ottawa. Un nouvel arrivant au Canada se présente devant vous. Posez-lui des questions pour l'aider dans ses démarches. | The candidate, as a newcomer, must ask the city hall receptionist questions to get help settling in. | 5 sources | 2022-11 | - |
 
 ## Miscellaneous
 

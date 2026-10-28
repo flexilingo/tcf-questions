@@ -4,7 +4,7 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-83 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+84 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,7 +16,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 - [Health](#health) (8)
 - [Miscellaneous](#miscellaneous) (21)
 - [Technology](#technology) (8)
-- [Work](#work) (8)
+- [Work](#work) (9)
 
 ## Culture
 
@@ -145,6 +145,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 6 | Une annonce décrivant le profil recherché chez des candidats. | An announcement describing the profile of candidates being sought. | 1 source | 2026-09 | - |
 | 7 | Une annonce précisant le nombre d'heures de formation exigées pour le permis de conduire. | An announcement about required driving training hours. | 1 source | 2026-09 | - |
 | 8 | Une annonce présentant des occasions de bénévolat ou de stage professionnel. | An announcement about volunteering or work experience opportunities. | 1 source | 2026-09 | - |
+| 9 | Une communication professionnelle annonçant un changement de programme. | A professional message announcing a change of plans. | 1 source | 2026-09 | - |
 
 ---
 

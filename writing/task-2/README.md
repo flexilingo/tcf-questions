@@ -4,7 +4,7 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-149 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+151 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -17,7 +17,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Immigration](#immigration) (13)
 - [Miscellaneous](#miscellaneous) (6)
 - [Technology](#technology) (16)
-- [Work](#work) (12)
+- [Work](#work) (14)
 
 ## Culture
 
@@ -213,10 +213,12 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 6 | Vous avez suivi une journée de formation dans le cadre de votre emploi et votre employeur vous demande de rédiger un article destiné à vos collègues, dans lequel vous décrivez cette journée et donnez votre appréciation. | Write an article for your colleagues describing a professional training day you attended and giving your opinion of it. | 3 sources | 2025-04 | - |
 | 7 | Vous êtes parti(e) travailler à l'étranger. Rédigez pour vos amis un article de blog racontant cette nouvelle expérience professionnelle, en précisant ce qui vous a le plus plu. | The candidate must write a blog article about working abroad, specifying what they liked most. | 2 sources | 2022-08 | - |
 | 8 | Vous venez de débuter un nouvel emploi. Rédigez un courriel à vos amis pour leur raconter le déroulement de votre première semaine et leur donner votre avis sur ce nouveau poste. | Write an email to your friends telling them about your first week at a new job and what you think of it. | 2 sources | 2024-05 | - |
-| 9 | À la demande de votre employeur, vous rédigez pour vos collègues un compte rendu de la semaine de formation professionnelle que vous venez de suivre. | Write a 120-150 word report for colleagues about a week of professional training, as requested by your employer. | 1 source | 2021-03 | - |
-| 10 | NIEMA : « Mon mari a quitté son emploi de banquier à Paris pour qu'on ouvre ensemble une boulangerie en province. Avez-vous déjà vécu un changement de vie comparable, sur le plan professionnel ou personnel ? » Vous tombez sur ce message en ligne : donnez votre avis en commentaire sur le choix de Niema et de son mari Paul, puis expliquez ce que vous auriez fait dans une situation comparable. | Comment on a post about a couple changing careers to open a bakery, giving your opinion and what you would have done. | 1 source | 2023-12 | - |
-| 11 | Votre stage en entreprise n'a pas répondu à vos attentes. Écrivez au responsable pour exprimer votre déception et proposer des pistes d'amélioration pour les futurs stagiaires. | Write to a manager expressing disappointment about an internship and suggesting improvements. | 1 source | 2024-02 | - |
-| 12 | Après avoir assisté à une conférence professionnelle décevante, rédigez un article destiné au site de votre entreprise pour partager votre expérience et proposer des pistes d'amélioration pour les prochains événements, en 120 à 150 mots. | Write an article for your company's website about a disappointing professional conference and suggest improvements for future events, in 120-150 words. | 1 source | 2024-03 | - |
+| 9 | Vous avez participé à une journée de formation proposée par votre entreprise ; rédigez un courriel à vos collègues pour leur décrire comment elle s'est passée et leur indiquer ce qui vous a particulièrement plu. | Write an email to colleagues describing how a company training day went and what you especially liked. | 2 sources | 2026-01 | - |
+| 10 | À la demande de votre employeur, vous rédigez pour vos collègues un compte rendu de la semaine de formation professionnelle que vous venez de suivre. | Write a 120-150 word report for colleagues about a week of professional training, as requested by your employer. | 1 source | 2021-03 | - |
+| 11 | NIEMA : « Mon mari a quitté son emploi de banquier à Paris pour qu'on ouvre ensemble une boulangerie en province. Avez-vous déjà vécu un changement de vie comparable, sur le plan professionnel ou personnel ? » Vous tombez sur ce message en ligne : donnez votre avis en commentaire sur le choix de Niema et de son mari Paul, puis expliquez ce que vous auriez fait dans une situation comparable. | Comment on a post about a couple changing careers to open a bakery, giving your opinion and what you would have done. | 1 source | 2023-12 | - |
+| 12 | Vous allez bientôt passer un entretien d'embauche dans une entreprise canadienne ; écrivez à un ami canadien pour lui demander de vous décrire les conditions de travail, comme les horaires et la durée. | Write to a Canadian friend asking him/her to describe working conditions (hours, duration, etc.) before your job interview in a Canadian company. | 1 source | 2024-01 | - |
+| 13 | Votre stage en entreprise n'a pas répondu à vos attentes. Écrivez au responsable pour exprimer votre déception et proposer des pistes d'amélioration pour les futurs stagiaires. | Write to a manager expressing disappointment about an internship and suggesting improvements. | 1 source | 2024-02 | - |
+| 14 | Après avoir assisté à une conférence professionnelle décevante, rédigez un article destiné au site de votre entreprise pour partager votre expérience et proposer des pistes d'amélioration pour les prochains événements, en 120 à 150 mots. | Write an article for your company's website about a disappointing professional conference and suggest improvements for future events, in 120-150 words. | 1 source | 2024-03 | - |
 
 ---
 

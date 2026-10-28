@@ -4,19 +4,19 @@
 
 A message to one or more people, 60 to 120 words.
 
-168 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+170 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (48)
 - [Economy](#economy) (9)
-- [Education](#education) (24)
+- [Education](#education) (25)
 - [Family](#family) (24)
 - [Health](#health) (17)
 - [Immigration](#immigration) (5)
 - [Miscellaneous](#miscellaneous) (23)
 - [Technology](#technology) (3)
-- [Work](#work) (15)
+- [Work](#work) (16)
 
 ## Culture
 
@@ -113,6 +113,7 @@ A message to one or more people, 60 to 120 words.
 | 22 | Vous venez de commencer des cours dans une école de langues. Écrivez un message à vos amis pour leur raconter votre première semaine et leur faire part de vos impressions sur les cours, les professeurs et l'ambiance. | Write a message to friends sharing your impressions of your first week at a language school. | 2 sources | 2025-07 | - |
 | 23 | « Tu t'es inscrit(e) au centre de langues-cultures pour tous ? Raconte-moi comment est cette école ! Bisous, Paul. » Répondez à Paul en décrivant l'établissement (salle de classe, équipements, enseignant, etc.). | Write a reply to a friend describing a language school (classroom, equipment, teacher, etc.). | 2 sources | 2026-06 | - |
 | 24 | Vous rédigez un message à un ami dans lequel vous parlez de votre université : vos professeurs, vos cours et les activités que vous y pratiquez. | Write a 60-120 word message to a friend describing your university, its teachers, courses and activities. | 1 source | 2019-12 | - |
+| 25 | Vous avez mis en ligne une annonce pour louer votre appartement. Répondez par courriel à une personne intéressée en lui donnant des informations sur le logement et le quartier. | Write an email to a prospective tenant giving details about your apartment and neighbourhood. | 1 source | 2024-01 | - |
 
 ## Family
 
@@ -230,6 +231,7 @@ A message to one or more people, 60 to 120 words.
 | 13 | Vous avez suivi une journée de formation organisée par votre entreprise. Vous rédigez un courriel à vos collègues pour décrire le déroulement de cette journée et ce que vous en avez retenu de positif. | The candidate must write an email to colleagues describing a training day and what they appreciated. | 3 sources | 2025-02 | - |
 | 14 | Rédigez un message à vos amis dans lequel vous partagez votre expérience professionnelle vécue à l'étranger. | Write a message to your friends about your professional experience abroad. | 2 sources | 2022-09 | - |
 | 15 | Vous venez de débuter un emploi à l'étranger. Envoyez un message à vos amis pour raconter cette nouvelle expérience professionnelle et ce que vous avez particulièrement apprécié. | The candidate must write a message describing a new job abroad and what they enjoyed most. | 2 sources | 2025-11 | - |
+| 16 | Écrivez un message à un ami ou une amie pour lui raconter le déroulement de votre entretien d'embauche. | Write a message to a friend recounting how a job interview went. | 1 source | 2024-01 | - |
 
 ---
 
