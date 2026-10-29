@@ -4,19 +4,19 @@
 
 A message to one or more people, 60 to 120 words.
 
-170 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+172 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (48)
-- [Economy](#economy) (9)
+- [Economy](#economy) (10)
 - [Education](#education) (25)
 - [Family](#family) (24)
 - [Health](#health) (17)
 - [Immigration](#immigration) (5)
 - [Miscellaneous](#miscellaneous) (23)
 - [Technology](#technology) (3)
-- [Work](#work) (16)
+- [Work](#work) (17)
 
 ## Culture
 
@@ -84,6 +84,7 @@ A message to one or more people, 60 to 120 words.
 | 7 | « Rendez-vous vendredi, à partir de 9 heures » | The candidate must respond to a note about a meeting on Friday from 9 a.m. | 2 sources | 2024-12 | - |
 | 8 | Vous préparez votre déménagement à Nice. Adressez un message à une agence immobilière pour rechercher un appartement, en précisant vos critères (surface, budget, nombre de pièces, quartier, etc.). | Write a message to a real estate agency listing your requirements for an apartment in Nice. | 2 sources | 2025-07 | - |
 | 9 | Vous allez prochainement emménager à Nice. Écrivez à une agence immobilière pour lui demander de l'aide dans votre recherche d'appartement (quartier, budget, superficie). | Write a message to a real estate agency asking for help finding an apartment, mentioning location, price, and size. | 1 source | 2023-12 | - |
+| 10 | Écrivez un e-mail à une amie pour l'inviter à assister avec vous au concert de votre chanteur ou chanteuse favori(te) (précisez la date, le lieu, le tarif, l'artiste, etc.) | The candidate must write an email inviting a friend to a concert, giving details like day, place, price and artist. | 1 source | 2024-04 | - |
 
 ## Education
 
@@ -232,6 +233,7 @@ A message to one or more people, 60 to 120 words.
 | 14 | Rédigez un message à vos amis dans lequel vous partagez votre expérience professionnelle vécue à l'étranger. | Write a message to your friends about your professional experience abroad. | 2 sources | 2022-09 | - |
 | 15 | Vous venez de débuter un emploi à l'étranger. Envoyez un message à vos amis pour raconter cette nouvelle expérience professionnelle et ce que vous avez particulièrement apprécié. | The candidate must write a message describing a new job abroad and what they enjoyed most. | 2 sources | 2025-11 | - |
 | 16 | Écrivez un message à un ami ou une amie pour lui raconter le déroulement de votre entretien d'embauche. | Write a message to a friend recounting how a job interview went. | 1 source | 2024-01 | - |
+| 17 | Chers collègues, nous cherchons une salle pour organiser notre fête de fin d'année. Merci de nous transmettre vos suggestions (lieu, tarif, services proposés, etc.) | The candidate must write a message to colleagues asking for suggestions of a venue for the year-end party. | 1 source | 2024-04 | - |
 
 ---
 

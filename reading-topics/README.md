@@ -4,12 +4,12 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-87 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+88 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (24)
-- [Economy](#economy) (17)
+- [Economy](#economy) (18)
 - [Education](#education) (7)
 - [Environment](#environment) (5)
 - [Family](#family) (2)
@@ -69,6 +69,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 15 | Un document présentant une grande foire commerciale. | A document describing a large trade fair. | 1 source | 2026-09 | - |
 | 16 | Un message émanant d'un service client. | A customer service message. | 1 source | 2026-09 | - |
 | 17 | Un reportage relatant une manifestation d'agriculteurs. | A report about a farmers' protest. | 1 source | 2026-09 | - |
+| 18 | Une annonce informant du changement des horaires d'ouverture de commerces. | An announcement about changed store opening hours. | 1 source | 2026-09 | - |
 
 ## Education
 
