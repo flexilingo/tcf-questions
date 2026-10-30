@@ -4,11 +4,11 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-88 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+89 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (24)
+- [Culture](#culture) (25)
 - [Economy](#economy) (18)
 - [Education](#education) (7)
 - [Environment](#environment) (5)
@@ -47,6 +47,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 22 | Un reportage sociologique sur les habitants d'une grande capitale. | A sociological report about residents of the capital city. | 1 source | 2026-09 | - |
 | 23 | Un texte critique consacré à l'art de la peinture. | A critical essay about painting. | 1 source | 2026-09 | - |
 | 24 | Une annonce cherchant des acteurs pour un tournage de film. | A casting call announcement for a film. | 1 source | 2026-09 | - |
+| 25 | Une annonce pour un événement artistique mêlant plusieurs disciplines. | An advertisement for a multidisciplinary arts event. | 1 source | 2026-09 | - |
 
 ## Economy
 

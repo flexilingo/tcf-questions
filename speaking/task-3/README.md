@@ -4,14 +4,14 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-273 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+274 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (27)
 - [Economy](#economy) (7)
 - [Education](#education) (28)
-- [Environment](#environment) (15)
+- [Environment](#environment) (16)
 - [Family](#family) (24)
 - [Health](#health) (17)
 - [Immigration](#immigration) (42)
@@ -106,15 +106,16 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 4 | La place accordée aux animaux de compagnie dans notre société est-elle excessive ? Quel est votre point de vue sur cette question ? | The candidate must give and defend an opinion on whether pets are given too much importance in society. | 5 sources | 2024-10 | [Read](https://www.flexilingo.com/en/tcf-canada/sujet/tcf-eo-t3-place-animaux-de-compagnie-dans-la-societe) |
 | 5 | Estimez-vous que le développement du tourisme s'oppose forcément à la préservation de l'environnement ? | The candidate must give and defend an opinion on whether tourism growth conflicts with nature protection. | 8 sources | 2022-09 | - |
 | 6 | Selon vous, quelles sont les motivations qui poussent une personne à vouloir avoir un animal de compagnie ? | Give and defend an opinion on why people want pets. | 7 sources | 2023-03 | - |
-| 7 | Le développement des énergies renouvelables est-il, selon vous, une priorité importante ? | State and defend your opinion on whether developing renewable energy is important. | 7 sources | 2023-12 | - |
-| 8 | Chacun a la possibilité d'agir pour réduire ses déchets. Qu'en pensez-vous ? | The candidate must give and defend an opinion on whether everyone can act to reduce waste. | 6 sources | 2022-10 | - |
-| 9 | Est-il souhaitable que les personnes âgées vivent avec un animal de compagnie ? Qu'en pensez-vous ? | The candidate must give and defend an opinion on whether elderly people should live with a pet. | 6 sources | 2022-10 | - |
-| 10 | Je suis votre voisin(e). Je pars en vacances et j'aimerais que vous gardiez mon animal pendant mon absence. Posez-moi des questions pour décider si vous acceptez (dates, habitudes de l'animal, consignes, etc.). | Ask a neighbor questions about pet-sitting to decide whether to accept the request. | 5 sources | 2023-06 | - |
-| 11 | Il conviendrait de réduire la circulation automobile dans les villes. Partagez-vous ce point de vue ? | Give and defend your opinion on whether car traffic in cities should be reduced. | 5 sources | 2023-08 | - |
-| 12 | Trier ses déchets est un geste accessible à tout le monde. Qu'en pensez-vous ? | Give and defend your opinion on whether waste sorting is something everyone can do. | 5 sources | 2023-09 | - |
-| 13 | Pour protéger l'environnement, les gestes individuels (tri des déchets, économie d'eau et d'énergie, etc.) sont-ils réellement efficaces ? Quel est votre avis sur cette question ? | The candidate must give and defend an opinion on whether individual eco-actions are effective. | 5 sources | 2024-10 | - |
-| 14 | Toutes les espèces menacées devraient-elles être protégées ? Partagez-vous ce point de vue ? Expliquez pourquoi. | Give and defend your opinion on whether all endangered animals should be protected. | 5 sources | 2025-10 | - |
-| 15 | Que pensez-vous du fait d'avoir un animal de compagnie à la maison ? | The candidate must give their opinion on keeping a pet at home. | 5 sources | 2026-03 | - |
+| 7 | Que pensez-vous des mesures mises en place dans votre pays pour combattre la pollution ? | Give and defend your opinion on the measures taken in your country to fight pollution. | 7 sources | 2023-05 | - |
+| 8 | Le développement des énergies renouvelables est-il, selon vous, une priorité importante ? | State and defend your opinion on whether developing renewable energy is important. | 7 sources | 2023-12 | - |
+| 9 | Chacun a la possibilité d'agir pour réduire ses déchets. Qu'en pensez-vous ? | The candidate must give and defend an opinion on whether everyone can act to reduce waste. | 6 sources | 2022-10 | - |
+| 10 | Est-il souhaitable que les personnes âgées vivent avec un animal de compagnie ? Qu'en pensez-vous ? | The candidate must give and defend an opinion on whether elderly people should live with a pet. | 6 sources | 2022-10 | - |
+| 11 | Je suis votre voisin(e). Je pars en vacances et j'aimerais que vous gardiez mon animal pendant mon absence. Posez-moi des questions pour décider si vous acceptez (dates, habitudes de l'animal, consignes, etc.). | Ask a neighbor questions about pet-sitting to decide whether to accept the request. | 5 sources | 2023-06 | - |
+| 12 | Il conviendrait de réduire la circulation automobile dans les villes. Partagez-vous ce point de vue ? | Give and defend your opinion on whether car traffic in cities should be reduced. | 5 sources | 2023-08 | - |
+| 13 | Trier ses déchets est un geste accessible à tout le monde. Qu'en pensez-vous ? | Give and defend your opinion on whether waste sorting is something everyone can do. | 5 sources | 2023-09 | - |
+| 14 | Pour protéger l'environnement, les gestes individuels (tri des déchets, économie d'eau et d'énergie, etc.) sont-ils réellement efficaces ? Quel est votre avis sur cette question ? | The candidate must give and defend an opinion on whether individual eco-actions are effective. | 5 sources | 2024-10 | - |
+| 15 | Toutes les espèces menacées devraient-elles être protégées ? Partagez-vous ce point de vue ? Expliquez pourquoi. | Give and defend your opinion on whether all endangered animals should be protected. | 5 sources | 2025-10 | - |
+| 16 | Que pensez-vous du fait d'avoir un animal de compagnie à la maison ? | The candidate must give their opinion on keeping a pet at home. | 5 sources | 2026-03 | - |
 
 ## Family
 

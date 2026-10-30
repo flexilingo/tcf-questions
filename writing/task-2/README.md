@@ -4,18 +4,18 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-153 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+155 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (59)
 - [Economy](#economy) (3)
-- [Education](#education) (17)
+- [Education](#education) (18)
 - [Environment](#environment) (4)
 - [Family](#family) (8)
 - [Health](#health) (12)
 - [Immigration](#immigration) (13)
-- [Miscellaneous](#miscellaneous) (6)
+- [Miscellaneous](#miscellaneous) (7)
 - [Technology](#technology) (16)
 - [Work](#work) (15)
 
@@ -112,6 +112,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 15 | Sur un forum, vous exposez votre point de vue sur la manière et les raisons d'apprendre une langue étrangère. | Write a 120-150 word forum post giving your opinion on how and why to learn a foreign language. | 1 source | 2021-01 | - |
 | 16 | Vous avez participé à des cours de langue ; racontez comment s'est déroulée votre première semaine (emploi du temps, contenu des cours, activités). | Write a text sharing your first week experience of language classes (schedule, courses, activities). | 1 source | 2023-12 | - |
 | 17 | Vous venez de commencer vos études à l'université de Montréal. Écrivez à un ami ou une amie pour lui raconter votre première semaine sur le campus. | Write a message to a friend about your first week at university in Montreal. | 1 source | 2024-01 | - |
+| 18 | Suite à un cours de langue qui n'a pas répondu à vos attentes, écrivez une note au directeur de l'institut pour lui exposer vos remarques et vos propositions d'amélioration, en 60 à 120 mots. | Write a note to a language school director with feedback and suggestions after an unsatisfactory course. | 1 source | 2024-04 | - |
 
 ## Environment
 
@@ -180,6 +181,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 4 | Une excursion organisée par une agence s'est mal déroulée. Rédigez un courriel pour exprimer votre insatisfaction et réclamer un remboursement. | Write an email complaining about a bad agency-organized excursion and requesting a refund. | 5 sources | 2023-05 | - |
 | 5 | Rédigez un article de blog présentant les habitudes alimentaires de votre pays. | Write a blog article about the eating habits of your country. | 4 sources | 2023-05 | - |
 | 6 | Après avoir essayé un service de livraison de repas dont la qualité était décevante, rédigez un avis en ligne racontant votre expérience et donnant des conseils pour améliorer le service, en 120 à 150 mots. | Write an online review about a disappointing home meal delivery service and give improvement suggestions, in 120-150 words. | 1 source | 2024-04 | - |
+| 7 | Après avoir acheté des billets pour un concert mal organisé, rédigez une lettre au promoteur pour exprimer votre déception et proposer des changements pour les prochains événements, en 120 à 150 mots. | Write a letter to a concert promoter expressing disappointment and suggesting improvements for future events, in 120-150 words. | 1 source | 2024-05 | - |
 
 ## Technology
 

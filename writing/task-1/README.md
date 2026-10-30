@@ -4,11 +4,11 @@
 
 A message to one or more people, 60 to 120 words.
 
-172 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+174 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (48)
+- [Culture](#culture) (50)
 - [Economy](#economy) (10)
 - [Education](#education) (25)
 - [Family](#family) (24)
@@ -70,6 +70,8 @@ A message to one or more people, 60 to 120 words.
 | 46 | Un proche envisage un voyage pour découvrir un nouveau pays. Envoyez-lui un message présentant votre pays et ses coutumes (endroits à voir, sites touristiques, monuments, etc.). | The candidate must write a message presenting their country and its traditions to a traveling friend. | 2 sources | 2026-01 | - |
 | 47 | Vous voulez inviter vos amis à une activité culturelle. Rédigez-leur un message présentant votre idée de sortie (date, lieu, programme, etc.). | Write a message to friends proposing a cultural outing, including date, place and activities. | 2 sources | 2026-04 | - |
 | 48 | Votre anniversaire approche. Rédigez un message à vos ami(e)s pour les inviter, en indiquant comment se déroulera la fête. | The candidate must write a message inviting friends to a birthday party, detailing how it will unfold. | 1 source | 2022-10 | - |
+| 49 | Publiez un message sur un forum pour faire découvrir la culture de votre pays et donner envie aux lecteurs de le visiter (sites touristiques, événements, traditions, informations pratiques, etc.). | Write a forum post promoting your country's culture to encourage visits. | 1 source | 2024-05 | - |
+| 50 | Vous avez suivi un atelier de cuisine où vous avez appris une nouvelle recette. Écrivez un message à un ami pour lui raconter cette expérience et lui donner envie d'essayer la recette à son tour. | Write a message to a friend recounting a cooking workshop and encouraging them to try the recipe. | 1 source | 2024-05 | - |
 
 ## Economy
 
