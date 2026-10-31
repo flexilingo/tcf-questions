@@ -4,18 +4,18 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-155 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+157 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (59)
+- [Culture](#culture) (60)
 - [Economy](#economy) (3)
 - [Education](#education) (18)
 - [Environment](#environment) (4)
 - [Family](#family) (8)
 - [Health](#health) (12)
 - [Immigration](#immigration) (13)
-- [Miscellaneous](#miscellaneous) (7)
+- [Miscellaneous](#miscellaneous) (8)
 - [Technology](#technology) (16)
 - [Work](#work) (15)
 
@@ -82,6 +82,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 57 | Après avoir visité une exposition d'art qui vous a laissé une impression négative, rédigez un billet de blog racontant votre ressenti et proposant des pistes pour améliorer l'accueil des visiteurs, en 120 à 150 mots. | Write a blog post about a disappointing art exhibition and suggest ways to improve visitor experience, in 120-150 words. | 1 source | 2024-03 | - |
 | 58 | Suite à un atelier de cuisine qui n'a pas répondu à vos attentes, écrivez un message à l'animateur pour lui donner votre avis et lui suggérer des améliorations, en 60 à 120 mots. | Write a message to a cooking workshop organizer giving feedback and suggestions for improvement, in 60-120 words. | 1 source | 2024-03 | - |
 | 59 | Après avoir rencontré plusieurs problèmes avec une voiture de location pendant vos vacances, écrivez au service de location pour exprimer votre mécontentement et réclamer un dédommagement, en 60 à 120 mots. | Write to a car rental service expressing dissatisfaction and requesting compensation after problems during a trip. | 1 source | 2024-04 | - |
+| 60 | Après une excursion touristique qui s'est mal passée, rédigez un article pour un forum de voyageurs racontant votre expérience et mettant en garde les autres touristes, en 120 à 150 mots. | Write a forum article about a bad tourist excursion, recounting the experience and warning other travelers, in 120-150 words. | 1 source | 2024-05 | - |
 
 ## Economy
 
@@ -182,6 +183,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 5 | Rédigez un article de blog présentant les habitudes alimentaires de votre pays. | Write a blog article about the eating habits of your country. | 4 sources | 2023-05 | - |
 | 6 | Après avoir essayé un service de livraison de repas dont la qualité était décevante, rédigez un avis en ligne racontant votre expérience et donnant des conseils pour améliorer le service, en 120 à 150 mots. | Write an online review about a disappointing home meal delivery service and give improvement suggestions, in 120-150 words. | 1 source | 2024-04 | - |
 | 7 | Après avoir acheté des billets pour un concert mal organisé, rédigez une lettre au promoteur pour exprimer votre déception et proposer des changements pour les prochains événements, en 120 à 150 mots. | Write a letter to a concert promoter expressing disappointment and suggesting improvements for future events, in 120-150 words. | 1 source | 2024-05 | - |
+| 8 | N'attendez plus : créez vous-même vos propres produits ! | Write a short promotional text encouraging readers to make their own products. | 1 source | 2024-05 | - |
 
 ## Technology
 

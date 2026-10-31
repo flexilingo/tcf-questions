@@ -4,17 +4,17 @@
 
 A message to one or more people, 60 to 120 words.
 
-174 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+176 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (50)
+- [Culture](#culture) (51)
 - [Economy](#economy) (10)
 - [Education](#education) (25)
 - [Family](#family) (24)
 - [Health](#health) (17)
 - [Immigration](#immigration) (5)
-- [Miscellaneous](#miscellaneous) (23)
+- [Miscellaneous](#miscellaneous) (24)
 - [Technology](#technology) (3)
 - [Work](#work) (17)
 
@@ -72,6 +72,7 @@ A message to one or more people, 60 to 120 words.
 | 48 | Votre anniversaire approche. Rédigez un message à vos ami(e)s pour les inviter, en indiquant comment se déroulera la fête. | The candidate must write a message inviting friends to a birthday party, detailing how it will unfold. | 1 source | 2022-10 | - |
 | 49 | Publiez un message sur un forum pour faire découvrir la culture de votre pays et donner envie aux lecteurs de le visiter (sites touristiques, événements, traditions, informations pratiques, etc.). | Write a forum post promoting your country's culture to encourage visits. | 1 source | 2024-05 | - |
 | 50 | Vous avez suivi un atelier de cuisine où vous avez appris une nouvelle recette. Écrivez un message à un ami pour lui raconter cette expérience et lui donner envie d'essayer la recette à son tour. | Write a message to a friend recounting a cooking workshop and encouraging them to try the recipe. | 1 source | 2024-05 | - |
+| 51 | Vous disposez d'un grand appartement et souhaitez trouver un colocataire. Rédigez une annonce pour le journal. | Write a newspaper ad looking for a roommate for your large apartment. | 1 source | 2024-05 | - |
 
 ## Economy
 
@@ -206,6 +207,7 @@ A message to one or more people, 60 to 120 words.
 | 21 | Vous souhaitez convier vos amis à découvrir un site touristique qui vous plaît particulièrement. Écrivez un message présentant votre projet de sortie (lieu, dates, hébergement, etc.). | The candidate must write a message inviting friends to a tourist site, giving details of the trip. | 2 sources | 2025-09 | - |
 | 22 | Vous écrivez à un ami pour lui proposer de passer une journée ensemble et lui suggérez un programme d'activités. | Write a 60-120 word message inviting a friend to spend a day together and proposing a schedule. | 1 source | 2021-03 | - |
 | 23 | Rédigez un courriel destiné à un(e) ami(e) dans lequel vous présentez le déroulement prévu de votre déménagement. | Write an email to a friend explaining your moving plan. | 1 source | 2023-04 | - |
+| 24 | Vous venez d'emménager dans une nouvelle ville. Écrivez un message à un ami pour lui présenter votre endroit favori et raconter vos activités (lieux découverts, moyens de transport utilisés, habitants rencontrés). | Write a message to a friend describing your favorite spot and activities in your new city. | 1 source | 2024-05 | - |
 
 ## Technology
 

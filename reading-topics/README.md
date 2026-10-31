@@ -4,7 +4,7 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-89 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+90 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -17,7 +17,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 - [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (12)
 - [Technology](#technology) (3)
-- [Work](#work) (6)
+- [Work](#work) (7)
 
 ## Culture
 
@@ -157,6 +157,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 4 | Un article traitant de l'âge légal du départ à la retraite en France. | An article about the legal retirement age in France. | 1 source | 2026-09 | - |
 | 5 | Un article traitant de l'évolution des méthodes de recrutement des pompiers. | An article about changes in firefighter recruitment. | 1 source | 2026-09 | - |
 | 6 | Un article traitant de la réforme des retraites. | An article about pension reform. | 1 source | 2026-09 | - |
+| 7 | Une annonce pour une conférence consacrée aux entretiens d'embauche. | An advertisement for a conference about job interviews. | 1 source | 2026-09 | - |
 
 ---
 

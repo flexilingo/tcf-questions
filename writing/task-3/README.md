@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-274 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+276 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,11 +13,11 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Education](#education) (39)
 - [Environment](#environment) (21)
 - [Family](#family) (32)
-- [Health](#health) (28)
+- [Health](#health) (29)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (7)
 - [Technology](#technology) (18)
-- [Work](#work) (52)
+- [Work](#work) (53)
 
 ## Culture
 
@@ -244,6 +244,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 26 | Ce système comporte cependant certaines limites. Lorsque les commandes affluent, les livreurs risquent de se retrouver surchargés, entraînant retards et tension. Par ailleurs, rester assis en continu sans véritable pause peut engendrer de la fatigue. Il est donc recommandé de s'accorder une coupure, même courte, afin de conserver son efficacité. | Write a paragraph about the limits of a delivery/work system (overload, fatigue) as part of a two-document comparison task. | 2 sources | 2025-07 | - |
 | 27 | Votre ami Cédric, convié à votre mariage au Château de Chombony, ne sait pas comment s'y rendre. Écrivez-lui un message pour lui indiquer où se trouve le château et comment y accéder (emplacement, itinéraire, moyens de transport, etc.). | The candidate must write a message explaining to Cédric how to get to the wedding venue. | 2 sources | 2025-09 | - |
 | 28 | Je suis pour la restauration rapide. Je travaille dans une grande chaîne et j'estime qu'on peut y manger sainement. Les menus offrent des plats complets : légumes, salades, pain, viande... C'est au consommateur d'assumer ses choix. Prendre deux sandwichs avec beaucoup de ketchup, ce n'est pas équilibré. Par ailleurs, ces restaurants respectent des normes d'hygiène strictes et sont pratiques, que l'on vienne avec des enfants ou entre amis. Opal | The candidate must compare this text with an opposing one about fast food. | 2 sources | 2025-11 | - |
+| 29 | Le vélo en ville : Les partisans rappellent qu'on associe souvent le vélo au sport ou aux loisirs, en oubliant qu'il s'agit avant tout d'un moyen de transport, aussi bien personnel que professionnel. En zone urbaine, il permet de se déplacer vite tout en évitant le stress des bouchons aux heures de pointe. Se rendre au travail en pédalant, c'est allier activité physique et trajet utile. La mairie devrait d'abord expérimenter cette mesure dans certains quartiers avant de l'étendre partout, afin d'en évaluer les résultats. Les opposants insistent sur les nombreux accidents routiers enregistrés chaque année : circuler à vélo en ville comporte de réels dangers, à cause du trafic dense, du non-respect du code de la route et du manque de pistes cyclables. En outre, rouler à vélo expose les cyclistes aux gaz d'échappement, nuisibles pour la santé. Là encore, la municipalité devrait tester la mesure localement avant toute généralisation. | Compare and comment on the opposing arguments for and against cycling as urban transport. | 2 sources | 2026-06 | - |
 
 ## Immigration
 
@@ -342,6 +343,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 50 | Égalité entre hommes et femmes Au Québec, l'égalité entre hommes et femmes constitue une valeur fondamentale : mêmes droits, mêmes devoirs. Les femmes choisissent librement leur profession et occupent des postes à responsabilités — députées, mairesses, conseillères, dirigeantes d'entreprise — y compris dans des métiers historiquement masculins. À l'inverse, Louis, 27 ans, vit une première journée de cours en tant qu'unique étudiant masculin de sa promotion. Une fois diplômé, il deviendra le tout premier homme sage-femme du Québec. C'est en exerçant comme masseur auprès de femmes enceintes qu'il a découvert sa vocation. Si l'arrivée d'un homme dans cette formation est bien accueillie, sa présence continue parfois de surprendre les patientes. | Summarize the situation illustrating gender equality progress and remaining surprise about a man entering a female-dominated profession. | 2 sources | 2026-01 | - |
 | 51 | Se faire livrer un repas sur son lieu de travail comporte plusieurs atouts. Cela fait gagner du temps car il n'est plus nécessaire de sortir pendant la pause déjeuner. Les salariés peuvent ainsi mieux gérer leur emploi du temps et parfois finir leur journée plus tôt. De plus, chacun peut choisir librement le plat qu'il préfère. Enfin, grâce au grand nombre de restaurants ouverts en continu, ce service demeure accessible à presque toute heure. | The candidate must write about the advantages of workplace meal delivery services. | 2 sources | 2026-04 | - |
 | 52 | L'égalité entre les hommes et les femmes est-elle vraiment garantie dans le monde du travail ? D'une part, certains métiers et postes de direction restent surtout tenus par des hommes, alors qu'au Québec l'égalité professionnelle ouvre aux femmes toutes les fonctions, même celles qui leur étaient jadis interdites, et que les compétences, non le sexe, devraient décider de l'embauche. D'autre part, malgré les politiques de parité, la répartition reste très déséquilibrée dans plusieurs secteurs, les femmes étant par exemple très majoritaires chez les sages-femmes, et certains persistent à dire que les obligations familiales devraient les éloigner des métiers traditionnellement masculins, une opinion qui perpétue les inégalités. | Compare the viewpoints on whether gender equality at work is truly achieved, then give your own position. | 2 sources | 2026-05 | - |
+| 53 | Le travail : bénéfique ou nuisible ? Avis 1, Stéphane, chef d'entreprise : « Je suis persuadé que le travail apporte du positif, tant à l'individu qu'à la collectivité. Il permet de subvenir à ses besoins tout en contribuant à la croissance économique. Il renforce aussi l'indépendance, la confiance en soi, le sens des responsabilités, et constitue une source d'épanouissement personnel comme professionnel. » Avis 2, Laura, sociologue : « Tel qu'il est structuré aujourd'hui, le travail présente des inconvénients réels. Il rime souvent avec pression constante, horaires contraignants et difficulté à concilier vie privée et vie professionnelle. Il peut mener à l'épuisement, notamment quand la charge est trop lourde et que les efforts ne sont pas reconnus. » | Compare and comment on two opposing views (positive vs negative) about the role of work. | 2 sources | 2026-06 | - |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-274 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+275 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Family](#family) (24)
 - [Health](#health) (17)
 - [Immigration](#immigration) (42)
-- [Miscellaneous](#miscellaneous) (41)
+- [Miscellaneous](#miscellaneous) (42)
 - [Technology](#technology) (31)
 - [Work](#work) (41)
 
@@ -233,33 +233,34 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 12 | On trouve de plus en plus de produits bio dans les supermarchés. Pensez-vous que ce soit positif ? | Give and defend your opinion on the growing presence of organic products in supermarkets. | 7 sources | 2023-02 | - |
 | 13 | Vaut-il mieux éviter de travailler avec des membres de sa famille ou des amis proches ? Quel est votre avis ? | Give your opinion on whether it's best to avoid working with people close to you. | 7 sources | 2023-02 | - |
 | 14 | Pensez-vous que seules les associations et les ONG peuvent aider les personnes en grande difficulté ? Donnez votre opinion. | Give and defend an opinion on whether only NGOs and associations can help the very poor. | 7 sources | 2023-03 | - |
-| 15 | D'après vous, est-il utile de consacrer une journée spéciale aux droits des femmes ? Expliquez pourquoi. | State and defend your opinion on whether a dedicated day for women's rights is important. | 7 sources | 2023-11 | - |
-| 16 | Trouvez-vous que vivre seul(e) est compliqué ? Donnez votre avis et défendez-le. | State and defend your opinion on whether living alone is difficult. | 7 sources | 2023-11 | - |
-| 17 | Un jour, il faudra sans doute travailler jusqu'à 70 ans. Quel est votre point de vue sur cette question ? | The candidate must give and defend an opinion on whether people will one day have to work until age 70. | 7 sources | 2023-11 | - |
-| 18 | À votre avis, quel est le meilleur âge pour partir vivre à l'étranger ? Pourquoi ? | State and defend your opinion on the ideal age to emigrate. | 7 sources | 2023-12 | - |
-| 19 | Certaines personnes consacrent leur temps libre à des associations pour venir en aide à autrui. Quel est votre avis sur cette pratique ? | The candidate must give their opinion on people volunteering for associations in their free time. | 7 sources | 2024-02 | - |
-| 20 | Beaucoup de magazines proposent des astuces pour maigrir. Êtes-vous favorable ou opposé(e) à cette pratique ? | The candidate must give and defend an opinion on magazines offering weight-loss advice. | 6 sources | 2022-10 | - |
-| 21 | Selon vous, peut-on devenir ami avec quelqu'un dont les idées s'opposent aux vôtres ? | The candidate must give and defend an opinion on whether friendship is possible with someone holding opposite beliefs. | 6 sources | 2022-10 | - |
-| 22 | Un nombre croissant de personnes recourt à la chirurgie esthétique afin de paraître plus jeune. Quel est votre avis sur cette question ? | The candidate must give and defend their opinion on cosmetic surgery to stay young. | 6 sources | 2023-02 | - |
-| 23 | L’afflux excessif de touristes pose-t-il problème aux habitants d’une ville ? Quel est votre avis sur cette question ? | The candidate must give their view on whether too many tourists is a problem for city residents. | 6 sources | 2024-09 | - |
-| 24 | Installer des caméras de surveillance renforce la sécurité des citoyens dans les espaces publics. Partagez-vous cet avis ? | Give and defend your opinion on whether surveillance cameras improve public safety. | 6 sources | 2024-10 | - |
-| 25 | Selon vous, les aides sociales affaiblissent-elles la solidarité familiale ? Justifiez votre point de vue. | The candidate must give and justify an opinion on whether social welfare weakens family solidarity. | 6 sources | 2024-10 | - |
-| 26 | Pensez-vous qu'il soit possible de modifier ses habitudes alimentaires une fois devenu adulte ? Justifiez votre réponse. | Give and defend your opinion on whether adults can change their eating habits. | 6 sources | 2025-03 | - |
-| 27 | Selon vous, peut-on faire confiance aux consultations médicales effectuées à distance ? Pourquoi ? | Give and defend your opinion on trusting remote medical consultations. | 6 sources | 2025-07 | - |
-| 28 | Les filles et les garçons devraient-ils recevoir la même éducation ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether boys and girls should be raised the same way. | 6 sources | 2025-09 | - |
-| 29 | Pensez-vous que les célébrités ont leur place dans le monde politique ? | The candidate must give their opinion on whether celebrities belong in politics. | 5 sources | 2022-09 | - |
-| 30 | Pensez-vous qu'il faille travailler moins pour mieux profiter de l'existence ? Exprimez votre opinion. | The candidate must give and defend an opinion on whether working less leads to a better life. | 5 sources | 2022-10 | - |
-| 31 | Selon vous, la vie à la campagne est-elle plus agréable que la vie en ville ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether country life is more pleasant than city life. | 5 sources | 2022-10 | - |
-| 32 | Pensez-vous qu'il soit indispensable de suivre l'actualité quotidiennement afin de mieux saisir ce qui se passe dans le monde ? Donnez votre opinion. | The candidate must give and defend an opinion on whether daily news-following is necessary to understand the world. | 5 sources | 2022-12 | - |
-| 33 | À votre avis, obtenir de bons résultats scolaires assure-t-il forcément la réussite dans la vie ? Exprimez votre opinion. | Give and defend your opinion on whether academic success guarantees success in life. | 5 sources | 2022-12 | - |
-| 34 | À votre avis, la télé-réalité exerce-t-elle une mauvaise influence sur les jeunes ? | The candidate must give and defend an opinion on whether reality TV negatively influences young people. | 5 sources | 2023-03 | - |
-| 35 | De nombreuses personnes optent aujourd'hui pour le végétarisme. Quel est votre avis sur ce type de régime alimentaire ? | The candidate must give and defend their opinion on vegetarianism. | 5 sources | 2023-06 | - |
-| 36 | Concilier travail et études en même temps est compliqué. Partagez-vous cette opinion ? | Give and defend your opinion on whether working and studying at the same time is difficult. | 5 sources | 2023-09 | - |
-| 37 | Selon vous, qui devrait venir en aide aux personnes en difficulté : l'État ou les citoyens eux-mêmes ? Donnez votre point de vue. | Give and defend your opinion on whether the government or citizens should help people in difficulty. | 5 sources | 2023-09 | - |
-| 38 | À quoi servent les zoos ? Justifiez votre réponse. | Give and defend an opinion on the usefulness of zoos. | 5 sources | 2023-09 | - |
-| 39 | Décider de quitter son pays natal est une chose facile. Partagez-vous cet avis ? | Give and defend your opinion on whether leaving one's country is an easy decision. | 5 sources | 2023-12 | - |
-| 40 | Aujourd'hui, tout le monde cherche à conserver sa jeunesse. Quel est votre avis sur cette question ? | Give your opinion on the fact that everyone today wants to stay young. | 5 sources | 2024-06 | - |
-| 41 | Les habitudes alimentaires évoluent-elles au fil du temps ? Donnez votre opinion sur ce sujet. | The candidate must give and defend an opinion on whether eating habits change over time. | 5 sources | 2024-10 | - |
+| 15 | Estimez-vous que l'État devrait prohiber la vente d'alcool et de cigarettes ? Dites pourquoi. | Give and justify your opinion on whether the state should ban the sale of alcohol and tobacco. | 7 sources | 2023-06 | - |
+| 16 | D'après vous, est-il utile de consacrer une journée spéciale aux droits des femmes ? Expliquez pourquoi. | State and defend your opinion on whether a dedicated day for women's rights is important. | 7 sources | 2023-11 | - |
+| 17 | Trouvez-vous que vivre seul(e) est compliqué ? Donnez votre avis et défendez-le. | State and defend your opinion on whether living alone is difficult. | 7 sources | 2023-11 | - |
+| 18 | Un jour, il faudra sans doute travailler jusqu'à 70 ans. Quel est votre point de vue sur cette question ? | The candidate must give and defend an opinion on whether people will one day have to work until age 70. | 7 sources | 2023-11 | - |
+| 19 | À votre avis, quel est le meilleur âge pour partir vivre à l'étranger ? Pourquoi ? | State and defend your opinion on the ideal age to emigrate. | 7 sources | 2023-12 | - |
+| 20 | Certaines personnes consacrent leur temps libre à des associations pour venir en aide à autrui. Quel est votre avis sur cette pratique ? | The candidate must give their opinion on people volunteering for associations in their free time. | 7 sources | 2024-02 | - |
+| 21 | Beaucoup de magazines proposent des astuces pour maigrir. Êtes-vous favorable ou opposé(e) à cette pratique ? | The candidate must give and defend an opinion on magazines offering weight-loss advice. | 6 sources | 2022-10 | - |
+| 22 | Selon vous, peut-on devenir ami avec quelqu'un dont les idées s'opposent aux vôtres ? | The candidate must give and defend an opinion on whether friendship is possible with someone holding opposite beliefs. | 6 sources | 2022-10 | - |
+| 23 | Un nombre croissant de personnes recourt à la chirurgie esthétique afin de paraître plus jeune. Quel est votre avis sur cette question ? | The candidate must give and defend their opinion on cosmetic surgery to stay young. | 6 sources | 2023-02 | - |
+| 24 | L’afflux excessif de touristes pose-t-il problème aux habitants d’une ville ? Quel est votre avis sur cette question ? | The candidate must give their view on whether too many tourists is a problem for city residents. | 6 sources | 2024-09 | - |
+| 25 | Installer des caméras de surveillance renforce la sécurité des citoyens dans les espaces publics. Partagez-vous cet avis ? | Give and defend your opinion on whether surveillance cameras improve public safety. | 6 sources | 2024-10 | - |
+| 26 | Selon vous, les aides sociales affaiblissent-elles la solidarité familiale ? Justifiez votre point de vue. | The candidate must give and justify an opinion on whether social welfare weakens family solidarity. | 6 sources | 2024-10 | - |
+| 27 | Pensez-vous qu'il soit possible de modifier ses habitudes alimentaires une fois devenu adulte ? Justifiez votre réponse. | Give and defend your opinion on whether adults can change their eating habits. | 6 sources | 2025-03 | - |
+| 28 | Selon vous, peut-on faire confiance aux consultations médicales effectuées à distance ? Pourquoi ? | Give and defend your opinion on trusting remote medical consultations. | 6 sources | 2025-07 | - |
+| 29 | Les filles et les garçons devraient-ils recevoir la même éducation ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether boys and girls should be raised the same way. | 6 sources | 2025-09 | - |
+| 30 | Pensez-vous que les célébrités ont leur place dans le monde politique ? | The candidate must give their opinion on whether celebrities belong in politics. | 5 sources | 2022-09 | - |
+| 31 | Pensez-vous qu'il faille travailler moins pour mieux profiter de l'existence ? Exprimez votre opinion. | The candidate must give and defend an opinion on whether working less leads to a better life. | 5 sources | 2022-10 | - |
+| 32 | Selon vous, la vie à la campagne est-elle plus agréable que la vie en ville ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether country life is more pleasant than city life. | 5 sources | 2022-10 | - |
+| 33 | Pensez-vous qu'il soit indispensable de suivre l'actualité quotidiennement afin de mieux saisir ce qui se passe dans le monde ? Donnez votre opinion. | The candidate must give and defend an opinion on whether daily news-following is necessary to understand the world. | 5 sources | 2022-12 | - |
+| 34 | À votre avis, obtenir de bons résultats scolaires assure-t-il forcément la réussite dans la vie ? Exprimez votre opinion. | Give and defend your opinion on whether academic success guarantees success in life. | 5 sources | 2022-12 | - |
+| 35 | À votre avis, la télé-réalité exerce-t-elle une mauvaise influence sur les jeunes ? | The candidate must give and defend an opinion on whether reality TV negatively influences young people. | 5 sources | 2023-03 | - |
+| 36 | De nombreuses personnes optent aujourd'hui pour le végétarisme. Quel est votre avis sur ce type de régime alimentaire ? | The candidate must give and defend their opinion on vegetarianism. | 5 sources | 2023-06 | - |
+| 37 | Concilier travail et études en même temps est compliqué. Partagez-vous cette opinion ? | Give and defend your opinion on whether working and studying at the same time is difficult. | 5 sources | 2023-09 | - |
+| 38 | Selon vous, qui devrait venir en aide aux personnes en difficulté : l'État ou les citoyens eux-mêmes ? Donnez votre point de vue. | Give and defend your opinion on whether the government or citizens should help people in difficulty. | 5 sources | 2023-09 | - |
+| 39 | À quoi servent les zoos ? Justifiez votre réponse. | Give and defend an opinion on the usefulness of zoos. | 5 sources | 2023-09 | - |
+| 40 | Décider de quitter son pays natal est une chose facile. Partagez-vous cet avis ? | Give and defend your opinion on whether leaving one's country is an easy decision. | 5 sources | 2023-12 | - |
+| 41 | Aujourd'hui, tout le monde cherche à conserver sa jeunesse. Quel est votre avis sur cette question ? | Give your opinion on the fact that everyone today wants to stay young. | 5 sources | 2024-06 | - |
+| 42 | Les habitudes alimentaires évoluent-elles au fil du temps ? Donnez votre opinion sur ce sujet. | The candidate must give and defend an opinion on whether eating habits change over time. | 5 sources | 2024-10 | - |
 
 ## Technology
 
