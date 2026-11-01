@@ -4,19 +4,19 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-276 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+278 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (40)
 - [Economy](#economy) (36)
-- [Education](#education) (39)
+- [Education](#education) (40)
 - [Environment](#environment) (21)
 - [Family](#family) (32)
 - [Health](#health) (29)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (7)
-- [Technology](#technology) (18)
+- [Technology](#technology) (19)
 - [Work](#work) (53)
 
 ## Culture
@@ -148,6 +148,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 37 | Faudrait-il rendre l'uniforme obligatoire dans toutes les écoles ? D'un côté, il dispense les familles d'acheter sans cesse des vêtements au gré de la mode et peut alléger leur budget, il renforce le sentiment d'appartenir à l'école et, en gommant les écarts sociaux et les styles individuels, il peut atténuer comparaisons et discriminations. De l'autre, bien que de plus en plus d'écoles publiques du Québec l'imposent, beaucoup d'adolescents s'y opposent : ils trouvent les uniformes inconfortables, ternes et trop chauds l'été, et s'habiller comme tous les autres les empêche de montrer leur personnalité. | Compare the arguments for and against compulsory school uniforms, then give your own position. | 2 sources | 2026-04 | - |
 | 38 | Faut-il installer des distributeurs automatiques dans les établissements scolaires ? Avis favorable : « Je soutiens la présence de distributeurs de boissons dans les lycées. D'abord, ils apportent une commodité aux élèves, en particulier à ceux qui manquent de temps pour se rendre à la cafétéria durant les pauses. Ensuite, bien gérés, ces appareils peuvent proposer des boissons saines : eau, jus de fruits purs, boissons fruitées sans sucre ajouté. Enfin, ils peuvent constituer une ressource financière supplémentaire pour l'établissement, réinvestissable dans les infrastructures ou les projets pédagogiques. » Avis défavorable : « Je m'oppose à l'installation de distributeurs de boissons dans les lycées. Ma crainte majeure concerne la santé des jeunes. Malheureusement, la plupart de ces machines proposent des sodas et boissons sucrées qui favorisent l'obésité infantile et d'autres troubles comme le diabète. Même les jus de fruits, réputés sains, renferment souvent beaucoup de sucre. Les écoles devraient promouvoir de bonnes habitudes alimentaires, et je redoute que ces distributeurs n'encouragent une consommation excessive de sucre. » | The candidate must compare two documents presenting opposing views on installing vending machines in schools. | 2 sources | 2026-05 | - |
 | 39 | En France, les établissements privés ont vu leurs effectifs augmenter lors de la dernière rentrée scolaire. Cette hausse ne s'explique pas seulement par les performances académiques : la réputation de ces écoles joue un rôle central. Beaucoup de familles estiment que le suivi des élèves y est plus strict, que la surveillance est renforcée et que les enseignants s'investissent davantage. Elles apprécient également que les classes rassemblent souvent des enfants issus de milieux aisés, ce qui s'explique par les frais de scolarité, contrairement au public qui reste gratuit. | Compare and comment on the two viewpoints explaining why private schools attract more students despite tuition costs versus free public schools. | 2 sources | 2026-06 | - |
+| 40 | Rester habiter chez ses parents offre plusieurs bénéfices aux jeunes, en particulier durant leurs études. Cela évite de payer un loyer ou la nourriture, ce qui représente une réelle économie. S'y ajoute un confort appréciable : les repas sont préparés, le ménage assuré et le linge lavé. Pour certains, demeurer au foyer familial permet aussi d'échapper à la solitude tout en épargnant en vue de projets futurs. | Present the arguments in favor of young people continuing to live with their parents. | 2 sources | 2026-09 | - |
 
 ## Environment
 
@@ -286,6 +287,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 16 | Avec l'essor des réseaux sociaux et des formations en ligne, plusieurs autodidactes se sont fait un nom en cuisine. Le parcours d'une passionnée devenue cheffe reconnue et auteure de livres de recettes prouve qu'on peut réussir sans suivre le chemin traditionnel. | Present the view that self-taught cooks can succeed through social media and online courses, without formal training. | 2 sources | 2025-02 | - |
 | 17 | La publicité et son influence sur les enfants : faut-il s'en inquiéter ? Une étude montre que les enfants sont exposés en permanence à des publicités — à la télévision, dans les magazines, sur Internet — y compris dans des contextes où ils sont particulièrement vulnérables à cette influence. Ils sont spécifiquement visés par des annonces pour des aliments peu équilibrés, des jouets, des jeux vidéo et divers produits, ce qui peut orienter leurs préférences de consommation et leurs demandes auprès de leurs parents. Un article scientifique publié dans une revue spécialisée indique cependant que les enfants disposent de capacités cognitives encore limitées pour décrypter les messages publicitaires et ne perçoivent généralement pas leur intention persuasive. Malgré cela, d'autres facteurs — éducation parentale, influences sociales et culturelles — pèseraient davantage sur les habitudes de consommation des enfants que la publicité elle-même. | Summarize and compare the two opposing viewpoints on advertising's influence on children. | 2 sources | 2026-01 | - |
 | 18 | Jeux vidéo : pour ou contre ? Les jeux vidéo, sur console ou ordinateur, à domicile ou en salle, seul, entre amis ou en ligne avec des inconnus, peuvent engendrer une dépendance chez certains individus. On parle d'addiction lorsque le jeu devient l'occupation principale, voire exclusive, au détriment d'autres activités (sociales, professionnelles, scolaires, sportives…). Cette dépendance inquiète particulièrement à l'adolescence, période cruciale où les jeux vidéo peuvent nuire aux résultats scolaires. Beaucoup croient encore que les jeux vidéo abrutissent. Or, de nombreuses recherches démontrent l'inverse. Selon l'une d'elles, les amateurs de jeux de course amélioreraient leur sens de l'orientation, leur mémoire et la précision de leurs gestes. D'autres travaux montrent une nette progression de la rapidité et de la concentration chez tous les joueurs, sans oublier les jeux destinés aux seniors pour entretenir mémoire et vivacité d'esprit… En somme, preuves scientifiques à l'appui, le jeu vidéo rendrait plus intelligent ! | The candidate must compare two documents presenting opposing views on whether video games are beneficial. | 2 sources | 2026-05 | - |
+| 19 | Pour un reportage consacré à la pratique sportive chez les amateurs, France Télévisions collecte des témoignages. Quelle place le sport tient-il dans votre quotidien ? Envoyez votre récit sur francetelevision.fr. | Write a testimonial for a TV report describing the role sport plays in your daily life. | 2 sources | 2026-06 | - |
 
 ## Work
 

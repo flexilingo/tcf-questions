@@ -4,13 +4,13 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-157 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+159 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (60)
+- [Culture](#culture) (61)
 - [Economy](#economy) (3)
-- [Education](#education) (18)
+- [Education](#education) (19)
 - [Environment](#environment) (4)
 - [Family](#family) (8)
 - [Health](#health) (12)
@@ -83,6 +83,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 58 | Suite à un atelier de cuisine qui n'a pas répondu à vos attentes, écrivez un message à l'animateur pour lui donner votre avis et lui suggérer des améliorations, en 60 à 120 mots. | Write a message to a cooking workshop organizer giving feedback and suggestions for improvement, in 60-120 words. | 1 source | 2024-03 | - |
 | 59 | Après avoir rencontré plusieurs problèmes avec une voiture de location pendant vos vacances, écrivez au service de location pour exprimer votre mécontentement et réclamer un dédommagement, en 60 à 120 mots. | Write to a car rental service expressing dissatisfaction and requesting compensation after problems during a trip. | 1 source | 2024-04 | - |
 | 60 | Après une excursion touristique qui s'est mal passée, rédigez un article pour un forum de voyageurs racontant votre expérience et mettant en garde les autres touristes, en 120 à 150 mots. | Write a forum article about a bad tourist excursion, recounting the experience and warning other travelers, in 120-150 words. | 1 source | 2024-05 | - |
+| 61 | Rédigez un article pour votre blog dans lequel vous décrivez les habitudes alimentaires typiques de votre pays. Indiquez ce que vous appréciez et ce que vous n'aimez pas dans ces habitudes, en expliquant vos raisons. | Write a blog article describing your country's eating habits, what you like and dislike, with justification. | 1 source | 2024-05 | - |
 
 ## Economy
 
@@ -114,6 +115,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 16 | Vous avez participé à des cours de langue ; racontez comment s'est déroulée votre première semaine (emploi du temps, contenu des cours, activités). | Write a text sharing your first week experience of language classes (schedule, courses, activities). | 1 source | 2023-12 | - |
 | 17 | Vous venez de commencer vos études à l'université de Montréal. Écrivez à un ami ou une amie pour lui raconter votre première semaine sur le campus. | Write a message to a friend about your first week at university in Montreal. | 1 source | 2024-01 | - |
 | 18 | Suite à un cours de langue qui n'a pas répondu à vos attentes, écrivez une note au directeur de l'institut pour lui exposer vos remarques et vos propositions d'amélioration, en 60 à 120 mots. | Write a note to a language school director with feedback and suggestions after an unsatisfactory course. | 1 source | 2024-04 | - |
+| 19 | Suite à une formation en ligne insatisfaisante, écrivez à l'organisateur pour faire le bilan de votre expérience et lui suggérer des améliorations, en 60 à 120 mots. | Write to an online course organizer summarizing your experience and suggesting improvements. | 1 source | 2024-05 | - |
 
 ## Environment
 

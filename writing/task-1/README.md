@@ -4,16 +4,16 @@
 
 A message to one or more people, 60 to 120 words.
 
-176 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+178 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (51)
 - [Economy](#economy) (10)
 - [Education](#education) (25)
-- [Family](#family) (24)
+- [Family](#family) (25)
 - [Health](#health) (17)
-- [Immigration](#immigration) (5)
+- [Immigration](#immigration) (6)
 - [Miscellaneous](#miscellaneous) (24)
 - [Technology](#technology) (3)
 - [Work](#work) (17)
@@ -147,6 +147,7 @@ A message to one or more people, 60 to 120 words.
 | 22 | Vous écrivez à un ami convié à votre mariage, célébré au château Saint-Simon, afin de lui expliquer comment s'y rendre. | Write a 60-120 word message giving directions to a friend invited to your wedding at Château Saint-Simon. | 1 source | 2021-01 | - |
 | 23 | La médiathèque de votre ville organise une rencontre avec un auteur. Rédigez un message pour convier votre ami(e) à cet événement. | The candidate must write a message inviting a friend to a library event to meet a writer. | 1 source | 2022-10 | - |
 | 24 | Vous avez prévu de passer une journée dans un parc d'attractions avec votre ami(e). Rédigez-lui un message pour l'inviter et lui présenter le programme de la sortie. | The candidate must write a message inviting a friend to spend a day at an amusement park, with the planned schedule. | 1 source | 2022-11 | - |
+| 25 | Vous êtes parti(e) à la campagne avec vos enfants. Envoyez un courriel à un ami pour lui raconter ce séjour. | Write an email to a friend describing a countryside trip with your children. | 1 source | 2024-05 | - |
 
 ## Health
 
@@ -179,6 +180,7 @@ A message to one or more people, 60 to 120 words.
 | 3 | Vous êtes parti(e) à l'étranger dans le cadre d'un séjour organisé par une agence de voyage et vous avez été déçu(e) par les prestations fournies. Écrivez à l'agence pour raconter votre expérience et donner votre avis sur ce séjour. | Write a message to a travel agency describing a disappointing organized trip and giving an opinion. | 3 sources | 2025-11 | - |
 | 4 | Répondez à Justine en respectant ces consignes : - Racontez un séjour d'études que vous avez effectué dans un autre pays. - Précisez pourquoi cette expérience a été, selon vous, positive ou négative. | Reply to Justine describing a study-abroad experience and explaining whether it was positive or negative. | 2 sources | 2024-11 | - |
 | 5 | Vous débarquez dans un nouveau pays. Écrivez à vos amis pour leur raconter votre arrivée et vos toutes premières impressions. | The candidate must write a message describing their arrival and first impressions in a new country. | 2 sources | 2025-12 | - |
+| 6 | Vous venez de vous installer dans un pays étranger. Un ami vous écrit et souhaite que vous lui parliez de votre nouvelle ville : décrivez-la (architecture, paysages, votre logement). | Write a message to a friend describing your new city (architecture, scenery, apartment). | 1 source | 2024-05 | - |
 
 ## Miscellaneous
 
