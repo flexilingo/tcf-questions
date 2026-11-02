@@ -4,20 +4,20 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-278 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+280 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (40)
 - [Economy](#economy) (36)
-- [Education](#education) (40)
+- [Education](#education) (41)
 - [Environment](#environment) (21)
 - [Family](#family) (32)
 - [Health](#health) (29)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (7)
 - [Technology](#technology) (19)
-- [Work](#work) (53)
+- [Work](#work) (54)
 
 ## Culture
 
@@ -149,6 +149,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 38 | Faut-il installer des distributeurs automatiques dans les établissements scolaires ? Avis favorable : « Je soutiens la présence de distributeurs de boissons dans les lycées. D'abord, ils apportent une commodité aux élèves, en particulier à ceux qui manquent de temps pour se rendre à la cafétéria durant les pauses. Ensuite, bien gérés, ces appareils peuvent proposer des boissons saines : eau, jus de fruits purs, boissons fruitées sans sucre ajouté. Enfin, ils peuvent constituer une ressource financière supplémentaire pour l'établissement, réinvestissable dans les infrastructures ou les projets pédagogiques. » Avis défavorable : « Je m'oppose à l'installation de distributeurs de boissons dans les lycées. Ma crainte majeure concerne la santé des jeunes. Malheureusement, la plupart de ces machines proposent des sodas et boissons sucrées qui favorisent l'obésité infantile et d'autres troubles comme le diabète. Même les jus de fruits, réputés sains, renferment souvent beaucoup de sucre. Les écoles devraient promouvoir de bonnes habitudes alimentaires, et je redoute que ces distributeurs n'encouragent une consommation excessive de sucre. » | The candidate must compare two documents presenting opposing views on installing vending machines in schools. | 2 sources | 2026-05 | - |
 | 39 | En France, les établissements privés ont vu leurs effectifs augmenter lors de la dernière rentrée scolaire. Cette hausse ne s'explique pas seulement par les performances académiques : la réputation de ces écoles joue un rôle central. Beaucoup de familles estiment que le suivi des élèves y est plus strict, que la surveillance est renforcée et que les enseignants s'investissent davantage. Elles apprécient également que les classes rassemblent souvent des enfants issus de milieux aisés, ce qui s'explique par les frais de scolarité, contrairement au public qui reste gratuit. | Compare and comment on the two viewpoints explaining why private schools attract more students despite tuition costs versus free public schools. | 2 sources | 2026-06 | - |
 | 40 | Rester habiter chez ses parents offre plusieurs bénéfices aux jeunes, en particulier durant leurs études. Cela évite de payer un loyer ou la nourriture, ce qui représente une réelle économie. S'y ajoute un confort appréciable : les repas sont préparés, le ménage assuré et le linge lavé. Pour certains, demeurer au foyer familial permet aussi d'échapper à la solitude tout en épargnant en vue de projets futurs. | Present the arguments in favor of young people continuing to live with their parents. | 2 sources | 2026-09 | - |
+| 41 | À l'inverse, d'autres estiment que vivre chez ses parents restreint la liberté et l'autonomie. Les jeunes peuvent ressentir que leurs parents décident encore à leur place et que leur vie privée n'est pas respectée. Habiter seul favorise au contraire l'apprentissage de l'autonomie et des responsabilités. Certains, contraints de revenir vivre chez leurs parents après une période d'indépendance, vivent d'ailleurs cette situation comme un recul. | Present the opposing arguments against young people continuing to live with their parents. | 2 sources | 2026-09 | - |
 
 ## Environment
 
@@ -346,6 +347,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 51 | Se faire livrer un repas sur son lieu de travail comporte plusieurs atouts. Cela fait gagner du temps car il n'est plus nécessaire de sortir pendant la pause déjeuner. Les salariés peuvent ainsi mieux gérer leur emploi du temps et parfois finir leur journée plus tôt. De plus, chacun peut choisir librement le plat qu'il préfère. Enfin, grâce au grand nombre de restaurants ouverts en continu, ce service demeure accessible à presque toute heure. | The candidate must write about the advantages of workplace meal delivery services. | 2 sources | 2026-04 | - |
 | 52 | L'égalité entre les hommes et les femmes est-elle vraiment garantie dans le monde du travail ? D'une part, certains métiers et postes de direction restent surtout tenus par des hommes, alors qu'au Québec l'égalité professionnelle ouvre aux femmes toutes les fonctions, même celles qui leur étaient jadis interdites, et que les compétences, non le sexe, devraient décider de l'embauche. D'autre part, malgré les politiques de parité, la répartition reste très déséquilibrée dans plusieurs secteurs, les femmes étant par exemple très majoritaires chez les sages-femmes, et certains persistent à dire que les obligations familiales devraient les éloigner des métiers traditionnellement masculins, une opinion qui perpétue les inégalités. | Compare the viewpoints on whether gender equality at work is truly achieved, then give your own position. | 2 sources | 2026-05 | - |
 | 53 | Le travail : bénéfique ou nuisible ? Avis 1, Stéphane, chef d'entreprise : « Je suis persuadé que le travail apporte du positif, tant à l'individu qu'à la collectivité. Il permet de subvenir à ses besoins tout en contribuant à la croissance économique. Il renforce aussi l'indépendance, la confiance en soi, le sens des responsabilités, et constitue une source d'épanouissement personnel comme professionnel. » Avis 2, Laura, sociologue : « Tel qu'il est structuré aujourd'hui, le travail présente des inconvénients réels. Il rime souvent avec pression constante, horaires contraignants et difficulté à concilier vie privée et vie professionnelle. Il peut mener à l'épuisement, notamment quand la charge est trop lourde et que les efforts ne sont pas reconnus. » | Compare and comment on two opposing views (positive vs negative) about the role of work. | 2 sources | 2026-06 | - |
+| 54 | Vous lisez deux textes exposant des avis opposés sur l'utilité d'ajouter une photo sur un CV, puis vous rédigez votre propre texte en reprenant les arguments des deux camps. Document 1 : Une photo sur le CV permet au recruteur de mettre un visage sur un nom dès la première lecture, crée une impression de confiance et personnalise la candidature dans un océan de dossiers standardisés. Document 2 : Ajouter une photo expose le candidat à des discriminations liées à l'apparence, à l'âge ou à l'origine, et détourne l'attention du recruteur des compétences réelles inscrites dans le CV. | Write 120-180 words comparing two documents with opposing views on whether a CV should include a photo. | 1 source | 2019-12 | - |
 
 ---
 

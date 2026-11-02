@@ -4,17 +4,17 @@
 
 A message to one or more people, 60 to 120 words.
 
-178 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+180 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (51)
 - [Economy](#economy) (10)
 - [Education](#education) (25)
-- [Family](#family) (25)
+- [Family](#family) (26)
 - [Health](#health) (17)
 - [Immigration](#immigration) (6)
-- [Miscellaneous](#miscellaneous) (24)
+- [Miscellaneous](#miscellaneous) (25)
 - [Technology](#technology) (3)
 - [Work](#work) (17)
 
@@ -148,6 +148,7 @@ A message to one or more people, 60 to 120 words.
 | 23 | La médiathèque de votre ville organise une rencontre avec un auteur. Rédigez un message pour convier votre ami(e) à cet événement. | The candidate must write a message inviting a friend to a library event to meet a writer. | 1 source | 2022-10 | - |
 | 24 | Vous avez prévu de passer une journée dans un parc d'attractions avec votre ami(e). Rédigez-lui un message pour l'inviter et lui présenter le programme de la sortie. | The candidate must write a message inviting a friend to spend a day at an amusement park, with the planned schedule. | 1 source | 2022-11 | - |
 | 25 | Vous êtes parti(e) à la campagne avec vos enfants. Envoyez un courriel à un ami pour lui raconter ce séjour. | Write an email to a friend describing a countryside trip with your children. | 1 source | 2024-05 | - |
+| 26 | Votre voisin a gardé votre chat durant votre absence en vacances. Rédigez-lui un message pour le remercier et lui raconter comment s'est passé votre séjour. | Write a thank-you message to a neighbour who looked after your cat, telling them about your holiday. | 1 source | 2024-06 | - |
 
 ## Health
 
@@ -161,9 +162,9 @@ A message to one or more people, 60 to 120 words.
 | 6 | Un événement sportif va bientôt se dérouler dans votre ville. Écrivez un message à vos amis pour les inviter à y participer (date, lieu, modalités d'inscription, etc.). | The candidate must write a message inviting friends to an upcoming sports event in their city. | 6 sources | 2023-06 | - |
 | 7 | Écrivez un message à un ami pour lui suggérer de pratiquer une activité sportive ensemble. | The candidate must write a message to a friend suggesting they do sport together. | 5 sources | 2020-02 | - |
 | 8 | Rédigez un courriel en réponse à votre ami(e) qui prévoit passer le week-end dans votre ville. Vous devez y présenter les différents moyens de transport disponibles. | The candidate must write an email to a friend describing transportation options in their city. | 5 sources | 2023-06 | - |
-| 9 | Répondez par message à votre ami pour lui recommander une salle de sport de votre quartier. | Reply to your friend recommending a gym in your neighborhood. | 4 sources | 2023-05 | - |
-| 10 | Répondez à votre ami(e) en décrivant la sortie prévue (horaires, moyen de transport, activités, etc.). | The candidate must reply to a friend describing an outing's details. | 4 sources | 2023-11 | - |
-| 11 | Écrivez un message à vos amis pour leur proposer de venir passer un week-end sportif chez vous. | The candidate must write a message inviting friends for a sporty weekend. | 4 sources | 2024-11 | - |
+| 9 | Écrivez un message à vos amis pour leur proposer de venir passer un week-end sportif chez vous. | The candidate must write a message inviting friends for a sporty weekend. | 5 sources | 2024-11 | - |
+| 10 | Répondez par message à votre ami pour lui recommander une salle de sport de votre quartier. | Reply to your friend recommending a gym in your neighborhood. | 4 sources | 2023-05 | - |
+| 11 | Répondez à votre ami(e) en décrivant la sortie prévue (horaires, moyen de transport, activités, etc.). | The candidate must reply to a friend describing an outing's details. | 4 sources | 2023-11 | - |
 | 12 | Cédric, que vous avez invité à votre mariage, ne connaît pas le Château de Chombony, lieu de la cérémonie. Décrivez-lui cet endroit, précisez sa localisation ainsi que les moyens de transport pour s'y rendre. | Write to a friend describing a wedding venue's location and how to get there. | 4 sources | 2025-01 | - |
 | 13 | Vous devez passer une journée dans un parc d'attractions avec un ami. Rédigez-lui un message pour organiser cette sortie en précisant les horaires, le moyen de transport, l'achat des billets et les activités prévues (entre 60 et 120 mots). | The candidate must write a message to a friend organizing a day at an amusement park, including schedule, transport, tickets and activities. | 3 sources | 2022-11 | - |
 | 14 | Votre ami vous écrit : « J'attends avec impatience notre journée ensemble demain. Peux-tu me dire quelles activités nous ferons ? » Répondez-lui en décrivant la sortie prévue au parc de loisirs (horaires, transport, billets, activités). | The candidate must reply to a friend describing an amusement park outing with schedule, transport, tickets and activities. | 3 sources | 2024-01 | - |
@@ -210,6 +211,7 @@ A message to one or more people, 60 to 120 words.
 | 22 | Vous écrivez à un ami pour lui proposer de passer une journée ensemble et lui suggérez un programme d'activités. | Write a 60-120 word message inviting a friend to spend a day together and proposing a schedule. | 1 source | 2021-03 | - |
 | 23 | Rédigez un courriel destiné à un(e) ami(e) dans lequel vous présentez le déroulement prévu de votre déménagement. | Write an email to a friend explaining your moving plan. | 1 source | 2023-04 | - |
 | 24 | Vous venez d'emménager dans une nouvelle ville. Écrivez un message à un ami pour lui présenter votre endroit favori et raconter vos activités (lieux découverts, moyens de transport utilisés, habitants rencontrés). | Write a message to a friend describing your favorite spot and activities in your new city. | 1 source | 2024-05 | - |
+| 25 | Un ami vous a fait un cadeau surprise. Écrivez-lui un message pour le remercier et lui expliquer en quoi ce geste vous a touché. | Write a message thanking a friend for an unexpected gift and explaining why it moved you. | 1 source | 2024-06 | - |
 
 ## Technology
 

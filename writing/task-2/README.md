@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-159 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+161 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (61)
+- [Culture](#culture) (63)
 - [Economy](#economy) (3)
 - [Education](#education) (19)
 - [Environment](#environment) (4)
@@ -84,6 +84,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 59 | Après avoir rencontré plusieurs problèmes avec une voiture de location pendant vos vacances, écrivez au service de location pour exprimer votre mécontentement et réclamer un dédommagement, en 60 à 120 mots. | Write to a car rental service expressing dissatisfaction and requesting compensation after problems during a trip. | 1 source | 2024-04 | - |
 | 60 | Après une excursion touristique qui s'est mal passée, rédigez un article pour un forum de voyageurs racontant votre expérience et mettant en garde les autres touristes, en 120 à 150 mots. | Write a forum article about a bad tourist excursion, recounting the experience and warning other travelers, in 120-150 words. | 1 source | 2024-05 | - |
 | 61 | Rédigez un article pour votre blog dans lequel vous décrivez les habitudes alimentaires typiques de votre pays. Indiquez ce que vous appréciez et ce que vous n'aimez pas dans ces habitudes, en expliquant vos raisons. | Write a blog article describing your country's eating habits, what you like and dislike, with justification. | 1 source | 2024-05 | - |
+| 62 | Une troupe de comédiens vient de s'installer dans votre ville. Vous avez assisté à l'un de leurs spectacles : racontez cette expérience à vos amis. | Write an account for friends about attending a show by a new comedy troupe in your city. | 1 source | 2024-05 | - |
+| 63 | Vous avez assisté récemment au concert de votre chanteur ou groupe favori. Partagez ce moment sur votre blog (lieu, date, déroulement de l'événement, instant fort, etc.). | Write a blog post about attending your favorite artist's concert. | 1 source | 2024-05 | - |
 
 ## Economy
 
