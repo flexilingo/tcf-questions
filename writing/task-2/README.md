@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-161 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+163 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (63)
+- [Culture](#culture) (65)
 - [Economy](#economy) (3)
 - [Education](#education) (19)
 - [Environment](#environment) (4)
@@ -86,6 +86,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 61 | Rédigez un article pour votre blog dans lequel vous décrivez les habitudes alimentaires typiques de votre pays. Indiquez ce que vous appréciez et ce que vous n'aimez pas dans ces habitudes, en expliquant vos raisons. | Write a blog article describing your country's eating habits, what you like and dislike, with justification. | 1 source | 2024-05 | - |
 | 62 | Une troupe de comédiens vient de s'installer dans votre ville. Vous avez assisté à l'un de leurs spectacles : racontez cette expérience à vos amis. | Write an account for friends about attending a show by a new comedy troupe in your city. | 1 source | 2024-05 | - |
 | 63 | Vous avez assisté récemment au concert de votre chanteur ou groupe favori. Partagez ce moment sur votre blog (lieu, date, déroulement de l'événement, instant fort, etc.). | Write a blog post about attending your favorite artist's concert. | 1 source | 2024-05 | - |
+| 64 | Vous avez logé dans un hôtel qui vous a déçu. Rédigez un avis sur un site de réservation pour raconter votre expérience et conseiller les futurs voyageurs. | Write a review on a booking site about a disappointing hotel stay to advise other travellers. | 1 source | 2024-06 | - |
+| 65 | Vous avez participé à une mission bénévole qui ne s'est pas passée comme vous l'espériez. Écrivez à l'association pour partager votre ressenti et suggérer des pistes d'amélioration. | Write to a volunteer organisation about a disappointing experience and suggest improvements. | 1 source | 2024-06 | - |
 
 ## Economy
 

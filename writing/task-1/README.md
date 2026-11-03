@@ -4,16 +4,16 @@
 
 A message to one or more people, 60 to 120 words.
 
-180 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+182 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (51)
+- [Culture](#culture) (52)
 - [Economy](#economy) (10)
 - [Education](#education) (25)
 - [Family](#family) (26)
 - [Health](#health) (17)
-- [Immigration](#immigration) (6)
+- [Immigration](#immigration) (7)
 - [Miscellaneous](#miscellaneous) (25)
 - [Technology](#technology) (3)
 - [Work](#work) (17)
@@ -73,6 +73,7 @@ A message to one or more people, 60 to 120 words.
 | 49 | Publiez un message sur un forum pour faire découvrir la culture de votre pays et donner envie aux lecteurs de le visiter (sites touristiques, événements, traditions, informations pratiques, etc.). | Write a forum post promoting your country's culture to encourage visits. | 1 source | 2024-05 | - |
 | 50 | Vous avez suivi un atelier de cuisine où vous avez appris une nouvelle recette. Écrivez un message à un ami pour lui raconter cette expérience et lui donner envie d'essayer la recette à son tour. | Write a message to a friend recounting a cooking workshop and encouraging them to try the recipe. | 1 source | 2024-05 | - |
 | 51 | Vous disposez d'un grand appartement et souhaitez trouver un colocataire. Rédigez une annonce pour le journal. | Write a newspaper ad looking for a roommate for your large apartment. | 1 source | 2024-05 | - |
+| 52 | Vous avez découvert un nouveau restaurant près de chez vous. Écrivez à un ami pour lui décrire votre expérience et l'inviter à y déjeuner avec vous. | Write to a friend about discovering a new restaurant and invite them to join you there. | 1 source | 2024-06 | - |
 
 ## Economy
 
@@ -182,6 +183,7 @@ A message to one or more people, 60 to 120 words.
 | 4 | Répondez à Justine en respectant ces consignes : - Racontez un séjour d'études que vous avez effectué dans un autre pays. - Précisez pourquoi cette expérience a été, selon vous, positive ou négative. | Reply to Justine describing a study-abroad experience and explaining whether it was positive or negative. | 2 sources | 2024-11 | - |
 | 5 | Vous débarquez dans un nouveau pays. Écrivez à vos amis pour leur raconter votre arrivée et vos toutes premières impressions. | The candidate must write a message describing their arrival and first impressions in a new country. | 2 sources | 2025-12 | - |
 | 6 | Vous venez de vous installer dans un pays étranger. Un ami vous écrit et souhaite que vous lui parliez de votre nouvelle ville : décrivez-la (architecture, paysages, votre logement). | Write a message to a friend describing your new city (architecture, scenery, apartment). | 1 source | 2024-05 | - |
+| 7 | Votre ami Mehdi vient d'arriver dans votre ville et souhaite des conseils sur les transports. Répondez-lui en présentant les différents moyens de circuler (bus, métro, tram), les formules d'abonnement et les tarifs. | Reply to a friend who just moved to your city, explaining transport options, subscriptions and prices. | 1 source | 2024-07 | - |
 
 ## Miscellaneous
 

@@ -4,13 +4,13 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-280 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+282 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (40)
-- [Economy](#economy) (36)
-- [Education](#education) (41)
+- [Economy](#economy) (37)
+- [Education](#education) (42)
 - [Environment](#environment) (21)
 - [Family](#family) (32)
 - [Health](#health) (29)
@@ -104,6 +104,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 34 | Récemment, j'ai décidé de quitter la ville pour m'installer à la campagne, désirant profiter d'un cadre plus vert et plus calme. Désormais, au lieu de sortir au restaurant ou en soirée, je reçois mes proches chez moi, sur la terrasse, autour d'un verre ou d'un barbecue. Le coût du logement a aussi pesé lourd dans ma décision : dans les campagnes, les habitations sont bien moins chères qu'en zone urbaine. Avec un budget identique, j'ai pu acquérir une grande maison avec jardin, chose impensable en ville. | The candidate must compare this text with an opposing one on living in the countryside vs the city. | 2 sources | 2025-08 | - |
 | 35 | Je fais mes courses de nourriture à moins de dix kilomètres de chez moi. Vivant à la campagne, je peux acheter directement chez les producteurs et échanger avec eux. Certes, les prix sont parfois plus élevés, mais la qualité est meilleure et je sais d'où viennent les produits. Pour moi, il est primordial de faire confiance aux producteurs du coin et de consommer local. | The candidate must compare this text with an opposing one about local vs other food shopping. | 2 sources | 2025-09 | - |
 | 36 | L'aide aux personnes démunies Chaque hiver, je consacre un peu de mon temps et de mon argent aux personnes sans domicile souffrant du froid. Se soucier de ceux qui manquent de tout me paraît essentiel, et cette action me donne le sentiment d'être utile : un geste de solidarité accessible à tous. D'autres pensent qu'il vaudrait mieux repenser notre mode de vie plutôt que de donner de l'argent. C'est pourquoi certains préfèrent s'engager comme bénévoles dans une association locale. Selon eux, les sans-abri ont surtout besoin d'un logement et d'un emploi pour retrouver leur autonomie, plutôt que d'argent : un don monétaire ne servirait, selon ce point de vue, qu'à apaiser notre conscience. | Summarize and compare the two viewpoints on helping the homeless (giving money vs volunteering/systemic change). | 2 sources | 2026-01 | - |
+| 37 | Vous lisez deux avis contraires sur la question des salaires colossaux versés aux sportifs professionnels, puis vous rédigez un texte reprenant ces deux positions. Document 1 : Les sportifs de haut niveau génèrent des revenus considérables pour leurs clubs et les industries qui les entourent, et leurs salaires reflètent des années de sacrifices ainsi qu'une carrière très courte. Document 2 : Ces sommes astronomiques sont indécentes quand tant de métiers essentiels, comme les soignants ou les enseignants, sont bien moins rémunérés pour un travail tout aussi utile à la société. | Write 120-180 words comparing two opposing views on whether athletes should be paid such huge sums. | 1 source | 2020-02 | - |
 
 ## Education
 
@@ -150,6 +151,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 39 | En France, les établissements privés ont vu leurs effectifs augmenter lors de la dernière rentrée scolaire. Cette hausse ne s'explique pas seulement par les performances académiques : la réputation de ces écoles joue un rôle central. Beaucoup de familles estiment que le suivi des élèves y est plus strict, que la surveillance est renforcée et que les enseignants s'investissent davantage. Elles apprécient également que les classes rassemblent souvent des enfants issus de milieux aisés, ce qui s'explique par les frais de scolarité, contrairement au public qui reste gratuit. | Compare and comment on the two viewpoints explaining why private schools attract more students despite tuition costs versus free public schools. | 2 sources | 2026-06 | - |
 | 40 | Rester habiter chez ses parents offre plusieurs bénéfices aux jeunes, en particulier durant leurs études. Cela évite de payer un loyer ou la nourriture, ce qui représente une réelle économie. S'y ajoute un confort appréciable : les repas sont préparés, le ménage assuré et le linge lavé. Pour certains, demeurer au foyer familial permet aussi d'échapper à la solitude tout en épargnant en vue de projets futurs. | Present the arguments in favor of young people continuing to live with their parents. | 2 sources | 2026-09 | - |
 | 41 | À l'inverse, d'autres estiment que vivre chez ses parents restreint la liberté et l'autonomie. Les jeunes peuvent ressentir que leurs parents décident encore à leur place et que leur vie privée n'est pas respectée. Habiter seul favorise au contraire l'apprentissage de l'autonomie et des responsabilités. Certains, contraints de revenir vivre chez leurs parents après une période d'indépendance, vivent d'ailleurs cette situation comme un recul. | Present the opposing arguments against young people continuing to live with their parents. | 2 sources | 2026-09 | - |
+| 42 | Vous prenez connaissance de deux articles, l'un favorable et l'autre défavorable, sur le port de l'uniforme scolaire, puis vous écrivez un texte donnant votre propre avis. | Write 120-180 words comparing two opposing articles on school uniforms and giving your opinion. | 1 source | 2020-02 | - |
 
 ## Environment
 

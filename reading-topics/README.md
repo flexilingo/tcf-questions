@@ -4,11 +4,11 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-92 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+93 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (26)
+- [Culture](#culture) (27)
 - [Economy](#economy) (18)
 - [Education](#education) (8)
 - [Environment](#environment) (5)
@@ -49,6 +49,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 24 | Une annonce cherchant des acteurs pour un tournage de film. | A casting call announcement for a film. | 1 source | 2026-09 | - |
 | 25 | Une annonce pour un événement artistique mêlant plusieurs disciplines. | An advertisement for a multidisciplinary arts event. | 1 source | 2026-09 | - |
 | 26 | Une annonce proposant un voyage à tarif réduit. | An advertisement for a discounted trip. | 1 source | 2026-09 | - |
+| 27 | Une annonce présentant les horaires et services proposés par une bibliothèque. | A notice about a library's opening hours and services. | 1 source | 2026-09 | - |
 
 ## Economy
 
