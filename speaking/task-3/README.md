@@ -4,12 +4,12 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-278 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+279 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (27)
-- [Economy](#economy) (7)
+- [Economy](#economy) (8)
 - [Education](#education) (28)
 - [Environment](#environment) (16)
 - [Family](#family) (24)
@@ -58,10 +58,11 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 1 | Manger bio serait un luxe réservé aux plus fortunés ? Partagez-vous cette opinion ? | The candidate must give and defend their opinion on whether eating organic food is only for the wealthy. | 6 sources | 2023-04 | [Read](https://www.flexilingo.com/en/tcf-canada/sujet/tcf-eo-t3-produits-bio-reserves-aux-personnes-riches) |
 | 2 | Selon vous, faut-il absolument gagner beaucoup d'argent pour profiter pleinement de la vie ? Partagez-vous cette idée ? Justifiez votre réponse. | Give and defend your opinion on whether earning lots of money is necessary to enjoy life. | 7 sources | 2022-11 | - |
 | 3 | N'importe qui peut-il exercer un poste à responsabilités (chef de service, de magasin, d'association, etc.) ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether everyone is capable of holding a leadership position. | 7 sources | 2023-02 | - |
-| 4 | Que pensez-vous des habitudes de consommation dans les pays riches ? | The candidate must analyze and give an opinion on consumption habits in wealthy countries. | 7 sources | 2024-03 | - |
-| 5 | Je travaille dans un office de tourisme. Vous voulez partir en week-end sans dépenser beaucoup d'argent. Demandez-moi des conseils (destinations, activités, moyens de transport, etc.). | Ask a tourism office employee for advice on a low-budget weekend trip. | 5 sources | 2023-06 | - |
-| 6 | En tant qu'ami(e), j'ai mangé dans un restaurant à Ottawa, et vous aimeriez le découvrir aussi. Posez-moi des questions (type de cuisine, prix, atmosphère, etc.). | The candidate must ask the examiner (playing a friend) questions about a restaurant in Ottawa. | 5 sources | 2023-07 | - |
-| 7 | Que pensez-vous des habitudes de consommation dans les pays industrialisés ? | Give and defend your opinion on consumption habits in developed countries. | 4 sources | 2022-08 | - |
+| 4 | Pensez-vous que l'exploration spatiale coûte trop cher pour un intérêt nul ? Donnez votre avis. | Give your opinion on whether space travel is an excessive and useless expense. | 7 sources | 2023-06 | - |
+| 5 | Que pensez-vous des habitudes de consommation dans les pays riches ? | The candidate must analyze and give an opinion on consumption habits in wealthy countries. | 7 sources | 2024-03 | - |
+| 6 | Je travaille dans un office de tourisme. Vous voulez partir en week-end sans dépenser beaucoup d'argent. Demandez-moi des conseils (destinations, activités, moyens de transport, etc.). | Ask a tourism office employee for advice on a low-budget weekend trip. | 5 sources | 2023-06 | - |
+| 7 | En tant qu'ami(e), j'ai mangé dans un restaurant à Ottawa, et vous aimeriez le découvrir aussi. Posez-moi des questions (type de cuisine, prix, atmosphère, etc.). | The candidate must ask the examiner (playing a friend) questions about a restaurant in Ottawa. | 5 sources | 2023-07 | - |
+| 8 | Que pensez-vous des habitudes de consommation dans les pays industrialisés ? | Give and defend your opinion on consumption habits in developed countries. | 4 sources | 2022-08 | - |
 
 ## Education
 

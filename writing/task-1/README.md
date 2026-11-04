@@ -4,17 +4,17 @@
 
 A message to one or more people, 60 to 120 words.
 
-182 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+184 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (52)
 - [Economy](#economy) (10)
 - [Education](#education) (25)
-- [Family](#family) (26)
+- [Family](#family) (27)
 - [Health](#health) (17)
 - [Immigration](#immigration) (7)
-- [Miscellaneous](#miscellaneous) (25)
+- [Miscellaneous](#miscellaneous) (26)
 - [Technology](#technology) (3)
 - [Work](#work) (17)
 
@@ -150,6 +150,7 @@ A message to one or more people, 60 to 120 words.
 | 24 | Vous avez prévu de passer une journée dans un parc d'attractions avec votre ami(e). Rédigez-lui un message pour l'inviter et lui présenter le programme de la sortie. | The candidate must write a message inviting a friend to spend a day at an amusement park, with the planned schedule. | 1 source | 2022-11 | - |
 | 25 | Vous êtes parti(e) à la campagne avec vos enfants. Envoyez un courriel à un ami pour lui raconter ce séjour. | Write an email to a friend describing a countryside trip with your children. | 1 source | 2024-05 | - |
 | 26 | Votre voisin a gardé votre chat durant votre absence en vacances. Rédigez-lui un message pour le remercier et lui raconter comment s'est passé votre séjour. | Write a thank-you message to a neighbour who looked after your cat, telling them about your holiday. | 1 source | 2024-06 | - |
+| 27 | Écrivez un courriel à vos amis pour les convier à une fête surprise en l'honneur de l'anniversaire de votre meilleur ami (lieu, date, heure, etc.). | Write an email inviting friends to a surprise birthday party, including place, date and time. | 1 source | 2024-08 | - |
 
 ## Health
 
@@ -214,6 +215,7 @@ A message to one or more people, 60 to 120 words.
 | 23 | Rédigez un courriel destiné à un(e) ami(e) dans lequel vous présentez le déroulement prévu de votre déménagement. | Write an email to a friend explaining your moving plan. | 1 source | 2023-04 | - |
 | 24 | Vous venez d'emménager dans une nouvelle ville. Écrivez un message à un ami pour lui présenter votre endroit favori et raconter vos activités (lieux découverts, moyens de transport utilisés, habitants rencontrés). | Write a message to a friend describing your favorite spot and activities in your new city. | 1 source | 2024-05 | - |
 | 25 | Un ami vous a fait un cadeau surprise. Écrivez-lui un message pour le remercier et lui expliquer en quoi ce geste vous a touché. | Write a message thanking a friend for an unexpected gift and explaining why it moved you. | 1 source | 2024-06 | - |
+| 26 | Votre amie Julie va garder votre chat et arroser vos plantes durant votre absence. Rédigez-lui un message avec les consignes à suivre. | Writing: write a message to a friend giving her instructions for looking after your cat and plants while you're away (60-120 words). | 1 source | 2024-09 | - |
 
 ## Technology
 

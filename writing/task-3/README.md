@@ -4,18 +4,18 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-282 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+284 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (40)
+- [Culture](#culture) (41)
 - [Economy](#economy) (37)
 - [Education](#education) (42)
 - [Environment](#environment) (21)
 - [Family](#family) (32)
 - [Health](#health) (29)
 - [Immigration](#immigration) (1)
-- [Miscellaneous](#miscellaneous) (7)
+- [Miscellaneous](#miscellaneous) (8)
 - [Technology](#technology) (19)
 - [Work](#work) (54)
 
@@ -63,6 +63,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 38 | La télévision et l'éducation des enfants Certains soulignent que la télévision, outil de communication et de divertissement omniprésent, exerce une influence indéniable sur les individus comme sur la culture. Elle permet de diffuser des informations, de proposer des loisirs variés et de partager la culture au plus grand nombre. Présente dans la majorité des foyers, elle reste une source accessible d'information et de détente, et joue un rôle notable dans la transmission des savoirs et la sensibilisation aux questions de société. D'autres pointent des limites : les programmes véhiculent parfois des clichés, des idées reçues ou des valeurs contestables. De plus, le temps passé devant l'écran réduit d'autant celui consacré à des activités plus formatrices, comme la lecture, les échanges sociaux ou le sport. Il conviendrait donc de rester vigilant et de limiter l'exposition, notamment chez les enfants, pour garder un équilibre entre apprentissage et divertissement. | Summarize and compare the two opposing viewpoints on television's role in children's education. | 2 sources | 2026-01 | - |
 | 39 | Vivre à la campagne : bon choix ? Selon un premier point de vue, vivre en ville offre un large éventail de loisirs : cinéma, restaurants, boutiques à proximité, sans nécessiter de longs déplacements pour se distraire — une courte marche ou un taxi suffisent. La ville propose aussi une riche vie culturelle : musées, théâtres, opéras, il y en a pour tous les goûts. Un autre témoignage raconte avoir récemment quitté la ville pour la campagne, par besoin de nature et de tranquillité. Désormais, plutôt que de fréquenter bars et restaurants, cette personne invite des amis sur sa terrasse ou organise des barbecues dans son jardin. Le coût du logement, nettement plus abordable à la campagne qu'en ville, a aussi pesé dans cette décision. | Summarize and compare the two viewpoints on living in the city versus in the countryside. | 2 sources | 2026-01 | - |
 | 40 | Beaucoup d'étudiants travaillent pendant les vacances afin d'acquérir une première expérience professionnelle. Cela favorise leur autonomie, leur sens des responsabilités et leur découverte du monde du travail. L'aspect financier compte aussi : certains veulent financer leurs loisirs ou voyages, d'autres ont besoin de cet argent pour couvrir leurs études, leur logement ou leurs dépenses courantes. | Write about why students work during their holidays (experience, responsibility, financial reasons). | 2 sources | 2026-02 | - |
+| 41 | Vous exposez des arguments sur la question suivante : existe-t-il une réelle différence entre cuisiniers amateurs et professionnels ? | Write 120-180 words presenting arguments on whether there is a real difference between amateur and professional cooks. | 1 source | 2021-01 | - |
 
 ## Economy
 
@@ -267,6 +268,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 5 | « Maman d'une petite fille, Marie raconte : « Lorsque je travaillais cinq jours par semaine, mes moments de repos passaient dans les tâches ménagères : rangement, ménage, lessive, etc. Et il fallait faire les courses le samedi, quand les magasins sont bondés ! Aujourd'hui, j'ai davantage de temps libre. Je profite de ma fille et je fais des activités qui me plaisent. Je ne voudrais plus reprendre un rythme de cinq jours par semaine ! » Marie » | Compare two opposing texts about a shorter working week and write your own view. | 3 sources | 2024-11 | - |
 | 6 | Toutefois, cette pratique n'est pas sans inconvénients. En restant à leur poste pendant la pause déjeuner, les employés s'exposent à une fatigue accrue et à un manque de contacts sociaux. De plus, les services de livraison, souvent surchargés, entraînent des retards et une offre de repas moins variée. | Present the downside that skipping lunch breaks at the office causes fatigue, less socializing, and delivery service problems. | 2 sources | 2025-01 | - |
 | 7 | Le végétarisme ne convient pas forcément à chacun. Certains ont besoin de viande afin d'obtenir des nutriments indispensables tels que le fer ou les protéines. En Europe, les habitudes culinaires traditionnelles intègrent souvent la viande, et il n'est pas toujours simple de rompre avec ces coutumes. De surcroît, adopter une alimentation végétarienne exige parfois davantage de temps et de savoir-faire pour composer des repas équilibrés, ce qui n'est pas toujours commode. | Write a short paragraph presenting the drawbacks of vegetarianism (nutrition, tradition, practicality) as part of a two-document comparison task. | 2 sources | 2025-04 | - |
+| 8 | Vous rédigez un texte présentant deux avis opposés sur la colocation. Document 1 : Vivre en colocation permet de partager les frais de logement, de rompre l'isolement et de créer des liens d'amitié durables avec ses colocataires. Document 2 : Partager son quotidien avec des inconnus entraîne souvent des tensions sur le ménage, le bruit ou les tâches communes, et prive chacun d'une véritable intimité. | Write 120-180 words comparing two opposing views on house-sharing. | 1 source | 2021-03 | - |
 
 ## Technology
 

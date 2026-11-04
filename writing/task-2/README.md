@@ -4,7 +4,7 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-163 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+165 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,9 +13,9 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Education](#education) (19)
 - [Environment](#environment) (4)
 - [Family](#family) (8)
-- [Health](#health) (12)
+- [Health](#health) (13)
 - [Immigration](#immigration) (13)
-- [Miscellaneous](#miscellaneous) (8)
+- [Miscellaneous](#miscellaneous) (9)
 - [Technology](#technology) (16)
 - [Work](#work) (15)
 
@@ -159,6 +159,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 10 | Vous avez pris part à une compétition sportive. Rédigez un article de blog pour raconter cette expérience. | The candidate must write a blog article recounting participation in a sports competition. | 2 sources | 2022-08 | - |
 | 11 | Vous avez assisté à un festival (gastronomie, musique, sport). Racontez sur votre blog ce que vous avez apprécié et ce qui vous a déplu, en 120 à 150 mots. | The candidate must write a blog post about what they liked and disliked at a festival. | 2 sources | 2023-11 | - |
 | 12 | Je sais que tu fréquentes une salle de sport. Qu'en penses-tu ? Peux-tu m'en dire davantage ? J'aimerais savoir si elle te convient vraiment ! | Ask the examiner questions to find out about the gym they attend and whether it is good. | 2 sources | 2024-05 | - |
+| 13 | Vous avez suivi un cours de sport en salle qui vous a déçu. Écrivez au responsable de la salle pour exposer ce qui ne vous a pas convenu et proposer des améliorations. | Write to the gym manager explaining dissatisfaction with a fitness class and suggesting improvements. | 1 source | 2024-06 | - |
 
 ## Immigration
 
@@ -190,6 +191,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 6 | Après avoir essayé un service de livraison de repas dont la qualité était décevante, rédigez un avis en ligne racontant votre expérience et donnant des conseils pour améliorer le service, en 120 à 150 mots. | Write an online review about a disappointing home meal delivery service and give improvement suggestions, in 120-150 words. | 1 source | 2024-04 | - |
 | 7 | Après avoir acheté des billets pour un concert mal organisé, rédigez une lettre au promoteur pour exprimer votre déception et proposer des changements pour les prochains événements, en 120 à 150 mots. | Write a letter to a concert promoter expressing disappointment and suggesting improvements for future events, in 120-150 words. | 1 source | 2024-05 | - |
 | 8 | N'attendez plus : créez vous-même vos propres produits ! | Write a short promotional text encouraging readers to make their own products. | 1 source | 2024-05 | - |
+| 9 | Vous avez partagé votre quotidien avec une personne âgée. Racontez cette expérience. | Recount your experience of living with an elderly person. | 1 source | 2024-10 | - |
 
 ## Technology
 

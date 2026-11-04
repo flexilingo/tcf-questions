@@ -4,7 +4,7 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-90 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+91 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,7 +14,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 - [Environment](#environment) (7)
 - [Family](#family) (1)
 - [Health](#health) (8)
-- [Miscellaneous](#miscellaneous) (24)
+- [Miscellaneous](#miscellaneous) (25)
 - [Technology](#technology) (8)
 - [Work](#work) (11)
 
@@ -123,6 +123,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 22 | Une discussion sur l'implication des habitants dans un projet d'aménagement urbain. | A discussion about residents' involvement in urban planning. | 1 source | 2026-09 | - |
 | 23 | Une discussion sur les dangers de la distraction au volant. | A discussion about the dangers of driver distraction. | 1 source | 2026-09 | - |
 | 24 | Une enquête policière portant sur une accusation de vol. | A police investigation into a theft accusation. | 1 source | 2026-09 | - |
+| 25 | Une explication portant sur le phénomène d'une éclipse solaire. | An explanation of a solar eclipse. | 1 source | 2026-09 | - |
 
 ## Technology
 
