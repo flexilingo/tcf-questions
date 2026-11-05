@@ -4,13 +4,13 @@
 
 A message to one or more people, 60 to 120 words.
 
-184 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+186 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (52)
+- [Culture](#culture) (53)
 - [Economy](#economy) (10)
-- [Education](#education) (25)
+- [Education](#education) (26)
 - [Family](#family) (27)
 - [Health](#health) (17)
 - [Immigration](#immigration) (7)
@@ -74,6 +74,7 @@ A message to one or more people, 60 to 120 words.
 | 50 | Vous avez suivi un atelier de cuisine où vous avez appris une nouvelle recette. Écrivez un message à un ami pour lui raconter cette expérience et lui donner envie d'essayer la recette à son tour. | Write a message to a friend recounting a cooking workshop and encouraging them to try the recipe. | 1 source | 2024-05 | - |
 | 51 | Vous disposez d'un grand appartement et souhaitez trouver un colocataire. Rédigez une annonce pour le journal. | Write a newspaper ad looking for a roommate for your large apartment. | 1 source | 2024-05 | - |
 | 52 | Vous avez découvert un nouveau restaurant près de chez vous. Écrivez à un ami pour lui décrire votre expérience et l'inviter à y déjeuner avec vous. | Write to a friend about discovering a new restaurant and invite them to join you there. | 1 source | 2024-06 | - |
+| 53 | Décrivez-lui votre logement, le quartier où vous vivez, la ville et les activités que vous pouvez y pratiquer. | The candidate must describe their apartment, neighborhood, city and available activities. | 1 source | 2024-10 | - |
 
 ## Economy
 
@@ -119,6 +120,7 @@ A message to one or more people, 60 to 120 words.
 | 23 | « Tu t'es inscrit(e) au centre de langues-cultures pour tous ? Raconte-moi comment est cette école ! Bisous, Paul. » Répondez à Paul en décrivant l'établissement (salle de classe, équipements, enseignant, etc.). | Write a reply to a friend describing a language school (classroom, equipment, teacher, etc.). | 2 sources | 2026-06 | - |
 | 24 | Vous rédigez un message à un ami dans lequel vous parlez de votre université : vos professeurs, vos cours et les activités que vous y pratiquez. | Write a 60-120 word message to a friend describing your university, its teachers, courses and activities. | 1 source | 2019-12 | - |
 | 25 | Vous avez mis en ligne une annonce pour louer votre appartement. Répondez par courriel à une personne intéressée en lui donnant des informations sur le logement et le quartier. | Write an email to a prospective tenant giving details about your apartment and neighbourhood. | 1 source | 2024-01 | - |
+| 26 | Coucou, Je voudrais m'inscrire à des cours de français. Peux-tu me renseigner sur l'école où tu étudies ? Merci d'avance et à bientôt ! Anna Répondez à votre amie Anna : décrivez l'école que vous connaissez bien et où vous êtes inscrit(e), en donnant les renseignements utiles (adresse, type de formation, tarifs, etc.) | The candidate must reply to a friend describing the school they attend, giving useful information such as location, type of courses and price. | 1 source | 2024-10 | - |
 
 ## Family
 

@@ -4,12 +4,12 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-94 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+95 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (27)
-- [Economy](#economy) (19)
+- [Economy](#economy) (20)
 - [Education](#education) (8)
 - [Environment](#environment) (5)
 - [Family](#family) (2)
@@ -74,6 +74,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 17 | Un reportage relatant une manifestation d'agriculteurs. | A report about a farmers' protest. | 1 source | 2026-09 | - |
 | 18 | Une annonce informant du changement des horaires d'ouverture de commerces. | An announcement about changed store opening hours. | 1 source | 2026-09 | - |
 | 19 | Une annonce présentant un nouveau contrat d'assurance. | An advertisement for a new insurance subscription. | 1 source | 2026-09 | - |
+| 20 | Une annonce publiée par une compagnie aérienne. | An announcement from an airline company. | 1 source | 2026-09 | - |
 
 ## Education
 

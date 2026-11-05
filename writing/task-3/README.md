@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-284 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+286 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,10 +12,10 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Economy](#economy) (37)
 - [Education](#education) (42)
 - [Environment](#environment) (21)
-- [Family](#family) (32)
+- [Family](#family) (33)
 - [Health](#health) (29)
 - [Immigration](#immigration) (1)
-- [Miscellaneous](#miscellaneous) (8)
+- [Miscellaneous](#miscellaneous) (9)
 - [Technology](#technology) (19)
 - [Work](#work) (54)
 
@@ -216,6 +216,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 30 | L'uniforme scolaire Certains estiment que porter un uniforme étouffe la personnalité des jeunes, qui ne peuvent s'habiller à leur guise en aucune occasion. D'autres préfèrent, pour eux-mêmes ou leurs enfants, garder la liberté de s'exprimer par la tenue vestimentaire et de choisir chaque jour ce qu'ils porteront. Ainsi, les jeunes qui aiment se démarquer par un accessoire ou un vêtement se sentiront frustrés, comme enfermés dans cet uniforme. D'autres avancent au contraire que l'uniforme renforce le sentiment d'appartenance à l'établissement et à la communauté d'élèves. Il nourrit l'esprit collectif et la fierté d'en faire partie. Il réduit également les discriminations liées au style ou au milieu social : tous les parents ne peuvent pas offrir des vêtements de marque à leurs enfants. Imposer une tenue commune atténue donc les écarts entre classes sociales. | Summarize and compare the two opposing viewpoints on school uniforms. | 2 sources | 2026-01 | - |
 | 31 | La sévérité parentale J'ai bientôt 22 ans et je vis encore chez mes parents. Bien que majeure, je reste soumise à leur autorité. Adolescente, quand je sortais avec des amies, je n'avais pas le droit de découcher ni de rentrer après 21 heures. Aujourd'hui, la situation a peu changé : certes je peux veiller plus tard, mais ma mère continue de m'appeler sans cesse tant que je ne suis pas rentrée. Certains parents redoutent d'être trop stricts, craignant qu'un excès d'autorité empêche leurs enfants de s'épanouir ou de développer leur personnalité. Pourtant, même si, par amour, certains parents cèdent à toutes les demandes de leurs enfants, cela peut avoir des répercussions négatives à l'âge adulte. En effet, vivre en société implique nécessairement de respecter certaines règles. | Summarize the two viewpoints (strict vs lenient parenting) from this personal account. | 2 sources | 2026-01 | - |
 | 32 | Les technologies modernes et les enfants. Document 1 : À l'école primaire, les enfants peuvent se servir des outils numériques pour chercher des vidéos sur les thèmes vus en classe ou pour utiliser des jeux qui renforcent leur aisance en calcul, leur compréhension en lecture ou leur rapidité au clavier. Document 2 : Les technologies modernes poussent les enfants à la sédentarité, ce qui inquiète beaucoup les parents. Elles ne laissent place ni au jeu libre et créatif, ni aux échanges en face à face, ni à l'activité physique ! Pourquoi ne pas proposer quelques activités amusantes pour inciter vos enfants à poser leurs écrans ? | Compare two documents with opposing views on new technologies for children, then give your opinion. | 2 sources | 2026-01 | - |
+| 33 | Document 1 : D'après une recherche conduite en 2022 par le Centre d'études sur la parentalité de l'Université XYZ, les parents actuels se montreraient moins stricts envers leurs enfants que les générations précédentes. En interrogeant 1000 familles, cette recherche montre qu'une majorité de parents privilégient aujourd'hui des méthodes éducatives plus douces et moins fondées sur l'autorité. Document 2 : Cependant, d'autres spécialistes de l'éducation estiment au contraire que les parents d'aujourd'hui restent tout aussi exigeants, voire davantage, envers leurs enfants, notamment à cause de la pression sociale et scolaire actuelle. Selon eux, la bienveillance affichée ne remplace pas une discipline toujours bien présente dans l'éducation moderne. En vous appuyant sur ces deux documents, comparez les points de vue exprimés puis donnez votre avis personnel. | Compare two documents with opposing views on whether modern parents are stricter or more lenient, then give your opinion. | 1 source | 2023-04 | - |
 
 ## Health
 
@@ -269,6 +270,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 6 | Toutefois, cette pratique n'est pas sans inconvénients. En restant à leur poste pendant la pause déjeuner, les employés s'exposent à une fatigue accrue et à un manque de contacts sociaux. De plus, les services de livraison, souvent surchargés, entraînent des retards et une offre de repas moins variée. | Present the downside that skipping lunch breaks at the office causes fatigue, less socializing, and delivery service problems. | 2 sources | 2025-01 | - |
 | 7 | Le végétarisme ne convient pas forcément à chacun. Certains ont besoin de viande afin d'obtenir des nutriments indispensables tels que le fer ou les protéines. En Europe, les habitudes culinaires traditionnelles intègrent souvent la viande, et il n'est pas toujours simple de rompre avec ces coutumes. De surcroît, adopter une alimentation végétarienne exige parfois davantage de temps et de savoir-faire pour composer des repas équilibrés, ce qui n'est pas toujours commode. | Write a short paragraph presenting the drawbacks of vegetarianism (nutrition, tradition, practicality) as part of a two-document comparison task. | 2 sources | 2025-04 | - |
 | 8 | Vous rédigez un texte présentant deux avis opposés sur la colocation. Document 1 : Vivre en colocation permet de partager les frais de logement, de rompre l'isolement et de créer des liens d'amitié durables avec ses colocataires. Document 2 : Partager son quotidien avec des inconnus entraîne souvent des tensions sur le ménage, le bruit ou les tâches communes, et prive chacun d'une véritable intimité. | Write 120-180 words comparing two opposing views on house-sharing. | 1 source | 2021-03 | - |
+| 9 | Contenu du document original indisponible (erreur technique : JavaScript requis pour afficher la page source). | The original scenario content could not be retrieved due to a technical error on the source page. | 1 source | 2022-08 | - |
 
 ## Technology
 

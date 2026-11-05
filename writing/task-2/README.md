@@ -4,7 +4,7 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-165 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+167 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,12 +12,12 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Economy](#economy) (3)
 - [Education](#education) (19)
 - [Environment](#environment) (4)
-- [Family](#family) (8)
+- [Family](#family) (9)
 - [Health](#health) (13)
 - [Immigration](#immigration) (13)
 - [Miscellaneous](#miscellaneous) (9)
 - [Technology](#technology) (16)
-- [Work](#work) (15)
+- [Work](#work) (16)
 
 ## Culture
 
@@ -142,6 +142,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 6 | RUBRIQUE FAMILLE — Cohabiter avec une personne âgée : quels conseils ? Notre site recueille des témoignages. Vous avez partagé votre logement avec une personne âgée. Racontez cette expérience. | The candidate must write a testimonial-style article about their experience living with an elderly person. | 4 sources | 2025-02 | - |
 | 7 | Vous préparez une fête pour l'anniversaire d'un ami et vous invitez ses proches. Vous décrivez cet événement : le lieu, la date et les activités prévues. | Write a 120-150 word text describing a birthday party you are organising for a friend, including place, date and activities. | 1 source | 2020-02 | - |
 | 8 | Pour l'anniversaire de votre meilleur(e) ami(e), vous proposez aux membres du groupe d'amis de lui faire un cadeau commun que vous décrivez, et vous précisez la façon dont chacun peut contribuer. | The candidate must write suggesting a group gift for a best friend's birthday and explain how to contribute. | 1 source | 2024-04 | - |
+| 9 | Vous êtes bénévole dans une association qui visite des personnes âgées. Rédigez un article pour le journal municipal afin de raconter votre expérience et d'inciter d'autres personnes à s'engager dans cette association. | The candidate must write an article recounting a volunteer experience visiting elderly people and encouraging others to join the association. | 1 source | 2024-10 | - |
 
 ## Health
 
@@ -233,6 +234,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 13 | Votre stage en entreprise n'a pas répondu à vos attentes. Écrivez au responsable pour exprimer votre déception et proposer des pistes d'amélioration pour les futurs stagiaires. | Write to a manager expressing disappointment about an internship and suggesting improvements. | 1 source | 2024-02 | - |
 | 14 | Après avoir assisté à une conférence professionnelle décevante, rédigez un article destiné au site de votre entreprise pour partager votre expérience et proposer des pistes d'amélioration pour les prochains événements, en 120 à 150 mots. | Write an article for your company's website about a disappointing professional conference and suggest improvements for future events, in 120-150 words. | 1 source | 2024-03 | - |
 | 15 | Les professeurs organisent une rencontre avec les élèves pour discuter des différents métiers, et vous souhaitez y participer afin de raconter votre parcours professionnel et d'en présenter les atouts (vécu, collègues, etc.). | The candidate must write about wanting to join a school session to share their work experience and its benefits. | 1 source | 2024-04 | - |
+| 16 | Vous avez suivi une journée de formation professionnelle dans le cadre de votre emploi. Votre entreprise vous demande de rédiger un article destiné à vos collègues pour partager cette expérience. Présentez cette journée et exposez votre ressenti. | The candidate must write an article for colleagues describing a professional training day and their opinion of it. | 1 source | 2024-10 | - |
 
 ---
 
