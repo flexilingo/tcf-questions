@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-286 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+288 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,12 +12,12 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Economy](#economy) (37)
 - [Education](#education) (42)
 - [Environment](#environment) (21)
-- [Family](#family) (33)
+- [Family](#family) (34)
 - [Health](#health) (29)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (9)
 - [Technology](#technology) (19)
-- [Work](#work) (54)
+- [Work](#work) (55)
 
 ## Culture
 
@@ -217,6 +217,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 31 | La sévérité parentale J'ai bientôt 22 ans et je vis encore chez mes parents. Bien que majeure, je reste soumise à leur autorité. Adolescente, quand je sortais avec des amies, je n'avais pas le droit de découcher ni de rentrer après 21 heures. Aujourd'hui, la situation a peu changé : certes je peux veiller plus tard, mais ma mère continue de m'appeler sans cesse tant que je ne suis pas rentrée. Certains parents redoutent d'être trop stricts, craignant qu'un excès d'autorité empêche leurs enfants de s'épanouir ou de développer leur personnalité. Pourtant, même si, par amour, certains parents cèdent à toutes les demandes de leurs enfants, cela peut avoir des répercussions négatives à l'âge adulte. En effet, vivre en société implique nécessairement de respecter certaines règles. | Summarize the two viewpoints (strict vs lenient parenting) from this personal account. | 2 sources | 2026-01 | - |
 | 32 | Les technologies modernes et les enfants. Document 1 : À l'école primaire, les enfants peuvent se servir des outils numériques pour chercher des vidéos sur les thèmes vus en classe ou pour utiliser des jeux qui renforcent leur aisance en calcul, leur compréhension en lecture ou leur rapidité au clavier. Document 2 : Les technologies modernes poussent les enfants à la sédentarité, ce qui inquiète beaucoup les parents. Elles ne laissent place ni au jeu libre et créatif, ni aux échanges en face à face, ni à l'activité physique ! Pourquoi ne pas proposer quelques activités amusantes pour inciter vos enfants à poser leurs écrans ? | Compare two documents with opposing views on new technologies for children, then give your opinion. | 2 sources | 2026-01 | - |
 | 33 | Document 1 : D'après une recherche conduite en 2022 par le Centre d'études sur la parentalité de l'Université XYZ, les parents actuels se montreraient moins stricts envers leurs enfants que les générations précédentes. En interrogeant 1000 familles, cette recherche montre qu'une majorité de parents privilégient aujourd'hui des méthodes éducatives plus douces et moins fondées sur l'autorité. Document 2 : Cependant, d'autres spécialistes de l'éducation estiment au contraire que les parents d'aujourd'hui restent tout aussi exigeants, voire davantage, envers leurs enfants, notamment à cause de la pression sociale et scolaire actuelle. Selon eux, la bienveillance affichée ne remplace pas une discipline toujours bien présente dans l'éducation moderne. En vous appuyant sur ces deux documents, comparez les points de vue exprimés puis donnez votre avis personnel. | Compare two documents with opposing views on whether modern parents are stricter or more lenient, then give your opinion. | 1 source | 2023-04 | - |
+| 34 | Selon une recherche portant sur la rigueur des parents à l'égard de leurs enfants, comparez les deux points de vue présentés ci-dessous et donnez votre propre opinion. | Compare two opposing viewpoints on parental strictness and give your own opinion. | 1 source | 2023-04 | - |
 
 ## Health
 
@@ -354,6 +355,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 52 | L'égalité entre les hommes et les femmes est-elle vraiment garantie dans le monde du travail ? D'une part, certains métiers et postes de direction restent surtout tenus par des hommes, alors qu'au Québec l'égalité professionnelle ouvre aux femmes toutes les fonctions, même celles qui leur étaient jadis interdites, et que les compétences, non le sexe, devraient décider de l'embauche. D'autre part, malgré les politiques de parité, la répartition reste très déséquilibrée dans plusieurs secteurs, les femmes étant par exemple très majoritaires chez les sages-femmes, et certains persistent à dire que les obligations familiales devraient les éloigner des métiers traditionnellement masculins, une opinion qui perpétue les inégalités. | Compare the viewpoints on whether gender equality at work is truly achieved, then give your own position. | 2 sources | 2026-05 | - |
 | 53 | Le travail : bénéfique ou nuisible ? Avis 1, Stéphane, chef d'entreprise : « Je suis persuadé que le travail apporte du positif, tant à l'individu qu'à la collectivité. Il permet de subvenir à ses besoins tout en contribuant à la croissance économique. Il renforce aussi l'indépendance, la confiance en soi, le sens des responsabilités, et constitue une source d'épanouissement personnel comme professionnel. » Avis 2, Laura, sociologue : « Tel qu'il est structuré aujourd'hui, le travail présente des inconvénients réels. Il rime souvent avec pression constante, horaires contraignants et difficulté à concilier vie privée et vie professionnelle. Il peut mener à l'épuisement, notamment quand la charge est trop lourde et que les efforts ne sont pas reconnus. » | Compare and comment on two opposing views (positive vs negative) about the role of work. | 2 sources | 2026-06 | - |
 | 54 | Vous lisez deux textes exposant des avis opposés sur l'utilité d'ajouter une photo sur un CV, puis vous rédigez votre propre texte en reprenant les arguments des deux camps. Document 1 : Une photo sur le CV permet au recruteur de mettre un visage sur un nom dès la première lecture, crée une impression de confiance et personnalise la candidature dans un océan de dossiers standardisés. Document 2 : Ajouter une photo expose le candidat à des discriminations liées à l'apparence, à l'âge ou à l'origine, et détourne l'attention du recruteur des compétences réelles inscrites dans le CV. | Write 120-180 words comparing two documents with opposing views on whether a CV should include a photo. | 1 source | 2019-12 | - |
+| 55 | Interdire les voitures en centre-ville se révèle inefficace, voire contre-productif. La pollution n'est pas réduite, elle est simplement déplacée vers la périphérie, où la circulation et la pollution s'intensifient. La congestion, elle non plus, ne diminue pas vraiment, puisque les voitures cèdent la place à d'autres modes de déplacement tout aussi problématiques. Par ailleurs, cette mesure fragilise l'économie locale en pénalisant les commerces qui dépendent de la circulation automobile. Le Figaro, 15 janvier 2021 | Compare two texts with opposing views on banning cars in cities and write a synthesis of 120-180 words. | 1 source | 2023-11 | - |
 
 ---
 

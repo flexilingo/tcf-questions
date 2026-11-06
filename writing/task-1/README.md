@@ -4,14 +4,15 @@
 
 A message to one or more people, 60 to 120 words.
 
-186 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+188 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (53)
 - [Economy](#economy) (10)
 - [Education](#education) (26)
-- [Family](#family) (27)
+- [Environment](#environment) (1)
+- [Family](#family) (28)
 - [Health](#health) (17)
 - [Immigration](#immigration) (7)
 - [Miscellaneous](#miscellaneous) (26)
@@ -122,6 +123,12 @@ A message to one or more people, 60 to 120 words.
 | 25 | Vous avez mis en ligne une annonce pour louer votre appartement. Répondez par courriel à une personne intéressée en lui donnant des informations sur le logement et le quartier. | Write an email to a prospective tenant giving details about your apartment and neighbourhood. | 1 source | 2024-01 | - |
 | 26 | Coucou, Je voudrais m'inscrire à des cours de français. Peux-tu me renseigner sur l'école où tu étudies ? Merci d'avance et à bientôt ! Anna Répondez à votre amie Anna : décrivez l'école que vous connaissez bien et où vous êtes inscrit(e), en donnant les renseignements utiles (adresse, type de formation, tarifs, etc.) | The candidate must reply to a friend describing the school they attend, giving useful information such as location, type of courses and price. | 1 source | 2024-10 | - |
 
+## Environment
+
+| # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Répondez à votre ami dans un message en décrivant un lieu qui vaut le détour (ville, monument, site naturel, etc.). | Reply describing an interesting place to visit (city, monument, natural site, etc.). | 1 source | 2025-01 | - |
+
 ## Family
 
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
@@ -153,6 +160,7 @@ A message to one or more people, 60 to 120 words.
 | 25 | Vous êtes parti(e) à la campagne avec vos enfants. Envoyez un courriel à un ami pour lui raconter ce séjour. | Write an email to a friend describing a countryside trip with your children. | 1 source | 2024-05 | - |
 | 26 | Votre voisin a gardé votre chat durant votre absence en vacances. Rédigez-lui un message pour le remercier et lui raconter comment s'est passé votre séjour. | Write a thank-you message to a neighbour who looked after your cat, telling them about your holiday. | 1 source | 2024-06 | - |
 | 27 | Écrivez un courriel à vos amis pour les convier à une fête surprise en l'honneur de l'anniversaire de votre meilleur ami (lieu, date, heure, etc.). | Write an email inviting friends to a surprise birthday party, including place, date and time. | 1 source | 2024-08 | - |
+| 28 | L'été est là ! Que diriez-vous d'un pique-nique samedi prochain ? Connaissez-vous un endroit agréable, adapté aux enfants comme aux adultes, où l'on pourrait tous se retrouver ? Bisous, à bientôt. – Léa Répondez favorablement à l'invitation de Léa en lui proposant un lieu pour le pique-nique. Décrivez l'endroit et précisez les activités possibles. | Accept Léa's picnic invitation and suggest a place, describing it and the possible activities. | 1 source | 2025-01 | - |
 
 ## Health
 

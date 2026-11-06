@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-167 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+169 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (65)
+- [Culture](#culture) (66)
 - [Economy](#economy) (3)
 - [Education](#education) (19)
 - [Environment](#environment) (4)
@@ -16,7 +16,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Health](#health) (13)
 - [Immigration](#immigration) (13)
 - [Miscellaneous](#miscellaneous) (9)
-- [Technology](#technology) (16)
+- [Technology](#technology) (17)
 - [Work](#work) (16)
 
 ## Culture
@@ -88,6 +88,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 63 | Vous avez assisté récemment au concert de votre chanteur ou groupe favori. Partagez ce moment sur votre blog (lieu, date, déroulement de l'événement, instant fort, etc.). | Write a blog post about attending your favorite artist's concert. | 1 source | 2024-05 | - |
 | 64 | Vous avez logé dans un hôtel qui vous a déçu. Rédigez un avis sur un site de réservation pour raconter votre expérience et conseiller les futurs voyageurs. | Write a review on a booking site about a disappointing hotel stay to advise other travellers. | 1 source | 2024-06 | - |
 | 65 | Vous avez participé à une mission bénévole qui ne s'est pas passée comme vous l'espériez. Écrivez à l'association pour partager votre ressenti et suggérer des pistes d'amélioration. | Write to a volunteer organisation about a disappointing experience and suggest improvements. | 1 source | 2024-06 | - |
+| 66 | Vous prenez part à un concours artistique (musique, dessin, etc.). Racontez les faits sur un blog et décrivez ce qui vous a plu. | The candidate must write a blog post recounting participation in an art contest and describing what they enjoyed. | 1 source | 2024-11 | - |
 
 ## Economy
 
@@ -214,6 +215,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 14 | Vous avez pris part à un concours culinaire. Sur votre site Internet, vous racontez le déroulement de cette journée et précisez ce qui vous a plu ou moins plu dans cette expérience. | Write a blog post recounting a cooking contest and what you liked or disliked about it. | 3 sources | 2026-01 | - |
 | 15 | Sur le site de la salle de sport, vous réagissez à ce message : vous racontez votre propre expérience et vous exprimez votre opinion. | Respond on the gym's website by recounting your own experience there and giving your opinion. | 2 sources | 2024-02 | - |
 | 16 | Un produit acheté en ligne ne correspondait pas à sa description. Écrivez au service client pour signaler le problème et demander un remboursement ou un échange. | Write to customer service complaining about a mismatched online purchase and requesting a refund or exchange. | 1 source | 2024-02 | - |
+| 17 | Vous avez consulté ce message publié sur un site Internet : | The candidate has read a message posted on a website and must respond according to the task instructions. | 1 source | 2024-11 | - |
 
 ## Work
 

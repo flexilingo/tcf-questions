@@ -4,11 +4,11 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-280 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+281 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (27)
+- [Culture](#culture) (28)
 - [Economy](#economy) (8)
 - [Education](#education) (28)
 - [Environment](#environment) (16)
@@ -34,22 +34,23 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 9 | Aujourd'hui, peut-on vraiment se passer de médicaments ? Partagez-vous cet avis ? Pourquoi ? | Give and defend your opinion on whether it's possible to live without medication nowadays. | 7 sources | 2023-02 | - |
 | 10 | Faudrait-il retirer les disciplines artistiques et culturelles (musique, théâtre, arts plastiques…) des programmes scolaires ? Donnez votre opinion et justifiez-la. | Give your opinion on whether art subjects should be removed from school curricula. | 7 sources | 2023-02 | - |
 | 11 | D'après vous, quelles raisons peuvent pousser un pays à vouloir développer son tourisme ? | The candidate must give and defend their view on why a country might want to develop tourism. | 7 sources | 2023-05 | - |
-| 12 | Certaines personnes préfèrent voyager en solitaire. Qu'en pensez-vous ? | The candidate must give and defend an opinion on whether some people prefer traveling alone. | 7 sources | 2023-11 | - |
-| 13 | Pensez-vous que la gentillesse suffit toujours à se faire écouter et respecter ? Exprimez votre point de vue et défendez-le. | State and defend your opinion on whether kindness always earns you respect and a hearing. | 7 sources | 2023-11 | - |
-| 14 | Aimez-vous mieux voir des films ou assister à des pièces de théâtre ? Justifiez votre réponse. | The candidate must state and justify whether they prefer films or theatre. | 7 sources | 2023-12 | - |
-| 15 | Les professions artistiques (cinéma, musique, peinture, etc.) ne sont pas considérées comme des métiers à part entière. Quel est votre avis ? | The candidate must give and defend an opinion on whether art-related jobs are seen as real jobs. | 6 sources | 2022-10 | - |
-| 16 | Le tourisme est-il responsable de la dégradation de certaines régions ? Donnez votre point de vue sur cette question. | The candidate must give and defend their opinion on whether tourism destroys certain regions. | 6 sources | 2023-02 | - |
-| 17 | Selon vous, quelle cause représente actuellement l'enjeu le plus crucial à l'échelle mondiale : la cause sociale, la cause humanitaire ou la cause culturelle ? Justifiez votre réponse. | Give and justify your opinion on which cause (social, humanitarian, or cultural) is most important in the world today. | 6 sources | 2023-09 | - |
-| 18 | Selon vous, l'entrée aux musées devrait-elle être gratuite pour tous ? Défendez votre opinion. | Give and defend your opinion on whether museums should be free for everyone. | 6 sources | 2023-12 | - |
-| 19 | Que pensez-vous des personnes qui choisissent de voyager seules ? | Give and defend your opinion on people who choose to travel alone. | 6 sources | 2025-03 | - |
-| 20 | Pensez-vous que voyager soit un privilège réservé aux personnes fortunées ? Donnez votre avis. | The candidate must give and defend an opinion on whether travel is only accessible to wealthy people. | 5 sources | 2022-10 | - |
-| 21 | La lecture permet-elle réellement de découvrir un pays ? Partagez-vous cette idée ? | The candidate must give and defend an opinion on whether reading books is a good way to learn about a country. | 5 sources | 2022-11 | - |
-| 22 | La plupart des gens cherchent-ils à paraître plus jeunes qu'ils ne le sont réellement ? Donnez votre avis. | Give and defend your opinion on whether most people try to look younger than their age. | 5 sources | 2022-12 | - |
-| 23 | Partagez-vous l'opinion selon laquelle le tourisme contribue à la croissance et au développement économique d'un pays ? | Give and defend your opinion on whether tourism contributes to a country's economic development. | 5 sources | 2022-12 | - |
-| 24 | Changer de pays revient à changer de culture. Qu'en pensez-vous ? | Give and defend an opinion on whether moving to another country means adopting a new culture. | 5 sources | 2023-11 | - |
-| 25 | De nos jours, on envoie de moins en moins de courriers, qu'il s'agisse de cartes de vœux ou de lettres d'amour. Trouvez-vous cela regrettable ? | Give your opinion on whether it's a pity that people send fewer and fewer letters and greeting cards nowadays. | 5 sources | 2024-04 | - |
-| 26 | Lire, est-ce du temps perdu ? Êtes-vous d’accord avec cette idée ? Pourquoi ? | Give and defend your opinion on whether reading is a waste of time. | 5 sources | 2025-10 | - |
-| 27 | Beaucoup de gens n'aiment pas voyager en solitaire. Êtes-vous d'accord avec cette idée ? Expliquez pourquoi. | The candidate must give and defend their opinion on whether they agree that many people dislike traveling alone. | 5 sources | 2025-12 | - |
+| 12 | Selon vous, les livres ne servent-ils plus à rien de nos jours ? Dites pourquoi. | Give and justify your opinion on whether books have become useless today. | 7 sources | 2023-09 | - |
+| 13 | Certaines personnes préfèrent voyager en solitaire. Qu'en pensez-vous ? | The candidate must give and defend an opinion on whether some people prefer traveling alone. | 7 sources | 2023-11 | - |
+| 14 | Pensez-vous que la gentillesse suffit toujours à se faire écouter et respecter ? Exprimez votre point de vue et défendez-le. | State and defend your opinion on whether kindness always earns you respect and a hearing. | 7 sources | 2023-11 | - |
+| 15 | Aimez-vous mieux voir des films ou assister à des pièces de théâtre ? Justifiez votre réponse. | The candidate must state and justify whether they prefer films or theatre. | 7 sources | 2023-12 | - |
+| 16 | Les professions artistiques (cinéma, musique, peinture, etc.) ne sont pas considérées comme des métiers à part entière. Quel est votre avis ? | The candidate must give and defend an opinion on whether art-related jobs are seen as real jobs. | 6 sources | 2022-10 | - |
+| 17 | Le tourisme est-il responsable de la dégradation de certaines régions ? Donnez votre point de vue sur cette question. | The candidate must give and defend their opinion on whether tourism destroys certain regions. | 6 sources | 2023-02 | - |
+| 18 | Selon vous, quelle cause représente actuellement l'enjeu le plus crucial à l'échelle mondiale : la cause sociale, la cause humanitaire ou la cause culturelle ? Justifiez votre réponse. | Give and justify your opinion on which cause (social, humanitarian, or cultural) is most important in the world today. | 6 sources | 2023-09 | - |
+| 19 | Selon vous, l'entrée aux musées devrait-elle être gratuite pour tous ? Défendez votre opinion. | Give and defend your opinion on whether museums should be free for everyone. | 6 sources | 2023-12 | - |
+| 20 | Que pensez-vous des personnes qui choisissent de voyager seules ? | Give and defend your opinion on people who choose to travel alone. | 6 sources | 2025-03 | - |
+| 21 | Pensez-vous que voyager soit un privilège réservé aux personnes fortunées ? Donnez votre avis. | The candidate must give and defend an opinion on whether travel is only accessible to wealthy people. | 5 sources | 2022-10 | - |
+| 22 | La lecture permet-elle réellement de découvrir un pays ? Partagez-vous cette idée ? | The candidate must give and defend an opinion on whether reading books is a good way to learn about a country. | 5 sources | 2022-11 | - |
+| 23 | La plupart des gens cherchent-ils à paraître plus jeunes qu'ils ne le sont réellement ? Donnez votre avis. | Give and defend your opinion on whether most people try to look younger than their age. | 5 sources | 2022-12 | - |
+| 24 | Partagez-vous l'opinion selon laquelle le tourisme contribue à la croissance et au développement économique d'un pays ? | Give and defend your opinion on whether tourism contributes to a country's economic development. | 5 sources | 2022-12 | - |
+| 25 | Changer de pays revient à changer de culture. Qu'en pensez-vous ? | Give and defend an opinion on whether moving to another country means adopting a new culture. | 5 sources | 2023-11 | - |
+| 26 | De nos jours, on envoie de moins en moins de courriers, qu'il s'agisse de cartes de vœux ou de lettres d'amour. Trouvez-vous cela regrettable ? | Give your opinion on whether it's a pity that people send fewer and fewer letters and greeting cards nowadays. | 5 sources | 2024-04 | - |
+| 27 | Lire, est-ce du temps perdu ? Êtes-vous d’accord avec cette idée ? Pourquoi ? | Give and defend your opinion on whether reading is a waste of time. | 5 sources | 2025-10 | - |
+| 28 | Beaucoup de gens n'aiment pas voyager en solitaire. Êtes-vous d'accord avec cette idée ? Expliquez pourquoi. | The candidate must give and defend their opinion on whether they agree that many people dislike traveling alone. | 5 sources | 2025-12 | - |
 
 ## Economy
 
