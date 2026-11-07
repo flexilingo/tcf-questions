@@ -4,19 +4,19 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-288 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+290 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (41)
 - [Economy](#economy) (37)
-- [Education](#education) (42)
+- [Education](#education) (43)
 - [Environment](#environment) (21)
 - [Family](#family) (34)
 - [Health](#health) (29)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (9)
-- [Technology](#technology) (19)
+- [Technology](#technology) (20)
 - [Work](#work) (55)
 
 ## Culture
@@ -153,6 +153,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 40 | Rester habiter chez ses parents offre plusieurs bénéfices aux jeunes, en particulier durant leurs études. Cela évite de payer un loyer ou la nourriture, ce qui représente une réelle économie. S'y ajoute un confort appréciable : les repas sont préparés, le ménage assuré et le linge lavé. Pour certains, demeurer au foyer familial permet aussi d'échapper à la solitude tout en épargnant en vue de projets futurs. | Present the arguments in favor of young people continuing to live with their parents. | 2 sources | 2026-09 | - |
 | 41 | À l'inverse, d'autres estiment que vivre chez ses parents restreint la liberté et l'autonomie. Les jeunes peuvent ressentir que leurs parents décident encore à leur place et que leur vie privée n'est pas respectée. Habiter seul favorise au contraire l'apprentissage de l'autonomie et des responsabilités. Certains, contraints de revenir vivre chez leurs parents après une période d'indépendance, vivent d'ailleurs cette situation comme un recul. | Present the opposing arguments against young people continuing to live with their parents. | 2 sources | 2026-09 | - |
 | 42 | Vous prenez connaissance de deux articles, l'un favorable et l'autre défavorable, sur le port de l'uniforme scolaire, puis vous écrivez un texte donnant votre propre avis. | Write 120-180 words comparing two opposing articles on school uniforms and giving your opinion. | 1 source | 2020-02 | - |
+| 43 | L'enseignement à distance se généralise de plus en plus dans le système scolaire. Mais quand un élève seul face à son écran a besoin qu'on lui réexplique une notion, que peut-il faire ? Les cours en ligne proposent certes des messageries instantanées et des appels audio, mais rien ne vaut la présence physique en classe, où les enseignants et les camarades peuvent apporter des explications claires en cas de besoin. | Compare two texts with opposing views on online learning versus classroom teaching and write a synthesis of 120-180 words. | 1 source | 2023-11 | - |
 
 ## Environment
 
@@ -296,6 +297,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 17 | La publicité et son influence sur les enfants : faut-il s'en inquiéter ? Une étude montre que les enfants sont exposés en permanence à des publicités — à la télévision, dans les magazines, sur Internet — y compris dans des contextes où ils sont particulièrement vulnérables à cette influence. Ils sont spécifiquement visés par des annonces pour des aliments peu équilibrés, des jouets, des jeux vidéo et divers produits, ce qui peut orienter leurs préférences de consommation et leurs demandes auprès de leurs parents. Un article scientifique publié dans une revue spécialisée indique cependant que les enfants disposent de capacités cognitives encore limitées pour décrypter les messages publicitaires et ne perçoivent généralement pas leur intention persuasive. Malgré cela, d'autres facteurs — éducation parentale, influences sociales et culturelles — pèseraient davantage sur les habitudes de consommation des enfants que la publicité elle-même. | Summarize and compare the two opposing viewpoints on advertising's influence on children. | 2 sources | 2026-01 | - |
 | 18 | Jeux vidéo : pour ou contre ? Les jeux vidéo, sur console ou ordinateur, à domicile ou en salle, seul, entre amis ou en ligne avec des inconnus, peuvent engendrer une dépendance chez certains individus. On parle d'addiction lorsque le jeu devient l'occupation principale, voire exclusive, au détriment d'autres activités (sociales, professionnelles, scolaires, sportives…). Cette dépendance inquiète particulièrement à l'adolescence, période cruciale où les jeux vidéo peuvent nuire aux résultats scolaires. Beaucoup croient encore que les jeux vidéo abrutissent. Or, de nombreuses recherches démontrent l'inverse. Selon l'une d'elles, les amateurs de jeux de course amélioreraient leur sens de l'orientation, leur mémoire et la précision de leurs gestes. D'autres travaux montrent une nette progression de la rapidité et de la concentration chez tous les joueurs, sans oublier les jeux destinés aux seniors pour entretenir mémoire et vivacité d'esprit… En somme, preuves scientifiques à l'appui, le jeu vidéo rendrait plus intelligent ! | The candidate must compare two documents presenting opposing views on whether video games are beneficial. | 2 sources | 2026-05 | - |
 | 19 | Pour un reportage consacré à la pratique sportive chez les amateurs, France Télévisions collecte des témoignages. Quelle place le sport tient-il dans votre quotidien ? Envoyez votre récit sur francetelevision.fr. | Write a testimonial for a TV report describing the role sport plays in your daily life. | 2 sources | 2026-06 | - |
+| 20 | Plus besoin de manuels ni de cahiers pour réviser. Élève de 16 ans, Elsa termine sa journée de lycée puis révise ses mathématiques directement en ligne, sur son ordinateur. Grâce à un menu clair et intuitif, elle accède à des vidéos et des exercices faciles à comprendre. Ce dispositif est encadré par un comité scientifique qui valide les contenus de toutes les matières, y compris les sciences naturelles et l'informatique. | Compare two texts with opposing views on online learning versus classroom teaching and write a synthesis of 120-180 words. | 1 source | 2023-11 | - |
 
 ## Work
 

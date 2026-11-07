@@ -4,11 +4,11 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-96 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+97 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (27)
+- [Culture](#culture) (28)
 - [Economy](#economy) (21)
 - [Education](#education) (8)
 - [Environment](#environment) (5)
@@ -50,6 +50,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 25 | Une annonce pour un événement artistique mêlant plusieurs disciplines. | An advertisement for a multidisciplinary arts event. | 1 source | 2026-09 | - |
 | 26 | Une annonce proposant un voyage à tarif réduit. | An advertisement for a discounted trip. | 1 source | 2026-09 | - |
 | 27 | Une annonce présentant les horaires et services proposés par une bibliothèque. | A notice about a library's opening hours and services. | 1 source | 2026-09 | - |
+| 28 | Une brochure destinée aux touristes. | A tourist brochure. | 1 source | 2026-09 | - |
 
 ## Economy
 

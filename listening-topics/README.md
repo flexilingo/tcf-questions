@@ -4,12 +4,12 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-93 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+94 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (14)
-- [Economy](#economy) (12)
+- [Economy](#economy) (13)
 - [Education](#education) (6)
 - [Environment](#environment) (7)
 - [Family](#family) (1)
@@ -53,6 +53,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 10 | Un échange oral entre un client et un agent immobilier. | A conversation between a client and a real estate agent. | 1 source | 2026-09 | - |
 | 11 | Une annonce détaillant les modalités et garanties d'une réservation de voyage. | An announcement about the terms and guarantees of a transport booking. | 1 source | 2026-09 | - |
 | 12 | Une négociation portant sur un bien immobilier. | A negotiation over a real estate deal. | 1 source | 2026-09 | - |
+| 13 | Une plainte au sujet d'un produit défectueux. | A complaint about a faulty product. | 1 source | 2026-09 | - |
 
 ## Education
 

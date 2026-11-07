@@ -4,20 +4,20 @@
 
 A message to one or more people, 60 to 120 words.
 
-188 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+190 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (53)
 - [Economy](#economy) (10)
 - [Education](#education) (26)
-- [Environment](#environment) (1)
+- [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (17)
 - [Immigration](#immigration) (7)
 - [Miscellaneous](#miscellaneous) (26)
 - [Technology](#technology) (3)
-- [Work](#work) (17)
+- [Work](#work) (18)
 
 ## Culture
 
@@ -128,6 +128,7 @@ A message to one or more people, 60 to 120 words.
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Répondez à votre ami dans un message en décrivant un lieu qui vaut le détour (ville, monument, site naturel, etc.). | Reply describing an interesting place to visit (city, monument, natural site, etc.). | 1 source | 2025-01 | - |
+| 2 | Votre municipalité lance une campagne pour promouvoir le recyclage. Vous décidez d'y participer. Écrivez à un ami/une amie pour expliquer vos motivations, vos actions prévues, et l'inviter à se joindre à vous. | Writing: write a message to a friend explaining why you joined a recycling campaign, what you will do, and inviting them to join (60-120 words). | 1 source | 2025-01 | - |
 
 ## Family
 
@@ -256,6 +257,7 @@ A message to one or more people, 60 to 120 words.
 | 15 | Vous venez de débuter un emploi à l'étranger. Envoyez un message à vos amis pour raconter cette nouvelle expérience professionnelle et ce que vous avez particulièrement apprécié. | The candidate must write a message describing a new job abroad and what they enjoyed most. | 2 sources | 2025-11 | - |
 | 16 | Écrivez un message à un ami ou une amie pour lui raconter le déroulement de votre entretien d'embauche. | Write a message to a friend recounting how a job interview went. | 1 source | 2024-01 | - |
 | 17 | Chers collègues, nous cherchons une salle pour organiser notre fête de fin d'année. Merci de nous transmettre vos suggestions (lieu, tarif, services proposés, etc.) | The candidate must write a message to colleagues asking for suggestions of a venue for the year-end party. | 1 source | 2024-04 | - |
+| 18 | Salut ! Ton entreprise a-t-elle fini de déménager ? À quoi ressemblent les nouveaux locaux ? Lucas Répondez à votre ami Lucas en décrivant les nouveaux locaux de votre entreprise (emplacement, agencement des espaces, équipements, etc.) | The candidate must reply to a friend describing their company's new office premises. | 1 source | 2025-01 | - |
 
 ---
 

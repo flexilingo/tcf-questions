@@ -4,16 +4,16 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-169 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+171 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (66)
+- [Culture](#culture) (67)
 - [Economy](#economy) (3)
 - [Education](#education) (19)
 - [Environment](#environment) (4)
 - [Family](#family) (9)
-- [Health](#health) (13)
+- [Health](#health) (14)
 - [Immigration](#immigration) (13)
 - [Miscellaneous](#miscellaneous) (9)
 - [Technology](#technology) (17)
@@ -89,6 +89,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 64 | Vous avez logé dans un hôtel qui vous a déçu. Rédigez un avis sur un site de réservation pour raconter votre expérience et conseiller les futurs voyageurs. | Write a review on a booking site about a disappointing hotel stay to advise other travellers. | 1 source | 2024-06 | - |
 | 65 | Vous avez participé à une mission bénévole qui ne s'est pas passée comme vous l'espériez. Écrivez à l'association pour partager votre ressenti et suggérer des pistes d'amélioration. | Write to a volunteer organisation about a disappointing experience and suggest improvements. | 1 source | 2024-06 | - |
 | 66 | Vous prenez part à un concours artistique (musique, dessin, etc.). Racontez les faits sur un blog et décrivez ce qui vous a plu. | The candidate must write a blog post recounting participation in an art contest and describing what they enjoyed. | 1 source | 2024-11 | - |
+| 67 | Coucou, comment vas-tu ? En janvier, nous avons deux semaines de congé et nous comptons visiter ton pays. Nous voulons découvrir des lieux historiques et goûter la cuisine locale. Tu as des idées à nous donner ? – Aaron & Perla Répondez à Aaron et Perla en proposant des suggestions, justifiées par votre propre expérience. | Reply to friends with travel suggestions for historic sites and local food, justified by personal experience. | 1 source | 2025-01 | - |
 
 ## Economy
 
@@ -162,6 +163,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 11 | Vous avez assisté à un festival (gastronomie, musique, sport). Racontez sur votre blog ce que vous avez apprécié et ce qui vous a déplu, en 120 à 150 mots. | The candidate must write a blog post about what they liked and disliked at a festival. | 2 sources | 2023-11 | - |
 | 12 | Je sais que tu fréquentes une salle de sport. Qu'en penses-tu ? Peux-tu m'en dire davantage ? J'aimerais savoir si elle te convient vraiment ! | Ask the examiner questions to find out about the gym they attend and whether it is good. | 2 sources | 2024-05 | - |
 | 13 | Vous avez suivi un cours de sport en salle qui vous a déçu. Écrivez au responsable de la salle pour exposer ce qui ne vous a pas convenu et proposer des améliorations. | Write to the gym manager explaining dissatisfaction with a fitness class and suggesting improvements. | 1 source | 2024-06 | - |
+| 14 | Votre commune vient d'aménager de nouvelles pistes cyclables pour favoriser les déplacements à vélo. Rédigez un article racontant votre expérience d'utilisateur : bénéfices constatés, difficultés rencontrées, et pistes d'amélioration. | Writing: write an article about your experience using new bike lanes, describing benefits, challenges, and suggestions for improvement (120-150 words). | 1 source | 2025-01 | - |
 
 ## Immigration
 
