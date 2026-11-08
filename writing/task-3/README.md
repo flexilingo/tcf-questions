@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-290 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+292 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,10 +13,10 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Education](#education) (43)
 - [Environment](#environment) (21)
 - [Family](#family) (34)
-- [Health](#health) (29)
+- [Health](#health) (30)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (9)
-- [Technology](#technology) (20)
+- [Technology](#technology) (21)
 - [Work](#work) (55)
 
 ## Culture
@@ -253,6 +253,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 27 | Votre ami Cédric, convié à votre mariage au Château de Chombony, ne sait pas comment s'y rendre. Écrivez-lui un message pour lui indiquer où se trouve le château et comment y accéder (emplacement, itinéraire, moyens de transport, etc.). | The candidate must write a message explaining to Cédric how to get to the wedding venue. | 2 sources | 2025-09 | - |
 | 28 | Je suis pour la restauration rapide. Je travaille dans une grande chaîne et j'estime qu'on peut y manger sainement. Les menus offrent des plats complets : légumes, salades, pain, viande... C'est au consommateur d'assumer ses choix. Prendre deux sandwichs avec beaucoup de ketchup, ce n'est pas équilibré. Par ailleurs, ces restaurants respectent des normes d'hygiène strictes et sont pratiques, que l'on vienne avec des enfants ou entre amis. Opal | The candidate must compare this text with an opposing one about fast food. | 2 sources | 2025-11 | - |
 | 29 | Le vélo en ville : Les partisans rappellent qu'on associe souvent le vélo au sport ou aux loisirs, en oubliant qu'il s'agit avant tout d'un moyen de transport, aussi bien personnel que professionnel. En zone urbaine, il permet de se déplacer vite tout en évitant le stress des bouchons aux heures de pointe. Se rendre au travail en pédalant, c'est allier activité physique et trajet utile. La mairie devrait d'abord expérimenter cette mesure dans certains quartiers avant de l'étendre partout, afin d'en évaluer les résultats. Les opposants insistent sur les nombreux accidents routiers enregistrés chaque année : circuler à vélo en ville comporte de réels dangers, à cause du trafic dense, du non-respect du code de la route et du manque de pistes cyclables. En outre, rouler à vélo expose les cyclistes aux gaz d'échappement, nuisibles pour la santé. Là encore, la municipalité devrait tester la mesure localement avant toute généralisation. | Compare and comment on the opposing arguments for and against cycling as urban transport. | 2 sources | 2026-06 | - |
+| 30 | Installer des distributeurs de boissons dans les lycées offre plusieurs avantages. Cela permet d'abord aux élèves de s'hydrater tout au long de la journée, ce qui favorise leur concentration et leurs résultats scolaires. Cela leur évite aussi de sortir de l'établissement pour acheter à boire, ce qui pourrait causer des retards et une perte de temps. Enfin, cette distribution peut encourager de bonnes habitudes alimentaires si des boissons saines et équilibrées sont proposées. En somme, c'est une mesure profitable à la fois pour la santé et pour la réussite scolaire des élèves. FÉLIX | Compare two texts with opposing views on drink dispensers in high schools and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 
 ## Immigration
 
@@ -298,6 +299,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 18 | Jeux vidéo : pour ou contre ? Les jeux vidéo, sur console ou ordinateur, à domicile ou en salle, seul, entre amis ou en ligne avec des inconnus, peuvent engendrer une dépendance chez certains individus. On parle d'addiction lorsque le jeu devient l'occupation principale, voire exclusive, au détriment d'autres activités (sociales, professionnelles, scolaires, sportives…). Cette dépendance inquiète particulièrement à l'adolescence, période cruciale où les jeux vidéo peuvent nuire aux résultats scolaires. Beaucoup croient encore que les jeux vidéo abrutissent. Or, de nombreuses recherches démontrent l'inverse. Selon l'une d'elles, les amateurs de jeux de course amélioreraient leur sens de l'orientation, leur mémoire et la précision de leurs gestes. D'autres travaux montrent une nette progression de la rapidité et de la concentration chez tous les joueurs, sans oublier les jeux destinés aux seniors pour entretenir mémoire et vivacité d'esprit… En somme, preuves scientifiques à l'appui, le jeu vidéo rendrait plus intelligent ! | The candidate must compare two documents presenting opposing views on whether video games are beneficial. | 2 sources | 2026-05 | - |
 | 19 | Pour un reportage consacré à la pratique sportive chez les amateurs, France Télévisions collecte des témoignages. Quelle place le sport tient-il dans votre quotidien ? Envoyez votre récit sur francetelevision.fr. | Write a testimonial for a TV report describing the role sport plays in your daily life. | 2 sources | 2026-06 | - |
 | 20 | Plus besoin de manuels ni de cahiers pour réviser. Élève de 16 ans, Elsa termine sa journée de lycée puis révise ses mathématiques directement en ligne, sur son ordinateur. Grâce à un menu clair et intuitif, elle accède à des vidéos et des exercices faciles à comprendre. Ce dispositif est encadré par un comité scientifique qui valide les contenus de toutes les matières, y compris les sciences naturelles et l'informatique. | Compare two texts with opposing views on online learning versus classroom teaching and write a synthesis of 120-180 words. | 1 source | 2023-11 | - |
+| 21 | J'ai remarqué que mon fils se sentait oppressé par les limites qu'imposait le contrôle parental. Il ressentait de la méfiance et une sensation d'enfermement, ce qui a creusé une distance entre nous. J'ai compris que le dialogue et l'éducation numérique comptaient autant que les interdictions. Plutôt que de multiplier les restrictions, j'ai privilégié l'échange et la pédagogie. J'ai pris le temps de lui expliquer les dangers du web, les bons comportements à adopter et les conséquences possibles de ses actes. Ensemble, nous avons abordé sans tabou les risques et les atouts du numérique. Franck | Compare two texts with opposing views on parental control online and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 
 ## Work
 
