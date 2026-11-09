@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-283 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+284 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,7 +12,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Economy](#economy) (8)
 - [Education](#education) (28)
 - [Environment](#environment) (16)
-- [Family](#family) (24)
+- [Family](#family) (25)
 - [Health](#health) (18)
 - [Immigration](#immigration) (42)
 - [Miscellaneous](#miscellaneous) (43)
@@ -134,19 +134,20 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 9 | Les parents devraient-ils permettre à leurs enfants d'utiliser les réseaux sociaux ? Qu'en pensez-vous ? | Give and defend your opinion on whether parents should let their children use social media. | 7 sources | 2023-02 | - |
 | 10 | Peut-on être heureux sans avoir d'amis ? Quel est votre avis sur cette question ? | The candidate must give and defend an opinion on whether friends are necessary for happiness. | 7 sources | 2023-06 | - |
 | 11 | Certains parents choisissent d'instruire leurs enfants eux-mêmes plutôt que de les envoyer à l'école. Quel est votre avis sur cette pratique ? | The candidate must give and defend their opinion on parents choosing to homeschool their children. | 7 sources | 2023-09 | - |
-| 12 | Selon vous, peut-on être pleinement heureux quand on est célibataire ? Donnez votre avis et justifiez-le. | State and defend your opinion on whether one can be happy while single. | 7 sources | 2023-11 | - |
-| 13 | D'après vous, vaut-il mieux avoir une famille nombreuse ou de véritables amis ? Justifiez votre point de vue. | The candidate must give and defend an opinion on whether a large family or good friends matter more. | 7 sources | 2024-02 | - |
-| 14 | Les aînés donnent fréquemment des conseils précieux. Qu'en pensez-vous ? | The candidate must give and defend an opinion on whether elderly people often give useful advice. | 6 sources | 2022-10 | - |
-| 15 | Les parents devraient interdire totalement à leurs enfants l'accès à Internet à la maison. Quel est votre point de vue ? | The candidate must give and defend an opinion on whether parents should ban internet use at home. | 6 sources | 2023-02 | - |
-| 16 | La vie en ville est-elle plus simple pour les personnes âgées que la vie à la campagne ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether city life is easier than country life for elderly people. | 6 sources | 2023-06 | - |
-| 17 | Beaucoup de jeunes Canadiens choisissent de rester chez leurs parents car ils s'y sentent à l'aise. Quel regard portez-vous sur cette tendance ? | Give and defend your opinion on young Canadians choosing to keep living with their parents. | 6 sources | 2023-09 | - |
-| 18 | Pensez-vous que la famille soit ce qu'il y a de plus important dans la vie ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether family is the most important thing in life. | 6 sources | 2025-09 | - |
-| 19 | Les parents devraient-ils élever leurs filles et leurs fils de la même façon ? Quel est votre avis sur la question ? | The candidate must give their opinion on whether parents should raise sons and daughters the same way. | 5 sources | 2022-10 | - |
-| 20 | Les sorties éducatives pour enfants (musées, zoos, galeries) sont-elles vraiment utiles ? Expliquez pourquoi. | The candidate must give and defend an opinion on the benefits of educational outings for children. | 5 sources | 2023-03 | - |
-| 21 | Pensez-vous qu'il soit nécessaire d'être autoritaire avec ses enfants ? Donnez votre point de vue. | Give and defend your opinion on whether parents should be authoritarian with their children. | 5 sources | 2023-05 | - |
-| 22 | Vous êtes mon voisin ou ma voisine. Vous venez tout juste d'arriver au Canada et vous devez trouver un établissement scolaire pour vos enfants. Posez-moi des questions à ce sujet (genres d'écoles, démarches d'inscription, activités proposées, etc.). | The candidate must ask the examiner (playing a neighbor) questions to find a school for their children in Canada. | 5 sources | 2023-05 | - |
-| 23 | Peut-on être heureux en vivant seul ? Quelle est votre position sur cette question ? | Give and defend your opinion on whether one can be happy living alone. | 5 sources | 2025-10 | - |
-| 24 | Certains parents choisissent d'instruire eux-mêmes leurs enfants à domicile. Quel est votre avis sur cette pratique ? | The candidate must give and defend an opinion on homeschooling. | 4 sources | 2023-04 | - |
+| 12 | Que pensez-vous de ceux qui choisissent de ne jamais devenir parents ? Exprimez et défendez votre point de vue. | Give and defend your opinion about people who decide never to have children. | 7 sources | 2023-10 | - |
+| 13 | Selon vous, peut-on être pleinement heureux quand on est célibataire ? Donnez votre avis et justifiez-le. | State and defend your opinion on whether one can be happy while single. | 7 sources | 2023-11 | - |
+| 14 | D'après vous, vaut-il mieux avoir une famille nombreuse ou de véritables amis ? Justifiez votre point de vue. | The candidate must give and defend an opinion on whether a large family or good friends matter more. | 7 sources | 2024-02 | - |
+| 15 | Les aînés donnent fréquemment des conseils précieux. Qu'en pensez-vous ? | The candidate must give and defend an opinion on whether elderly people often give useful advice. | 6 sources | 2022-10 | - |
+| 16 | Les parents devraient interdire totalement à leurs enfants l'accès à Internet à la maison. Quel est votre point de vue ? | The candidate must give and defend an opinion on whether parents should ban internet use at home. | 6 sources | 2023-02 | - |
+| 17 | La vie en ville est-elle plus simple pour les personnes âgées que la vie à la campagne ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether city life is easier than country life for elderly people. | 6 sources | 2023-06 | - |
+| 18 | Beaucoup de jeunes Canadiens choisissent de rester chez leurs parents car ils s'y sentent à l'aise. Quel regard portez-vous sur cette tendance ? | Give and defend your opinion on young Canadians choosing to keep living with their parents. | 6 sources | 2023-09 | - |
+| 19 | Pensez-vous que la famille soit ce qu'il y a de plus important dans la vie ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether family is the most important thing in life. | 6 sources | 2025-09 | - |
+| 20 | Les parents devraient-ils élever leurs filles et leurs fils de la même façon ? Quel est votre avis sur la question ? | The candidate must give their opinion on whether parents should raise sons and daughters the same way. | 5 sources | 2022-10 | - |
+| 21 | Les sorties éducatives pour enfants (musées, zoos, galeries) sont-elles vraiment utiles ? Expliquez pourquoi. | The candidate must give and defend an opinion on the benefits of educational outings for children. | 5 sources | 2023-03 | - |
+| 22 | Pensez-vous qu'il soit nécessaire d'être autoritaire avec ses enfants ? Donnez votre point de vue. | Give and defend your opinion on whether parents should be authoritarian with their children. | 5 sources | 2023-05 | - |
+| 23 | Vous êtes mon voisin ou ma voisine. Vous venez tout juste d'arriver au Canada et vous devez trouver un établissement scolaire pour vos enfants. Posez-moi des questions à ce sujet (genres d'écoles, démarches d'inscription, activités proposées, etc.). | The candidate must ask the examiner (playing a neighbor) questions to find a school for their children in Canada. | 5 sources | 2023-05 | - |
+| 24 | Peut-on être heureux en vivant seul ? Quelle est votre position sur cette question ? | Give and defend your opinion on whether one can be happy living alone. | 5 sources | 2025-10 | - |
+| 25 | Certains parents choisissent d'instruire eux-mêmes leurs enfants à domicile. Quel est votre avis sur cette pratique ? | The candidate must give and defend an opinion on homeschooling. | 4 sources | 2023-04 | - |
 
 ## Health
 

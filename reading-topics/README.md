@@ -4,11 +4,11 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-98 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+99 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (29)
+- [Culture](#culture) (30)
 - [Economy](#economy) (21)
 - [Education](#education) (8)
 - [Environment](#environment) (5)
@@ -52,6 +52,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 27 | Une annonce présentant les horaires et services proposés par une bibliothèque. | A notice about a library's opening hours and services. | 1 source | 2026-09 | - |
 | 28 | Une brochure destinée aux touristes. | A tourist brochure. | 1 source | 2026-09 | - |
 | 29 | Une critique consacrée à une pièce de théâtre. | A review of a theatre play. | 1 source | 2026-09 | - |
+| 30 | Une critique consacrée à une œuvre ou une exposition artistique. | A review of an artwork or exhibition. | 1 source | 2026-09 | - |
 
 ## Economy
 

@@ -4,13 +4,13 @@
 
 A message to one or more people, 60 to 120 words.
 
-192 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+194 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (55)
+- [Culture](#culture) (56)
 - [Economy](#economy) (10)
-- [Education](#education) (26)
+- [Education](#education) (27)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (17)
@@ -78,6 +78,7 @@ A message to one or more people, 60 to 120 words.
 | 53 | Décrivez-lui votre logement, le quartier où vous vivez, la ville et les activités que vous pouvez y pratiquer. | The candidate must describe their apartment, neighborhood, city and available activities. | 1 source | 2024-10 | - |
 | 54 | Vous avez pris part à un concours organisé par votre municipalité. Rédigez un message décrivant votre quartier et précisant ce que vous y avez apprécié. | Write a message describing your neighborhood and what you liked about it, for a city contest. | 1 source | 2025-01 | - |
 | 55 | « Coucou, l'idée de partir à la découverte d'un autre pays m'attire vraiment. Raconte-moi un peu ton pays et sa culture, tu veux bien ? Jeanne. » Répondez à votre amie Jeanne, qui souhaite voyager et découvrir un autre pays, en lui présentant le vôtre et sa culture (lieux touristiques, monuments, sites remarquables, etc.). | Write a message to a friend describing your country and its culture, tourist sites and monuments. | 1 source | 2025-01 | - |
+| 56 | « Salut, je viens bientôt en vacances dans ton pays, tu peux me recommander un lieu à visiter ? Merci ! » | A friend asks for a place to visit during their vacation in your country. | 1 source | 2025-01 | - |
 
 ## Economy
 
@@ -124,6 +125,7 @@ A message to one or more people, 60 to 120 words.
 | 24 | Vous rédigez un message à un ami dans lequel vous parlez de votre université : vos professeurs, vos cours et les activités que vous y pratiquez. | Write a 60-120 word message to a friend describing your university, its teachers, courses and activities. | 1 source | 2019-12 | - |
 | 25 | Vous avez mis en ligne une annonce pour louer votre appartement. Répondez par courriel à une personne intéressée en lui donnant des informations sur le logement et le quartier. | Write an email to a prospective tenant giving details about your apartment and neighbourhood. | 1 source | 2024-01 | - |
 | 26 | Coucou, Je voudrais m'inscrire à des cours de français. Peux-tu me renseigner sur l'école où tu étudies ? Merci d'avance et à bientôt ! Anna Répondez à votre amie Anna : décrivez l'école que vous connaissez bien et où vous êtes inscrit(e), en donnant les renseignements utiles (adresse, type de formation, tarifs, etc.) | The candidate must reply to a friend describing the school they attend, giving useful information such as location, type of courses and price. | 1 source | 2024-10 | - |
+| 27 | Coucou, J'aimerais m'inscrire dans une salle de sport près de chez moi. Pourrais-tu me renseigner sur ce qui existe dans le quartier ? Je te remercie par avance. Bises, Laura | Write a short message to a friend asking for information about gyms in the neighborhood. | 1 source | 2025-02 | - |
 
 ## Environment
 

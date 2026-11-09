@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-292 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+294 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,8 +13,8 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Education](#education) (43)
 - [Environment](#environment) (21)
 - [Family](#family) (34)
-- [Health](#health) (30)
-- [Immigration](#immigration) (1)
+- [Health](#health) (31)
+- [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (9)
 - [Technology](#technology) (21)
 - [Work](#work) (55)
@@ -254,12 +254,14 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 28 | Je suis pour la restauration rapide. Je travaille dans une grande chaîne et j'estime qu'on peut y manger sainement. Les menus offrent des plats complets : légumes, salades, pain, viande... C'est au consommateur d'assumer ses choix. Prendre deux sandwichs avec beaucoup de ketchup, ce n'est pas équilibré. Par ailleurs, ces restaurants respectent des normes d'hygiène strictes et sont pratiques, que l'on vienne avec des enfants ou entre amis. Opal | The candidate must compare this text with an opposing one about fast food. | 2 sources | 2025-11 | - |
 | 29 | Le vélo en ville : Les partisans rappellent qu'on associe souvent le vélo au sport ou aux loisirs, en oubliant qu'il s'agit avant tout d'un moyen de transport, aussi bien personnel que professionnel. En zone urbaine, il permet de se déplacer vite tout en évitant le stress des bouchons aux heures de pointe. Se rendre au travail en pédalant, c'est allier activité physique et trajet utile. La mairie devrait d'abord expérimenter cette mesure dans certains quartiers avant de l'étendre partout, afin d'en évaluer les résultats. Les opposants insistent sur les nombreux accidents routiers enregistrés chaque année : circuler à vélo en ville comporte de réels dangers, à cause du trafic dense, du non-respect du code de la route et du manque de pistes cyclables. En outre, rouler à vélo expose les cyclistes aux gaz d'échappement, nuisibles pour la santé. Là encore, la municipalité devrait tester la mesure localement avant toute généralisation. | Compare and comment on the opposing arguments for and against cycling as urban transport. | 2 sources | 2026-06 | - |
 | 30 | Installer des distributeurs de boissons dans les lycées offre plusieurs avantages. Cela permet d'abord aux élèves de s'hydrater tout au long de la journée, ce qui favorise leur concentration et leurs résultats scolaires. Cela leur évite aussi de sortir de l'établissement pour acheter à boire, ce qui pourrait causer des retards et une perte de temps. Enfin, cette distribution peut encourager de bonnes habitudes alimentaires si des boissons saines et équilibrées sont proposées. En somme, c'est une mesure profitable à la fois pour la santé et pour la réussite scolaire des élèves. FÉLIX | Compare two texts with opposing views on drink dispensers in high schools and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
+| 31 | La présence de distributeurs de boissons dans les lycées suscite des doutes légitimes. Cette pratique peut en effet nuire à la santé des élèves. En rendant les sodas et boissons sucrées facilement accessibles, on risque d'encourager une consommation excessive, source de problèmes comme l'obésité ou d'autres troubles liés à une mauvaise alimentation. De plus, ces distributeurs peuvent détourner les élèves de l'eau, pourtant essentielle pour une hydratation saine. Mieux vaudrait privilégier des fontaines à eau et promouvoir une alimentation équilibrée dans les établissements. OPAL | Compare two texts with opposing views on drink dispensers in high schools and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 
 ## Immigration
 
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Bonjour, je suis étudiante et je pars bientôt étudier à l'étranger pendant un an, mais j'appréhende un peu ce départ. Est-ce que certains d'entre vous ont déjà vécu cette expérience ? Justine. | A student named Justine, worried about studying abroad, asks whether others have had this experience. | 2 sources | 2024-11 | - |
+| 2 | La multiplication des caméras peut conduire à une surveillance démesurée qui grignote les libertés individuelles. Se sachant en permanence observés, les citoyens peuvent perdre en spontanéité dans leurs déplacements et leurs échanges. S'ajoute à cela un vrai risque de piratage et de détournement des données personnelles collectées. Recueillir des images sans consentement pose un problème éthique certain. Ainsi, censée protéger, la vidéosurveillance peut finalement porter atteinte aux droits fondamentaux. | Compare two texts with opposing views on public video surveillance and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 
 ## Miscellaneous
 

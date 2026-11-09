@@ -4,7 +4,7 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-95 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+96 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,7 +16,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 - [Health](#health) (8)
 - [Miscellaneous](#miscellaneous) (26)
 - [Technology](#technology) (8)
-- [Work](#work) (12)
+- [Work](#work) (13)
 
 ## Culture
 
@@ -157,6 +157,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 10 | Une conversation portant sur un mouvement de grève. | A conversation about a strike action. | 1 source | 2026-09 | - |
 | 11 | Une conversation à propos de l'évolution professionnelle d'un salarié. | A conversation about an employee's career development. | 1 source | 2026-09 | - |
 | 12 | Une proposition visant à modifier l'examen du permis de conduire. | A proposal to change the driving test. | 1 source | 2026-09 | - |
+| 13 | Une présentation d'un programme proposant une expérience professionnelle ou bénévole. | A presentation of a program offering work or volunteer experience. | 1 source | 2026-09 | - |
 
 ---
 

@@ -4,7 +4,7 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-173 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+175 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,7 +16,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Health](#health) (14)
 - [Immigration](#immigration) (13)
 - [Miscellaneous](#miscellaneous) (9)
-- [Technology](#technology) (19)
+- [Technology](#technology) (21)
 - [Work](#work) (16)
 
 ## Culture
@@ -220,6 +220,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 17 | Vous avez consulté ce message publié sur un site Internet : | The candidate has read a message posted on a website and must respond according to the task instructions. | 1 source | 2024-11 | - |
 | 18 | Votre ville a organisé l'opération « Une semaine sans ma voiture » et vous y avez pris part. Sur un site Internet, racontez comment s'est déroulée cette expérience et exprimez ce que vous pensez de ce genre d'initiative. | Recount your experience of a car-free week event and give your opinion on this type of initiative on a website. | 1 source | 2025-01 | - |
 | 19 | Vous avez eu l'occasion de participer à une émission de télévision et souhaitez en parler. Rédigez un article pour votre site internet où vous racontez cette participation (genre d'émission, personnes croisées, etc.) et donnez vos impressions. | Write an article recounting your participation in a TV show and giving your impressions. | 1 source | 2025-01 | - |
+| 20 | Vous avez participé à un vide-grenier (échange d'objets d'occasion entre habitants) dans votre ville. Racontez votre journée sur un forum en ligne, en expliquant pourquoi elle vous a plu. | The candidate must recount on a forum a day spent at a flea market and explain why they enjoyed it. | 1 source | 2025-01 | - |
+| 21 | Vous avez été invité à participer à une émission de télévision. Sur votre blog, racontez cette expérience et partagez vos impressions. | Recount on your blog your experience taking part in a TV show and share your impressions. | 1 source | 2025-01 | - |
 
 ## Work
 
