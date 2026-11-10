@@ -4,7 +4,7 @@
 
 A message to one or more people, 60 to 120 words.
 
-194 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+196 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,7 +14,7 @@ A message to one or more people, 60 to 120 words.
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (17)
-- [Immigration](#immigration) (7)
+- [Immigration](#immigration) (9)
 - [Miscellaneous](#miscellaneous) (26)
 - [Technology](#technology) (3)
 - [Work](#work) (18)
@@ -200,6 +200,8 @@ A message to one or more people, 60 to 120 words.
 | 5 | Vous débarquez dans un nouveau pays. Écrivez à vos amis pour leur raconter votre arrivée et vos toutes premières impressions. | The candidate must write a message describing their arrival and first impressions in a new country. | 2 sources | 2025-12 | - |
 | 6 | Vous venez de vous installer dans un pays étranger. Un ami vous écrit et souhaite que vous lui parliez de votre nouvelle ville : décrivez-la (architecture, paysages, votre logement). | Write a message to a friend describing your new city (architecture, scenery, apartment). | 1 source | 2024-05 | - |
 | 7 | Votre ami Mehdi vient d'arriver dans votre ville et souhaite des conseils sur les transports. Répondez-lui en présentant les différents moyens de circuler (bus, métro, tram), les formules d'abonnement et les tarifs. | Reply to a friend who just moved to your city, explaining transport options, subscriptions and prices. | 1 source | 2024-07 | - |
+| 8 | Matthias vient de t'annoncer une grande nouvelle : son visa pour le Canada est accepté et il débarquera le 3 mars. Il te sollicite pour lui trouver un hôtel où loger durant sa première semaine. | Write about a friend who got his Canada visa and needs help finding a hotel for his first week. | 1 source | 2025-02 | - |
+| 9 | Rédige un message à ton ami pour le pousser à faire du sport régulièrement. | Write a message encouraging your friend to incorporate sport into daily life. | 1 source | 2025-02 | - |
 
 ## Miscellaneous
 

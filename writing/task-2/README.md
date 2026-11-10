@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-175 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+177 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (67)
+- [Culture](#culture) (69)
 - [Economy](#economy) (3)
 - [Education](#education) (19)
 - [Environment](#environment) (4)
@@ -90,6 +90,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 65 | Vous avez participé à une mission bénévole qui ne s'est pas passée comme vous l'espériez. Écrivez à l'association pour partager votre ressenti et suggérer des pistes d'amélioration. | Write to a volunteer organisation about a disappointing experience and suggest improvements. | 1 source | 2024-06 | - |
 | 66 | Vous prenez part à un concours artistique (musique, dessin, etc.). Racontez les faits sur un blog et décrivez ce qui vous a plu. | The candidate must write a blog post recounting participation in an art contest and describing what they enjoyed. | 1 source | 2024-11 | - |
 | 67 | Coucou, comment vas-tu ? En janvier, nous avons deux semaines de congé et nous comptons visiter ton pays. Nous voulons découvrir des lieux historiques et goûter la cuisine locale. Tu as des idées à nous donner ? – Aaron & Perla Répondez à Aaron et Perla en proposant des suggestions, justifiées par votre propre expérience. | Reply to friends with travel suggestions for historic sites and local food, justified by personal experience. | 1 source | 2025-01 | - |
+| 68 | « Salut, tu vas bien ? J'ai deux semaines de vacances en janvier, je viens visiter ton pays. J'aimerais voir des sites historiques et goûter de nouveaux plats. Qu'est-ce que tu me conseilles ? Marina. » | A friend asks for advice on historic sites and local food to try during a January visit. | 1 source | 2025-01 | - |
+| 69 | Rédigez un article pour votre blog racontant votre participation à l'événement « La Semaine du Goût ». | Write a blog article about your experience at the 'Semaine du Goût' event. | 1 source | 2025-02 | - |
 
 ## Economy
 
