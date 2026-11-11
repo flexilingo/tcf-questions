@@ -4,16 +4,16 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-177 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+179 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (69)
+- [Culture](#culture) (70)
 - [Economy](#economy) (3)
 - [Education](#education) (19)
 - [Environment](#environment) (4)
 - [Family](#family) (9)
-- [Health](#health) (14)
+- [Health](#health) (15)
 - [Immigration](#immigration) (13)
 - [Miscellaneous](#miscellaneous) (9)
 - [Technology](#technology) (21)
@@ -92,6 +92,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 67 | Coucou, comment vas-tu ? En janvier, nous avons deux semaines de congé et nous comptons visiter ton pays. Nous voulons découvrir des lieux historiques et goûter la cuisine locale. Tu as des idées à nous donner ? – Aaron & Perla Répondez à Aaron et Perla en proposant des suggestions, justifiées par votre propre expérience. | Reply to friends with travel suggestions for historic sites and local food, justified by personal experience. | 1 source | 2025-01 | - |
 | 68 | « Salut, tu vas bien ? J'ai deux semaines de vacances en janvier, je viens visiter ton pays. J'aimerais voir des sites historiques et goûter de nouveaux plats. Qu'est-ce que tu me conseilles ? Marina. » | A friend asks for advice on historic sites and local food to try during a January visit. | 1 source | 2025-01 | - |
 | 69 | Rédigez un article pour votre blog racontant votre participation à l'événement « La Semaine du Goût ». | Write a blog article about your experience at the 'Semaine du Goût' event. | 1 source | 2025-02 | - |
+| 70 | Sur un forum, tu réponds à la question : « Tout quitter pour voyager pendant un an, est-ce judicieux ? » en donnant ton opinion et ton vécu. | Answer online whether giving up everything to travel for a year is a good idea, sharing your experience. | 1 source | 2025-02 | - |
 
 ## Economy
 
@@ -166,6 +167,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 12 | Je sais que tu fréquentes une salle de sport. Qu'en penses-tu ? Peux-tu m'en dire davantage ? J'aimerais savoir si elle te convient vraiment ! | Ask the examiner questions to find out about the gym they attend and whether it is good. | 2 sources | 2024-05 | - |
 | 13 | Vous avez suivi un cours de sport en salle qui vous a déçu. Écrivez au responsable de la salle pour exposer ce qui ne vous a pas convenu et proposer des améliorations. | Write to the gym manager explaining dissatisfaction with a fitness class and suggesting improvements. | 1 source | 2024-06 | - |
 | 14 | Votre commune vient d'aménager de nouvelles pistes cyclables pour favoriser les déplacements à vélo. Rédigez un article racontant votre expérience d'utilisateur : bénéfices constatés, difficultés rencontrées, et pistes d'amélioration. | Writing: write an article about your experience using new bike lanes, describing benefits, challenges, and suggestions for improvement (120-150 words). | 1 source | 2025-01 | - |
+| 15 | Tu partages ton expérience d'une salle de sport dans un article de blog, en décrivant l'atmosphère, les équipements et l'accompagnement, et en donnant ton avis sur la qualité de cette expérience. | Write a blog post about your gym experience, describing atmosphere, equipment, coaching and your opinion. | 1 source | 2025-02 | - |
 
 ## Immigration
 

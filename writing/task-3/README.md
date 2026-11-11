@@ -4,19 +4,19 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-296 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+298 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (41)
-- [Economy](#economy) (38)
+- [Economy](#economy) (39)
 - [Education](#education) (43)
 - [Environment](#environment) (22)
 - [Family](#family) (34)
 - [Health](#health) (31)
 - [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (9)
-- [Technology](#technology) (21)
+- [Technology](#technology) (22)
 - [Work](#work) (55)
 
 ## Culture
@@ -107,6 +107,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 36 | L'aide aux personnes démunies Chaque hiver, je consacre un peu de mon temps et de mon argent aux personnes sans domicile souffrant du froid. Se soucier de ceux qui manquent de tout me paraît essentiel, et cette action me donne le sentiment d'être utile : un geste de solidarité accessible à tous. D'autres pensent qu'il vaudrait mieux repenser notre mode de vie plutôt que de donner de l'argent. C'est pourquoi certains préfèrent s'engager comme bénévoles dans une association locale. Selon eux, les sans-abri ont surtout besoin d'un logement et d'un emploi pour retrouver leur autonomie, plutôt que d'argent : un don monétaire ne servirait, selon ce point de vue, qu'à apaiser notre conscience. | Summarize and compare the two viewpoints on helping the homeless (giving money vs volunteering/systemic change). | 2 sources | 2026-01 | - |
 | 37 | Vous lisez deux avis contraires sur la question des salaires colossaux versés aux sportifs professionnels, puis vous rédigez un texte reprenant ces deux positions. Document 1 : Les sportifs de haut niveau génèrent des revenus considérables pour leurs clubs et les industries qui les entourent, et leurs salaires reflètent des années de sacrifices ainsi qu'une carrière très courte. Document 2 : Ces sommes astronomiques sont indécentes quand tant de métiers essentiels, comme les soignants ou les enseignants, sont bien moins rémunérés pour un travail tout aussi utile à la société. | Write 120-180 words comparing two opposing views on whether athletes should be paid such huge sums. | 1 source | 2020-02 | - |
 | 38 | Le commerce en ligne présente de multiples atouts, aussi bien pratiques qu'économiques. Il fait avant tout gagner du temps en supprimant les déplacements en magasin. Quelques clics suffisent pour trouver et commander vêtements, appareils électroniques, livres, ou même produits alimentaires. Le choix y est également illimité, avec la possibilité de comparer instantanément prix et caractéristiques. Cette concurrence renforcée se traduit souvent par des tarifs plus avantageux qu'en boutique physique. www.journaldunet.fr | Compare two texts with opposing views on online shopping versus in-store shopping and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
+| 39 | Personnellement, je reste méfiant vis-à-vis du commerce en ligne. Malgré sa popularité et sa commodité, il ne remplace pas l'expérience d'achat en boutique. Ne pas pouvoir examiner ni toucher les produits est un vrai handicap. De plus, les délais de livraison, souvent longs, ne m'enchantent guère. L'absence de conseiller disponible pour un accompagnement personnalisé pèse également dans la balance. Je préfère donc l'achat en magasin, où le contact direct avec les produits et le personnel me permet de trancher immédiatement. www.digischool.fr | Compare two texts with opposing views on online shopping versus in-store shopping and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 
 ## Education
 
@@ -304,6 +305,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 19 | Pour un reportage consacré à la pratique sportive chez les amateurs, France Télévisions collecte des témoignages. Quelle place le sport tient-il dans votre quotidien ? Envoyez votre récit sur francetelevision.fr. | Write a testimonial for a TV report describing the role sport plays in your daily life. | 2 sources | 2026-06 | - |
 | 20 | Plus besoin de manuels ni de cahiers pour réviser. Élève de 16 ans, Elsa termine sa journée de lycée puis révise ses mathématiques directement en ligne, sur son ordinateur. Grâce à un menu clair et intuitif, elle accède à des vidéos et des exercices faciles à comprendre. Ce dispositif est encadré par un comité scientifique qui valide les contenus de toutes les matières, y compris les sciences naturelles et l'informatique. | Compare two texts with opposing views on online learning versus classroom teaching and write a synthesis of 120-180 words. | 1 source | 2023-11 | - |
 | 21 | J'ai remarqué que mon fils se sentait oppressé par les limites qu'imposait le contrôle parental. Il ressentait de la méfiance et une sensation d'enfermement, ce qui a creusé une distance entre nous. J'ai compris que le dialogue et l'éducation numérique comptaient autant que les interdictions. Plutôt que de multiplier les restrictions, j'ai privilégié l'échange et la pédagogie. J'ai pris le temps de lui expliquer les dangers du web, les bons comportements à adopter et les conséquences possibles de ses actes. Ensemble, nous avons abordé sans tabou les risques et les atouts du numérique. Franck | Compare two texts with opposing views on parental control online and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
+| 22 | Le contrôle parental joue un rôle clé dans la protection des enfants face aux contenus inadaptés du web. Une expérience vécue, lorsque ma fille est tombée par hasard sur des images choquantes en ligne, a confirmé combien cette mesure était nécessaire. Depuis l'activation du contrôle parental, elle navigue sur Internet en toute sécurité. Cela me rassure en tant que parent et me permet de lui laisser davantage d'autonomie tout en restant attentif à sa sécurité en ligne. Protéger nos enfants sur le web est une priorité, et le contrôle parental en est un outil précieux. | Compare two texts with opposing views on parental control online and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 
 ## Work
 

@@ -4,13 +4,13 @@
 
 A message to one or more people, 60 to 120 words.
 
-196 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+198 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (56)
 - [Economy](#economy) (10)
-- [Education](#education) (27)
+- [Education](#education) (29)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (17)
@@ -126,6 +126,8 @@ A message to one or more people, 60 to 120 words.
 | 25 | Vous avez mis en ligne une annonce pour louer votre appartement. Répondez par courriel à une personne intéressée en lui donnant des informations sur le logement et le quartier. | Write an email to a prospective tenant giving details about your apartment and neighbourhood. | 1 source | 2024-01 | - |
 | 26 | Coucou, Je voudrais m'inscrire à des cours de français. Peux-tu me renseigner sur l'école où tu étudies ? Merci d'avance et à bientôt ! Anna Répondez à votre amie Anna : décrivez l'école que vous connaissez bien et où vous êtes inscrit(e), en donnant les renseignements utiles (adresse, type de formation, tarifs, etc.) | The candidate must reply to a friend describing the school they attend, giving useful information such as location, type of courses and price. | 1 source | 2024-10 | - |
 | 27 | Coucou, J'aimerais m'inscrire dans une salle de sport près de chez moi. Pourrais-tu me renseigner sur ce qui existe dans le quartier ? Je te remercie par avance. Bises, Laura | Write a short message to a friend asking for information about gyms in the neighborhood. | 1 source | 2025-02 | - |
+| 28 | Rédigez un message destiné à la direction pour l'informer qu'un lieu a été trouvé pour organiser la fête de fin d'année, en indiquant l'adresse, les prix, les prestations proposées et toute autre information utile. | Write a message to management announcing a venue found for the year-end party, with details. | 1 source | 2025-02 | - |
+| 29 | Répondez par message à un ami qui vous demande des renseignements sur une salle de sport réputée pour la qualité de ses services. | Reply to a friend asking for information about a well-regarded gym. | 1 source | 2025-02 | - |
 
 ## Environment
 
