@@ -4,12 +4,12 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-98 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+99 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (16)
-- [Economy](#economy) (13)
+- [Economy](#economy) (14)
 - [Education](#education) (6)
 - [Environment](#environment) (7)
 - [Family](#family) (1)
@@ -56,6 +56,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 11 | Une annonce détaillant les modalités et garanties d'une réservation de voyage. | An announcement about the terms and guarantees of a transport booking. | 1 source | 2026-09 | - |
 | 12 | Une négociation portant sur un bien immobilier. | A negotiation over a real estate deal. | 1 source | 2026-09 | - |
 | 13 | Une plainte au sujet d'un produit défectueux. | A complaint about a faulty product. | 1 source | 2026-09 | - |
+| 14 | Une présentation orale de différents produits bancaires. | A presentation of banking products. | 1 source | 2026-09 | - |
 
 ## Education
 

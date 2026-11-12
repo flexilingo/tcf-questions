@@ -4,17 +4,17 @@
 
 A message to one or more people, 60 to 120 words.
 
-198 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+200 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (56)
-- [Economy](#economy) (10)
+- [Economy](#economy) (11)
 - [Education](#education) (29)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (17)
-- [Immigration](#immigration) (9)
+- [Immigration](#immigration) (10)
 - [Miscellaneous](#miscellaneous) (26)
 - [Technology](#technology) (3)
 - [Work](#work) (18)
@@ -94,6 +94,7 @@ A message to one or more people, 60 to 120 words.
 | 8 | Vous préparez votre déménagement à Nice. Adressez un message à une agence immobilière pour rechercher un appartement, en précisant vos critères (surface, budget, nombre de pièces, quartier, etc.). | Write a message to a real estate agency listing your requirements for an apartment in Nice. | 2 sources | 2025-07 | - |
 | 9 | Vous allez prochainement emménager à Nice. Écrivez à une agence immobilière pour lui demander de l'aide dans votre recherche d'appartement (quartier, budget, superficie). | Write a message to a real estate agency asking for help finding an apartment, mentioning location, price, and size. | 1 source | 2023-12 | - |
 | 10 | Écrivez un e-mail à une amie pour l'inviter à assister avec vous au concert de votre chanteur ou chanteuse favori(te) (précisez la date, le lieu, le tarif, l'artiste, etc.) | The candidate must write an email inviting a friend to a concert, giving details like day, place, price and artist. | 1 source | 2024-04 | - |
+| 11 | Réponds-lui par courriel en lui présentant l'hôtel que tu as réservé pour lui : indique où il se trouve, son tarif et les services qu'il propose. | Reply by email describing the hotel booked, its location, price and services. | 1 source | 2025-02 | - |
 
 ## Education
 
@@ -204,6 +205,7 @@ A message to one or more people, 60 to 120 words.
 | 7 | Votre ami Mehdi vient d'arriver dans votre ville et souhaite des conseils sur les transports. Répondez-lui en présentant les différents moyens de circuler (bus, métro, tram), les formules d'abonnement et les tarifs. | Reply to a friend who just moved to your city, explaining transport options, subscriptions and prices. | 1 source | 2024-07 | - |
 | 8 | Matthias vient de t'annoncer une grande nouvelle : son visa pour le Canada est accepté et il débarquera le 3 mars. Il te sollicite pour lui trouver un hôtel où loger durant sa première semaine. | Write about a friend who got his Canada visa and needs help finding a hotel for his first week. | 1 source | 2025-02 | - |
 | 9 | Rédige un message à ton ami pour le pousser à faire du sport régulièrement. | Write a message encouraging your friend to incorporate sport into daily life. | 1 source | 2025-02 | - |
+| 10 | Vous avez publié une annonce pour louer votre appartement à Montréal. Écrivez un courriel à un candidat locataire intéressé, en précisant les caractéristiques du logement, le montant du loyer et les atouts du quartier. | Write an email to a prospective tenant with apartment details, rent price and neighborhood benefits. | 1 source | 2025-02 | - |
 
 ## Miscellaneous
 

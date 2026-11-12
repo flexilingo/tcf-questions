@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-179 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+181 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (70)
+- [Culture](#culture) (71)
 - [Economy](#economy) (3)
 - [Education](#education) (19)
 - [Environment](#environment) (4)
@@ -17,7 +17,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Immigration](#immigration) (13)
 - [Miscellaneous](#miscellaneous) (9)
 - [Technology](#technology) (21)
-- [Work](#work) (16)
+- [Work](#work) (17)
 
 ## Culture
 
@@ -93,6 +93,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 68 | « Salut, tu vas bien ? J'ai deux semaines de vacances en janvier, je viens visiter ton pays. J'aimerais voir des sites historiques et goûter de nouveaux plats. Qu'est-ce que tu me conseilles ? Marina. » | A friend asks for advice on historic sites and local food to try during a January visit. | 1 source | 2025-01 | - |
 | 69 | Rédigez un article pour votre blog racontant votre participation à l'événement « La Semaine du Goût ». | Write a blog article about your experience at the 'Semaine du Goût' event. | 1 source | 2025-02 | - |
 | 70 | Sur un forum, tu réponds à la question : « Tout quitter pour voyager pendant un an, est-ce judicieux ? » en donnant ton opinion et ton vécu. | Answer online whether giving up everything to travel for a year is a good idea, sharing your experience. | 1 source | 2025-02 | - |
+| 71 | Venez Visiter Notre École De Musique ! Cours Offerts, Concerts, Animations. Rendez-vous Samedi, dès 9 Heures Dans Nos Locaux ! Vous avez assisté à cet événement. Écrivez à vos amis pour leur raconter votre journée et donnez votre avis sur cette expérience. | Write a text telling friends about attending a music school open day and give your opinion about it. | 1 source | 2025-02 | - |
 
 ## Economy
 
@@ -247,6 +248,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 14 | Après avoir assisté à une conférence professionnelle décevante, rédigez un article destiné au site de votre entreprise pour partager votre expérience et proposer des pistes d'amélioration pour les prochains événements, en 120 à 150 mots. | Write an article for your company's website about a disappointing professional conference and suggest improvements for future events, in 120-150 words. | 1 source | 2024-03 | - |
 | 15 | Les professeurs organisent une rencontre avec les élèves pour discuter des différents métiers, et vous souhaitez y participer afin de raconter votre parcours professionnel et d'en présenter les atouts (vécu, collègues, etc.). | The candidate must write about wanting to join a school session to share their work experience and its benefits. | 1 source | 2024-04 | - |
 | 16 | Vous avez suivi une journée de formation professionnelle dans le cadre de votre emploi. Votre entreprise vous demande de rédiger un article destiné à vos collègues pour partager cette expérience. Présentez cette journée et exposez votre ressenti. | The candidate must write an article for colleagues describing a professional training day and their opinion of it. | 1 source | 2024-10 | - |
+| 17 | Votre société souhaite organiser un dîner de fin d'année dans un restaurant pouvant recevoir une centaine de convives. Vous avez repéré un établissement adapté. Écrivez à votre direction pour expliquer pourquoi ce restaurant devrait être retenu (localisation, prix, prestations, etc.) | Write to your company's management explaining why a restaurant you found should be chosen for the year-end dinner for 100 guests. | 1 source | 2025-02 | - |
 
 ---
 

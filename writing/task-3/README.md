@@ -4,12 +4,12 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-298 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+300 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (41)
-- [Economy](#economy) (39)
+- [Economy](#economy) (40)
 - [Education](#education) (43)
 - [Environment](#environment) (22)
 - [Family](#family) (34)
@@ -17,7 +17,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (9)
 - [Technology](#technology) (22)
-- [Work](#work) (55)
+- [Work](#work) (56)
 
 ## Culture
 
@@ -108,6 +108,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 37 | Vous lisez deux avis contraires sur la question des salaires colossaux versés aux sportifs professionnels, puis vous rédigez un texte reprenant ces deux positions. Document 1 : Les sportifs de haut niveau génèrent des revenus considérables pour leurs clubs et les industries qui les entourent, et leurs salaires reflètent des années de sacrifices ainsi qu'une carrière très courte. Document 2 : Ces sommes astronomiques sont indécentes quand tant de métiers essentiels, comme les soignants ou les enseignants, sont bien moins rémunérés pour un travail tout aussi utile à la société. | Write 120-180 words comparing two opposing views on whether athletes should be paid such huge sums. | 1 source | 2020-02 | - |
 | 38 | Le commerce en ligne présente de multiples atouts, aussi bien pratiques qu'économiques. Il fait avant tout gagner du temps en supprimant les déplacements en magasin. Quelques clics suffisent pour trouver et commander vêtements, appareils électroniques, livres, ou même produits alimentaires. Le choix y est également illimité, avec la possibilité de comparer instantanément prix et caractéristiques. Cette concurrence renforcée se traduit souvent par des tarifs plus avantageux qu'en boutique physique. www.journaldunet.fr | Compare two texts with opposing views on online shopping versus in-store shopping and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 | 39 | Personnellement, je reste méfiant vis-à-vis du commerce en ligne. Malgré sa popularité et sa commodité, il ne remplace pas l'expérience d'achat en boutique. Ne pas pouvoir examiner ni toucher les produits est un vrai handicap. De plus, les délais de livraison, souvent longs, ne m'enchantent guère. L'absence de conseiller disponible pour un accompagnement personnalisé pèse également dans la balance. Je préfère donc l'achat en magasin, où le contact direct avec les produits et le personnel me permet de trancher immédiatement. www.digischool.fr | Compare two texts with opposing views on online shopping versus in-store shopping and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
+| 40 | Les grandes surfaces proposent un vaste choix d'articles réunis en un même lieu. Leurs horaires larges facilitent les achats à toute heure. Grâce aux achats en grande quantité, les prix sont souvent plus bas, et des offres promotionnelles reviennent fréquemment. On y trouve des produits venus de multiples régions et pays. L'hygiène y est soumise à des règles rigoureuses. Enfin, ces magasins garantissent un confort d'achat grâce aux parkings, chariots et caisses rapides. | The candidate must write one of two opposing texts (in favor of supermarkets) as part of a two-document comparison task. | 1 source | 2024-01 | - |
 
 ## Education
 
@@ -366,6 +367,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 53 | Le travail : bénéfique ou nuisible ? Avis 1, Stéphane, chef d'entreprise : « Je suis persuadé que le travail apporte du positif, tant à l'individu qu'à la collectivité. Il permet de subvenir à ses besoins tout en contribuant à la croissance économique. Il renforce aussi l'indépendance, la confiance en soi, le sens des responsabilités, et constitue une source d'épanouissement personnel comme professionnel. » Avis 2, Laura, sociologue : « Tel qu'il est structuré aujourd'hui, le travail présente des inconvénients réels. Il rime souvent avec pression constante, horaires contraignants et difficulté à concilier vie privée et vie professionnelle. Il peut mener à l'épuisement, notamment quand la charge est trop lourde et que les efforts ne sont pas reconnus. » | Compare and comment on two opposing views (positive vs negative) about the role of work. | 2 sources | 2026-06 | - |
 | 54 | Vous lisez deux textes exposant des avis opposés sur l'utilité d'ajouter une photo sur un CV, puis vous rédigez votre propre texte en reprenant les arguments des deux camps. Document 1 : Une photo sur le CV permet au recruteur de mettre un visage sur un nom dès la première lecture, crée une impression de confiance et personnalise la candidature dans un océan de dossiers standardisés. Document 2 : Ajouter une photo expose le candidat à des discriminations liées à l'apparence, à l'âge ou à l'origine, et détourne l'attention du recruteur des compétences réelles inscrites dans le CV. | Write 120-180 words comparing two documents with opposing views on whether a CV should include a photo. | 1 source | 2019-12 | - |
 | 55 | Interdire les voitures en centre-ville se révèle inefficace, voire contre-productif. La pollution n'est pas réduite, elle est simplement déplacée vers la périphérie, où la circulation et la pollution s'intensifient. La congestion, elle non plus, ne diminue pas vraiment, puisque les voitures cèdent la place à d'autres modes de déplacement tout aussi problématiques. Par ailleurs, cette mesure fragilise l'économie locale en pénalisant les commerces qui dépendent de la circulation automobile. Le Figaro, 15 janvier 2021 | Compare two texts with opposing views on banning cars in cities and write a synthesis of 120-180 words. | 1 source | 2023-11 | - |
+| 56 | Acheter directement chez les producteurs locaux présente de nombreux bénéfices. Les produits sont frais, parfois récoltés le jour même, et ont donc plus de saveur. Les producteurs locaux cultivent souvent des variétés anciennes, plus goûteuses. Ces circuits courts soutiennent aussi l'économie locale, en assurant une juste rémunération aux producteurs. Enfin, ils sont plus respectueux de l'environnement, puisque le transport réduit entraîne moins d'émissions de CO2. | Compare two texts with opposing views on buying from local producers and write a synthesis of 120-180 words. | 1 source | 2024-01 | - |
 
 ---
 

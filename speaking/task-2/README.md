@@ -4,11 +4,11 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-300 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+301 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (52)
+- [Culture](#culture) (53)
 - [Economy](#economy) (26)
 - [Education](#education) (59)
 - [Environment](#environment) (6)
@@ -69,12 +69,13 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 44 | Je travaille comme agent immobilier. Vous cherchez à louer un chalet en bord de mer pour vos prochaines vacances. Posez-moi des questions à ce sujet. | Ask a real estate agent questions to rent a seaside chalet for a holiday. | 5 sources | 2023-05 | - |
 | 45 | Je suis votre ami et j'organise une fête d'anniversaire. Vous acceptez de m'aider et vous me posez des questions à ce sujet. | Ask your friend, who is organizing a birthday party, questions to help him plan it. | 5 sources | 2023-07 | - |
 | 46 | Je travaille dans un musée, et vous souhaitez le visiter. Posez-moi des questions (histoire, visite guidée, horaires d'ouverture, etc.). | The candidate must ask the examiner (playing a museum employee) questions about visiting the museum. | 5 sources | 2023-07 | - |
-| 47 | Nous sommes ami(e)s. J'ai fêté mon anniversaire récemment mais vous n'avez pas pu venir. Posez-moi des questions pour savoir comment la soirée s'est déroulée (activités, invités, cadeaux, etc.). | The candidate must ask a friend questions about how a birthday party went. | 5 sources | 2024-12 | - |
-| 48 | Vous discutez avec un(e) collègue. J'organise une fête pour mon départ à la retraite et je vous y ai invité(e). Posez-moi des questions (date, lieu, invités, etc.). | The candidate must ask a colleague questions about a retirement party. | 5 sources | 2025-01 | - |
-| 49 | Je suis agent immobilier. Vous souhaitez louer votre appartement pendant les vacances afin d'obtenir un revenu supplémentaire, et vous me posez des questions (tarifs, durée de location, profil des locataires, etc.). | The candidate asks a real estate agent about renting out their apartment for vacations (rates, period, tenant type). | 5 sources | 2025-02 | - |
-| 50 | Vous discutez avec un(e) ami(e) francophone. Vous cherchez une destination pour un voyage. Vous voulez savoir dans quels pays je suis déjà allé(e) et vous me questionnez à ce sujet. | Ask your friend about the countries they have visited to help you choose a travel destination. | 5 sources | 2025-12 | - |
-| 51 | Vous êtes dans une agence de voyages. Ayant remporté un concours, vous avez gagné un séjour et devez choisir entre Montréal, Dakar, Bruxelles ou Hanoï. Posez-moi des questions sur ces quatre villes (climat, activités, coût de la vie, etc.) afin de faire votre choix. | The candidate must question a travel agent about four cities to decide which prize destination to choose. | 5 sources | 2026-03 | - |
-| 52 | Vous êtes responsable de l'organisation d'un festival de cinéma en langue française. Votre interlocuteur, rencontré pendant son séjour touristique dans votre ville, vous pose des questions sur ce festival afin de savoir s'il souhaite y assister (dates, horaires, programmation, tarifs, etc.). | The candidate must ask the examiner (organizer of a French-language film festival) questions to decide whether to attend, covering dates, schedule, program and prices. | 5 sources | 2026-03 | - |
+| 47 | Je travaille à l'accueil d'un centre culturel et sportif d'Ottawa. Nouvellement arrivé dans le quartier, vous souhaitez vous inscrire à des activités et me demandez des informations : sports proposés, horaires, tarifs, etc. | Ask a receptionist at a cultural and sports center questions about activities, schedule, and prices. | 5 sources | 2023-09 | - |
+| 48 | Nous sommes ami(e)s. J'ai fêté mon anniversaire récemment mais vous n'avez pas pu venir. Posez-moi des questions pour savoir comment la soirée s'est déroulée (activités, invités, cadeaux, etc.). | The candidate must ask a friend questions about how a birthday party went. | 5 sources | 2024-12 | - |
+| 49 | Vous discutez avec un(e) collègue. J'organise une fête pour mon départ à la retraite et je vous y ai invité(e). Posez-moi des questions (date, lieu, invités, etc.). | The candidate must ask a colleague questions about a retirement party. | 5 sources | 2025-01 | - |
+| 50 | Je suis agent immobilier. Vous souhaitez louer votre appartement pendant les vacances afin d'obtenir un revenu supplémentaire, et vous me posez des questions (tarifs, durée de location, profil des locataires, etc.). | The candidate asks a real estate agent about renting out their apartment for vacations (rates, period, tenant type). | 5 sources | 2025-02 | - |
+| 51 | Vous discutez avec un(e) ami(e) francophone. Vous cherchez une destination pour un voyage. Vous voulez savoir dans quels pays je suis déjà allé(e) et vous me questionnez à ce sujet. | Ask your friend about the countries they have visited to help you choose a travel destination. | 5 sources | 2025-12 | - |
+| 52 | Vous êtes dans une agence de voyages. Ayant remporté un concours, vous avez gagné un séjour et devez choisir entre Montréal, Dakar, Bruxelles ou Hanoï. Posez-moi des questions sur ces quatre villes (climat, activités, coût de la vie, etc.) afin de faire votre choix. | The candidate must question a travel agent about four cities to decide which prize destination to choose. | 5 sources | 2026-03 | - |
+| 53 | Vous êtes responsable de l'organisation d'un festival de cinéma en langue française. Votre interlocuteur, rencontré pendant son séjour touristique dans votre ville, vous pose des questions sur ce festival afin de savoir s'il souhaite y assister (dates, horaires, programmation, tarifs, etc.). | The candidate must ask the examiner (organizer of a French-language film festival) questions to decide whether to attend, covering dates, schedule, program and prices. | 5 sources | 2026-03 | - |
 
 ## Economy
 
