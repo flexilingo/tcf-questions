@@ -4,20 +4,20 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-300 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+302 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (41)
 - [Economy](#economy) (40)
-- [Education](#education) (43)
+- [Education](#education) (44)
 - [Environment](#environment) (22)
 - [Family](#family) (34)
 - [Health](#health) (31)
 - [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (9)
 - [Technology](#technology) (22)
-- [Work](#work) (56)
+- [Work](#work) (57)
 
 ## Culture
 
@@ -157,6 +157,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 41 | À l'inverse, d'autres estiment que vivre chez ses parents restreint la liberté et l'autonomie. Les jeunes peuvent ressentir que leurs parents décident encore à leur place et que leur vie privée n'est pas respectée. Habiter seul favorise au contraire l'apprentissage de l'autonomie et des responsabilités. Certains, contraints de revenir vivre chez leurs parents après une période d'indépendance, vivent d'ailleurs cette situation comme un recul. | Present the opposing arguments against young people continuing to live with their parents. | 2 sources | 2026-09 | - |
 | 42 | Vous prenez connaissance de deux articles, l'un favorable et l'autre défavorable, sur le port de l'uniforme scolaire, puis vous écrivez un texte donnant votre propre avis. | Write 120-180 words comparing two opposing articles on school uniforms and giving your opinion. | 1 source | 2020-02 | - |
 | 43 | L'enseignement à distance se généralise de plus en plus dans le système scolaire. Mais quand un élève seul face à son écran a besoin qu'on lui réexplique une notion, que peut-il faire ? Les cours en ligne proposent certes des messageries instantanées et des appels audio, mais rien ne vaut la présence physique en classe, où les enseignants et les camarades peuvent apporter des explications claires en cas de besoin. | Compare two texts with opposing views on online learning versus classroom teaching and write a synthesis of 120-180 words. | 1 source | 2023-11 | - |
+| 44 | Document 1 : l'enseignement à distance rend l'apprentissage accessible à tous, partout dans le monde, avec des ressources variées et un rythme personnalisé. Document 2 : le manque d'échanges en personne nuit à la motivation des élèves et les inégalités d'accès à la technologie renforcent les écarts entre eux. | Compare two texts with opposing views on online education and write 120-180 words. | 1 source | 2024-02 | - |
 
 ## Environment
 
@@ -368,6 +369,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 54 | Vous lisez deux textes exposant des avis opposés sur l'utilité d'ajouter une photo sur un CV, puis vous rédigez votre propre texte en reprenant les arguments des deux camps. Document 1 : Une photo sur le CV permet au recruteur de mettre un visage sur un nom dès la première lecture, crée une impression de confiance et personnalise la candidature dans un océan de dossiers standardisés. Document 2 : Ajouter une photo expose le candidat à des discriminations liées à l'apparence, à l'âge ou à l'origine, et détourne l'attention du recruteur des compétences réelles inscrites dans le CV. | Write 120-180 words comparing two documents with opposing views on whether a CV should include a photo. | 1 source | 2019-12 | - |
 | 55 | Interdire les voitures en centre-ville se révèle inefficace, voire contre-productif. La pollution n'est pas réduite, elle est simplement déplacée vers la périphérie, où la circulation et la pollution s'intensifient. La congestion, elle non plus, ne diminue pas vraiment, puisque les voitures cèdent la place à d'autres modes de déplacement tout aussi problématiques. Par ailleurs, cette mesure fragilise l'économie locale en pénalisant les commerces qui dépendent de la circulation automobile. Le Figaro, 15 janvier 2021 | Compare two texts with opposing views on banning cars in cities and write a synthesis of 120-180 words. | 1 source | 2023-11 | - |
 | 56 | Acheter directement chez les producteurs locaux présente de nombreux bénéfices. Les produits sont frais, parfois récoltés le jour même, et ont donc plus de saveur. Les producteurs locaux cultivent souvent des variétés anciennes, plus goûteuses. Ces circuits courts soutiennent aussi l'économie locale, en assurant une juste rémunération aux producteurs. Enfin, ils sont plus respectueux de l'environnement, puisque le transport réduit entraîne moins d'émissions de CO2. | Compare two texts with opposing views on buying from local producers and write a synthesis of 120-180 words. | 1 source | 2024-01 | - |
+| 57 | Document 1 : le télétravail apporte une grande souplesse d'organisation, réduit le stress des trajets et améliore l'équilibre vie professionnelle-vie privée. Document 2 : il favorise l'isolement, nuit à la communication entre collègues et brouille la frontière entre vie privée et travail. | Compare two texts with opposing views on remote work and write 120-180 words. | 1 source | 2024-02 | - |
 
 ---
 

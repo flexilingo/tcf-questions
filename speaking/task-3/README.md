@@ -4,14 +4,14 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-287 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+288 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (29)
 - [Economy](#economy) (8)
 - [Education](#education) (28)
-- [Environment](#environment) (16)
+- [Environment](#environment) (17)
 - [Family](#family) (25)
 - [Health](#health) (19)
 - [Immigration](#immigration) (42)
@@ -117,8 +117,9 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 12 | Il conviendrait de réduire la circulation automobile dans les villes. Partagez-vous ce point de vue ? | Give and defend your opinion on whether car traffic in cities should be reduced. | 5 sources | 2023-08 | - |
 | 13 | Trier ses déchets est un geste accessible à tout le monde. Qu'en pensez-vous ? | Give and defend your opinion on whether waste sorting is something everyone can do. | 5 sources | 2023-09 | - |
 | 14 | Pour protéger l'environnement, les gestes individuels (tri des déchets, économie d'eau et d'énergie, etc.) sont-ils réellement efficaces ? Quel est votre avis sur cette question ? | The candidate must give and defend an opinion on whether individual eco-actions are effective. | 5 sources | 2024-10 | - |
-| 15 | Toutes les espèces menacées devraient-elles être protégées ? Partagez-vous ce point de vue ? Expliquez pourquoi. | Give and defend your opinion on whether all endangered animals should be protected. | 5 sources | 2025-10 | - |
-| 16 | Que pensez-vous du fait d'avoir un animal de compagnie à la maison ? | The candidate must give their opinion on keeping a pet at home. | 5 sources | 2026-03 | - |
+| 15 | Pour préserver l'environnement, est-il essentiel d'acheter des produits locaux et de saison ? Justifiez votre point de vue. | Explain and defend your position on whether buying local, seasonal products is essential to protect the environment. | 5 sources | 2025-01 | - |
+| 16 | Toutes les espèces menacées devraient-elles être protégées ? Partagez-vous ce point de vue ? Expliquez pourquoi. | Give and defend your opinion on whether all endangered animals should be protected. | 5 sources | 2025-10 | - |
+| 17 | Que pensez-vous du fait d'avoir un animal de compagnie à la maison ? | The candidate must give their opinion on keeping a pet at home. | 5 sources | 2026-03 | - |
 
 ## Family
 

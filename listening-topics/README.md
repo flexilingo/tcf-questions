@@ -4,11 +4,11 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-99 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+100 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (16)
+- [Culture](#culture) (17)
 - [Economy](#economy) (14)
 - [Education](#education) (6)
 - [Environment](#environment) (7)
@@ -38,6 +38,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 14 | Une discussion présentant des opinions opposées sur un film. | A discussion about differing opinions on a film. | 1 source | 2026-09 | - |
 | 15 | Une présentation des sites touristiques d'une ville. | A presentation of a city's tourist attractions. | 1 source | 2026-09 | - |
 | 16 | Une présentation décrivant le déroulement d'une exposition. | A presentation about the format of an exhibition. | 1 source | 2026-09 | - |
+| 17 | Une émission télévisée dédiée à la gastronomie. | A TV program about gastronomy. | 1 source | 2026-09 | - |
 
 ## Economy
 

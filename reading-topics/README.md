@@ -4,12 +4,12 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-102 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+103 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (31)
-- [Economy](#economy) (21)
+- [Economy](#economy) (22)
 - [Education](#education) (8)
 - [Environment](#environment) (5)
 - [Family](#family) (3)
@@ -80,6 +80,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 19 | Une annonce présentant un nouveau contrat d'assurance. | An advertisement for a new insurance subscription. | 1 source | 2026-09 | - |
 | 20 | Une annonce publiée par une compagnie aérienne. | An announcement from an airline company. | 1 source | 2026-09 | - |
 | 21 | Une annonce relative à l'ouverture exceptionnelle des commerces le dimanche. | An announcement about exceptional Sunday shop openings. | 1 source | 2026-09 | - |
+| 22 | Une lettre envoyée par un locataire à son propriétaire. | A letter from a tenant to their landlord. | 1 source | 2026-09 | - |
 
 ## Education
 

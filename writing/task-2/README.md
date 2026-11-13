@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-181 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+183 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (71)
+- [Culture](#culture) (72)
 - [Economy](#economy) (3)
 - [Education](#education) (19)
 - [Environment](#environment) (4)
@@ -16,7 +16,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Health](#health) (15)
 - [Immigration](#immigration) (13)
 - [Miscellaneous](#miscellaneous) (9)
-- [Technology](#technology) (21)
+- [Technology](#technology) (22)
 - [Work](#work) (17)
 
 ## Culture
@@ -94,6 +94,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 69 | Rédigez un article pour votre blog racontant votre participation à l'événement « La Semaine du Goût ». | Write a blog article about your experience at the 'Semaine du Goût' event. | 1 source | 2025-02 | - |
 | 70 | Sur un forum, tu réponds à la question : « Tout quitter pour voyager pendant un an, est-ce judicieux ? » en donnant ton opinion et ton vécu. | Answer online whether giving up everything to travel for a year is a good idea, sharing your experience. | 1 source | 2025-02 | - |
 | 71 | Venez Visiter Notre École De Musique ! Cours Offerts, Concerts, Animations. Rendez-vous Samedi, dès 9 Heures Dans Nos Locaux ! Vous avez assisté à cet événement. Écrivez à vos amis pour leur raconter votre journée et donnez votre avis sur cette expérience. | Write a text telling friends about attending a music school open day and give your opinion about it. | 1 source | 2025-02 | - |
+| 72 | Vous avez participé récemment à une manifestation culturelle organisée dans votre ville (fête populaire, concert, festival, etc.). Sur votre blog, racontez ce moment et précisez ce qui vous a particulièrement plu. | Write a blog post recounting a local cultural event you attended and what you liked about it. | 1 source | 2025-02 | - |
 
 ## Economy
 
@@ -227,6 +228,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 19 | Vous avez eu l'occasion de participer à une émission de télévision et souhaitez en parler. Rédigez un article pour votre site internet où vous racontez cette participation (genre d'émission, personnes croisées, etc.) et donnez vos impressions. | Write an article recounting your participation in a TV show and giving your impressions. | 1 source | 2025-01 | - |
 | 20 | Vous avez participé à un vide-grenier (échange d'objets d'occasion entre habitants) dans votre ville. Racontez votre journée sur un forum en ligne, en expliquant pourquoi elle vous a plu. | The candidate must recount on a forum a day spent at a flea market and explain why they enjoyed it. | 1 source | 2025-01 | - |
 | 21 | Vous avez été invité à participer à une émission de télévision. Sur votre blog, racontez cette expérience et partagez vos impressions. | Recount on your blog your experience taking part in a TV show and share your impressions. | 1 source | 2025-01 | - |
+| 22 | France Télévision réalise un reportage consacré au sport amateur. Envoyez un message sur leur site pour témoigner de votre propre pratique sportive. | Write a testimonial message on a TV channel's website about your amateur sports practice. | 1 source | 2025-03 | - |
 
 ## Work
 

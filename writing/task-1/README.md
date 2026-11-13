@@ -4,18 +4,18 @@
 
 A message to one or more people, 60 to 120 words.
 
-200 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+202 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (56)
+- [Culture](#culture) (57)
 - [Economy](#economy) (11)
 - [Education](#education) (29)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (17)
 - [Immigration](#immigration) (10)
-- [Miscellaneous](#miscellaneous) (26)
+- [Miscellaneous](#miscellaneous) (27)
 - [Technology](#technology) (3)
 - [Work](#work) (18)
 
@@ -79,6 +79,7 @@ A message to one or more people, 60 to 120 words.
 | 54 | Vous avez pris part à un concours organisé par votre municipalité. Rédigez un message décrivant votre quartier et précisant ce que vous y avez apprécié. | Write a message describing your neighborhood and what you liked about it, for a city contest. | 1 source | 2025-01 | - |
 | 55 | « Coucou, l'idée de partir à la découverte d'un autre pays m'attire vraiment. Raconte-moi un peu ton pays et sa culture, tu veux bien ? Jeanne. » Répondez à votre amie Jeanne, qui souhaite voyager et découvrir un autre pays, en lui présentant le vôtre et sa culture (lieux touristiques, monuments, sites remarquables, etc.). | Write a message to a friend describing your country and its culture, tourist sites and monuments. | 1 source | 2025-01 | - |
 | 56 | « Salut, je viens bientôt en vacances dans ton pays, tu peux me recommander un lieu à visiter ? Merci ! » | A friend asks for a place to visit during their vacation in your country. | 1 source | 2025-01 | - |
+| 57 | Vous venez de déménager dans un nouvel appartement. Écrivez un message à un(e) ami(e) pour lui décrire ce logement (emplacement, agencement des pièces, décoration...) | Write a message to a friend describing your new apartment (location, layout, decoration). | 1 source | 2025-02 | - |
 
 ## Economy
 
@@ -237,6 +238,7 @@ A message to one or more people, 60 to 120 words.
 | 24 | Vous venez d'emménager dans une nouvelle ville. Écrivez un message à un ami pour lui présenter votre endroit favori et raconter vos activités (lieux découverts, moyens de transport utilisés, habitants rencontrés). | Write a message to a friend describing your favorite spot and activities in your new city. | 1 source | 2024-05 | - |
 | 25 | Un ami vous a fait un cadeau surprise. Écrivez-lui un message pour le remercier et lui expliquer en quoi ce geste vous a touché. | Write a message thanking a friend for an unexpected gift and explaining why it moved you. | 1 source | 2024-06 | - |
 | 26 | Votre amie Julie va garder votre chat et arroser vos plantes durant votre absence. Rédigez-lui un message avec les consignes à suivre. | Writing: write a message to a friend giving her instructions for looking after your cat and plants while you're away (60-120 words). | 1 source | 2024-09 | - |
+| 27 | Vous vous installez à Nice et vous écrivez à une agence immobilière pour demander son aide dans votre recherche d'appartement, en précisant le loyer souhaité, le nombre d'occupants et la date d'emménagement. | Write a 60-120 word message to a real estate agency asking for help finding a flat in Nice, specifying rent, number of occupants and move-in date. | 1 source | 2025-02 | - |
 
 ## Technology
 
