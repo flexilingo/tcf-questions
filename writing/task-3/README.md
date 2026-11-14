@@ -4,14 +4,14 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-302 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+304 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (41)
 - [Economy](#economy) (40)
-- [Education](#education) (44)
-- [Environment](#environment) (22)
+- [Education](#education) (45)
+- [Environment](#environment) (23)
 - [Family](#family) (34)
 - [Health](#health) (31)
 - [Immigration](#immigration) (2)
@@ -158,6 +158,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 42 | Vous prenez connaissance de deux articles, l'un favorable et l'autre défavorable, sur le port de l'uniforme scolaire, puis vous écrivez un texte donnant votre propre avis. | Write 120-180 words comparing two opposing articles on school uniforms and giving your opinion. | 1 source | 2020-02 | - |
 | 43 | L'enseignement à distance se généralise de plus en plus dans le système scolaire. Mais quand un élève seul face à son écran a besoin qu'on lui réexplique une notion, que peut-il faire ? Les cours en ligne proposent certes des messageries instantanées et des appels audio, mais rien ne vaut la présence physique en classe, où les enseignants et les camarades peuvent apporter des explications claires en cas de besoin. | Compare two texts with opposing views on online learning versus classroom teaching and write a synthesis of 120-180 words. | 1 source | 2023-11 | - |
 | 44 | Document 1 : l'enseignement à distance rend l'apprentissage accessible à tous, partout dans le monde, avec des ressources variées et un rythme personnalisé. Document 2 : le manque d'échanges en personne nuit à la motivation des élèves et les inégalités d'accès à la technologie renforcent les écarts entre eux. | Compare two texts with opposing views on online education and write 120-180 words. | 1 source | 2024-02 | - |
+| 45 | Toutefois, apprendre une langue à distance comporte aussi des limites. L'absence d'échanges en direct prive les apprenants d'une pratique orale régulière. Par ailleurs, ce mode d'apprentissage exige beaucoup d'autodiscipline et de motivation personnelle, ce qui n'est pas évident pour tous. La qualité des supports numériques est inégale, et l'accès aux outils technologiques n'est pas le même pour chacun. Sans cadre d'apprentissage structuré, certains étudiants progressent moins efficacement. | The candidate must write the opposing viewpoint text about the drawbacks of distance language learning, as part of a two-document comparison task. | 1 source | 2024-02 | - |
 
 ## Environment
 
@@ -185,6 +186,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 20 | Le plastique : faut-il continuer à l'utiliser ? Franck défend une utilisation restreinte du plastique, rappelant son rôle essentiel dans plusieurs secteurs, notamment médical et alimentaire, pour conserver les aliments et stériliser le matériel de soins. Il prône une consommation responsable et le recyclage, tout en admettant que certains usages restent incontournables. Amicha s'oppose fermement à l'utilisation du plastique, dénonçant son impact environnemental désastreux : les déchets plastiques polluent océans et écosystèmes, causant des dégâts irréversibles. Elle milite pour des alternatives écologiques et durables, insistant sur l'urgence d'y renoncer pour protéger l'environnement et la santé publique. | Summarize and compare the two viewpoints on plastic use (limited but necessary vs total opposition). | 2 sources | 2026-01 | - |
 | 21 | L'art urbain : pour ou contre ? Point de vue favorable : l'art éveille la curiosité des habitants dans l'espace urbain. Qu'il s'agisse d'une fresque ou d'une performance de rue, l'ambiance passagère qui en résulte permet une rencontre entre des artistes encore méconnus et un public varié, parfois peu familier de cette forme d'expression. Les villes actuelles n'ont plus la même fonction qu'autrefois. Au-delà d'un simple lieu d'habitation, la cité se transforme, tire profit de la diversité de ses habitants, se réorganise et s'ouvre sur l'extérieur. Des espaces verts apparaissent et les murs se couvrent de couleurs grâce au street art. Il en résulte des lieux valorisant la qualité de vie, tout en respectant la nature et l'environnement. Point de vue défavorable : à plus grande échelle, la situation est moins simple. Les graffitis peuvent être vus comme une détérioration du cadre collectif, une nuisance visuelle ou le signe d'une fracture sociale. Beaucoup y voient un acte de vandalisme qui abîme les biens publics. La controverse sur les mérites et les défauts des graffitis divise artistes, législateurs et citoyens. | The candidate must compare two documents presenting opposing views on urban street art. | 2 sources | 2026-05 | - |
 | 22 | La surveillance par caméras dans les lieux publics offre de réels bénéfices pour la sécurité et la lutte contre la délinquance. Elle décourage les comportements criminels, facilite l'identification des personnes impliquées dans un incident et apporte des preuves concrètes lorsqu'un problème survient. En outre, la présence de ces caméras renforce le sentiment de sécurité des citoyens et contribue à un cadre de vie plus maîtrisé. En observant en permanence l'espace public, les forces de l'ordre peuvent intervenir rapidement en cas d'urgence, ce qui permet de prévenir des délits et, potentiellement, de sauver des vies. | Summarize and compare the two opposing viewpoints on public video surveillance in 120-180 words. | 1 source | 2023-12 | - |
+| 23 | Document 1 : les voitures électriques réduisent les émissions polluantes et bénéficient d'aides publiques encourageant leur adoption. Document 2 : leur coût élevé, le manque de bornes de recharge et les problèmes liés aux batteries limitent leur essor et posent des questions écologiques. | Compare two texts with opposing views on electric vehicles and write 120-180 words. | 1 source | 2024-03 | - |
 
 ## Family
 

@@ -4,18 +4,18 @@
 
 A message to one or more people, 60 to 120 words.
 
-202 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+204 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (57)
+- [Culture](#culture) (58)
 - [Economy](#economy) (11)
 - [Education](#education) (29)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (17)
 - [Immigration](#immigration) (10)
-- [Miscellaneous](#miscellaneous) (27)
+- [Miscellaneous](#miscellaneous) (28)
 - [Technology](#technology) (3)
 - [Work](#work) (18)
 
@@ -80,6 +80,7 @@ A message to one or more people, 60 to 120 words.
 | 55 | « Coucou, l'idée de partir à la découverte d'un autre pays m'attire vraiment. Raconte-moi un peu ton pays et sa culture, tu veux bien ? Jeanne. » Répondez à votre amie Jeanne, qui souhaite voyager et découvrir un autre pays, en lui présentant le vôtre et sa culture (lieux touristiques, monuments, sites remarquables, etc.). | Write a message to a friend describing your country and its culture, tourist sites and monuments. | 1 source | 2025-01 | - |
 | 56 | « Salut, je viens bientôt en vacances dans ton pays, tu peux me recommander un lieu à visiter ? Merci ! » | A friend asks for a place to visit during their vacation in your country. | 1 source | 2025-01 | - |
 | 57 | Vous venez de déménager dans un nouvel appartement. Écrivez un message à un(e) ami(e) pour lui décrire ce logement (emplacement, agencement des pièces, décoration...) | Write a message to a friend describing your new apartment (location, layout, decoration). | 1 source | 2025-02 | - |
+| 58 | Rédigez un message dans lequel vous racontez un événement important auquel vous avez pris part, en insistant sur les moments les plus marquants et sur ce que vous avez ressenti. | Write a message recounting a significant event you attended, highlighting key moments and feelings. | 1 source | 2025-03 | - |
 
 ## Economy
 
@@ -239,6 +240,7 @@ A message to one or more people, 60 to 120 words.
 | 25 | Un ami vous a fait un cadeau surprise. Écrivez-lui un message pour le remercier et lui expliquer en quoi ce geste vous a touché. | Write a message thanking a friend for an unexpected gift and explaining why it moved you. | 1 source | 2024-06 | - |
 | 26 | Votre amie Julie va garder votre chat et arroser vos plantes durant votre absence. Rédigez-lui un message avec les consignes à suivre. | Writing: write a message to a friend giving her instructions for looking after your cat and plants while you're away (60-120 words). | 1 source | 2024-09 | - |
 | 27 | Vous vous installez à Nice et vous écrivez à une agence immobilière pour demander son aide dans votre recherche d'appartement, en précisant le loyer souhaité, le nombre d'occupants et la date d'emménagement. | Write a 60-120 word message to a real estate agency asking for help finding a flat in Nice, specifying rent, number of occupants and move-in date. | 1 source | 2025-02 | - |
+| 28 | Écris un message à ton ami Cédric dans lequel tu lui donnes des consignes pour s'occuper de ta maison et de ton jardin le temps de ton absence. | Write a message to your friend Cédric with instructions to look after your house and garden while you're away. | 1 source | 2025-02 | - |
 
 ## Technology
 
@@ -253,9 +255,9 @@ A message to one or more people, 60 to 120 words.
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Votre ami Lucas vous a écrit un courriel. Répondez-lui en lui faisant découvrir les nouveaux bureaux de votre entreprise : où ils se trouvent, comment les pièces sont disposées, quel matériel s'y trouve, etc. | Reply to your friend Lucas's email by describing your company's new premises: location, layout of the rooms, equipment, etc. | 8 sources | 2023-05 | - |
-| 2 | Vous venez de décrocher un nouvel emploi. Écrivez un message à votre amie francophone pour lui annoncer cette bonne nouvelle. Décrivez votre poste, vos collègues et votre lieu de travail. | The candidate must write a short message to a friend announcing a new job, describing the position, colleagues, and workplace. | 7 sources | 2023-11 | - |
-| 3 | « Coucou, Alors, tu as démarré ton nouvel emploi ? Raconte-moi comment ça se passe ! Tu apprécies ? Ali ». Répondez à votre ami Ali : décrivez votre nouveau poste (endroit, collègues, etc.) et partagez vos impressions. | Reply to a friend's message describing your new job (place, colleagues) and your impressions of it. | 7 sources | 2023-11 | - |
-| 4 | Votre mission professionnelle à l'étranger touche à sa fin et vous souhaitez retrouver vos collègues avant votre départ. Envoyez-leur un courriel pour les inviter au restaurant en indiquant ce que vous prévoyez, le lieu, le jour et l'heure. | Write an email inviting your colleagues to a farewell restaurant meal, giving the plan, address, date and time. | 6 sources | 2023-11 | - |
+| 2 | Votre mission professionnelle à l'étranger touche à sa fin et vous souhaitez retrouver vos collègues avant votre départ. Envoyez-leur un courriel pour les inviter au restaurant en indiquant ce que vous prévoyez, le lieu, le jour et l'heure. | Write an email inviting your colleagues to a farewell restaurant meal, giving the plan, address, date and time. | 7 sources | 2023-11 | - |
+| 3 | Vous venez de décrocher un nouvel emploi. Écrivez un message à votre amie francophone pour lui annoncer cette bonne nouvelle. Décrivez votre poste, vos collègues et votre lieu de travail. | The candidate must write a short message to a friend announcing a new job, describing the position, colleagues, and workplace. | 7 sources | 2023-11 | - |
+| 4 | « Coucou, Alors, tu as démarré ton nouvel emploi ? Raconte-moi comment ça se passe ! Tu apprécies ? Ali ». Répondez à votre ami Ali : décrivez votre nouveau poste (endroit, collègues, etc.) et partagez vos impressions. | Reply to a friend's message describing your new job (place, colleagues) and your impressions of it. | 7 sources | 2023-11 | - |
 | 5 | Écrivez un message à un ami pour lui raconter comment s'est déroulé votre entretien d'embauche. | Write a message to a friend recounting your job interview. | 5 sources | 2023-02 | - |
 | 6 | Vous venez de commencer un nouveau travail. Écrivez un courriel à votre famille et vos amis pour leur décrire votre première semaine (l'entreprise, votre poste, vos tâches, etc.). | Write an email to family/friends describing your first week at a new job. | 5 sources | 2023-05 | - |
 | 7 | Les professeurs de votre quartier envisagent d'organiser une réunion pour aider leurs élèves à choisir leur future orientation professionnelle. Écrivez un courriel présentant les avantages de votre métier. | Write an email to teachers presenting the advantages of your profession for a career-guidance meeting. | 4 sources | 2023-05 | - |

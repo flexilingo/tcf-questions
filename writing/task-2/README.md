@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-183 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+185 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (72)
+- [Culture](#culture) (73)
 - [Economy](#economy) (3)
 - [Education](#education) (19)
 - [Environment](#environment) (4)
@@ -17,7 +17,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Immigration](#immigration) (13)
 - [Miscellaneous](#miscellaneous) (9)
 - [Technology](#technology) (22)
-- [Work](#work) (17)
+- [Work](#work) (18)
 
 ## Culture
 
@@ -95,6 +95,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 70 | Sur un forum, tu réponds à la question : « Tout quitter pour voyager pendant un an, est-ce judicieux ? » en donnant ton opinion et ton vécu. | Answer online whether giving up everything to travel for a year is a good idea, sharing your experience. | 1 source | 2025-02 | - |
 | 71 | Venez Visiter Notre École De Musique ! Cours Offerts, Concerts, Animations. Rendez-vous Samedi, dès 9 Heures Dans Nos Locaux ! Vous avez assisté à cet événement. Écrivez à vos amis pour leur raconter votre journée et donnez votre avis sur cette expérience. | Write a text telling friends about attending a music school open day and give your opinion about it. | 1 source | 2025-02 | - |
 | 72 | Vous avez participé récemment à une manifestation culturelle organisée dans votre ville (fête populaire, concert, festival, etc.). Sur votre blog, racontez ce moment et précisez ce qui vous a particulièrement plu. | Write a blog post recounting a local cultural event you attended and what you liked about it. | 1 source | 2025-02 | - |
+| 73 | Rédigez un article pour votre blog personnel dans lequel vous racontez votre visite d'une brocante. Expliquez ce qui vous a séduit(e) : la découverte d'objets originaux, l'atmosphère du lieu ou les échanges avec les vendeurs. | Write a blog article about a flea market visit and what you enjoyed about it. | 1 source | 2025-03 | - |
 
 ## Economy
 
@@ -156,7 +157,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Vous avez suivi récemment un cours de sport dans une salle de votre ville. Écrivez un article pour votre blog personnel dans lequel vous racontez cette expérience et donnez votre avis sur cette salle. | The candidate must write a blog article recounting a recent gym class experience and giving their opinion of the gym. | 7 sources | 2023-10 | - |
-| 2 | Vous venez de vous mettre à un nouveau sport. Sur votre blog, racontez comment vous avez commencé et expliquez en quoi ce sport pourrait plaire à beaucoup de personnes. | Write a blog post about starting a new sport and explain why it could suit a wide audience. | 6 sources | 2023-11 | - |
+| 2 | Vous venez de vous mettre à un nouveau sport. Sur votre blog, racontez comment vous avez commencé et expliquez en quoi ce sport pourrait plaire à beaucoup de personnes. | Write a blog post about starting a new sport and explain why it could suit a wide audience. | 7 sources | 2023-11 | - |
 | 3 | Vous avez vu cette annonce. Rédigez un article destiné aux lecteurs du site « www.manger-international.com », dans lequel vous expliquerez les habitudes alimentaires des habitants de votre pays et préciserez celles que vous appréciez ou non, et pourquoi. | Write an article for a website about your country's eating habits, saying which you like or dislike and why. | 4 sources | 2023-06 | - |
 | 4 | Vous êtes allé(e) assister à une compétition sportive. Décrivez cette expérience dans un article publié sur le blog de votre site web (ambiance, organisation, préparatifs, réactions des supporters, etc.). | The candidate must write a blog article about attending a sporting event, describing atmosphere, preparations and fans' reactions. | 4 sources | 2024-07 | - |
 | 5 | www.manger-international.com Ce mois-ci, notre dossier porte sur les habitudes alimentaires à travers le monde. Partagez-nous la façon dont on mange dans votre pays ! Les dix premiers témoignages reçus seront publiés sur notre site ! Après avoir lu cette annonce, rédigez un article destiné aux lecteurs du site « www.manger-international.com ». Décrivez les habitudes alimentaires des habitants de votre pays et précisez celles que vous appréciez ou non, et pour quelles raisons. | The candidate must write an article for a website describing eating habits in their country and explaining which habits they like or dislike and why. | 4 sources | 2024-08 | - |
@@ -251,6 +252,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 15 | Les professeurs organisent une rencontre avec les élèves pour discuter des différents métiers, et vous souhaitez y participer afin de raconter votre parcours professionnel et d'en présenter les atouts (vécu, collègues, etc.). | The candidate must write about wanting to join a school session to share their work experience and its benefits. | 1 source | 2024-04 | - |
 | 16 | Vous avez suivi une journée de formation professionnelle dans le cadre de votre emploi. Votre entreprise vous demande de rédiger un article destiné à vos collègues pour partager cette expérience. Présentez cette journée et exposez votre ressenti. | The candidate must write an article for colleagues describing a professional training day and their opinion of it. | 1 source | 2024-10 | - |
 | 17 | Votre société souhaite organiser un dîner de fin d'année dans un restaurant pouvant recevoir une centaine de convives. Vous avez repéré un établissement adapté. Écrivez à votre direction pour expliquer pourquoi ce restaurant devrait être retenu (localisation, prix, prestations, etc.) | Write to your company's management explaining why a restaurant you found should be chosen for the year-end dinner for 100 guests. | 1 source | 2025-02 | - |
+| 18 | Votre société a instauré le télétravail pour améliorer le bien-être des salariés. Rédigez un article relatant votre vécu de télétravailleur : avantages, obstacles rencontrés, et propositions pour rendre le dispositif plus efficace. | Writing: write an article about your experience with remote work, describing advantages, challenges, and suggestions for improvement (120-150 words). | 1 source | 2025-03 | - |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-288 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+289 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Family](#family) (25)
 - [Health](#health) (19)
 - [Immigration](#immigration) (42)
-- [Miscellaneous](#miscellaneous) (43)
+- [Miscellaneous](#miscellaneous) (44)
 - [Technology](#technology) (35)
 - [Work](#work) (42)
 
@@ -39,12 +39,12 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 14 | Pensez-vous que la gentillesse suffit toujours à se faire écouter et respecter ? Exprimez votre point de vue et défendez-le. | State and defend your opinion on whether kindness always earns you respect and a hearing. | 7 sources | 2023-11 | - |
 | 15 | Aimez-vous mieux voir des films ou assister à des pièces de théâtre ? Justifiez votre réponse. | The candidate must state and justify whether they prefer films or theatre. | 7 sources | 2023-12 | - |
 | 16 | Les professions artistiques (cinéma, musique, peinture, etc.) ne sont pas considérées comme des métiers à part entière. Quel est votre avis ? | The candidate must give and defend an opinion on whether art-related jobs are seen as real jobs. | 6 sources | 2022-10 | - |
-| 17 | Le tourisme est-il responsable de la dégradation de certaines régions ? Donnez votre point de vue sur cette question. | The candidate must give and defend their opinion on whether tourism destroys certain regions. | 6 sources | 2023-02 | - |
-| 18 | Que pensez-vous du développement de l'agriculture biologique ? | Give and defend your opinion on the growth of organic farming. | 6 sources | 2023-03 | - |
-| 19 | Selon vous, quelle cause représente actuellement l'enjeu le plus crucial à l'échelle mondiale : la cause sociale, la cause humanitaire ou la cause culturelle ? Justifiez votre réponse. | Give and justify your opinion on which cause (social, humanitarian, or cultural) is most important in the world today. | 6 sources | 2023-09 | - |
-| 20 | Selon vous, l'entrée aux musées devrait-elle être gratuite pour tous ? Défendez votre opinion. | Give and defend your opinion on whether museums should be free for everyone. | 6 sources | 2023-12 | - |
-| 21 | Que pensez-vous des personnes qui choisissent de voyager seules ? | Give and defend your opinion on people who choose to travel alone. | 6 sources | 2025-03 | - |
-| 22 | Pensez-vous que voyager soit un privilège réservé aux personnes fortunées ? Donnez votre avis. | The candidate must give and defend an opinion on whether travel is only accessible to wealthy people. | 5 sources | 2022-10 | - |
+| 17 | Pensez-vous que voyager soit un privilège réservé aux personnes fortunées ? Donnez votre avis. | The candidate must give and defend an opinion on whether travel is only accessible to wealthy people. | 6 sources | 2022-10 | - |
+| 18 | Le tourisme est-il responsable de la dégradation de certaines régions ? Donnez votre point de vue sur cette question. | The candidate must give and defend their opinion on whether tourism destroys certain regions. | 6 sources | 2023-02 | - |
+| 19 | Que pensez-vous du développement de l'agriculture biologique ? | Give and defend your opinion on the growth of organic farming. | 6 sources | 2023-03 | - |
+| 20 | Selon vous, quelle cause représente actuellement l'enjeu le plus crucial à l'échelle mondiale : la cause sociale, la cause humanitaire ou la cause culturelle ? Justifiez votre réponse. | Give and justify your opinion on which cause (social, humanitarian, or cultural) is most important in the world today. | 6 sources | 2023-09 | - |
+| 21 | Selon vous, l'entrée aux musées devrait-elle être gratuite pour tous ? Défendez votre opinion. | Give and defend your opinion on whether museums should be free for everyone. | 6 sources | 2023-12 | - |
+| 22 | Que pensez-vous des personnes qui choisissent de voyager seules ? | Give and defend your opinion on people who choose to travel alone. | 6 sources | 2025-03 | - |
 | 23 | La lecture permet-elle réellement de découvrir un pays ? Partagez-vous cette idée ? | The candidate must give and defend an opinion on whether reading books is a good way to learn about a country. | 5 sources | 2022-11 | - |
 | 24 | La plupart des gens cherchent-ils à paraître plus jeunes qu'ils ne le sont réellement ? Donnez votre avis. | Give and defend your opinion on whether most people try to look younger than their age. | 5 sources | 2022-12 | - |
 | 25 | Partagez-vous l'opinion selon laquelle le tourisme contribue à la croissance et au développement économique d'un pays ? | Give and defend your opinion on whether tourism contributes to a country's economic development. | 5 sources | 2022-12 | - |
@@ -206,15 +206,15 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 25 | À votre avis, quelles activités et quelles visites conseilleriez-vous à un(e) touriste étranger(ère) découvrant votre pays pour la première fois ? Pourquoi ? | The candidate must give an opinion on what activities/visits to recommend to a first-time foreign tourist in their country. | 7 sources | 2024-03 | - |
 | 26 | D'après vous, quelles sont les trois questions essentielles à se poser avant de commencer des démarches d'immigration au Québec ? Expliquez pourquoi vous retenez ces trois questions. | Give and justify the three key questions to ask before starting immigration procedures to Quebec. | 6 sources | 2023-09 | - |
 | 27 | Est-il plus simple de s’installer à l’étranger lorsqu’on est jeune ? Partagez-vous cet avis ? | The candidate must give their opinion on whether it's easier to move abroad when young. | 6 sources | 2024-10 | - |
-| 28 | Faut-il s'intégrer à la culture du pays d'accueil ou plutôt préserver sa propre culture ? Quel est votre avis ? | The candidate must give their opinion on integrating into a host country's culture versus preserving one's own. | 5 sources | 2022-09 | - |
-| 29 | Selon vous, faut-il conserver ses traditions et sa culture d'origine lorsqu'on s'installe dans un nouveau pays ? Vous exposerez votre opinion et la défendrez à l'aide d'arguments et d'exemples devant l'examinateur. | Give and defend your opinion on whether immigrants should preserve their traditions and culture in a host country. | 5 sources | 2022-11 | - |
-| 30 | L'immigration apporte des avantages au pays qui accueille les immigrés. Partagez-vous cette affirmation ? | Give and defend your opinion on whether immigration benefits the host country. | 5 sources | 2022-12 | - |
-| 31 | On peut tout à fait s'installer dans un pays étranger sans en maîtriser la langue. Partagez-vous cet avis ? Justifiez votre réponse. | The candidate must give and defend an opinion on whether one can live abroad without speaking the local language. | 5 sources | 2023-02 | - |
-| 32 | Quelles sont les raisons principales qui poussent les individus à émigrer vers d'autres pays ? Pourquoi ? | Give and defend an opinion on the main reasons people emigrate to other countries. | 5 sources | 2023-11 | - |
-| 33 | 5. Peu importe l'âge, il est toujours possible de s'intégrer dans un nouveau pays. Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether integration in a host country is possible at any age. | 5 sources | 2024-07 | - |
-| 34 | Émigrer seul(e) ou avec sa famille : quel est votre avis sur cette question ? | Give your opinion on whether it's better to immigrate alone or with family. | 5 sources | 2024-10 | - |
-| 35 | D'après vous, quelles sont les motivations qui peuvent amener une personne à aller travailler à l'étranger ? | The candidate must discuss reasons that push people to work abroad. | 5 sources | 2025-02 | - |
-| 36 | Selon vous, faut-il du courage pour quitter son pays natal et aller vivre ailleurs ? Défendez votre point de vue. | Give and defend your opinion on whether leaving one's country to live abroad requires courage. | 5 sources | 2025-02 | - |
+| 28 | D'après vous, quelles sont les motivations qui peuvent amener une personne à aller travailler à l'étranger ? | The candidate must discuss reasons that push people to work abroad. | 6 sources | 2025-02 | - |
+| 29 | Selon vous, faut-il du courage pour quitter son pays natal et aller vivre ailleurs ? Défendez votre point de vue. | Give and defend your opinion on whether leaving one's country to live abroad requires courage. | 6 sources | 2025-02 | - |
+| 30 | Faut-il s'intégrer à la culture du pays d'accueil ou plutôt préserver sa propre culture ? Quel est votre avis ? | The candidate must give their opinion on integrating into a host country's culture versus preserving one's own. | 5 sources | 2022-09 | - |
+| 31 | Selon vous, faut-il conserver ses traditions et sa culture d'origine lorsqu'on s'installe dans un nouveau pays ? Vous exposerez votre opinion et la défendrez à l'aide d'arguments et d'exemples devant l'examinateur. | Give and defend your opinion on whether immigrants should preserve their traditions and culture in a host country. | 5 sources | 2022-11 | - |
+| 32 | L'immigration apporte des avantages au pays qui accueille les immigrés. Partagez-vous cette affirmation ? | Give and defend your opinion on whether immigration benefits the host country. | 5 sources | 2022-12 | - |
+| 33 | On peut tout à fait s'installer dans un pays étranger sans en maîtriser la langue. Partagez-vous cet avis ? Justifiez votre réponse. | The candidate must give and defend an opinion on whether one can live abroad without speaking the local language. | 5 sources | 2023-02 | - |
+| 34 | Quelles sont les raisons principales qui poussent les individus à émigrer vers d'autres pays ? Pourquoi ? | Give and defend an opinion on the main reasons people emigrate to other countries. | 5 sources | 2023-11 | - |
+| 35 | 5. Peu importe l'âge, il est toujours possible de s'intégrer dans un nouveau pays. Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether integration in a host country is possible at any age. | 5 sources | 2024-07 | - |
+| 36 | Émigrer seul(e) ou avec sa famille : quel est votre avis sur cette question ? | Give your opinion on whether it's better to immigrate alone or with family. | 5 sources | 2024-10 | - |
 | 37 | S'expatrier en famille serait plus simple que de le faire seul(e). Que pensez-vous de cette idée ? | The candidate must give and defend an opinion on whether expatriating is easier with family than alone. | 5 sources | 2025-03 | - |
 | 38 | S’adapter à un pays qu’on ne connaît pas est une épreuve difficile. Qu’en pensez-vous ? | Give and defend your opinion on whether settling in a new country is difficult. | 5 sources | 2025-07 | - |
 | 39 | D’après vous, est-il possible de s’épanouir en vivant seul ? | Give and defend your opinion on whether one can thrive living alone. | 5 sources | 2025-10 | - |
@@ -248,19 +248,19 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 20 | À votre avis, quel est le meilleur âge pour partir vivre à l'étranger ? Pourquoi ? | State and defend your opinion on the ideal age to emigrate. | 7 sources | 2023-12 | - |
 | 21 | Certaines personnes consacrent leur temps libre à des associations pour venir en aide à autrui. Quel est votre avis sur cette pratique ? | The candidate must give their opinion on people volunteering for associations in their free time. | 7 sources | 2024-02 | - |
 | 22 | Beaucoup de magazines proposent des astuces pour maigrir. Êtes-vous favorable ou opposé(e) à cette pratique ? | The candidate must give and defend an opinion on magazines offering weight-loss advice. | 6 sources | 2022-10 | - |
-| 23 | Selon vous, peut-on devenir ami avec quelqu'un dont les idées s'opposent aux vôtres ? | The candidate must give and defend an opinion on whether friendship is possible with someone holding opposite beliefs. | 6 sources | 2022-10 | - |
-| 24 | Un nombre croissant de personnes recourt à la chirurgie esthétique afin de paraître plus jeune. Quel est votre avis sur cette question ? | The candidate must give and defend their opinion on cosmetic surgery to stay young. | 6 sources | 2023-02 | - |
-| 25 | À quoi servent les zoos ? Justifiez votre réponse. | Give and defend an opinion on the usefulness of zoos. | 6 sources | 2023-09 | - |
-| 26 | Décider de quitter son pays natal est une chose facile. Partagez-vous cet avis ? | Give and defend your opinion on whether leaving one's country is an easy decision. | 6 sources | 2023-12 | - |
-| 27 | L’afflux excessif de touristes pose-t-il problème aux habitants d’une ville ? Quel est votre avis sur cette question ? | The candidate must give their view on whether too many tourists is a problem for city residents. | 6 sources | 2024-09 | - |
-| 28 | Installer des caméras de surveillance renforce la sécurité des citoyens dans les espaces publics. Partagez-vous cet avis ? | Give and defend your opinion on whether surveillance cameras improve public safety. | 6 sources | 2024-10 | - |
-| 29 | Selon vous, les aides sociales affaiblissent-elles la solidarité familiale ? Justifiez votre point de vue. | The candidate must give and justify an opinion on whether social welfare weakens family solidarity. | 6 sources | 2024-10 | - |
-| 30 | Pensez-vous qu'il soit possible de modifier ses habitudes alimentaires une fois devenu adulte ? Justifiez votre réponse. | Give and defend your opinion on whether adults can change their eating habits. | 6 sources | 2025-03 | - |
-| 31 | Selon vous, peut-on faire confiance aux consultations médicales effectuées à distance ? Pourquoi ? | Give and defend your opinion on trusting remote medical consultations. | 6 sources | 2025-07 | - |
-| 32 | Les filles et les garçons devraient-ils recevoir la même éducation ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether boys and girls should be raised the same way. | 6 sources | 2025-09 | - |
-| 33 | Pensez-vous que les célébrités ont leur place dans le monde politique ? | The candidate must give their opinion on whether celebrities belong in politics. | 5 sources | 2022-09 | - |
-| 34 | Pensez-vous qu'il faille travailler moins pour mieux profiter de l'existence ? Exprimez votre opinion. | The candidate must give and defend an opinion on whether working less leads to a better life. | 5 sources | 2022-10 | - |
-| 35 | Selon vous, la vie à la campagne est-elle plus agréable que la vie en ville ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether country life is more pleasant than city life. | 5 sources | 2022-10 | - |
+| 23 | Pensez-vous qu'il faille travailler moins pour mieux profiter de l'existence ? Exprimez votre opinion. | The candidate must give and defend an opinion on whether working less leads to a better life. | 6 sources | 2022-10 | - |
+| 24 | Selon vous, la vie à la campagne est-elle plus agréable que la vie en ville ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether country life is more pleasant than city life. | 6 sources | 2022-10 | - |
+| 25 | Selon vous, peut-on devenir ami avec quelqu'un dont les idées s'opposent aux vôtres ? | The candidate must give and defend an opinion on whether friendship is possible with someone holding opposite beliefs. | 6 sources | 2022-10 | - |
+| 26 | Un nombre croissant de personnes recourt à la chirurgie esthétique afin de paraître plus jeune. Quel est votre avis sur cette question ? | The candidate must give and defend their opinion on cosmetic surgery to stay young. | 6 sources | 2023-02 | - |
+| 27 | À quoi servent les zoos ? Justifiez votre réponse. | Give and defend an opinion on the usefulness of zoos. | 6 sources | 2023-09 | - |
+| 28 | Décider de quitter son pays natal est une chose facile. Partagez-vous cet avis ? | Give and defend your opinion on whether leaving one's country is an easy decision. | 6 sources | 2023-12 | - |
+| 29 | L’afflux excessif de touristes pose-t-il problème aux habitants d’une ville ? Quel est votre avis sur cette question ? | The candidate must give their view on whether too many tourists is a problem for city residents. | 6 sources | 2024-09 | - |
+| 30 | Installer des caméras de surveillance renforce la sécurité des citoyens dans les espaces publics. Partagez-vous cet avis ? | Give and defend your opinion on whether surveillance cameras improve public safety. | 6 sources | 2024-10 | - |
+| 31 | Selon vous, les aides sociales affaiblissent-elles la solidarité familiale ? Justifiez votre point de vue. | The candidate must give and justify an opinion on whether social welfare weakens family solidarity. | 6 sources | 2024-10 | - |
+| 32 | Pensez-vous qu'il soit possible de modifier ses habitudes alimentaires une fois devenu adulte ? Justifiez votre réponse. | Give and defend your opinion on whether adults can change their eating habits. | 6 sources | 2025-03 | - |
+| 33 | Selon vous, peut-on faire confiance aux consultations médicales effectuées à distance ? Pourquoi ? | Give and defend your opinion on trusting remote medical consultations. | 6 sources | 2025-07 | - |
+| 34 | Les filles et les garçons devraient-ils recevoir la même éducation ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether boys and girls should be raised the same way. | 6 sources | 2025-09 | - |
+| 35 | Pensez-vous que les célébrités ont leur place dans le monde politique ? | The candidate must give their opinion on whether celebrities belong in politics. | 5 sources | 2022-09 | - |
 | 36 | Pensez-vous qu'il soit indispensable de suivre l'actualité quotidiennement afin de mieux saisir ce qui se passe dans le monde ? Donnez votre opinion. | The candidate must give and defend an opinion on whether daily news-following is necessary to understand the world. | 5 sources | 2022-12 | - |
 | 37 | À votre avis, obtenir de bons résultats scolaires assure-t-il forcément la réussite dans la vie ? Exprimez votre opinion. | Give and defend your opinion on whether academic success guarantees success in life. | 5 sources | 2022-12 | - |
 | 38 | À votre avis, la télé-réalité exerce-t-elle une mauvaise influence sur les jeunes ? | The candidate must give and defend an opinion on whether reality TV negatively influences young people. | 5 sources | 2023-03 | - |
@@ -269,6 +269,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 41 | Selon vous, qui devrait venir en aide aux personnes en difficulté : l'État ou les citoyens eux-mêmes ? Donnez votre point de vue. | Give and defend your opinion on whether the government or citizens should help people in difficulty. | 5 sources | 2023-09 | - |
 | 42 | Aujourd'hui, tout le monde cherche à conserver sa jeunesse. Quel est votre avis sur cette question ? | Give your opinion on the fact that everyone today wants to stay young. | 5 sources | 2024-06 | - |
 | 43 | Les habitudes alimentaires évoluent-elles au fil du temps ? Donnez votre opinion sur ce sujet. | The candidate must give and defend an opinion on whether eating habits change over time. | 5 sources | 2024-10 | - |
+| 44 | Tout le monde devrait-il avoir la possibilité de télétravailler s'il le désire ? Exposez votre opinion. | Present your opinion on whether everyone should be able to work remotely if they wish. | 5 sources | 2025-01 | - |
 
 ## Technology
 
