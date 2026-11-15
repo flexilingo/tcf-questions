@@ -4,7 +4,7 @@
 
 A message to one or more people, 60 to 120 words.
 
-204 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+206 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,11 +13,11 @@ A message to one or more people, 60 to 120 words.
 - [Education](#education) (29)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
-- [Health](#health) (17)
+- [Health](#health) (18)
 - [Immigration](#immigration) (10)
 - [Miscellaneous](#miscellaneous) (28)
 - [Technology](#technology) (3)
-- [Work](#work) (18)
+- [Work](#work) (19)
 
 ## Culture
 
@@ -193,6 +193,7 @@ A message to one or more people, 60 to 120 words.
 | 15 | Votre amie Carole ainsi que sa famille comptent venir visiter votre ville bientôt. Rédigez-leur un message dans lequel vous leur suggérez un hôtel pour leur séjour (prix, activités possibles, moyens de transport, etc.). | Write a short message recommending a hotel to a friend's family visiting your city, including price, activities and transport. | 3 sources | 2025-07 | - |
 | 16 | « Coucou, on m'a dit que tu fréquentes une salle de sport géniale. Tu peux me raconter ? » Répondez-lui par un message en donnant des précisions sur cette salle (atmosphère, équipements, tarifs, etc.). | Write a message replying to a friend describing your gym (atmosphere, equipment, prices). | 3 sources | 2025-07 | - |
 | 17 | Coucou, Je sais que tu fréquentes une salle de sport. Ça te plaît ? Tu peux me donner plus de détails ? J'aimerais savoir si elle vaut le coup ! Merci d'avance ! Joanna Vous répondez à votre amie Joanna. Dans votre message, vous décrivez la salle de sport où vous allez (activités proposées, horaires, tarifs, etc.). | The candidate must reply to a friend describing their gym (activities, hours, prices). | 2 sources | 2026-03 | - |
+| 18 | Répondez au message d'un ami qui veut se mettre au sport et vous demande de lui recommander une salle correspondant à ses attentes. | Reply to a friend who wants to start exercising and recommend a suitable gym. | 1 source | 2025-03 | - |
 
 ## Immigration
 
@@ -272,6 +273,7 @@ A message to one or more people, 60 to 120 words.
 | 16 | Écrivez un message à un ami ou une amie pour lui raconter le déroulement de votre entretien d'embauche. | Write a message to a friend recounting how a job interview went. | 1 source | 2024-01 | - |
 | 17 | Chers collègues, nous cherchons une salle pour organiser notre fête de fin d'année. Merci de nous transmettre vos suggestions (lieu, tarif, services proposés, etc.) | The candidate must write a message to colleagues asking for suggestions of a venue for the year-end party. | 1 source | 2024-04 | - |
 | 18 | Salut ! Ton entreprise a-t-elle fini de déménager ? À quoi ressemblent les nouveaux locaux ? Lucas Répondez à votre ami Lucas en décrivant les nouveaux locaux de votre entreprise (emplacement, agencement des espaces, équipements, etc.) | The candidate must reply to a friend describing their company's new office premises. | 1 source | 2025-01 | - |
+| 19 | Répondez au courriel d'un ami qui vous demande des renseignements sur les nouveaux bureaux de votre société : précisez leur situation géographique, l'organisation des différents espaces et les équipements mis à disposition. | Reply to a friend's email describing your company's new offices: location, layout, and equipment. | 1 source | 2025-03 | - |
 
 ---
 

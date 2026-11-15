@@ -4,20 +4,20 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-304 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+306 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (41)
 - [Economy](#economy) (40)
-- [Education](#education) (45)
+- [Education](#education) (46)
 - [Environment](#environment) (23)
 - [Family](#family) (34)
 - [Health](#health) (31)
 - [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (9)
 - [Technology](#technology) (22)
-- [Work](#work) (57)
+- [Work](#work) (58)
 
 ## Culture
 
@@ -159,6 +159,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 43 | L'enseignement à distance se généralise de plus en plus dans le système scolaire. Mais quand un élève seul face à son écran a besoin qu'on lui réexplique une notion, que peut-il faire ? Les cours en ligne proposent certes des messageries instantanées et des appels audio, mais rien ne vaut la présence physique en classe, où les enseignants et les camarades peuvent apporter des explications claires en cas de besoin. | Compare two texts with opposing views on online learning versus classroom teaching and write a synthesis of 120-180 words. | 1 source | 2023-11 | - |
 | 44 | Document 1 : l'enseignement à distance rend l'apprentissage accessible à tous, partout dans le monde, avec des ressources variées et un rythme personnalisé. Document 2 : le manque d'échanges en personne nuit à la motivation des élèves et les inégalités d'accès à la technologie renforcent les écarts entre eux. | Compare two texts with opposing views on online education and write 120-180 words. | 1 source | 2024-02 | - |
 | 45 | Toutefois, apprendre une langue à distance comporte aussi des limites. L'absence d'échanges en direct prive les apprenants d'une pratique orale régulière. Par ailleurs, ce mode d'apprentissage exige beaucoup d'autodiscipline et de motivation personnelle, ce qui n'est pas évident pour tous. La qualité des supports numériques est inégale, et l'accès aux outils technologiques n'est pas le même pour chacun. Sans cadre d'apprentissage structuré, certains étudiants progressent moins efficacement. | The candidate must write the opposing viewpoint text about the drawbacks of distance language learning, as part of a two-document comparison task. | 1 source | 2024-02 | - |
+| 46 | Rédigez un texte comparant deux avis sur les jeux vidéo, l'un mettant en avant leur valeur éducative pour développer la créativité et la réflexion, l'autre pointant les risques liés à un usage excessif comme l'addiction ou les troubles de santé, en 120 à 180 mots. | Compare two opposing views on whether video games are educational or harmful, in 120-180 words. | 1 source | 2024-03 | - |
 
 ## Environment
 
@@ -372,6 +373,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 55 | Interdire les voitures en centre-ville se révèle inefficace, voire contre-productif. La pollution n'est pas réduite, elle est simplement déplacée vers la périphérie, où la circulation et la pollution s'intensifient. La congestion, elle non plus, ne diminue pas vraiment, puisque les voitures cèdent la place à d'autres modes de déplacement tout aussi problématiques. Par ailleurs, cette mesure fragilise l'économie locale en pénalisant les commerces qui dépendent de la circulation automobile. Le Figaro, 15 janvier 2021 | Compare two texts with opposing views on banning cars in cities and write a synthesis of 120-180 words. | 1 source | 2023-11 | - |
 | 56 | Acheter directement chez les producteurs locaux présente de nombreux bénéfices. Les produits sont frais, parfois récoltés le jour même, et ont donc plus de saveur. Les producteurs locaux cultivent souvent des variétés anciennes, plus goûteuses. Ces circuits courts soutiennent aussi l'économie locale, en assurant une juste rémunération aux producteurs. Enfin, ils sont plus respectueux de l'environnement, puisque le transport réduit entraîne moins d'émissions de CO2. | Compare two texts with opposing views on buying from local producers and write a synthesis of 120-180 words. | 1 source | 2024-01 | - |
 | 57 | Document 1 : le télétravail apporte une grande souplesse d'organisation, réduit le stress des trajets et améliore l'équilibre vie professionnelle-vie privée. Document 2 : il favorise l'isolement, nuit à la communication entre collègues et brouille la frontière entre vie privée et travail. | Compare two texts with opposing views on remote work and write 120-180 words. | 1 source | 2024-02 | - |
+| 58 | Rédigez un texte comparant deux points de vue sur l'impact des réseaux sociaux, l'un soulignant qu'ils renforcent les liens sociaux et professionnels, l'autre affirmant qu'ils nuisent à la santé mentale et propagent de fausses informations, en 120 à 180 mots. | Compare two opposing views on whether social media is beneficial or harmful, in 120-180 words. | 1 source | 2024-03 | - |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-289 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+290 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,7 +13,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Education](#education) (28)
 - [Environment](#environment) (17)
 - [Family](#family) (25)
-- [Health](#health) (19)
+- [Health](#health) (20)
 - [Immigration](#immigration) (42)
 - [Miscellaneous](#miscellaneous) (44)
 - [Technology](#technology) (35)
@@ -172,8 +172,9 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 15 | D'après vous, les personnes en situation de handicap occupent-elles une place suffisante dans la société ? Justifiez votre réponse. | The candidate must give and defend an opinion on whether people with disabilities have a satisfactory place in society. | 6 sources | 2025-11 | - |
 | 16 | Pour protéger l'environnement, les transports en commun devraient-ils être gratuits ? Donnez votre point de vue. | Give and defend your opinion on whether public transport should be free to protect the planet. | 5 sources | 2024-01 | - |
 | 17 | Selon vous, les jeunes d'aujourd'hui s'engagent-ils moins qu'avant (environnement, politique, santé, etc.) ? Pourquoi ? | The candidate must give and defend an opinion on whether young people today are less engaged in causes. | 5 sources | 2025-04 | - |
-| 18 | Pour préserver sa santé, faut-il se limiter aux produits biologiques ? Partagez-vous cette opinion ? | Give and defend your opinion on whether staying healthy requires eating only organic products. | 5 sources | 2025-10 | - |
-| 19 | Pour être en bonne santé, l’essentiel est-il d’avoir une alimentation équilibrée ? Quel est votre avis sur ce sujet ? | Give and defend your opinion on whether balanced eating is the key to good health. | 5 sources | 2025-10 | - |
+| 18 | Que pensez-vous de la qualité de la nourriture dans votre pays ? Justifiez votre appréciation. | Explain and justify your assessment of the quality of food in your country. | 5 sources | 2025-09 | - |
+| 19 | Pour préserver sa santé, faut-il se limiter aux produits biologiques ? Partagez-vous cette opinion ? | Give and defend your opinion on whether staying healthy requires eating only organic products. | 5 sources | 2025-10 | - |
+| 20 | Pour être en bonne santé, l’essentiel est-il d’avoir une alimentation équilibrée ? Quel est votre avis sur ce sujet ? | Give and defend your opinion on whether balanced eating is the key to good health. | 5 sources | 2025-10 | - |
 
 ## Immigration
 

@@ -4,15 +4,15 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-185 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+187 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (73)
+- [Culture](#culture) (74)
 - [Economy](#economy) (3)
 - [Education](#education) (19)
 - [Environment](#environment) (4)
-- [Family](#family) (9)
+- [Family](#family) (10)
 - [Health](#health) (15)
 - [Immigration](#immigration) (13)
 - [Miscellaneous](#miscellaneous) (9)
@@ -96,6 +96,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 71 | Venez Visiter Notre École De Musique ! Cours Offerts, Concerts, Animations. Rendez-vous Samedi, dès 9 Heures Dans Nos Locaux ! Vous avez assisté à cet événement. Écrivez à vos amis pour leur raconter votre journée et donnez votre avis sur cette expérience. | Write a text telling friends about attending a music school open day and give your opinion about it. | 1 source | 2025-02 | - |
 | 72 | Vous avez participé récemment à une manifestation culturelle organisée dans votre ville (fête populaire, concert, festival, etc.). Sur votre blog, racontez ce moment et précisez ce qui vous a particulièrement plu. | Write a blog post recounting a local cultural event you attended and what you liked about it. | 1 source | 2025-02 | - |
 | 73 | Rédigez un article pour votre blog personnel dans lequel vous racontez votre visite d'une brocante. Expliquez ce qui vous a séduit(e) : la découverte d'objets originaux, l'atmosphère du lieu ou les échanges avec les vendeurs. | Write a blog article about a flea market visit and what you enjoyed about it. | 1 source | 2025-03 | - |
+| 74 | Racontez votre propre expérience de la colocation : comment cela s'est déroulé, et donnez votre opinion sur ce mode de vie. | Share your personal experience of shared housing and give your opinion on it. | 1 source | 2025-04 | - |
 
 ## Economy
 
@@ -151,6 +152,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 7 | Vous préparez une fête pour l'anniversaire d'un ami et vous invitez ses proches. Vous décrivez cet événement : le lieu, la date et les activités prévues. | Write a 120-150 word text describing a birthday party you are organising for a friend, including place, date and activities. | 1 source | 2020-02 | - |
 | 8 | Pour l'anniversaire de votre meilleur(e) ami(e), vous proposez aux membres du groupe d'amis de lui faire un cadeau commun que vous décrivez, et vous précisez la façon dont chacun peut contribuer. | The candidate must write suggesting a group gift for a best friend's birthday and explain how to contribute. | 1 source | 2024-04 | - |
 | 9 | Vous êtes bénévole dans une association qui visite des personnes âgées. Rédigez un article pour le journal municipal afin de raconter votre expérience et d'inciter d'autres personnes à s'engager dans cette association. | The candidate must write an article recounting a volunteer experience visiting elderly people and encouraging others to join the association. | 1 source | 2024-10 | - |
+| 10 | Vous avez vécu un moment fort en émotion (anniversaire, mariage, etc.). Rédigez un récit pour partager ce souvenir et mettre en valeur ce qui vous a le plus touché(e). | Write a narrative sharing a memorable personal event and what struck you most about it. | 1 source | 2025-03 | - |
 
 ## Health
 
