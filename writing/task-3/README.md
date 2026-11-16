@@ -4,14 +4,14 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-306 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+308 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (41)
-- [Economy](#economy) (40)
+- [Economy](#economy) (41)
 - [Education](#education) (46)
-- [Environment](#environment) (23)
+- [Environment](#environment) (24)
 - [Family](#family) (34)
 - [Health](#health) (31)
 - [Immigration](#immigration) (2)
@@ -109,6 +109,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 38 | Le commerce en ligne présente de multiples atouts, aussi bien pratiques qu'économiques. Il fait avant tout gagner du temps en supprimant les déplacements en magasin. Quelques clics suffisent pour trouver et commander vêtements, appareils électroniques, livres, ou même produits alimentaires. Le choix y est également illimité, avec la possibilité de comparer instantanément prix et caractéristiques. Cette concurrence renforcée se traduit souvent par des tarifs plus avantageux qu'en boutique physique. www.journaldunet.fr | Compare two texts with opposing views on online shopping versus in-store shopping and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 | 39 | Personnellement, je reste méfiant vis-à-vis du commerce en ligne. Malgré sa popularité et sa commodité, il ne remplace pas l'expérience d'achat en boutique. Ne pas pouvoir examiner ni toucher les produits est un vrai handicap. De plus, les délais de livraison, souvent longs, ne m'enchantent guère. L'absence de conseiller disponible pour un accompagnement personnalisé pèse également dans la balance. Je préfère donc l'achat en magasin, où le contact direct avec les produits et le personnel me permet de trancher immédiatement. www.digischool.fr | Compare two texts with opposing views on online shopping versus in-store shopping and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 | 40 | Les grandes surfaces proposent un vaste choix d'articles réunis en un même lieu. Leurs horaires larges facilitent les achats à toute heure. Grâce aux achats en grande quantité, les prix sont souvent plus bas, et des offres promotionnelles reviennent fréquemment. On y trouve des produits venus de multiples régions et pays. L'hygiène y est soumise à des règles rigoureuses. Enfin, ces magasins garantissent un confort d'achat grâce aux parkings, chariots et caisses rapides. | The candidate must write one of two opposing texts (in favor of supermarkets) as part of a two-document comparison task. | 1 source | 2024-01 | - |
+| 41 | Les créations artisanales incarnent qualité et authenticité. Elles témoignent du savoir-faire de chacun et encouragent une consommation plus responsable. En misant sur des ingrédients locaux, elles limitent l'empreinte carbone et soutiennent les commerces de proximité. Souvent dépourvues de conservateurs et d'additifs, elles constituent une alternative saine face aux produits industriels. Elles renforcent enfin les liens sociaux en transmettant traditions et créativité. | The candidate must write the text in favor of homemade products, as part of a two-document comparison task. | 1 source | 2024-04 | - |
 
 ## Education
 
@@ -188,6 +189,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 21 | L'art urbain : pour ou contre ? Point de vue favorable : l'art éveille la curiosité des habitants dans l'espace urbain. Qu'il s'agisse d'une fresque ou d'une performance de rue, l'ambiance passagère qui en résulte permet une rencontre entre des artistes encore méconnus et un public varié, parfois peu familier de cette forme d'expression. Les villes actuelles n'ont plus la même fonction qu'autrefois. Au-delà d'un simple lieu d'habitation, la cité se transforme, tire profit de la diversité de ses habitants, se réorganise et s'ouvre sur l'extérieur. Des espaces verts apparaissent et les murs se couvrent de couleurs grâce au street art. Il en résulte des lieux valorisant la qualité de vie, tout en respectant la nature et l'environnement. Point de vue défavorable : à plus grande échelle, la situation est moins simple. Les graffitis peuvent être vus comme une détérioration du cadre collectif, une nuisance visuelle ou le signe d'une fracture sociale. Beaucoup y voient un acte de vandalisme qui abîme les biens publics. La controverse sur les mérites et les défauts des graffitis divise artistes, législateurs et citoyens. | The candidate must compare two documents presenting opposing views on urban street art. | 2 sources | 2026-05 | - |
 | 22 | La surveillance par caméras dans les lieux publics offre de réels bénéfices pour la sécurité et la lutte contre la délinquance. Elle décourage les comportements criminels, facilite l'identification des personnes impliquées dans un incident et apporte des preuves concrètes lorsqu'un problème survient. En outre, la présence de ces caméras renforce le sentiment de sécurité des citoyens et contribue à un cadre de vie plus maîtrisé. En observant en permanence l'espace public, les forces de l'ordre peuvent intervenir rapidement en cas d'urgence, ce qui permet de prévenir des délits et, potentiellement, de sauver des vies. | Summarize and compare the two opposing viewpoints on public video surveillance in 120-180 words. | 1 source | 2023-12 | - |
 | 23 | Document 1 : les voitures électriques réduisent les émissions polluantes et bénéficient d'aides publiques encourageant leur adoption. Document 2 : leur coût élevé, le manque de bornes de recharge et les problèmes liés aux batteries limitent leur essor et posent des questions écologiques. | Compare two texts with opposing views on electric vehicles and write 120-180 words. | 1 source | 2024-03 | - |
+| 24 | La chasse aux animaux pose de véritables problèmes éthiques et écologiques. Elle peut provoquer le déclin d'espèces menacées et déséquilibrer les écosystèmes. Certaines pratiques, comme le braconnage ou la chasse en enclos, s'avèrent particulièrement cruelles envers les animaux. Il importe de favoriser des méthodes de régulation animale respectueuses du bien-être des espèces et de privilégier la sauvegarde de la biodiversité et des milieux naturels. | The candidate must write the text opposing hunting, as part of a two-document comparison task. | 1 source | 2024-04 | - |
 
 ## Family
 

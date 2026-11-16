@@ -4,13 +4,13 @@
 
 A message to one or more people, 60 to 120 words.
 
-206 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+208 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (58)
-- [Economy](#economy) (11)
-- [Education](#education) (29)
+- [Economy](#economy) (12)
+- [Education](#education) (30)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (18)
@@ -97,6 +97,7 @@ A message to one or more people, 60 to 120 words.
 | 9 | Vous allez prochainement emménager à Nice. Écrivez à une agence immobilière pour lui demander de l'aide dans votre recherche d'appartement (quartier, budget, superficie). | Write a message to a real estate agency asking for help finding an apartment, mentioning location, price, and size. | 1 source | 2023-12 | - |
 | 10 | Écrivez un e-mail à une amie pour l'inviter à assister avec vous au concert de votre chanteur ou chanteuse favori(te) (précisez la date, le lieu, le tarif, l'artiste, etc.) | The candidate must write an email inviting a friend to a concert, giving details like day, place, price and artist. | 1 source | 2024-04 | - |
 | 11 | Réponds-lui par courriel en lui présentant l'hôtel que tu as réservé pour lui : indique où il se trouve, son tarif et les services qu'il propose. | Reply by email describing the hotel booked, its location, price and services. | 1 source | 2025-02 | - |
+| 12 | Répondez par courriel à une annonce concernant un vélo recherché. Décrivez votre propre vélo, précisez son état, indiquez un prix et proposez un rendez-vous pour un essai. | Write an email replying to a bike wanted ad, describing your bike's condition, price and proposing a test ride meeting. | 1 source | 2025-03 | - |
 
 ## Education
 
@@ -131,6 +132,7 @@ A message to one or more people, 60 to 120 words.
 | 27 | Coucou, J'aimerais m'inscrire dans une salle de sport près de chez moi. Pourrais-tu me renseigner sur ce qui existe dans le quartier ? Je te remercie par avance. Bises, Laura | Write a short message to a friend asking for information about gyms in the neighborhood. | 1 source | 2025-02 | - |
 | 28 | Rédigez un message destiné à la direction pour l'informer qu'un lieu a été trouvé pour organiser la fête de fin d'année, en indiquant l'adresse, les prix, les prestations proposées et toute autre information utile. | Write a message to management announcing a venue found for the year-end party, with details. | 1 source | 2025-02 | - |
 | 29 | Répondez par message à un ami qui vous demande des renseignements sur une salle de sport réputée pour la qualité de ses services. | Reply to a friend asking for information about a well-regarded gym. | 1 source | 2025-02 | - |
+| 30 | Votre ami Alex vous a écrit pour prendre de vos nouvelles concernant votre nouvelle université. Répondez-lui en décrivant brièvement votre cadre universitaire. | Reply to a friend's message about your new university, briefly describing your surroundings. | 1 source | 2025-03 | - |
 
 ## Environment
 
