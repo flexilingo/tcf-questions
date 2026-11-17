@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-291 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+292 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -17,7 +17,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Immigration](#immigration) (42)
 - [Miscellaneous](#miscellaneous) (45)
 - [Technology](#technology) (35)
-- [Work](#work) (42)
+- [Work](#work) (43)
 
 ## Culture
 
@@ -359,6 +359,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 40 | Selon vous, avoir séjourné dans un pays étranger représente-t-il un avantage pour construire une carrière réussie ? | The candidate must give and defend an opinion on whether living abroad helps career success. | 5 sources | 2025-02 | - |
 | 41 | Selon vous, jusqu'à quel âge peut-on raisonnablement continuer à travailler ? Justifiez votre réponse. | The candidate must give and defend an opinion on the reasonable age limit for working. | 5 sources | 2025-03 | - |
 | 42 | À votre avis, quelles démarches un jeune devrait-il entreprendre pour décrocher un emploi ? | The candidate must give their opinion on what a young person should do to find a job. | 5 sources | 2026-01 | - |
+| 43 | Que pensez-vous de l'usage du téléphone portable sur le lieu de travail ? | The candidate must give and defend an opinion on mobile phone use at work. | 4 sources | 2022-10 | - |
 
 ---
 

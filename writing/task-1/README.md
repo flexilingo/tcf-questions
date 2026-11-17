@@ -4,20 +4,20 @@
 
 A message to one or more people, 60 to 120 words.
 
-208 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+210 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (58)
 - [Economy](#economy) (12)
-- [Education](#education) (30)
+- [Education](#education) (31)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (18)
 - [Immigration](#immigration) (10)
 - [Miscellaneous](#miscellaneous) (28)
 - [Technology](#technology) (3)
-- [Work](#work) (19)
+- [Work](#work) (20)
 
 ## Culture
 
@@ -133,6 +133,7 @@ A message to one or more people, 60 to 120 words.
 | 28 | Rédigez un message destiné à la direction pour l'informer qu'un lieu a été trouvé pour organiser la fête de fin d'année, en indiquant l'adresse, les prix, les prestations proposées et toute autre information utile. | Write a message to management announcing a venue found for the year-end party, with details. | 1 source | 2025-02 | - |
 | 29 | Répondez par message à un ami qui vous demande des renseignements sur une salle de sport réputée pour la qualité de ses services. | Reply to a friend asking for information about a well-regarded gym. | 1 source | 2025-02 | - |
 | 30 | Votre ami Alex vous a écrit pour prendre de vos nouvelles concernant votre nouvelle université. Répondez-lui en décrivant brièvement votre cadre universitaire. | Reply to a friend's message about your new university, briefly describing your surroundings. | 1 source | 2025-03 | - |
+| 31 | Vous répondez à un(e) ami(e) qui vous demande des informations sur une salle de sport réputée pour la qualité de ses prestations. Dans votre message, donnez-lui des précisions sur cette salle (équipements, atmosphère, horaires, tarifs, etc.) | Reply to a friend asking about a well-known gym, giving details about equipment, atmosphere, hours and prices. | 1 source | 2025-03 | - |
 
 ## Environment
 
@@ -276,6 +277,7 @@ A message to one or more people, 60 to 120 words.
 | 17 | Chers collègues, nous cherchons une salle pour organiser notre fête de fin d'année. Merci de nous transmettre vos suggestions (lieu, tarif, services proposés, etc.) | The candidate must write a message to colleagues asking for suggestions of a venue for the year-end party. | 1 source | 2024-04 | - |
 | 18 | Salut ! Ton entreprise a-t-elle fini de déménager ? À quoi ressemblent les nouveaux locaux ? Lucas Répondez à votre ami Lucas en décrivant les nouveaux locaux de votre entreprise (emplacement, agencement des espaces, équipements, etc.) | The candidate must reply to a friend describing their company's new office premises. | 1 source | 2025-01 | - |
 | 19 | Répondez au courriel d'un ami qui vous demande des renseignements sur les nouveaux bureaux de votre société : précisez leur situation géographique, l'organisation des différents espaces et les équipements mis à disposition. | Reply to a friend's email describing your company's new offices: location, layout, and equipment. | 1 source | 2025-03 | - |
+| 20 | Votre entreprise cherche une salle capable d'accueillir une centaine de personnes pour la soirée de fin d'année. Vous avez déniché un lieu qui vous semble parfait et vous écrivez à votre direction pour lui en présenter les caractéristiques (emplacement, prix, prestations, etc.) | Write to your company's management with details of a venue you found for a year-end party for 100 guests. | 1 source | 2025-03 | - |
 
 ---
 

@@ -4,18 +4,18 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-308 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+310 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (41)
 - [Economy](#economy) (41)
 - [Education](#education) (46)
-- [Environment](#environment) (24)
+- [Environment](#environment) (25)
 - [Family](#family) (34)
 - [Health](#health) (31)
 - [Immigration](#immigration) (2)
-- [Miscellaneous](#miscellaneous) (9)
+- [Miscellaneous](#miscellaneous) (10)
 - [Technology](#technology) (22)
 - [Work](#work) (58)
 
@@ -190,6 +190,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 22 | La surveillance par caméras dans les lieux publics offre de réels bénéfices pour la sécurité et la lutte contre la délinquance. Elle décourage les comportements criminels, facilite l'identification des personnes impliquées dans un incident et apporte des preuves concrètes lorsqu'un problème survient. En outre, la présence de ces caméras renforce le sentiment de sécurité des citoyens et contribue à un cadre de vie plus maîtrisé. En observant en permanence l'espace public, les forces de l'ordre peuvent intervenir rapidement en cas d'urgence, ce qui permet de prévenir des délits et, potentiellement, de sauver des vies. | Summarize and compare the two opposing viewpoints on public video surveillance in 120-180 words. | 1 source | 2023-12 | - |
 | 23 | Document 1 : les voitures électriques réduisent les émissions polluantes et bénéficient d'aides publiques encourageant leur adoption. Document 2 : leur coût élevé, le manque de bornes de recharge et les problèmes liés aux batteries limitent leur essor et posent des questions écologiques. | Compare two texts with opposing views on electric vehicles and write 120-180 words. | 1 source | 2024-03 | - |
 | 24 | La chasse aux animaux pose de véritables problèmes éthiques et écologiques. Elle peut provoquer le déclin d'espèces menacées et déséquilibrer les écosystèmes. Certaines pratiques, comme le braconnage ou la chasse en enclos, s'avèrent particulièrement cruelles envers les animaux. Il importe de favoriser des méthodes de régulation animale respectueuses du bien-être des espèces et de privilégier la sauvegarde de la biodiversité et des milieux naturels. | The candidate must write the text opposing hunting, as part of a two-document comparison task. | 1 source | 2024-04 | - |
+| 25 | Louer sa maison de façon temporaire peut aussi comporter des inconvénients pour les propriétaires. En optant pour une location sur une durée limitée, on s'expose au risque de tomber sur des locataires malhonnêtes ou négligents pouvant abîmer le bien. En outre, gérer ce type de location demande du temps et de l'énergie : chercher des locataires, établir des contrats, suivre les paiements. Les loyers variables selon les saisons compliquent aussi la prévision budgétaire sur le long terme. Enfin, le propriétaire peut voir son propre accès au logement restreint selon les créneaux de location. | The candidate must write the text opposing periodic home rental, listing its drawbacks for owners, as part of a two-document comparison task. | 1 source | 2024-04 | - |
 
 ## Family
 
@@ -286,6 +287,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 7 | Le végétarisme ne convient pas forcément à chacun. Certains ont besoin de viande afin d'obtenir des nutriments indispensables tels que le fer ou les protéines. En Europe, les habitudes culinaires traditionnelles intègrent souvent la viande, et il n'est pas toujours simple de rompre avec ces coutumes. De surcroît, adopter une alimentation végétarienne exige parfois davantage de temps et de savoir-faire pour composer des repas équilibrés, ce qui n'est pas toujours commode. | Write a short paragraph presenting the drawbacks of vegetarianism (nutrition, tradition, practicality) as part of a two-document comparison task. | 2 sources | 2025-04 | - |
 | 8 | Vous rédigez un texte présentant deux avis opposés sur la colocation. Document 1 : Vivre en colocation permet de partager les frais de logement, de rompre l'isolement et de créer des liens d'amitié durables avec ses colocataires. Document 2 : Partager son quotidien avec des inconnus entraîne souvent des tensions sur le ménage, le bruit ou les tâches communes, et prive chacun d'une véritable intimité. | Write 120-180 words comparing two opposing views on house-sharing. | 1 source | 2021-03 | - |
 | 9 | Contenu du document original indisponible (erreur technique : JavaScript requis pour afficher la page source). | The original scenario content could not be retrieved due to a technical error on the source page. | 1 source | 2022-08 | - |
+| 10 | Louer sa maison sur une durée limitée peut apporter de nombreux bénéfices aux propriétaires. D'abord, cela permet de générer un revenu complémentaire régulier, rentabilisant ainsi l'investissement immobilier. De plus, une location à durée déterminée laisse au propriétaire une certaine souplesse, lui permettant de profiter lui-même du logement pendant les créneaux libres. Il garde également la liberté de choisir quand et à qui louer son bien, selon ses besoins. C'est donc une solution efficace pour rentabiliser une propriété tout en gardant la possibilité de l'utiliser à sa convenance. | The candidate must write the text in favor of periodic home rental, listing its benefits for owners, as part of a two-document comparison task. | 1 source | 2024-04 | - |
 
 ## Technology
 

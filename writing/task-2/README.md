@@ -4,7 +4,7 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-189 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+191 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,8 +15,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Family](#family) (10)
 - [Health](#health) (15)
 - [Immigration](#immigration) (13)
-- [Miscellaneous](#miscellaneous) (9)
-- [Technology](#technology) (22)
+- [Miscellaneous](#miscellaneous) (10)
+- [Technology](#technology) (23)
 - [Work](#work) (19)
 
 ## Culture
@@ -206,6 +206,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 7 | Après avoir acheté des billets pour un concert mal organisé, rédigez une lettre au promoteur pour exprimer votre déception et proposer des changements pour les prochains événements, en 120 à 150 mots. | Write a letter to a concert promoter expressing disappointment and suggesting improvements for future events, in 120-150 words. | 1 source | 2024-05 | - |
 | 8 | N'attendez plus : créez vous-même vos propres produits ! | Write a short promotional text encouraging readers to make their own products. | 1 source | 2024-05 | - |
 | 9 | Vous avez partagé votre quotidien avec une personne âgée. Racontez cette expérience. | Recount your experience of living with an elderly person. | 1 source | 2024-10 | - |
+| 10 | Sur votre blog, racontez pourquoi vous avez décidé de quitter la ville pour aller vivre à la campagne. Décrivez les bénéfices de votre nouvelle vie loin de l'agitation urbaine. | Write a blog post explaining why you left the city for the countryside and its benefits. | 1 source | 2025-04 | - |
 
 ## Technology
 
@@ -233,6 +234,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 20 | Vous avez participé à un vide-grenier (échange d'objets d'occasion entre habitants) dans votre ville. Racontez votre journée sur un forum en ligne, en expliquant pourquoi elle vous a plu. | The candidate must recount on a forum a day spent at a flea market and explain why they enjoyed it. | 1 source | 2025-01 | - |
 | 21 | Vous avez été invité à participer à une émission de télévision. Sur votre blog, racontez cette expérience et partagez vos impressions. | Recount on your blog your experience taking part in a TV show and share your impressions. | 1 source | 2025-01 | - |
 | 22 | France Télévision réalise un reportage consacré au sport amateur. Envoyez un message sur leur site pour témoigner de votre propre pratique sportive. | Write a testimonial message on a TV channel's website about your amateur sports practice. | 1 source | 2025-03 | - |
+| 23 | Sur le site Internet, vous répondez à cette sollicitation : racontez votre expérience et donnez votre avis sur les services offerts. | On the website, respond by recounting your experience and giving your opinion on the services offered. | 1 source | 2025-04 | - |
 
 ## Work
 

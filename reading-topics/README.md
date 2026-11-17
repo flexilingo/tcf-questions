@@ -4,7 +4,7 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-106 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+107 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,7 +16,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 - [Health](#health) (9)
 - [Immigration](#immigration) (3)
 - [Miscellaneous](#miscellaneous) (12)
-- [Technology](#technology) (3)
+- [Technology](#technology) (4)
 - [Work](#work) (10)
 
 ## Culture
@@ -159,6 +159,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 1 | Deux textes présentent des points de vue opposés concernant les jeux vidéo. | Two texts debating opposing views about video games. | 1 source | 2026-09 | - |
 | 2 | Un article retraçant l'évolution des téléphones portables. | An article about the evolution of mobile phones. | 1 source | 2026-09 | - |
 | 3 | Un article sur l'influence de la technologie sur les relations amoureuses. | An article about technology's impact on romantic relationships. | 1 source | 2026-09 | - |
+| 4 | Une notice d'utilisation d'une machine à laver. | A washing machine instruction manual. | 1 source | 2026-09 | - |
 
 ## Work
 
