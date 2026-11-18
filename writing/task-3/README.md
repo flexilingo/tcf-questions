@@ -4,11 +4,11 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-310 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+312 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (41)
+- [Culture](#culture) (42)
 - [Economy](#economy) (41)
 - [Education](#education) (46)
 - [Environment](#environment) (25)
@@ -17,7 +17,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (10)
 - [Technology](#technology) (22)
-- [Work](#work) (58)
+- [Work](#work) (59)
 
 ## Culture
 
@@ -64,6 +64,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 39 | Vivre à la campagne : bon choix ? Selon un premier point de vue, vivre en ville offre un large éventail de loisirs : cinéma, restaurants, boutiques à proximité, sans nécessiter de longs déplacements pour se distraire — une courte marche ou un taxi suffisent. La ville propose aussi une riche vie culturelle : musées, théâtres, opéras, il y en a pour tous les goûts. Un autre témoignage raconte avoir récemment quitté la ville pour la campagne, par besoin de nature et de tranquillité. Désormais, plutôt que de fréquenter bars et restaurants, cette personne invite des amis sur sa terrasse ou organise des barbecues dans son jardin. Le coût du logement, nettement plus abordable à la campagne qu'en ville, a aussi pesé dans cette décision. | Summarize and compare the two viewpoints on living in the city versus in the countryside. | 2 sources | 2026-01 | - |
 | 40 | Beaucoup d'étudiants travaillent pendant les vacances afin d'acquérir une première expérience professionnelle. Cela favorise leur autonomie, leur sens des responsabilités et leur découverte du monde du travail. L'aspect financier compte aussi : certains veulent financer leurs loisirs ou voyages, d'autres ont besoin de cet argent pour couvrir leurs études, leur logement ou leurs dépenses courantes. | Write about why students work during their holidays (experience, responsibility, financial reasons). | 2 sources | 2026-02 | - |
 | 41 | Vous exposez des arguments sur la question suivante : existe-t-il une réelle différence entre cuisiniers amateurs et professionnels ? | Write 120-180 words presenting arguments on whether there is a real difference between amateur and professional cooks. | 1 source | 2021-01 | - |
+| 42 | Pratiquée dans un cadre réglementé, la chasse joue un rôle essentiel dans la gestion des écosystèmes. Elle aide à maîtriser les populations animales, évitant la surpopulation et ses déséquilibres. Elle s'inscrit aussi dans les traditions et la culture de nombreuses communautés, procurant nourriture et revenus. Enfin, elle permet de financer des actions de protection de la faune et de ses habitats. | The candidate must write the text in favor of hunting, as part of a two-document comparison task. | 1 source | 2024-04 | - |
 
 ## Economy
 
@@ -378,6 +379,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 56 | Acheter directement chez les producteurs locaux présente de nombreux bénéfices. Les produits sont frais, parfois récoltés le jour même, et ont donc plus de saveur. Les producteurs locaux cultivent souvent des variétés anciennes, plus goûteuses. Ces circuits courts soutiennent aussi l'économie locale, en assurant une juste rémunération aux producteurs. Enfin, ils sont plus respectueux de l'environnement, puisque le transport réduit entraîne moins d'émissions de CO2. | Compare two texts with opposing views on buying from local producers and write a synthesis of 120-180 words. | 1 source | 2024-01 | - |
 | 57 | Document 1 : le télétravail apporte une grande souplesse d'organisation, réduit le stress des trajets et améliore l'équilibre vie professionnelle-vie privée. Document 2 : il favorise l'isolement, nuit à la communication entre collègues et brouille la frontière entre vie privée et travail. | Compare two texts with opposing views on remote work and write 120-180 words. | 1 source | 2024-02 | - |
 | 58 | Rédigez un texte comparant deux points de vue sur l'impact des réseaux sociaux, l'un soulignant qu'ils renforcent les liens sociaux et professionnels, l'autre affirmant qu'ils nuisent à la santé mentale et propagent de fausses informations, en 120 à 180 mots. | Compare two opposing views on whether social media is beneficial or harmful, in 120-180 words. | 1 source | 2024-03 | - |
+| 59 | Malgré leur charme, les produits artisanaux souffrent parfois d'un manque de contrôle en matière de qualité et d'hygiène. Sans vérifications strictes, ils peuvent présenter des risques sanitaires. Leur fabrication à petite échelle peut aussi se révéler peu rentable et onéreuse, limitant leur accessibilité pour tous. Ils risquent enfin de créer une concurrence injuste pour les petits artisans face aux grandes entreprises. | The candidate must write the text opposing homemade products, as part of a two-document comparison task. | 1 source | 2024-04 | - |
 
 ---
 

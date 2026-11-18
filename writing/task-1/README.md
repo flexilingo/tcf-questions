@@ -4,16 +4,16 @@
 
 A message to one or more people, 60 to 120 words.
 
-210 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+212 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (58)
+- [Culture](#culture) (59)
 - [Economy](#economy) (12)
 - [Education](#education) (31)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
-- [Health](#health) (18)
+- [Health](#health) (19)
 - [Immigration](#immigration) (10)
 - [Miscellaneous](#miscellaneous) (28)
 - [Technology](#technology) (3)
@@ -81,6 +81,7 @@ A message to one or more people, 60 to 120 words.
 | 56 | « Salut, je viens bientôt en vacances dans ton pays, tu peux me recommander un lieu à visiter ? Merci ! » | A friend asks for a place to visit during their vacation in your country. | 1 source | 2025-01 | - |
 | 57 | Vous venez de déménager dans un nouvel appartement. Écrivez un message à un(e) ami(e) pour lui décrire ce logement (emplacement, agencement des pièces, décoration...) | Write a message to a friend describing your new apartment (location, layout, decoration). | 1 source | 2025-02 | - |
 | 58 | Rédigez un message dans lequel vous racontez un événement important auquel vous avez pris part, en insistant sur les moments les plus marquants et sur ce que vous avez ressenti. | Write a message recounting a significant event you attended, highlighting key moments and feelings. | 1 source | 2025-03 | - |
+| 59 | Écrivez un message à des amis dans lequel vous racontez votre participation à une journée portes ouvertes organisée par une école de musique. Décrivez les différentes activités auxquelles vous avez assisté et donnez votre opinion sur cette expérience. | Write a message to friends recounting your experience at a music school open day, describing the activities and giving your opinion. | 1 source | 2025-03 | - |
 
 ## Economy
 
@@ -197,6 +198,7 @@ A message to one or more people, 60 to 120 words.
 | 16 | « Coucou, on m'a dit que tu fréquentes une salle de sport géniale. Tu peux me raconter ? » Répondez-lui par un message en donnant des précisions sur cette salle (atmosphère, équipements, tarifs, etc.). | Write a message replying to a friend describing your gym (atmosphere, equipment, prices). | 3 sources | 2025-07 | - |
 | 17 | Coucou, Je sais que tu fréquentes une salle de sport. Ça te plaît ? Tu peux me donner plus de détails ? J'aimerais savoir si elle vaut le coup ! Merci d'avance ! Joanna Vous répondez à votre amie Joanna. Dans votre message, vous décrivez la salle de sport où vous allez (activités proposées, horaires, tarifs, etc.). | The candidate must reply to a friend describing their gym (activities, hours, prices). | 2 sources | 2026-03 | - |
 | 18 | Répondez au message d'un ami qui veut se mettre au sport et vous demande de lui recommander une salle correspondant à ses attentes. | Reply to a friend who wants to start exercising and recommend a suitable gym. | 1 source | 2025-03 | - |
+| 19 | Vous venez d'adopter un animal et souhaitez en informer votre famille. Rédigez un message expliquant votre décision, décrivant l'animal (nom, aspect, tempérament) et vos soins quotidiens. | Writing: write a message to your family announcing a new pet, describing it and your daily care routine (60-120 words). | 1 source | 2025-03 | - |
 
 ## Immigration
 

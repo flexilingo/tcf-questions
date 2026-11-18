@@ -4,17 +4,17 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-191 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+193 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (75)
+- [Culture](#culture) (76)
 - [Economy](#economy) (3)
 - [Education](#education) (19)
 - [Environment](#environment) (4)
 - [Family](#family) (10)
 - [Health](#health) (15)
-- [Immigration](#immigration) (13)
+- [Immigration](#immigration) (14)
 - [Miscellaneous](#miscellaneous) (10)
 - [Technology](#technology) (23)
 - [Work](#work) (19)
@@ -98,6 +98,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 73 | Rédigez un article pour votre blog personnel dans lequel vous racontez votre visite d'une brocante. Expliquez ce qui vous a séduit(e) : la découverte d'objets originaux, l'atmosphère du lieu ou les échanges avec les vendeurs. | Write a blog article about a flea market visit and what you enjoyed about it. | 1 source | 2025-03 | - |
 | 74 | Racontez votre propre expérience de la colocation : comment cela s'est déroulé, et donnez votre opinion sur ce mode de vie. | Share your personal experience of shared housing and give your opinion on it. | 1 source | 2025-04 | - |
 | 75 | Sur le forum d'Air Tropiques, racontez le plus beau voyage que vous ayez fait, dans le but de remporter deux billets pour le meilleur récit. Décrivez ce voyage et expliquez pourquoi il vous a plu. | Write a forum post describing your best trip ever and why you loved it, to win a travel contest. | 1 source | 2025-04 | - |
+| 76 | Sur votre blog, écrivez un billet dans lequel vous présentez l'artiste que vous admirez le plus. | Write a blog post about the artist you admire most. | 1 source | 2025-04 | - |
 
 ## Economy
 
@@ -192,6 +193,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 11 | Julie, étudiante de 19 ans, se prépare à partir étudier à l'étranger et cherche des témoignages sur un forum. Ayant vous-même vécu une expérience d'études à l'étranger, racontez-la en précisant si vous l'avez appréciée ou non, et pourquoi. | Share your own study-abroad experience on a forum for a student preparing to leave, explaining whether you liked it and why. | 2 sources | 2025-01 | - |
 | 12 | Vous avez passé un an à étudier à l'étranger. Vous postez un message sur un forum pour raconter cette expérience : vous dites si elle vous a plu ou non et vous en expliquez les raisons. | Write a forum post recounting a year of studying abroad, saying whether it was enjoyable and why. | 2 sources | 2025-01 | - |
 | 13 | Sur votre blog, racontez votre expérience d'un séjour d'études effectué à l'étranger. | Write a blog post recounting your experience studying abroad. | 2 sources | 2025-02 | - |
+| 14 | Un internaute fait part de ses craintes avant de partir étudier à l'étranger. Racontez votre propre expérience : les difficultés rencontrées, les solutions trouvées et ce que cela vous a apporté. | Share your own experience of the challenges, solutions and benefits of studying abroad. | 1 source | 2025-04 | - |
 
 ## Miscellaneous
 

@@ -4,7 +4,7 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-107 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+108 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -17,7 +17,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 - [Immigration](#immigration) (3)
 - [Miscellaneous](#miscellaneous) (12)
 - [Technology](#technology) (4)
-- [Work](#work) (10)
+- [Work](#work) (11)
 
 ## Culture
 
@@ -175,6 +175,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 8 | Une lettre informant une personne du suivi donné à sa candidature. | A letter informing someone about the follow-up to their job application. | 1 source | 2026-09 | - |
 | 9 | Une lettre professionnelle répondant à une personne ayant postulé à un poste. | A letter responding to a job application. | 1 source | 2026-09 | - |
 | 10 | Une lettre répondant à une demande de congé sabbatique. | A letter replying to a sabbatical leave request. | 1 source | 2026-09 | - |
+| 11 | Une offre d'emploi. | A job posting. | 1 source | 2026-09 | - |
 
 ---
 
