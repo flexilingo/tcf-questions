@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-312 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+314 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Family](#family) (76)
 - [Health](#health) (18)
 - [Immigration](#immigration) (7)
-- [Miscellaneous](#miscellaneous) (13)
+- [Miscellaneous](#miscellaneous) (15)
 - [Technology](#technology) (5)
 - [Work](#work) (46)
 
@@ -319,6 +319,8 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 11 | Vous jouez le rôle d'un(e) ami(e). Votre interlocuteur va recevoir un groupe d'amis chez lui/elle et a besoin de conseils. Il/elle vous pose des questions. | The candidate must ask a friend for advice about hosting a group of friends at home. | 5 sources | 2022-11 | - |
 | 12 | Je suis votre collègue. Je vous propose une chambre en colocation et vous êtes intéressé(e). Posez-moi des questions à ce sujet. | Ask a colleague questions about a shared room they are offering you. | 5 sources | 2023-05 | - |
 | 13 | Je pratique le ski et cette activité vous tente pour le week-end prochain. Posez-moi des questions à ce sujet. | The candidate must ask a friend who skis questions about practicing skiing over the weekend. | 4 sources | 2022-09 | - |
+| 14 | Je suis votre ami et je recherche une personne pour garder mes enfants. Posez-moi des questions afin de m'aider dans cette recherche. | The candidate must ask questions to help the friend find a babysitter. | 4 sources | 2022-09 | - |
+| 15 | Je suis votre ami à Ottawa, vous venez juste de vous y installer et vous voulez faire du vélo. Posez-moi des questions. | The candidate must ask questions about cycling in a new city. | 4 sources | 2022-09 | - |
 
 ## Technology
 

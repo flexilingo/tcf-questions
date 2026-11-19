@@ -4,7 +4,7 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-108 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+109 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,7 +13,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 - [Education](#education) (8)
 - [Environment](#environment) (5)
 - [Family](#family) (3)
-- [Health](#health) (9)
+- [Health](#health) (10)
 - [Immigration](#immigration) (3)
 - [Miscellaneous](#miscellaneous) (12)
 - [Technology](#technology) (4)
@@ -126,6 +126,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 7 | Un article sur les dangers liés aux boissons énergisantes. | An article about the risks of energy drinks. | 1 source | 2026-09 | - |
 | 8 | Un article sur les sites de consommation de drogues sous supervision médicale. | An article about supervised drug consumption sites. | 1 source | 2026-09 | - |
 | 9 | Un article vantant les bienfaits de la cuisine maison pour la santé. | An article about the health benefits of home cooking. | 1 source | 2026-09 | - |
+| 10 | Une présentation d'un type de thérapie. | A presentation of a type of therapy. | 1 source | 2026-09 | - |
 
 ## Immigration
 

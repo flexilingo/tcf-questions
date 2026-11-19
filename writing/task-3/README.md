@@ -4,16 +4,16 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-312 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+314 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (42)
-- [Economy](#economy) (41)
+- [Economy](#economy) (42)
 - [Education](#education) (46)
 - [Environment](#environment) (25)
 - [Family](#family) (34)
-- [Health](#health) (31)
+- [Health](#health) (32)
 - [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (10)
 - [Technology](#technology) (22)
@@ -111,6 +111,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 39 | Personnellement, je reste méfiant vis-à-vis du commerce en ligne. Malgré sa popularité et sa commodité, il ne remplace pas l'expérience d'achat en boutique. Ne pas pouvoir examiner ni toucher les produits est un vrai handicap. De plus, les délais de livraison, souvent longs, ne m'enchantent guère. L'absence de conseiller disponible pour un accompagnement personnalisé pèse également dans la balance. Je préfère donc l'achat en magasin, où le contact direct avec les produits et le personnel me permet de trancher immédiatement. www.digischool.fr | Compare two texts with opposing views on online shopping versus in-store shopping and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 | 40 | Les grandes surfaces proposent un vaste choix d'articles réunis en un même lieu. Leurs horaires larges facilitent les achats à toute heure. Grâce aux achats en grande quantité, les prix sont souvent plus bas, et des offres promotionnelles reviennent fréquemment. On y trouve des produits venus de multiples régions et pays. L'hygiène y est soumise à des règles rigoureuses. Enfin, ces magasins garantissent un confort d'achat grâce aux parkings, chariots et caisses rapides. | The candidate must write one of two opposing texts (in favor of supermarkets) as part of a two-document comparison task. | 1 source | 2024-01 | - |
 | 41 | Les créations artisanales incarnent qualité et authenticité. Elles témoignent du savoir-faire de chacun et encouragent une consommation plus responsable. En misant sur des ingrédients locaux, elles limitent l'empreinte carbone et soutiennent les commerces de proximité. Souvent dépourvues de conservateurs et d'additifs, elles constituent une alternative saine face aux produits industriels. Elles renforcent enfin les liens sociaux en transmettant traditions et créativité. | The candidate must write the text in favor of homemade products, as part of a two-document comparison task. | 1 source | 2024-04 | - |
+| 42 | Rédigez un texte comparant deux avis sur les séjours tout compris, l'un vantant leur côté pratique et sans souci, l'autre dénonçant leur impact négatif sur l'environnement et l'économie locale, en 120 à 180 mots. | Compare two opposing views on whether all-inclusive vacations are convenient or harmful, in 120-180 words. | 1 source | 2024-04 | - |
 
 ## Education
 
@@ -267,6 +268,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 29 | Le vélo en ville : Les partisans rappellent qu'on associe souvent le vélo au sport ou aux loisirs, en oubliant qu'il s'agit avant tout d'un moyen de transport, aussi bien personnel que professionnel. En zone urbaine, il permet de se déplacer vite tout en évitant le stress des bouchons aux heures de pointe. Se rendre au travail en pédalant, c'est allier activité physique et trajet utile. La mairie devrait d'abord expérimenter cette mesure dans certains quartiers avant de l'étendre partout, afin d'en évaluer les résultats. Les opposants insistent sur les nombreux accidents routiers enregistrés chaque année : circuler à vélo en ville comporte de réels dangers, à cause du trafic dense, du non-respect du code de la route et du manque de pistes cyclables. En outre, rouler à vélo expose les cyclistes aux gaz d'échappement, nuisibles pour la santé. Là encore, la municipalité devrait tester la mesure localement avant toute généralisation. | Compare and comment on the opposing arguments for and against cycling as urban transport. | 2 sources | 2026-06 | - |
 | 30 | Installer des distributeurs de boissons dans les lycées offre plusieurs avantages. Cela permet d'abord aux élèves de s'hydrater tout au long de la journée, ce qui favorise leur concentration et leurs résultats scolaires. Cela leur évite aussi de sortir de l'établissement pour acheter à boire, ce qui pourrait causer des retards et une perte de temps. Enfin, cette distribution peut encourager de bonnes habitudes alimentaires si des boissons saines et équilibrées sont proposées. En somme, c'est une mesure profitable à la fois pour la santé et pour la réussite scolaire des élèves. FÉLIX | Compare two texts with opposing views on drink dispensers in high schools and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 | 31 | La présence de distributeurs de boissons dans les lycées suscite des doutes légitimes. Cette pratique peut en effet nuire à la santé des élèves. En rendant les sodas et boissons sucrées facilement accessibles, on risque d'encourager une consommation excessive, source de problèmes comme l'obésité ou d'autres troubles liés à une mauvaise alimentation. De plus, ces distributeurs peuvent détourner les élèves de l'eau, pourtant essentielle pour une hydratation saine. Mieux vaudrait privilégier des fontaines à eau et promouvoir une alimentation équilibrée dans les établissements. OPAL | Compare two texts with opposing views on drink dispensers in high schools and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
+| 32 | Rédigez un texte comparant deux points de vue sur l'alimentation végétarienne, l'un soulignant ses bienfaits pour la santé et l'environnement, l'autre évoquant les risques de carences nutritionnelles, en 120 à 180 mots. | Compare two opposing views on vegetarian diets, health benefits versus nutritional risks, in 120-180 words. | 1 source | 2024-04 | - |
 
 ## Immigration
 

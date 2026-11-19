@@ -4,13 +4,13 @@
 
 A message to one or more people, 60 to 120 words.
 
-212 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+214 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (59)
+- [Culture](#culture) (60)
 - [Economy](#economy) (12)
-- [Education](#education) (31)
+- [Education](#education) (32)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (19)
@@ -82,6 +82,7 @@ A message to one or more people, 60 to 120 words.
 | 57 | Vous venez de déménager dans un nouvel appartement. Écrivez un message à un(e) ami(e) pour lui décrire ce logement (emplacement, agencement des pièces, décoration...) | Write a message to a friend describing your new apartment (location, layout, decoration). | 1 source | 2025-02 | - |
 | 58 | Rédigez un message dans lequel vous racontez un événement important auquel vous avez pris part, en insistant sur les moments les plus marquants et sur ce que vous avez ressenti. | Write a message recounting a significant event you attended, highlighting key moments and feelings. | 1 source | 2025-03 | - |
 | 59 | Écrivez un message à des amis dans lequel vous racontez votre participation à une journée portes ouvertes organisée par une école de musique. Décrivez les différentes activités auxquelles vous avez assisté et donnez votre opinion sur cette expérience. | Write a message to friends recounting your experience at a music school open day, describing the activities and giving your opinion. | 1 source | 2025-03 | - |
+| 60 | Coucou ! Tu prépares tes vacances ? Qu'est-ce que tu as prévu ? À très vite, Hamed. Répondez à Hamed en lui présentant votre programme de vacances (destination, dates, activités prévues, etc.) | Reply to Hamed describing your vacation plans (place, dates, activities). | 1 source | 2025-04 | - |
 
 ## Economy
 
@@ -135,6 +136,7 @@ A message to one or more people, 60 to 120 words.
 | 29 | Répondez par message à un ami qui vous demande des renseignements sur une salle de sport réputée pour la qualité de ses services. | Reply to a friend asking for information about a well-regarded gym. | 1 source | 2025-02 | - |
 | 30 | Votre ami Alex vous a écrit pour prendre de vos nouvelles concernant votre nouvelle université. Répondez-lui en décrivant brièvement votre cadre universitaire. | Reply to a friend's message about your new university, briefly describing your surroundings. | 1 source | 2025-03 | - |
 | 31 | Vous répondez à un(e) ami(e) qui vous demande des informations sur une salle de sport réputée pour la qualité de ses prestations. Dans votre message, donnez-lui des précisions sur cette salle (équipements, atmosphère, horaires, tarifs, etc.) | Reply to a friend asking about a well-known gym, giving details about equipment, atmosphere, hours and prices. | 1 source | 2025-03 | - |
+| 32 | Répondez à votre ami Paul en décrivant l'école : les salles de cours, les équipements, les enseignants, et tout autre détail pertinent. | Reply to Paul describing the school: classrooms, equipment, teachers, and other relevant details. | 1 source | 2025-04 | - |
 
 ## Environment
 

@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-293 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+294 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,7 +16,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Health](#health) (20)
 - [Immigration](#immigration) (42)
 - [Miscellaneous](#miscellaneous) (45)
-- [Technology](#technology) (36)
+- [Technology](#technology) (37)
 - [Work](#work) (43)
 
 ## Culture
@@ -313,6 +313,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 34 | Vous donnez votre opinion sur la question : peut-on aujourd'hui se passer de la télévision ? | Give and defend your opinion on whether one can live without television nowadays. | 5 sources | 2024-07 | - |
 | 35 | Il vaudrait mieux ne pas offrir de téléphone portable à un enfant. Quel est votre point de vue ? | The candidate must give and defend an opinion on not giving children mobile phones. | 5 sources | 2025-02 | - |
 | 36 | Les enfants passent de plus en plus de temps devant les écrans. Quel est votre point de vue sur ce sujet ? | Give and defend your opinion on children's increasing screen time. | 4 sources | 2022-11 | - |
+| 37 | On observe que les gens regardent la télévision de moins en moins souvent. Partagez-vous ce constat ? | Give and defend your opinion on whether people watch less television nowadays. | 4 sources | 2022-11 | - |
 
 ## Work
 

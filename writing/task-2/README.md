@@ -4,17 +4,17 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-193 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+195 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (76)
 - [Economy](#economy) (3)
-- [Education](#education) (19)
+- [Education](#education) (20)
 - [Environment](#environment) (4)
 - [Family](#family) (10)
 - [Health](#health) (15)
-- [Immigration](#immigration) (14)
+- [Immigration](#immigration) (15)
 - [Miscellaneous](#miscellaneous) (10)
 - [Technology](#technology) (23)
 - [Work](#work) (19)
@@ -131,6 +131,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 17 | Vous venez de commencer vos études à l'université de Montréal. Écrivez à un ami ou une amie pour lui raconter votre première semaine sur le campus. | Write a message to a friend about your first week at university in Montreal. | 1 source | 2024-01 | - |
 | 18 | Suite à un cours de langue qui n'a pas répondu à vos attentes, écrivez une note au directeur de l'institut pour lui exposer vos remarques et vos propositions d'amélioration, en 60 à 120 mots. | Write a note to a language school director with feedback and suggestions after an unsatisfactory course. | 1 source | 2024-04 | - |
 | 19 | Suite à une formation en ligne insatisfaisante, écrivez à l'organisateur pour faire le bilan de votre expérience et lui suggérer des améliorations, en 60 à 120 mots. | Write to an online course organizer summarizing your experience and suggesting improvements. | 1 source | 2024-05 | - |
+| 20 | Vous avez participé à un séjour dans un établissement spécialisé dans l'enseignement des langues. Rédigez un article pour votre site personnel afin de raconter cette expérience et de donner vos impressions. | Write a personal website article sharing your experience and impressions of a language-learning program you attended. | 1 source | 2025-04 | - |
 
 ## Environment
 
@@ -194,6 +195,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 12 | Vous avez passé un an à étudier à l'étranger. Vous postez un message sur un forum pour raconter cette expérience : vous dites si elle vous a plu ou non et vous en expliquez les raisons. | Write a forum post recounting a year of studying abroad, saying whether it was enjoyable and why. | 2 sources | 2025-01 | - |
 | 13 | Sur votre blog, racontez votre expérience d'un séjour d'études effectué à l'étranger. | Write a blog post recounting your experience studying abroad. | 2 sources | 2025-02 | - |
 | 14 | Un internaute fait part de ses craintes avant de partir étudier à l'étranger. Racontez votre propre expérience : les difficultés rencontrées, les solutions trouvées et ce que cela vous a apporté. | Share your own experience of the challenges, solutions and benefits of studying abroad. | 1 source | 2025-04 | - |
+| 15 | Vous avez suivi des études à l'étranger pendant six mois. Sur un forum, écrivez un message à vos amis pour leur raconter cette expérience. | Write a forum post to your friends recounting your six-month study experience abroad. | 1 source | 2025-04 | - |
 
 ## Miscellaneous
 
