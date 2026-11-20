@@ -4,18 +4,18 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-314 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+316 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (55)
+- [Culture](#culture) (56)
 - [Economy](#economy) (26)
 - [Education](#education) (60)
 - [Environment](#environment) (6)
 - [Family](#family) (76)
 - [Health](#health) (18)
 - [Immigration](#immigration) (7)
-- [Miscellaneous](#miscellaneous) (15)
+- [Miscellaneous](#miscellaneous) (16)
 - [Technology](#technology) (5)
 - [Work](#work) (46)
 
@@ -78,6 +78,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 53 | Vous discutez avec un(e) ami(e) francophone. Vous cherchez une destination pour un voyage. Vous voulez savoir dans quels pays je suis déjà allé(e) et vous me questionnez à ce sujet. | Ask your friend about the countries they have visited to help you choose a travel destination. | 5 sources | 2025-12 | - |
 | 54 | Vous êtes dans une agence de voyages. Ayant remporté un concours, vous avez gagné un séjour et devez choisir entre Montréal, Dakar, Bruxelles ou Hanoï. Posez-moi des questions sur ces quatre villes (climat, activités, coût de la vie, etc.) afin de faire votre choix. | The candidate must question a travel agent about four cities to decide which prize destination to choose. | 5 sources | 2026-03 | - |
 | 55 | Vous êtes responsable de l'organisation d'un festival de cinéma en langue française. Votre interlocuteur, rencontré pendant son séjour touristique dans votre ville, vous pose des questions sur ce festival afin de savoir s'il souhaite y assister (dates, horaires, programmation, tarifs, etc.). | The candidate must ask the examiner (organizer of a French-language film festival) questions to decide whether to attend, covering dates, schedule, program and prices. | 5 sources | 2026-03 | - |
+| 56 | Je travaille au sein d'une association multiculturelle. Posez-moi des questions. | The candidate must ask questions to someone working at a multicultural association. | 4 sources | 2022-09 | - |
 
 ## Economy
 
@@ -321,6 +322,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 13 | Je pratique le ski et cette activité vous tente pour le week-end prochain. Posez-moi des questions à ce sujet. | The candidate must ask a friend who skis questions about practicing skiing over the weekend. | 4 sources | 2022-09 | - |
 | 14 | Je suis votre ami et je recherche une personne pour garder mes enfants. Posez-moi des questions afin de m'aider dans cette recherche. | The candidate must ask questions to help the friend find a babysitter. | 4 sources | 2022-09 | - |
 | 15 | Je suis votre ami à Ottawa, vous venez juste de vous y installer et vous voulez faire du vélo. Posez-moi des questions. | The candidate must ask questions about cycling in a new city. | 4 sources | 2022-09 | - |
+| 16 | Je travaille pour une entreprise de rénovation d'habitation. Posez-moi des questions. | The candidate must ask questions to a home renovation company employee. | 4 sources | 2022-09 | - |
 
 ## Technology
 

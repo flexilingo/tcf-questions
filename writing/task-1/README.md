@@ -4,13 +4,13 @@
 
 A message to one or more people, 60 to 120 words.
 
-214 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+216 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (60)
+- [Culture](#culture) (61)
 - [Economy](#economy) (12)
-- [Education](#education) (32)
+- [Education](#education) (33)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (19)
@@ -83,6 +83,7 @@ A message to one or more people, 60 to 120 words.
 | 58 | Rédigez un message dans lequel vous racontez un événement important auquel vous avez pris part, en insistant sur les moments les plus marquants et sur ce que vous avez ressenti. | Write a message recounting a significant event you attended, highlighting key moments and feelings. | 1 source | 2025-03 | - |
 | 59 | Écrivez un message à des amis dans lequel vous racontez votre participation à une journée portes ouvertes organisée par une école de musique. Décrivez les différentes activités auxquelles vous avez assisté et donnez votre opinion sur cette expérience. | Write a message to friends recounting your experience at a music school open day, describing the activities and giving your opinion. | 1 source | 2025-03 | - |
 | 60 | Coucou ! Tu prépares tes vacances ? Qu'est-ce que tu as prévu ? À très vite, Hamed. Répondez à Hamed en lui présentant votre programme de vacances (destination, dates, activités prévues, etc.) | Reply to Hamed describing your vacation plans (place, dates, activities). | 1 source | 2025-04 | - |
+| 61 | Vous avez organisé une fête pour votre anniversaire dernièrement. Écrivez à vos amis pour leur raconter le déroulement de la soirée. Dites ce que vous avez préféré durant la fête et parlez des cadeaux que vous avez le plus aimés. | Write to friends recounting your birthday party, what you enjoyed most, and your favorite gifts. | 1 source | 2025-04 | - |
 
 ## Economy
 
@@ -137,6 +138,7 @@ A message to one or more people, 60 to 120 words.
 | 30 | Votre ami Alex vous a écrit pour prendre de vos nouvelles concernant votre nouvelle université. Répondez-lui en décrivant brièvement votre cadre universitaire. | Reply to a friend's message about your new university, briefly describing your surroundings. | 1 source | 2025-03 | - |
 | 31 | Vous répondez à un(e) ami(e) qui vous demande des informations sur une salle de sport réputée pour la qualité de ses prestations. Dans votre message, donnez-lui des précisions sur cette salle (équipements, atmosphère, horaires, tarifs, etc.) | Reply to a friend asking about a well-known gym, giving details about equipment, atmosphere, hours and prices. | 1 source | 2025-03 | - |
 | 32 | Répondez à votre ami Paul en décrivant l'école : les salles de cours, les équipements, les enseignants, et tout autre détail pertinent. | Reply to Paul describing the school: classrooms, equipment, teachers, and other relevant details. | 1 source | 2025-04 | - |
+| 33 | Un ami vous demande des renseignements sur votre école de langue. Répondez-lui en lui décrivant en détail votre expérience dans cet établissement. | Reply to a friend giving detailed information about your experience at your language school. | 1 source | 2025-04 | - |
 
 ## Environment
 

@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-314 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+316 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,7 +12,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Economy](#economy) (42)
 - [Education](#education) (46)
 - [Environment](#environment) (25)
-- [Family](#family) (34)
+- [Family](#family) (36)
 - [Health](#health) (32)
 - [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (10)
@@ -232,6 +232,8 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 32 | Les technologies modernes et les enfants. Document 1 : À l'école primaire, les enfants peuvent se servir des outils numériques pour chercher des vidéos sur les thèmes vus en classe ou pour utiliser des jeux qui renforcent leur aisance en calcul, leur compréhension en lecture ou leur rapidité au clavier. Document 2 : Les technologies modernes poussent les enfants à la sédentarité, ce qui inquiète beaucoup les parents. Elles ne laissent place ni au jeu libre et créatif, ni aux échanges en face à face, ni à l'activité physique ! Pourquoi ne pas proposer quelques activités amusantes pour inciter vos enfants à poser leurs écrans ? | Compare two documents with opposing views on new technologies for children, then give your opinion. | 2 sources | 2026-01 | - |
 | 33 | Document 1 : D'après une recherche conduite en 2022 par le Centre d'études sur la parentalité de l'Université XYZ, les parents actuels se montreraient moins stricts envers leurs enfants que les générations précédentes. En interrogeant 1000 familles, cette recherche montre qu'une majorité de parents privilégient aujourd'hui des méthodes éducatives plus douces et moins fondées sur l'autorité. Document 2 : Cependant, d'autres spécialistes de l'éducation estiment au contraire que les parents d'aujourd'hui restent tout aussi exigeants, voire davantage, envers leurs enfants, notamment à cause de la pression sociale et scolaire actuelle. Selon eux, la bienveillance affichée ne remplace pas une discipline toujours bien présente dans l'éducation moderne. En vous appuyant sur ces deux documents, comparez les points de vue exprimés puis donnez votre avis personnel. | Compare two documents with opposing views on whether modern parents are stricter or more lenient, then give your opinion. | 1 source | 2023-04 | - |
 | 34 | Selon une recherche portant sur la rigueur des parents à l'égard de leurs enfants, comparez les deux points de vue présentés ci-dessous et donnez votre propre opinion. | Compare two opposing viewpoints on parental strictness and give your own opinion. | 1 source | 2023-04 | - |
+| 35 | Surveiller ses enfants, même une fois devenus adultes, reste essentiel pour assurer leur sécurité et leur bien-être. En tant que parents ou tuteurs, il faut rester attentifs et garder un dialogue permanent avec eux, quel que soit leur âge. Cette vigilance permet de repérer des signes de mal-être, des comportements dangereux ou des situations à risque. En restant présents dans leur vie, nous pouvons les accompagner, les soutenir et les protéger. Cela renforce les liens familiaux et prévient bien des difficultés. Veiller sur ses enfants à tout âge témoigne d'une protection et d'un amour sans limites. | The candidate must write the text in favor of parental supervision of adult children, as part of a two-document comparison task. | 1 source | 2024-04 | - |
+| 36 | À cette étape de leur vie, les jeunes adultes ont besoin de gagner en autonomie, de prendre leurs propres décisions et d'apprendre par leurs propres erreurs. Une surveillance excessive risquerait de freiner ce processus d'indépendance et de responsabilisation. Cela pourrait nuire à leur confiance en eux et à leur capacité à affronter les difficultés de la vie. Il est important de leur laisser un espace personnel et de leur faire confiance pour qu'ils puissent s'épanouir. Une surveillance trop stricte peut aussi créer des tensions et fragiliser la confiance mutuelle entre parents et enfants. Mieux vaut être présent pour les conseiller et les guider avec respect plutôt que de les surveiller de près. | The candidate must write the text opposing parental supervision of adult children, as part of a two-document comparison task. | 1 source | 2024-04 | - |
 
 ## Health
 

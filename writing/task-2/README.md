@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-195 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+197 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (76)
+- [Culture](#culture) (77)
 - [Economy](#economy) (3)
 - [Education](#education) (20)
 - [Environment](#environment) (4)
@@ -17,7 +17,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Immigration](#immigration) (15)
 - [Miscellaneous](#miscellaneous) (10)
 - [Technology](#technology) (23)
-- [Work](#work) (19)
+- [Work](#work) (20)
 
 ## Culture
 
@@ -99,6 +99,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 74 | Racontez votre propre expérience de la colocation : comment cela s'est déroulé, et donnez votre opinion sur ce mode de vie. | Share your personal experience of shared housing and give your opinion on it. | 1 source | 2025-04 | - |
 | 75 | Sur le forum d'Air Tropiques, racontez le plus beau voyage que vous ayez fait, dans le but de remporter deux billets pour le meilleur récit. Décrivez ce voyage et expliquez pourquoi il vous a plu. | Write a forum post describing your best trip ever and why you loved it, to win a travel contest. | 1 source | 2025-04 | - |
 | 76 | Sur votre blog, écrivez un billet dans lequel vous présentez l'artiste que vous admirez le plus. | Write a blog post about the artist you admire most. | 1 source | 2025-04 | - |
+| 77 | Vous rentrez d'un voyage à l'étranger. Écrivez un texte racontant comment s'est passé votre séjour et livrez vos impressions. Donnez à votre ami(e) de bonnes raisons de visiter ce pays à son tour. | Write about your trip abroad, your impressions, and reasons for a friend to visit that country. | 1 source | 2025-04 | - |
 
 ## Economy
 
@@ -263,6 +264,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 17 | Votre société souhaite organiser un dîner de fin d'année dans un restaurant pouvant recevoir une centaine de convives. Vous avez repéré un établissement adapté. Écrivez à votre direction pour expliquer pourquoi ce restaurant devrait être retenu (localisation, prix, prestations, etc.) | Write to your company's management explaining why a restaurant you found should be chosen for the year-end dinner for 100 guests. | 1 source | 2025-02 | - |
 | 18 | Votre société a instauré le télétravail pour améliorer le bien-être des salariés. Rédigez un article relatant votre vécu de télétravailleur : avantages, obstacles rencontrés, et propositions pour rendre le dispositif plus efficace. | Writing: write an article about your experience with remote work, describing advantages, challenges, and suggestions for improvement (120-150 words). | 1 source | 2025-03 | - |
 | 19 | Suite à une journée de formation suivie dans votre entreprise, publiez un message sur le forum interne pour raconter cette expérience à vos collègues. | Write a forum post sharing your experience of a company training day with colleagues. | 1 source | 2025-04 | - |
+| 20 | Écrivez un article destiné au journal interne de l'entreprise à propos d'un pique-nique organisé entre collègues. | Write an article for the company newsletter about a picnic organized among colleagues. | 1 source | 2025-04 | - |
 
 ---
 

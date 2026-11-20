@@ -4,13 +4,13 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-109 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+110 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (31)
 - [Economy](#economy) (22)
-- [Education](#education) (8)
+- [Education](#education) (9)
 - [Environment](#environment) (5)
 - [Family](#family) (3)
 - [Health](#health) (10)
@@ -94,6 +94,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 6 | Un guide expliquant les démarches d'inscription à l'université. | A guide explaining university registration procedures. | 1 source | 2026-09 | - |
 | 7 | Un message diffusé dans un cadre scolaire. | A school-related message. | 1 source | 2026-09 | - |
 | 8 | Une annonce proposant des outils pédagogiques pour apprendre des langues étrangères. | An announcement about educational resources for language learning. | 1 source | 2026-09 | - |
+| 9 | Une présentation d'une plateforme en ligne pour apprendre des langues. | A presentation of an online language-learning platform. | 1 source | 2026-09 | - |
 
 ## Environment
 
