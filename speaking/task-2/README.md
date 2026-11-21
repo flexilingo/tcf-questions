@@ -4,11 +4,11 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-316 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+318 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (56)
+- [Culture](#culture) (57)
 - [Economy](#economy) (26)
 - [Education](#education) (60)
 - [Environment](#environment) (6)
@@ -17,7 +17,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Immigration](#immigration) (7)
 - [Miscellaneous](#miscellaneous) (16)
 - [Technology](#technology) (5)
-- [Work](#work) (46)
+- [Work](#work) (47)
 
 ## Culture
 
@@ -79,6 +79,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 54 | Vous êtes dans une agence de voyages. Ayant remporté un concours, vous avez gagné un séjour et devez choisir entre Montréal, Dakar, Bruxelles ou Hanoï. Posez-moi des questions sur ces quatre villes (climat, activités, coût de la vie, etc.) afin de faire votre choix. | The candidate must question a travel agent about four cities to decide which prize destination to choose. | 5 sources | 2026-03 | - |
 | 55 | Vous êtes responsable de l'organisation d'un festival de cinéma en langue française. Votre interlocuteur, rencontré pendant son séjour touristique dans votre ville, vous pose des questions sur ce festival afin de savoir s'il souhaite y assister (dates, horaires, programmation, tarifs, etc.). | The candidate must ask the examiner (organizer of a French-language film festival) questions to decide whether to attend, covering dates, schedule, program and prices. | 5 sources | 2026-03 | - |
 | 56 | Je travaille au sein d'une association multiculturelle. Posez-moi des questions. | The candidate must ask questions to someone working at a multicultural association. | 4 sources | 2022-09 | - |
+| 57 | Vous venez d'emménager dans un quartier inconnu. Posez-moi des questions. | The candidate must ask questions about a newly moved-into neighborhood. | 4 sources | 2022-09 | - |
 
 ## Economy
 
@@ -384,6 +385,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 44 | Je suis un(e) ami(e) qui vient d'être embauché(e) dans une entreprise près de Toronto. Vous me posez des questions sur ce nouvel emploi (missions, collègues, lieux de travail, avantages, etc.). | The candidate asks a friend questions about their new job near Toronto. | 5 sources | 2025-03 | - |
 | 45 | Vous vous adressez au gérant d’un restaurant. Je cherche à recruter un(e) employé(e). Vous êtes intéressé(e) par le poste et vous me posez des questions pour en savoir davantage (nature du poste, horaires, salaire, etc.). | Ask the restaurant manager questions to get details about a job opening (type, hours, pay, etc.). | 5 sources | 2025-09 | - |
 | 46 | Je suis votre ami(e) et je me suis installé(e) au Canada depuis quelques mois. Posez-moi des questions sur ma nouvelle vie là-bas (logement, loisirs, relations, travail, etc.). | The candidate must ask a friend who recently moved to Canada questions about their new life there. | 5 sources | 2026-03 | - |
+| 47 | Je suis votre collègue de travail, vous êtes nouvellement arrivé. Vous voulez me connaître davantage. Posez-moi des questions. | The candidate must ask questions to get to know a new colleague. | 4 sources | 2022-10 | - |
 
 ---
 

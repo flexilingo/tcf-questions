@@ -4,14 +4,14 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-197 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+199 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (77)
 - [Economy](#economy) (3)
 - [Education](#education) (20)
-- [Environment](#environment) (4)
+- [Environment](#environment) (6)
 - [Family](#family) (10)
 - [Health](#health) (15)
 - [Immigration](#immigration) (15)
@@ -142,6 +142,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 2 | Vous avez participé à une opération intitulée « Une semaine sans voiture ». Faites le récit de cette expérience et donnez votre opinion à ce sujet. | Write an account of your participation in a 'car-free week' event and say what you thought of it. | 9 sources | 2023-05 | - |
 | 3 | Vous avez pris part à une initiative organisée pour la « Journée mondiale du nettoyage de notre planète », en ramassant des déchets dans un endroit public (plage, forêt, rue, etc.) aux côtés d'autres bénévoles. Racontez cette expérience à vos amis et expliquez en quoi il est important de s'impliquer dans ce genre d'action. | The candidate must recount to friends their experience taking part in a World Cleanup Day activity and explain why participating matters. | 4 sources | 2024-08 | - |
 | 4 | Vous avez pris part à une action bénévole visant à préserver la nature et l'écosystème. Laissez un commentaire dans lequel vous racontez cette expérience. | The candidate must write a comment sharing their experience volunteering to protect nature and the ecosystem. | 3 sources | 2023-06 | - |
+| 5 | Acheter des vêtements neufs constitue un comportement irresponsable. | Writing: argue that buying new clothes is an irresponsible act. | 1 source | 2025-07 | - |
+| 6 | Vous avez pris part à une opération de nettoyage d'une rivière organisée par une association écologique. Rédigez un article pour le site de l'association racontant votre expérience et encourageant d'autres personnes à participer aux prochaines opérations. | Writing: write an article for an association's website about a river clean-up day, sharing your experience and encouraging others to join (120-150 words). | 1 source | 2025-07 | - |
 
 ## Family
 

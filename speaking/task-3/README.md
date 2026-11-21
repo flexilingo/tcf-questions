@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-295 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+296 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Family](#family) (25)
 - [Health](#health) (20)
 - [Immigration](#immigration) (42)
-- [Miscellaneous](#miscellaneous) (46)
+- [Miscellaneous](#miscellaneous) (47)
 - [Technology](#technology) (37)
 - [Work](#work) (43)
 
@@ -273,6 +273,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 44 | Tout le monde devrait-il avoir la possibilité de télétravailler s'il le désire ? Exposez votre opinion. | Present your opinion on whether everyone should be able to work remotely if they wish. | 5 sources | 2025-01 | - |
 | 45 | Les jeunes générations sont-elles plus optimistes que les générations précédentes ? Qu'en pensez-vous ? | The candidate must give and defend an opinion on whether young people are more optimistic than older generations. | 4 sources | 2022-10 | - |
 | 46 | Il faut aimer son métier pour bien l'exercer. Qu'en pensez-vous ? | Give and defend your opinion on whether you must love your job to do it well. | 4 sources | 2022-12 | - |
+| 47 | Décider de quitter son pays est une chose facile. Partagez-vous cet avis ? | Give and defend your opinion on whether deciding to leave one's country is easy. | 4 sources | 2023-02 | - |
 
 ## Technology
 

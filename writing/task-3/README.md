@@ -4,14 +4,14 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-316 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+318 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (42)
 - [Economy](#economy) (42)
 - [Education](#education) (46)
-- [Environment](#environment) (25)
+- [Environment](#environment) (27)
 - [Family](#family) (36)
 - [Health](#health) (32)
 - [Immigration](#immigration) (2)
@@ -193,6 +193,8 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 23 | Document 1 : les voitures électriques réduisent les émissions polluantes et bénéficient d'aides publiques encourageant leur adoption. Document 2 : leur coût élevé, le manque de bornes de recharge et les problèmes liés aux batteries limitent leur essor et posent des questions écologiques. | Compare two texts with opposing views on electric vehicles and write 120-180 words. | 1 source | 2024-03 | - |
 | 24 | La chasse aux animaux pose de véritables problèmes éthiques et écologiques. Elle peut provoquer le déclin d'espèces menacées et déséquilibrer les écosystèmes. Certaines pratiques, comme le braconnage ou la chasse en enclos, s'avèrent particulièrement cruelles envers les animaux. Il importe de favoriser des méthodes de régulation animale respectueuses du bien-être des espèces et de privilégier la sauvegarde de la biodiversité et des milieux naturels. | The candidate must write the text opposing hunting, as part of a two-document comparison task. | 1 source | 2024-04 | - |
 | 25 | Louer sa maison de façon temporaire peut aussi comporter des inconvénients pour les propriétaires. En optant pour une location sur une durée limitée, on s'expose au risque de tomber sur des locataires malhonnêtes ou négligents pouvant abîmer le bien. En outre, gérer ce type de location demande du temps et de l'énergie : chercher des locataires, établir des contrats, suivre les paiements. Les loyers variables selon les saisons compliquent aussi la prévision budgétaire sur le long terme. Enfin, le propriétaire peut voir son propre accès au logement restreint selon les créneaux de location. | The candidate must write the text opposing periodic home rental, listing its drawbacks for owners, as part of a two-document comparison task. | 1 source | 2024-04 | - |
+| 26 | Enfermer des animaux sauvages dans des zoos pose un véritable problème moral et scientifique. Ces espaces reconstitués artificiellement ne peuvent en aucun cas offrir les conditions naturelles indispensables à l'épanouissement de ces espèces. Privés de liberté, les animaux en cage subissent stress et souffrance psychologique. Loin de servir la conservation, les zoos ne répondent en réalité qu'à une curiosité humaine discutable, au détriment du bien-être animal. Des solutions plus respectueuses de l'environnement, telles que l'écotourisme, seraient bien plus efficaces pour protéger la faune sauvage. | Rewrite the anti-zoo document (zoos harm animals and serve human curiosity, not conservation). | 1 source | 2024-05 | - |
+| 27 | Les parcs zoologiques tiennent une place fondamentale dans la protection des espèces sauvages. Bien plus que de simples lieux de loisir, ils rendent possible une observation scientifique précise des populations animales. En outre, grâce à leurs actions de sensibilisation et d'éducation, ils aident le public à comprendre l'enjeu de préserver la biodiversité. À condition d'être menée de façon responsable, la captivité des animaux sauvages participe donc durablement à leur préservation. | Rewrite the pro-zoo document (zoos help protect wildlife through science and education). | 1 source | 2024-05 | - |
 
 ## Family
 

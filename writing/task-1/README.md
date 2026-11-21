@@ -4,18 +4,18 @@
 
 A message to one or more people, 60 to 120 words.
 
-216 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+218 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (61)
 - [Economy](#economy) (12)
-- [Education](#education) (33)
+- [Education](#education) (34)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (19)
 - [Immigration](#immigration) (10)
-- [Miscellaneous](#miscellaneous) (28)
+- [Miscellaneous](#miscellaneous) (29)
 - [Technology](#technology) (3)
 - [Work](#work) (20)
 
@@ -139,6 +139,7 @@ A message to one or more people, 60 to 120 words.
 | 31 | Vous répondez à un(e) ami(e) qui vous demande des informations sur une salle de sport réputée pour la qualité de ses prestations. Dans votre message, donnez-lui des précisions sur cette salle (équipements, atmosphère, horaires, tarifs, etc.) | Reply to a friend asking about a well-known gym, giving details about equipment, atmosphere, hours and prices. | 1 source | 2025-03 | - |
 | 32 | Répondez à votre ami Paul en décrivant l'école : les salles de cours, les équipements, les enseignants, et tout autre détail pertinent. | Reply to Paul describing the school: classrooms, equipment, teachers, and other relevant details. | 1 source | 2025-04 | - |
 | 33 | Un ami vous demande des renseignements sur votre école de langue. Répondez-lui en lui décrivant en détail votre expérience dans cet établissement. | Reply to a friend giving detailed information about your experience at your language school. | 1 source | 2025-04 | - |
+| 34 | « Coucou ! On m'a dit que ton école de langues était vraiment top ! Ça m'intéresse de m'inscrire moi aussi. Qu'en penses-tu ? » Répondez à votre ami(e) qui souhaite s'inscrire dans votre école de langues. | Write a reply to a friend who wants to enroll in your language school. | 1 source | 2025-04 | - |
 
 ## Environment
 
@@ -251,6 +252,7 @@ A message to one or more people, 60 to 120 words.
 | 26 | Votre amie Julie va garder votre chat et arroser vos plantes durant votre absence. Rédigez-lui un message avec les consignes à suivre. | Writing: write a message to a friend giving her instructions for looking after your cat and plants while you're away (60-120 words). | 1 source | 2024-09 | - |
 | 27 | Vous vous installez à Nice et vous écrivez à une agence immobilière pour demander son aide dans votre recherche d'appartement, en précisant le loyer souhaité, le nombre d'occupants et la date d'emménagement. | Write a 60-120 word message to a real estate agency asking for help finding a flat in Nice, specifying rent, number of occupants and move-in date. | 1 source | 2025-02 | - |
 | 28 | Écris un message à ton ami Cédric dans lequel tu lui donnes des consignes pour s'occuper de ta maison et de ton jardin le temps de ton absence. | Write a message to your friend Cédric with instructions to look after your house and garden while you're away. | 1 source | 2025-02 | - |
+| 29 | Vous voulez pratiquer le français dans une ambiance détendue ? Trouvez quelqu'un dans votre ville qui veut échanger en français ! Écrivez à [email protected]. Vous répondez à cette annonce : présentez-vous, indiquez vos centres d'intérêt et expliquez pourquoi vous cherchez un partenaire linguistique. | Reply to an ad seeking a French conversation partner, introducing yourself, your interests, and your reasons. | 1 source | 2025-04 | - |
 
 ## Technology
 
