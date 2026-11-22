@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-318 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+320 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -17,7 +17,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (10)
 - [Technology](#technology) (22)
-- [Work](#work) (59)
+- [Work](#work) (61)
 
 ## Culture
 
@@ -386,6 +386,8 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 57 | Document 1 : le télétravail apporte une grande souplesse d'organisation, réduit le stress des trajets et améliore l'équilibre vie professionnelle-vie privée. Document 2 : il favorise l'isolement, nuit à la communication entre collègues et brouille la frontière entre vie privée et travail. | Compare two texts with opposing views on remote work and write 120-180 words. | 1 source | 2024-02 | - |
 | 58 | Rédigez un texte comparant deux points de vue sur l'impact des réseaux sociaux, l'un soulignant qu'ils renforcent les liens sociaux et professionnels, l'autre affirmant qu'ils nuisent à la santé mentale et propagent de fausses informations, en 120 à 180 mots. | Compare two opposing views on whether social media is beneficial or harmful, in 120-180 words. | 1 source | 2024-03 | - |
 | 59 | Malgré leur charme, les produits artisanaux souffrent parfois d'un manque de contrôle en matière de qualité et d'hygiène. Sans vérifications strictes, ils peuvent présenter des risques sanitaires. Leur fabrication à petite échelle peut aussi se révéler peu rentable et onéreuse, limitant leur accessibilité pour tous. Ils risquent enfin de créer une concurrence injuste pour les petits artisans face aux grandes entreprises. | The candidate must write the text opposing homemade products, as part of a two-document comparison task. | 1 source | 2024-04 | - |
+| 60 | Point de vue 1 : D'après une recherche conduite par l'Université de Virginia Tech, la présence d'animaux de compagnie au bureau procure de multiples avantages : elle favorise la détente, diminue le stress et accroît la productivité des salariés. Elle stimule également les échanges sociaux et instaure une atmosphère de travail plus apaisée. Dans un univers professionnel souvent tendu, accueillir des animaux de compagnie en entreprise représente un véritable bénéfice pour le bien-être des équipes. | State the viewpoint that pets at work bring many benefits. | 1 source | 2024-05 | - |
+| 61 | Point de vue 1 : L'égalité entre les sexes au travail constitue un enjeu fondamental pour bâtir une société juste et florissante. Les femmes ont droit aux mêmes chances et aux mêmes droits que les hommes dans la sphère professionnelle. Il a été démontré que la mixité de genre stimule l'innovation, la créativité et la performance des organisations. En cultivant une culture égalitaire, on crée un cadre où les compétences sont reconnues sans distinction de genre. Miser sur l'égalité professionnelle, c'est miser sur un avenir plus équitable et plus dynamique pour l'ensemble de la société. | State the viewpoint arguing that gender equality at work is essential and beneficial. | 1 source | 2024-05 | - |
 
 ---
 

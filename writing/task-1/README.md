@@ -4,13 +4,13 @@
 
 A message to one or more people, 60 to 120 words.
 
-218 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+220 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (61)
 - [Economy](#economy) (12)
-- [Education](#education) (34)
+- [Education](#education) (36)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (19)
@@ -140,6 +140,8 @@ A message to one or more people, 60 to 120 words.
 | 32 | Répondez à votre ami Paul en décrivant l'école : les salles de cours, les équipements, les enseignants, et tout autre détail pertinent. | Reply to Paul describing the school: classrooms, equipment, teachers, and other relevant details. | 1 source | 2025-04 | - |
 | 33 | Un ami vous demande des renseignements sur votre école de langue. Répondez-lui en lui décrivant en détail votre expérience dans cet établissement. | Reply to a friend giving detailed information about your experience at your language school. | 1 source | 2025-04 | - |
 | 34 | « Coucou ! On m'a dit que ton école de langues était vraiment top ! Ça m'intéresse de m'inscrire moi aussi. Qu'en penses-tu ? » Répondez à votre ami(e) qui souhaite s'inscrire dans votre école de langues. | Write a reply to a friend who wants to enroll in your language school. | 1 source | 2025-04 | - |
+| 35 | « Tu t'es inscrit à des cours au centre de langues et cultures pour tous ? Qu'est-ce que tu penses de cette école ? Paul. » | Message from Paul asking about your opinion of the language school you attended. | 1 source | 2025-04 | - |
+| 36 | Écrivez un courriel pour proposer à un ami de passer une journée en votre compagnie, en précisant les détails utiles : lieu, date, heure et activités envisagées. | Write an email inviting a friend to spend a day with you, including place, date, time and planned activities. | 1 source | 2025-04 | - |
 
 ## Environment
 

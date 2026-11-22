@@ -4,14 +4,14 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-318 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+320 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (57)
+- [Culture](#culture) (58)
 - [Economy](#economy) (26)
 - [Education](#education) (60)
-- [Environment](#environment) (6)
+- [Environment](#environment) (7)
 - [Family](#family) (76)
 - [Health](#health) (18)
 - [Immigration](#immigration) (7)
@@ -80,6 +80,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 55 | Vous êtes responsable de l'organisation d'un festival de cinéma en langue française. Votre interlocuteur, rencontré pendant son séjour touristique dans votre ville, vous pose des questions sur ce festival afin de savoir s'il souhaite y assister (dates, horaires, programmation, tarifs, etc.). | The candidate must ask the examiner (organizer of a French-language film festival) questions to decide whether to attend, covering dates, schedule, program and prices. | 5 sources | 2026-03 | - |
 | 56 | Je travaille au sein d'une association multiculturelle. Posez-moi des questions. | The candidate must ask questions to someone working at a multicultural association. | 4 sources | 2022-09 | - |
 | 57 | Vous venez d'emménager dans un quartier inconnu. Posez-moi des questions. | The candidate must ask questions about a newly moved-into neighborhood. | 4 sources | 2022-09 | - |
+| 58 | Je travaille dans une agence de voyage, vous souhaitez partir en vacances pour un week-end. Posez-moi des questions. | The candidate must ask a travel agent questions to plan a weekend getaway. | 4 sources | 2022-11 | - |
 
 ## Economy
 
@@ -187,6 +188,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 4 | Vous appelez un office de tourisme. Vous aimeriez visiter un parc à thème (aquarium, zoo, réserve naturelle). Posez-moi des questions pour obtenir des détails : horaires d'ouverture, tarifs, possibilités de restauration, etc. | The candidate must call a tourist office and ask questions about a theme park (hours, prices, food options). | 7 sources | 2024-03 | - |
 | 5 | Un voisin ou une voisine vous confie son animal pendant une semaine ; posez-lui des questions à ce sujet. | Ask a neighbour questions about looking after their pet for a week. | 5 sources | 2022-12 | - |
 | 6 | Vous échangez avec votre voisin(e). Je suis bénévole dans une association de protection de l'environnement. Intéressé(e), vous souhaitez y participer. Posez-moi des questions pour en savoir plus (types d'activités, horaires, autres bénévoles, etc.). | The candidate must ask a neighbor questions to learn about joining an environmental volunteer association. | 5 sources | 2024-10 | - |
+| 7 | Je suis votre voisin. Je pars bientôt en séjour et je cherche quelqu'un pour garder mon animal ; cela semble vous intéresser. Posez-moi des questions. | Ask the examiner (your neighbour) questions about looking after their pet while they are away. | 4 sources | 2022-11 | - |
 
 ## Family
 

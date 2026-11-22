@@ -4,13 +4,13 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-199 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+201 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (77)
+- [Culture](#culture) (78)
 - [Economy](#economy) (3)
-- [Education](#education) (20)
+- [Education](#education) (21)
 - [Environment](#environment) (6)
 - [Family](#family) (10)
 - [Health](#health) (15)
@@ -100,6 +100,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 75 | Sur le forum d'Air Tropiques, racontez le plus beau voyage que vous ayez fait, dans le but de remporter deux billets pour le meilleur récit. Décrivez ce voyage et expliquez pourquoi il vous a plu. | Write a forum post describing your best trip ever and why you loved it, to win a travel contest. | 1 source | 2025-04 | - |
 | 76 | Sur votre blog, écrivez un billet dans lequel vous présentez l'artiste que vous admirez le plus. | Write a blog post about the artist you admire most. | 1 source | 2025-04 | - |
 | 77 | Vous rentrez d'un voyage à l'étranger. Écrivez un texte racontant comment s'est passé votre séjour et livrez vos impressions. Donnez à votre ami(e) de bonnes raisons de visiter ce pays à son tour. | Write about your trip abroad, your impressions, and reasons for a friend to visit that country. | 1 source | 2025-04 | - |
+| 78 | COURRIER DES LECTEURS Quitter tout pendant un an pour voyager : bonne idée ou pari risqué ? Donnez votre opinion sur le site « voyage.internaute.fr » en l'illustrant d'exemples tirés de votre propre vécu. | Write your opinion for a reader's forum on whether traveling for a year is advisable or risky, supported by personal examples. | 1 source | 2025-09 | - |
 
 ## Economy
 
@@ -133,6 +134,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 18 | Suite à un cours de langue qui n'a pas répondu à vos attentes, écrivez une note au directeur de l'institut pour lui exposer vos remarques et vos propositions d'amélioration, en 60 à 120 mots. | Write a note to a language school director with feedback and suggestions after an unsatisfactory course. | 1 source | 2024-04 | - |
 | 19 | Suite à une formation en ligne insatisfaisante, écrivez à l'organisateur pour faire le bilan de votre expérience et lui suggérer des améliorations, en 60 à 120 mots. | Write to an online course organizer summarizing your experience and suggesting improvements. | 1 source | 2024-05 | - |
 | 20 | Vous avez participé à un séjour dans un établissement spécialisé dans l'enseignement des langues. Rédigez un article pour votre site personnel afin de raconter cette expérience et de donner vos impressions. | Write a personal website article sharing your experience and impressions of a language-learning program you attended. | 1 source | 2025-04 | - |
+| 21 | Vous publiez un message sur un forum racontant votre expérience d'apprentissage d'une langue étrangère et expliquant pourquoi apprendre une langue étrangère est important. | Writing: post on a forum about your experience learning a foreign language and why it matters. | 1 source | 2025-07 | - |
 
 ## Environment
 

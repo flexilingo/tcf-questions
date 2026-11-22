@@ -4,13 +4,13 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-296 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+297 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (29)
 - [Economy](#economy) (8)
-- [Education](#education) (28)
+- [Education](#education) (29)
 - [Environment](#environment) (17)
 - [Family](#family) (25)
 - [Health](#health) (20)
@@ -98,6 +98,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 26 | La diversité en milieu scolaire favorise-t-elle l'épanouissement de tous les élèves ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether school diversity benefits all students. | 5 sources | 2024-10 | - |
 | 27 | Les entreprises devraient offrir à leurs salariés la possibilité de se former tout au long de leur carrière. Cela est-il utile à tous ? Quelle est votre position sur ce sujet ? | The candidate must give and defend an opinion on lifelong training offered by employers. | 5 sources | 2025-03 | - |
 | 28 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
+| 29 | Faire des études n'est pas indispensable pour gagner beaucoup d'argent. Êtes-vous d'accord ? | Give and defend your opinion on whether studying is unnecessary to earn a lot of money. | 4 sources | 2023-02 | - |
 
 ## Environment
 
