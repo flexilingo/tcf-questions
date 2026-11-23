@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-320 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+322 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,9 +13,9 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Education](#education) (46)
 - [Environment](#environment) (27)
 - [Family](#family) (36)
-- [Health](#health) (32)
+- [Health](#health) (33)
 - [Immigration](#immigration) (2)
-- [Miscellaneous](#miscellaneous) (10)
+- [Miscellaneous](#miscellaneous) (11)
 - [Technology](#technology) (22)
 - [Work](#work) (61)
 
@@ -273,6 +273,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 30 | Installer des distributeurs de boissons dans les lycées offre plusieurs avantages. Cela permet d'abord aux élèves de s'hydrater tout au long de la journée, ce qui favorise leur concentration et leurs résultats scolaires. Cela leur évite aussi de sortir de l'établissement pour acheter à boire, ce qui pourrait causer des retards et une perte de temps. Enfin, cette distribution peut encourager de bonnes habitudes alimentaires si des boissons saines et équilibrées sont proposées. En somme, c'est une mesure profitable à la fois pour la santé et pour la réussite scolaire des élèves. FÉLIX | Compare two texts with opposing views on drink dispensers in high schools and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 | 31 | La présence de distributeurs de boissons dans les lycées suscite des doutes légitimes. Cette pratique peut en effet nuire à la santé des élèves. En rendant les sodas et boissons sucrées facilement accessibles, on risque d'encourager une consommation excessive, source de problèmes comme l'obésité ou d'autres troubles liés à une mauvaise alimentation. De plus, ces distributeurs peuvent détourner les élèves de l'eau, pourtant essentielle pour une hydratation saine. Mieux vaudrait privilégier des fontaines à eau et promouvoir une alimentation équilibrée dans les établissements. OPAL | Compare two texts with opposing views on drink dispensers in high schools and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 | 32 | Rédigez un texte comparant deux points de vue sur l'alimentation végétarienne, l'un soulignant ses bienfaits pour la santé et l'environnement, l'autre évoquant les risques de carences nutritionnelles, en 120 à 180 mots. | Compare two opposing views on vegetarian diets, health benefits versus nutritional risks, in 120-180 words. | 1 source | 2024-04 | - |
+| 33 | Point de vue 1 : Les publicités alimentaires destinées aux enfants tiennent une place importante dans leur éveil et leur éducation nutritionnelle. Loin d'être nuisibles, ces campagnes informent et sensibilisent les jeunes à des choix sains et équilibrés. Elles encouragent la découverte d'une alimentation variée et suscitent la curiosité envers de nouveaux aliments. Bien maîtrisées, elles peuvent devenir un véritable outil éducatif pour favoriser de bonnes habitudes alimentaires chez les enfants. | State the viewpoint that food ads targeting children can be educational and beneficial. | 1 source | 2024-05 | - |
 
 ## Immigration
 
@@ -295,6 +296,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 8 | Vous rédigez un texte présentant deux avis opposés sur la colocation. Document 1 : Vivre en colocation permet de partager les frais de logement, de rompre l'isolement et de créer des liens d'amitié durables avec ses colocataires. Document 2 : Partager son quotidien avec des inconnus entraîne souvent des tensions sur le ménage, le bruit ou les tâches communes, et prive chacun d'une véritable intimité. | Write 120-180 words comparing two opposing views on house-sharing. | 1 source | 2021-03 | - |
 | 9 | Contenu du document original indisponible (erreur technique : JavaScript requis pour afficher la page source). | The original scenario content could not be retrieved due to a technical error on the source page. | 1 source | 2022-08 | - |
 | 10 | Louer sa maison sur une durée limitée peut apporter de nombreux bénéfices aux propriétaires. D'abord, cela permet de générer un revenu complémentaire régulier, rentabilisant ainsi l'investissement immobilier. De plus, une location à durée déterminée laisse au propriétaire une certaine souplesse, lui permettant de profiter lui-même du logement pendant les créneaux libres. Il garde également la liberté de choisir quand et à qui louer son bien, selon ses besoins. C'est donc une solution efficace pour rentabiliser une propriété tout en gardant la possibilité de l'utiliser à sa convenance. | The candidate must write the text in favor of periodic home rental, listing its benefits for owners, as part of a two-document comparison task. | 1 source | 2024-04 | - |
+| 11 | Point de vue 1 : Pierre, conseiller d'orientation, s'exprime ainsi : | State the first viewpoint, given by Pierre, a career counselor. | 1 source | 2024-05 | - |
 
 ## Technology
 

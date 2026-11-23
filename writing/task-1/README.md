@@ -4,20 +4,20 @@
 
 A message to one or more people, 60 to 120 words.
 
-220 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+222 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (61)
 - [Economy](#economy) (12)
-- [Education](#education) (36)
+- [Education](#education) (37)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (19)
 - [Immigration](#immigration) (10)
 - [Miscellaneous](#miscellaneous) (29)
 - [Technology](#technology) (3)
-- [Work](#work) (20)
+- [Work](#work) (21)
 
 ## Culture
 
@@ -142,6 +142,7 @@ A message to one or more people, 60 to 120 words.
 | 34 | « Coucou ! On m'a dit que ton école de langues était vraiment top ! Ça m'intéresse de m'inscrire moi aussi. Qu'en penses-tu ? » Répondez à votre ami(e) qui souhaite s'inscrire dans votre école de langues. | Write a reply to a friend who wants to enroll in your language school. | 1 source | 2025-04 | - |
 | 35 | « Tu t'es inscrit à des cours au centre de langues et cultures pour tous ? Qu'est-ce que tu penses de cette école ? Paul. » | Message from Paul asking about your opinion of the language school you attended. | 1 source | 2025-04 | - |
 | 36 | Écrivez un courriel pour proposer à un ami de passer une journée en votre compagnie, en précisant les détails utiles : lieu, date, heure et activités envisagées. | Write an email inviting a friend to spend a day with you, including place, date, time and planned activities. | 1 source | 2025-04 | - |
+| 37 | Vous écrivez un e-mail à votre ami(e) pour lui donner toutes les indications utiles afin de rejoindre le château (adresse, emplacement, moyens de transport, etc.). | Write an email giving a friend all the details needed to reach the castle. | 1 source | 2025-05 | - |
 
 ## Environment
 
@@ -288,6 +289,7 @@ A message to one or more people, 60 to 120 words.
 | 18 | Salut ! Ton entreprise a-t-elle fini de déménager ? À quoi ressemblent les nouveaux locaux ? Lucas Répondez à votre ami Lucas en décrivant les nouveaux locaux de votre entreprise (emplacement, agencement des espaces, équipements, etc.) | The candidate must reply to a friend describing their company's new office premises. | 1 source | 2025-01 | - |
 | 19 | Répondez au courriel d'un ami qui vous demande des renseignements sur les nouveaux bureaux de votre société : précisez leur situation géographique, l'organisation des différents espaces et les équipements mis à disposition. | Reply to a friend's email describing your company's new offices: location, layout, and equipment. | 1 source | 2025-03 | - |
 | 20 | Votre entreprise cherche une salle capable d'accueillir une centaine de personnes pour la soirée de fin d'année. Vous avez déniché un lieu qui vous semble parfait et vous écrivez à votre direction pour lui en présenter les caractéristiques (emplacement, prix, prestations, etc.) | Write to your company's management with details of a venue you found for a year-end party for 100 guests. | 1 source | 2025-03 | - |
+| 21 | Écrivez à un ami pour lui raconter comment s'est déroulé votre entretien d'embauche (entreprise, salaire, poste proposé). | Write to a friend describing your job interview (company, salary, position). | 1 source | 2025-04 | - |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-297 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+299 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,7 +14,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Environment](#environment) (17)
 - [Family](#family) (25)
 - [Health](#health) (20)
-- [Immigration](#immigration) (42)
+- [Immigration](#immigration) (44)
 - [Miscellaneous](#miscellaneous) (47)
 - [Technology](#technology) (37)
 - [Work](#work) (43)
@@ -223,6 +223,8 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 40 | Explorer un nouveau pays, c’est aussi s’intéresser à ses artistes ? Êtes-vous d’accord avec cette affirmation ? | Give and defend your opinion on whether discovering a country means discovering its artists too. | 5 sources | 2025-10 | - |
 | 41 | Selon vous, les avantages de vivre à l’étranger l’emportent-ils sur les inconvénients ? Pourquoi ? | Give and defend your opinion on whether the benefits of living abroad outweigh the drawbacks. | 5 sources | 2025-10 | - |
 | 42 | Pour quelles raisons pourrait-on avoir envie de poursuivre ses études à l'étranger ? | The candidate must give their opinion on why someone might want to study abroad. | 5 sources | 2026-03 | - |
+| 43 | Les personnes immigrées ont tendance à rester entre elles, en communauté. Qu'en pensez-vous ? | Give and defend your opinion on whether immigrants prefer to stay within their own community. | 4 sources | 2023-02 | - |
+| 44 | S'intégrer dans un pays d'accueil est facile lorsqu'on a des enfants. Êtes-vous d'accord avec cette idée ? | Give and defend your opinion on whether integrating into a host country is easy when you have children. | 4 sources | 2023-02 | - |
 
 ## Miscellaneous
 

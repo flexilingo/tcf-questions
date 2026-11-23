@@ -4,15 +4,15 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-320 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+322 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (58)
+- [Culture](#culture) (59)
 - [Economy](#economy) (26)
 - [Education](#education) (60)
 - [Environment](#environment) (7)
-- [Family](#family) (76)
+- [Family](#family) (77)
 - [Health](#health) (18)
 - [Immigration](#immigration) (7)
 - [Miscellaneous](#miscellaneous) (16)
@@ -81,6 +81,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 56 | Je travaille au sein d'une association multiculturelle. Posez-moi des questions. | The candidate must ask questions to someone working at a multicultural association. | 4 sources | 2022-09 | - |
 | 57 | Vous venez d'emménager dans un quartier inconnu. Posez-moi des questions. | The candidate must ask questions about a newly moved-into neighborhood. | 4 sources | 2022-09 | - |
 | 58 | Je travaille dans une agence de voyage, vous souhaitez partir en vacances pour un week-end. Posez-moi des questions. | The candidate must ask a travel agent questions to plan a weekend getaway. | 4 sources | 2022-11 | - |
+| 59 | Je travaille dans un centre de loisirs et vous semblez intéressé par nos activités. Posez-moi des questions. | Ask the examiner, who works at a leisure centre, questions about it. | 4 sources | 2022-12 | - |
 
 ## Economy
 
@@ -270,6 +271,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 74 | Je suis votre ami(e). Vous voulez savoir comment s’est déroulée ma première journée dans mon nouvel emploi (atmosphère, collègues, tâches, etc.). | Ask your friend questions about how their first day at their new job went. | 5 sources | 2025-09 | - |
 | 75 | Vous discutez avec un(e) ami(e) francophone. Vous prévoyez de vous installer dans ma ville et vous me demandez des conseils pour trouver un logement. | The candidate must ask a francophone friend for advice on finding housing in their city. | 5 sources | 2025-12 | - |
 | 76 | Je suis un(e) ami(e). Vous voulez faire découvrir des spécialités québécoises à vos amis. Vous me demandez des suggestions pour organiser ce repas (lieu, menu, budget, etc.). | Ask your friend for suggestions to organise a meal featuring Quebec specialties. | 5 sources | 2026-01 | - |
+| 77 | Je suis votre voisin ici au Canada. Je souhaite vendre des meubles et cela semble vous intéresser. Posez-moi des questions. | Ask the examiner (your neighbour) questions about the furniture they want to sell. | 4 sources | 2022-12 | - |
 
 ## Health
 

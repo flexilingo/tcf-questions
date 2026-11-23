@@ -4,19 +4,19 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-201 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+203 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (78)
 - [Economy](#economy) (3)
-- [Education](#education) (21)
+- [Education](#education) (22)
 - [Environment](#environment) (6)
 - [Family](#family) (10)
 - [Health](#health) (15)
 - [Immigration](#immigration) (15)
 - [Miscellaneous](#miscellaneous) (10)
-- [Technology](#technology) (23)
+- [Technology](#technology) (24)
 - [Work](#work) (20)
 
 ## Culture
@@ -135,6 +135,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 19 | Suite à une formation en ligne insatisfaisante, écrivez à l'organisateur pour faire le bilan de votre expérience et lui suggérer des améliorations, en 60 à 120 mots. | Write to an online course organizer summarizing your experience and suggesting improvements. | 1 source | 2024-05 | - |
 | 20 | Vous avez participé à un séjour dans un établissement spécialisé dans l'enseignement des langues. Rédigez un article pour votre site personnel afin de raconter cette expérience et de donner vos impressions. | Write a personal website article sharing your experience and impressions of a language-learning program you attended. | 1 source | 2025-04 | - |
 | 21 | Vous publiez un message sur un forum racontant votre expérience d'apprentissage d'une langue étrangère et expliquant pourquoi apprendre une langue étrangère est important. | Writing: post on a forum about your experience learning a foreign language and why it matters. | 1 source | 2025-07 | - |
+| 22 | Sur un forum de discussion, rédigez un message où vous racontez votre expérience personnelle et vos impressions concernant l'apprentissage d'une langue étrangère. | Write a forum post sharing your personal experience and impressions of learning a foreign language. | 1 source | 2025-09 | - |
 
 ## Environment
 
@@ -244,6 +245,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 21 | Vous avez été invité à participer à une émission de télévision. Sur votre blog, racontez cette expérience et partagez vos impressions. | Recount on your blog your experience taking part in a TV show and share your impressions. | 1 source | 2025-01 | - |
 | 22 | France Télévision réalise un reportage consacré au sport amateur. Envoyez un message sur leur site pour témoigner de votre propre pratique sportive. | Write a testimonial message on a TV channel's website about your amateur sports practice. | 1 source | 2025-03 | - |
 | 23 | Sur le site Internet, vous répondez à cette sollicitation : racontez votre expérience et donnez votre avis sur les services offerts. | On the website, respond by recounting your experience and giving your opinion on the services offered. | 1 source | 2025-04 | - |
+| 24 | Vous avez assisté à un débat organisé dans votre ville sur l'avenir de l'enseignement face au développement des outils d'intelligence artificielle. Rédigez un article destiné au site Internet municipal relatant cette expérience et votre point de vue. | Writing: write an article for the city website about a debate you attended on AI's impact on education, sharing your experience and opinion. | 1 source | 2025-09 | - |
 
 ## Work
 
