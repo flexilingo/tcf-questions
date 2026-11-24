@@ -4,17 +4,17 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-299 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+301 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (29)
 - [Economy](#economy) (8)
-- [Education](#education) (29)
+- [Education](#education) (30)
 - [Environment](#environment) (17)
 - [Family](#family) (25)
 - [Health](#health) (20)
-- [Immigration](#immigration) (44)
+- [Immigration](#immigration) (45)
 - [Miscellaneous](#miscellaneous) (47)
 - [Technology](#technology) (37)
 - [Work](#work) (43)
@@ -99,6 +99,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 27 | Les entreprises devraient offrir à leurs salariés la possibilité de se former tout au long de leur carrière. Cela est-il utile à tous ? Quelle est votre position sur ce sujet ? | The candidate must give and defend an opinion on lifelong training offered by employers. | 5 sources | 2025-03 | - |
 | 28 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
 | 29 | Faire des études n'est pas indispensable pour gagner beaucoup d'argent. Êtes-vous d'accord ? | Give and defend your opinion on whether studying is unnecessary to earn a lot of money. | 4 sources | 2023-02 | - |
+| 30 | De nos jours, grâce à Internet, on peut tout apprendre en autodidacte. Partagez votre avis sur cette affirmation. | Give your opinion on whether the internet makes it possible to learn everything by oneself. | 4 sources | 2023-03 | - |
 
 ## Environment
 
@@ -225,6 +226,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 42 | Pour quelles raisons pourrait-on avoir envie de poursuivre ses études à l'étranger ? | The candidate must give their opinion on why someone might want to study abroad. | 5 sources | 2026-03 | - |
 | 43 | Les personnes immigrées ont tendance à rester entre elles, en communauté. Qu'en pensez-vous ? | Give and defend your opinion on whether immigrants prefer to stay within their own community. | 4 sources | 2023-02 | - |
 | 44 | S'intégrer dans un pays d'accueil est facile lorsqu'on a des enfants. Êtes-vous d'accord avec cette idée ? | Give and defend your opinion on whether integrating into a host country is easy when you have children. | 4 sources | 2023-02 | - |
+| 45 | Selon vous, est-il facile de conserver sa culture d'origine lorsqu'on vit à l'étranger ? Justifiez votre réponse. | Give and defend your opinion on whether it's easy to preserve one's original culture while living abroad. | 4 sources | 2023-02 | - |
 
 ## Miscellaneous
 

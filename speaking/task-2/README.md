@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-322 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+324 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -14,8 +14,8 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Environment](#environment) (7)
 - [Family](#family) (77)
 - [Health](#health) (18)
-- [Immigration](#immigration) (7)
-- [Miscellaneous](#miscellaneous) (16)
+- [Immigration](#immigration) (8)
+- [Miscellaneous](#miscellaneous) (17)
 - [Technology](#technology) (5)
 - [Work](#work) (47)
 
@@ -307,6 +307,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 5 | Je suis ton ami(e). Tu viens d'arriver au Canada et tu es en quête d'un logement. Je te propose une chambre en colocation chez moi. Tu me poses des questions pour te renseigner. | The candidate must ask the friend questions about a room-sharing offer. | 6 sources | 2023-03 | - |
 | 6 | Vous travaillez à l'accueil de la mairie d'Ottawa. Un nouvel arrivant au Canada se présente devant vous. Posez-lui des questions pour l'aider dans ses démarches. | The candidate, as a newcomer, must ask the city hall receptionist questions to get help settling in. | 5 sources | 2022-11 | - |
 | 7 | Selon vous, quels moyens un État peut-il mettre en place pour favoriser l'intégration des étrangers ? | Give and defend an opinion on how a state can foster the integration of foreigners. | 5 sources | 2023-10 | - |
+| 8 | Je suis votre ami. Vous venez d'arriver au Canada. Posez-moi des questions concernant le système de santé. | Ask the examiner (your friend) questions about the healthcare system. | 4 sources | 2023-02 | - |
 
 ## Miscellaneous
 
@@ -328,6 +329,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 14 | Je suis votre ami et je recherche une personne pour garder mes enfants. Posez-moi des questions afin de m'aider dans cette recherche. | The candidate must ask questions to help the friend find a babysitter. | 4 sources | 2022-09 | - |
 | 15 | Je suis votre ami à Ottawa, vous venez juste de vous y installer et vous voulez faire du vélo. Posez-moi des questions. | The candidate must ask questions about cycling in a new city. | 4 sources | 2022-09 | - |
 | 16 | Je travaille pour une entreprise de rénovation d'habitation. Posez-moi des questions. | The candidate must ask questions to a home renovation company employee. | 4 sources | 2022-09 | - |
+| 17 | Je suis votre ami. Je viens tout juste de m'installer au Canada. Posez-moi des questions. | Ask the examiner (your friend) questions about their recent move to Canada. | 4 sources | 2023-02 | - |
 
 ## Technology
 

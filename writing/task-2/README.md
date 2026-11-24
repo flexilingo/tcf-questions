@@ -4,16 +4,16 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-203 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+205 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (78)
 - [Economy](#economy) (3)
-- [Education](#education) (22)
+- [Education](#education) (23)
 - [Environment](#environment) (6)
 - [Family](#family) (10)
-- [Health](#health) (15)
+- [Health](#health) (16)
 - [Immigration](#immigration) (15)
 - [Miscellaneous](#miscellaneous) (10)
 - [Technology](#technology) (24)
@@ -136,6 +136,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 20 | Vous avez participé à un séjour dans un établissement spécialisé dans l'enseignement des langues. Rédigez un article pour votre site personnel afin de raconter cette expérience et de donner vos impressions. | Write a personal website article sharing your experience and impressions of a language-learning program you attended. | 1 source | 2025-04 | - |
 | 21 | Vous publiez un message sur un forum racontant votre expérience d'apprentissage d'une langue étrangère et expliquant pourquoi apprendre une langue étrangère est important. | Writing: post on a forum about your experience learning a foreign language and why it matters. | 1 source | 2025-07 | - |
 | 22 | Sur un forum de discussion, rédigez un message où vous racontez votre expérience personnelle et vos impressions concernant l'apprentissage d'une langue étrangère. | Write a forum post sharing your personal experience and impressions of learning a foreign language. | 1 source | 2025-09 | - |
+| 23 | Vous rédigez un texte racontant votre expérience d'un cours suivi en ligne avec des participants d'un autre pays. | Writing: write about your experience of an online class with people from another country. | 1 source | 2025-09 | - |
 
 ## Environment
 
@@ -182,6 +183,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 13 | Vous avez suivi un cours de sport en salle qui vous a déçu. Écrivez au responsable de la salle pour exposer ce qui ne vous a pas convenu et proposer des améliorations. | Write to the gym manager explaining dissatisfaction with a fitness class and suggesting improvements. | 1 source | 2024-06 | - |
 | 14 | Votre commune vient d'aménager de nouvelles pistes cyclables pour favoriser les déplacements à vélo. Rédigez un article racontant votre expérience d'utilisateur : bénéfices constatés, difficultés rencontrées, et pistes d'amélioration. | Writing: write an article about your experience using new bike lanes, describing benefits, challenges, and suggestions for improvement (120-150 words). | 1 source | 2025-01 | - |
 | 15 | Tu partages ton expérience d'une salle de sport dans un article de blog, en décrivant l'atmosphère, les équipements et l'accompagnement, et en donnant ton avis sur la qualité de cette expérience. | Write a blog post about your gym experience, describing atmosphere, equipment, coaching and your opinion. | 1 source | 2025-02 | - |
+| 16 | Vous avez visité une salle de sport récemment et vous laissez votre avis sur son site internet. | Writing: leave your opinion on a gym's website after a recent visit. | 1 source | 2025-09 | - |
 
 ## Immigration
 

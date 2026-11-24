@@ -4,20 +4,20 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-322 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+324 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (42)
 - [Economy](#economy) (42)
-- [Education](#education) (46)
+- [Education](#education) (47)
 - [Environment](#environment) (27)
 - [Family](#family) (36)
 - [Health](#health) (33)
 - [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (11)
 - [Technology](#technology) (22)
-- [Work](#work) (61)
+- [Work](#work) (62)
 
 ## Culture
 
@@ -163,6 +163,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 44 | Document 1 : l'enseignement à distance rend l'apprentissage accessible à tous, partout dans le monde, avec des ressources variées et un rythme personnalisé. Document 2 : le manque d'échanges en personne nuit à la motivation des élèves et les inégalités d'accès à la technologie renforcent les écarts entre eux. | Compare two texts with opposing views on online education and write 120-180 words. | 1 source | 2024-02 | - |
 | 45 | Toutefois, apprendre une langue à distance comporte aussi des limites. L'absence d'échanges en direct prive les apprenants d'une pratique orale régulière. Par ailleurs, ce mode d'apprentissage exige beaucoup d'autodiscipline et de motivation personnelle, ce qui n'est pas évident pour tous. La qualité des supports numériques est inégale, et l'accès aux outils technologiques n'est pas le même pour chacun. Sans cadre d'apprentissage structuré, certains étudiants progressent moins efficacement. | The candidate must write the opposing viewpoint text about the drawbacks of distance language learning, as part of a two-document comparison task. | 1 source | 2024-02 | - |
 | 46 | Rédigez un texte comparant deux avis sur les jeux vidéo, l'un mettant en avant leur valeur éducative pour développer la créativité et la réflexion, l'autre pointant les risques liés à un usage excessif comme l'addiction ou les troubles de santé, en 120 à 180 mots. | Compare two opposing views on whether video games are educational or harmful, in 120-180 words. | 1 source | 2024-03 | - |
+| 47 | Point de vue 2 : Certaines recherches, dont celles du professeur Jordan Peterson de l'Université de Toronto, contestent les politiques d'égalité de genre et insistent sur la nécessité de reconnaître les différences individuelles. Les compétences, centres d'intérêt et choix professionnels peuvent différer selon le genre, sans que cela constitue une injustice. Imposer une égalité artificielle risque de produire des effets contre-productifs et sources de frustration. Mieux vaudrait donc privilégier la reconnaissance des différences plutôt que rechercher une parité absolue. | State the opposing viewpoint arguing that enforced gender equality can be counterproductive. | 1 source | 2024-05 | - |
 
 ## Environment
 
@@ -390,6 +391,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 59 | Malgré leur charme, les produits artisanaux souffrent parfois d'un manque de contrôle en matière de qualité et d'hygiène. Sans vérifications strictes, ils peuvent présenter des risques sanitaires. Leur fabrication à petite échelle peut aussi se révéler peu rentable et onéreuse, limitant leur accessibilité pour tous. Ils risquent enfin de créer une concurrence injuste pour les petits artisans face aux grandes entreprises. | The candidate must write the text opposing homemade products, as part of a two-document comparison task. | 1 source | 2024-04 | - |
 | 60 | Point de vue 1 : D'après une recherche conduite par l'Université de Virginia Tech, la présence d'animaux de compagnie au bureau procure de multiples avantages : elle favorise la détente, diminue le stress et accroît la productivité des salariés. Elle stimule également les échanges sociaux et instaure une atmosphère de travail plus apaisée. Dans un univers professionnel souvent tendu, accueillir des animaux de compagnie en entreprise représente un véritable bénéfice pour le bien-être des équipes. | State the viewpoint that pets at work bring many benefits. | 1 source | 2024-05 | - |
 | 61 | Point de vue 1 : L'égalité entre les sexes au travail constitue un enjeu fondamental pour bâtir une société juste et florissante. Les femmes ont droit aux mêmes chances et aux mêmes droits que les hommes dans la sphère professionnelle. Il a été démontré que la mixité de genre stimule l'innovation, la créativité et la performance des organisations. En cultivant une culture égalitaire, on crée un cadre où les compétences sont reconnues sans distinction de genre. Miser sur l'égalité professionnelle, c'est miser sur un avenir plus équitable et plus dynamique pour l'ensemble de la société. | State the viewpoint arguing that gender equality at work is essential and beneficial. | 1 source | 2024-05 | - |
+| 62 | Point de vue 2 : Accueillir des animaux de compagnie en entreprise peut sembler séduisant, mais cela risque en réalité de créer davantage de problèmes que de bénéfices. D'après une étude de la National Association for Women in Real Estate (2018), les animaux peuvent occasionner du bruit, des odeurs et des accidents, nuisant ainsi à la productivité et à la confidentialité des employés. Par ailleurs, ils peuvent véhiculer maladies et allergènes, mettant en péril la santé du personnel. Il convient donc de bien peser les coûts et conséquences avant d'introduire des animaux sur le lieu de travail. | State the opposing viewpoint that pets at work create more problems than benefits. | 1 source | 2024-05 | - |
 
 ---
 

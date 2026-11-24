@@ -4,18 +4,18 @@
 
 A message to one or more people, 60 to 120 words.
 
-222 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+224 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (61)
 - [Economy](#economy) (12)
-- [Education](#education) (37)
+- [Education](#education) (38)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
 - [Health](#health) (19)
 - [Immigration](#immigration) (10)
-- [Miscellaneous](#miscellaneous) (29)
+- [Miscellaneous](#miscellaneous) (30)
 - [Technology](#technology) (3)
 - [Work](#work) (21)
 
@@ -143,6 +143,7 @@ A message to one or more people, 60 to 120 words.
 | 35 | « Tu t'es inscrit à des cours au centre de langues et cultures pour tous ? Qu'est-ce que tu penses de cette école ? Paul. » | Message from Paul asking about your opinion of the language school you attended. | 1 source | 2025-04 | - |
 | 36 | Écrivez un courriel pour proposer à un ami de passer une journée en votre compagnie, en précisant les détails utiles : lieu, date, heure et activités envisagées. | Write an email inviting a friend to spend a day with you, including place, date, time and planned activities. | 1 source | 2025-04 | - |
 | 37 | Vous écrivez un e-mail à votre ami(e) pour lui donner toutes les indications utiles afin de rejoindre le château (adresse, emplacement, moyens de transport, etc.). | Write an email giving a friend all the details needed to reach the castle. | 1 source | 2025-05 | - |
+| 38 | Message de Mehdi : « Salut ! Je viens d'emménager dans ta ville et j'aimerais prendre les transports en commun. Tu peux m'aider ? Merci d'avance, à bientôt ! » Répondez à Mehdi : présentez-lui les différents moyens de transport disponibles dans votre ville et donnez-lui des informations pratiques (tarifs, types d'abonnement, etc.). | The candidate must reply to a friend's message describing local public transport options and practical details like prices and passes. | 1 source | 2025-06 | - |
 
 ## Environment
 
@@ -256,6 +257,7 @@ A message to one or more people, 60 to 120 words.
 | 27 | Vous vous installez à Nice et vous écrivez à une agence immobilière pour demander son aide dans votre recherche d'appartement, en précisant le loyer souhaité, le nombre d'occupants et la date d'emménagement. | Write a 60-120 word message to a real estate agency asking for help finding a flat in Nice, specifying rent, number of occupants and move-in date. | 1 source | 2025-02 | - |
 | 28 | Écris un message à ton ami Cédric dans lequel tu lui donnes des consignes pour s'occuper de ta maison et de ton jardin le temps de ton absence. | Write a message to your friend Cédric with instructions to look after your house and garden while you're away. | 1 source | 2025-02 | - |
 | 29 | Vous voulez pratiquer le français dans une ambiance détendue ? Trouvez quelqu'un dans votre ville qui veut échanger en français ! Écrivez à [email protected]. Vous répondez à cette annonce : présentez-vous, indiquez vos centres d'intérêt et expliquez pourquoi vous cherchez un partenaire linguistique. | Reply to an ad seeking a French conversation partner, introducing yourself, your interests, and your reasons. | 1 source | 2025-04 | - |
+| 30 | Vous voulez emmener vos amis découvrir un endroit touristique que vous adorez. Écrivez-leur un message présentant votre projet de voyage : lieu, dates, hébergement, etc. (60 à 120 mots). | The candidate must write a message inviting friends to a favorite tourist spot, describing the trip plan (location, dates, accommodation). | 1 source | 2025-06 | - |
 
 ## Technology
 
