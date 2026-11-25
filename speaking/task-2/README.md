@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-324 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+326 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,12 +12,12 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Economy](#economy) (26)
 - [Education](#education) (60)
 - [Environment](#environment) (7)
-- [Family](#family) (77)
+- [Family](#family) (78)
 - [Health](#health) (18)
 - [Immigration](#immigration) (8)
 - [Miscellaneous](#miscellaneous) (17)
 - [Technology](#technology) (5)
-- [Work](#work) (47)
+- [Work](#work) (48)
 
 ## Culture
 
@@ -272,6 +272,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 75 | Vous discutez avec un(e) ami(e) francophone. Vous prévoyez de vous installer dans ma ville et vous me demandez des conseils pour trouver un logement. | The candidate must ask a francophone friend for advice on finding housing in their city. | 5 sources | 2025-12 | - |
 | 76 | Je suis un(e) ami(e). Vous voulez faire découvrir des spécialités québécoises à vos amis. Vous me demandez des suggestions pour organiser ce repas (lieu, menu, budget, etc.). | Ask your friend for suggestions to organise a meal featuring Quebec specialties. | 5 sources | 2026-01 | - |
 | 77 | Je suis votre voisin ici au Canada. Je souhaite vendre des meubles et cela semble vous intéresser. Posez-moi des questions. | Ask the examiner (your neighbour) questions about the furniture they want to sell. | 4 sources | 2022-12 | - |
+| 78 | Je suis votre voisin. Vous recherchez une baby-sitter et j'en connais une. Posez-moi des questions. | Ask the examiner (your neighbour) questions about a babysitter they know. | 4 sources | 2023-02 | - |
 
 ## Health
 
@@ -392,6 +393,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 45 | Vous vous adressez au gérant d’un restaurant. Je cherche à recruter un(e) employé(e). Vous êtes intéressé(e) par le poste et vous me posez des questions pour en savoir davantage (nature du poste, horaires, salaire, etc.). | Ask the restaurant manager questions to get details about a job opening (type, hours, pay, etc.). | 5 sources | 2025-09 | - |
 | 46 | Je suis votre ami(e) et je me suis installé(e) au Canada depuis quelques mois. Posez-moi des questions sur ma nouvelle vie là-bas (logement, loisirs, relations, travail, etc.). | The candidate must ask a friend who recently moved to Canada questions about their new life there. | 5 sources | 2026-03 | - |
 | 47 | Je suis votre collègue de travail, vous êtes nouvellement arrivé. Vous voulez me connaître davantage. Posez-moi des questions. | The candidate must ask questions to get to know a new colleague. | 4 sources | 2022-10 | - |
+| 48 | Je suis votre collègue. J'ai récemment visité une région du Canada. Posez-moi des questions (logement, activités, prix). | Ask the examiner (your colleague) questions about a region of Canada they recently visited. | 4 sources | 2023-02 | - |
 
 ---
 

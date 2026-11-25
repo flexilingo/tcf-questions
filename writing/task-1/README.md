@@ -4,16 +4,16 @@
 
 A message to one or more people, 60 to 120 words.
 
-224 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+226 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (61)
-- [Economy](#economy) (12)
+- [Economy](#economy) (13)
 - [Education](#education) (38)
 - [Environment](#environment) (2)
 - [Family](#family) (28)
-- [Health](#health) (19)
+- [Health](#health) (20)
 - [Immigration](#immigration) (10)
 - [Miscellaneous](#miscellaneous) (30)
 - [Technology](#technology) (3)
@@ -101,6 +101,7 @@ A message to one or more people, 60 to 120 words.
 | 10 | Écrivez un e-mail à une amie pour l'inviter à assister avec vous au concert de votre chanteur ou chanteuse favori(te) (précisez la date, le lieu, le tarif, l'artiste, etc.) | The candidate must write an email inviting a friend to a concert, giving details like day, place, price and artist. | 1 source | 2024-04 | - |
 | 11 | Réponds-lui par courriel en lui présentant l'hôtel que tu as réservé pour lui : indique où il se trouve, son tarif et les services qu'il propose. | Reply by email describing the hotel booked, its location, price and services. | 1 source | 2025-02 | - |
 | 12 | Répondez par courriel à une annonce concernant un vélo recherché. Décrivez votre propre vélo, précisez son état, indiquez un prix et proposez un rendez-vous pour un essai. | Write an email replying to a bike wanted ad, describing your bike's condition, price and proposing a test ride meeting. | 1 source | 2025-03 | - |
+| 13 | Un couple a remporté le gros lot à la loterie, mais un incident inattendu s'est produit au moment de récupérer son prix. | Writing: describe a couple who won the lottery but faced an unexpected problem collecting their prize. | 1 source | 2025-07 | - |
 
 ## Education
 
@@ -208,6 +209,7 @@ A message to one or more people, 60 to 120 words.
 | 17 | Coucou, Je sais que tu fréquentes une salle de sport. Ça te plaît ? Tu peux me donner plus de détails ? J'aimerais savoir si elle vaut le coup ! Merci d'avance ! Joanna Vous répondez à votre amie Joanna. Dans votre message, vous décrivez la salle de sport où vous allez (activités proposées, horaires, tarifs, etc.). | The candidate must reply to a friend describing their gym (activities, hours, prices). | 2 sources | 2026-03 | - |
 | 18 | Répondez au message d'un ami qui veut se mettre au sport et vous demande de lui recommander une salle correspondant à ses attentes. | Reply to a friend who wants to start exercising and recommend a suitable gym. | 1 source | 2025-03 | - |
 | 19 | Vous venez d'adopter un animal et souhaitez en informer votre famille. Rédigez un message expliquant votre décision, décrivant l'animal (nom, aspect, tempérament) et vos soins quotidiens. | Writing: write a message to your family announcing a new pet, describing it and your daily care routine (60-120 words). | 1 source | 2025-03 | - |
+| 20 | La province a mis en place des abonnements de transport en commun à tarif réduit pour les jeunes. Rédigez un courriel à un ami/une amie pour lui annoncer cette nouvelle et donner votre avis. | Writing: write an email to a friend about a new reduced-price public transit pass for young people and give your opinion (60-120 words). | 1 source | 2025-07 | - |
 
 ## Immigration
 

@@ -4,11 +4,11 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-301 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+303 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (29)
+- [Culture](#culture) (30)
 - [Economy](#economy) (8)
 - [Education](#education) (30)
 - [Environment](#environment) (17)
@@ -17,7 +17,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Immigration](#immigration) (45)
 - [Miscellaneous](#miscellaneous) (47)
 - [Technology](#technology) (37)
-- [Work](#work) (43)
+- [Work](#work) (44)
 
 ## Culture
 
@@ -52,6 +52,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 27 | De nos jours, on envoie de moins en moins de courriers, qu'il s'agisse de cartes de vœux ou de lettres d'amour. Trouvez-vous cela regrettable ? | Give your opinion on whether it's a pity that people send fewer and fewer letters and greeting cards nowadays. | 5 sources | 2024-04 | - |
 | 28 | Lire, est-ce du temps perdu ? Êtes-vous d’accord avec cette idée ? Pourquoi ? | Give and defend your opinion on whether reading is a waste of time. | 5 sources | 2025-10 | - |
 | 29 | Beaucoup de gens n'aiment pas voyager en solitaire. Êtes-vous d'accord avec cette idée ? Expliquez pourquoi. | The candidate must give and defend their opinion on whether they agree that many people dislike traveling alone. | 5 sources | 2025-12 | - |
+| 30 | Selon vous, est-il nécessaire que chaque membre d'une famille contribue aux corvées domestiques ? Justifiez votre point de vue. | State and defend your opinion on whether every household member should share domestic chores. | 4 sources | 2023-03 | - |
 
 ## Economy
 
@@ -369,6 +370,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 41 | Selon vous, jusqu'à quel âge peut-on raisonnablement continuer à travailler ? Justifiez votre réponse. | The candidate must give and defend an opinion on the reasonable age limit for working. | 5 sources | 2025-03 | - |
 | 42 | À votre avis, quelles démarches un jeune devrait-il entreprendre pour décrocher un emploi ? | The candidate must give their opinion on what a young person should do to find a job. | 5 sources | 2026-01 | - |
 | 43 | Que pensez-vous de l'usage du téléphone portable sur le lieu de travail ? | The candidate must give and defend an opinion on mobile phone use at work. | 4 sources | 2022-10 | - |
+| 44 | Pensez-vous que le bonheur soit lié à un bon salaire ? | Give and defend your opinion on whether happiness depends on having a good salary. | 4 sources | 2023-03 | - |
 
 ---
 

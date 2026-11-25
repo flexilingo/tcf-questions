@@ -4,17 +4,17 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-205 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+207 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (78)
+- [Culture](#culture) (79)
 - [Economy](#economy) (3)
 - [Education](#education) (23)
 - [Environment](#environment) (6)
 - [Family](#family) (10)
 - [Health](#health) (16)
-- [Immigration](#immigration) (15)
+- [Immigration](#immigration) (16)
 - [Miscellaneous](#miscellaneous) (10)
 - [Technology](#technology) (24)
 - [Work](#work) (20)
@@ -101,6 +101,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 76 | Sur votre blog, écrivez un billet dans lequel vous présentez l'artiste que vous admirez le plus. | Write a blog post about the artist you admire most. | 1 source | 2025-04 | - |
 | 77 | Vous rentrez d'un voyage à l'étranger. Écrivez un texte racontant comment s'est passé votre séjour et livrez vos impressions. Donnez à votre ami(e) de bonnes raisons de visiter ce pays à son tour. | Write about your trip abroad, your impressions, and reasons for a friend to visit that country. | 1 source | 2025-04 | - |
 | 78 | COURRIER DES LECTEURS Quitter tout pendant un an pour voyager : bonne idée ou pari risqué ? Donnez votre opinion sur le site « voyage.internaute.fr » en l'illustrant d'exemples tirés de votre propre vécu. | Write your opinion for a reader's forum on whether traveling for a year is advisable or risky, supported by personal examples. | 1 source | 2025-09 | - |
+| 79 | Rédigez un message destiné à vos amis dans lequel vous racontez votre expérience d'un petit boulot effectué pendant les vacances d'été (entre 120 et 150 mots). | Write a message to friends recounting your experience of a summer job (120-150 words). | 1 source | 2025-10 | - |
 
 ## Economy
 
@@ -204,6 +205,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 13 | Sur votre blog, racontez votre expérience d'un séjour d'études effectué à l'étranger. | Write a blog post recounting your experience studying abroad. | 2 sources | 2025-02 | - |
 | 14 | Un internaute fait part de ses craintes avant de partir étudier à l'étranger. Racontez votre propre expérience : les difficultés rencontrées, les solutions trouvées et ce que cela vous a apporté. | Share your own experience of the challenges, solutions and benefits of studying abroad. | 1 source | 2025-04 | - |
 | 15 | Vous avez suivi des études à l'étranger pendant six mois. Sur un forum, écrivez un message à vos amis pour leur raconter cette expérience. | Write a forum post to your friends recounting your six-month study experience abroad. | 1 source | 2025-04 | - |
+| 16 | Le gouvernement fédéral vient d'annoncer de nouvelles mesures simplifiant l'accès à la citoyenneté canadienne. Vous travaillez pour une association d'aide aux immigrants. Rédigez un article pour le site Internet de l'association présentant cette annonce et votre opinion sur ces mesures. | Writing: write an article for an immigrant-support association's website reporting on new federal citizenship measures and giving your opinion. | 1 source | 2025-10 | - |
 
 ## Miscellaneous
 

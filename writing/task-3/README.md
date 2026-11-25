@@ -4,7 +4,7 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-324 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+326 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,9 +13,9 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Education](#education) (47)
 - [Environment](#environment) (27)
 - [Family](#family) (36)
-- [Health](#health) (33)
+- [Health](#health) (34)
 - [Immigration](#immigration) (2)
-- [Miscellaneous](#miscellaneous) (11)
+- [Miscellaneous](#miscellaneous) (12)
 - [Technology](#technology) (22)
 - [Work](#work) (62)
 
@@ -275,6 +275,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 31 | La présence de distributeurs de boissons dans les lycées suscite des doutes légitimes. Cette pratique peut en effet nuire à la santé des élèves. En rendant les sodas et boissons sucrées facilement accessibles, on risque d'encourager une consommation excessive, source de problèmes comme l'obésité ou d'autres troubles liés à une mauvaise alimentation. De plus, ces distributeurs peuvent détourner les élèves de l'eau, pourtant essentielle pour une hydratation saine. Mieux vaudrait privilégier des fontaines à eau et promouvoir une alimentation équilibrée dans les établissements. OPAL | Compare two texts with opposing views on drink dispensers in high schools and write a synthesis of 120-180 words. | 1 source | 2023-12 | - |
 | 32 | Rédigez un texte comparant deux points de vue sur l'alimentation végétarienne, l'un soulignant ses bienfaits pour la santé et l'environnement, l'autre évoquant les risques de carences nutritionnelles, en 120 à 180 mots. | Compare two opposing views on vegetarian diets, health benefits versus nutritional risks, in 120-180 words. | 1 source | 2024-04 | - |
 | 33 | Point de vue 1 : Les publicités alimentaires destinées aux enfants tiennent une place importante dans leur éveil et leur éducation nutritionnelle. Loin d'être nuisibles, ces campagnes informent et sensibilisent les jeunes à des choix sains et équilibrés. Elles encouragent la découverte d'une alimentation variée et suscitent la curiosité envers de nouveaux aliments. Bien maîtrisées, elles peuvent devenir un véritable outil éducatif pour favoriser de bonnes habitudes alimentaires chez les enfants. | State the viewpoint that food ads targeting children can be educational and beneficial. | 1 source | 2024-05 | - |
+| 34 | Point de vue 2 : Les publicités alimentaires ciblant les enfants suscitent une réelle inquiétude. Loin de promouvoir une alimentation équilibrée, elles vantent des produits ultra-transformés, chargés en sucre, sel et matières grasses. Ces campagnes exploitent la crédulité des plus jeunes pour attiser leur envie de produits malsains. Plutôt que d'éduquer, elles installent de mauvaises habitudes alimentaires aux conséquences potentiellement graves sur la santé à long terme. Un encadrement strict de ces publicités apparaît donc nécessaire. | State the opposing viewpoint that food ads targeting children are harmful and should be regulated. | 1 source | 2024-05 | - |
 
 ## Immigration
 
@@ -298,6 +299,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 9 | Contenu du document original indisponible (erreur technique : JavaScript requis pour afficher la page source). | The original scenario content could not be retrieved due to a technical error on the source page. | 1 source | 2022-08 | - |
 | 10 | Louer sa maison sur une durée limitée peut apporter de nombreux bénéfices aux propriétaires. D'abord, cela permet de générer un revenu complémentaire régulier, rentabilisant ainsi l'investissement immobilier. De plus, une location à durée déterminée laisse au propriétaire une certaine souplesse, lui permettant de profiter lui-même du logement pendant les créneaux libres. Il garde également la liberté de choisir quand et à qui louer son bien, selon ses besoins. C'est donc une solution efficace pour rentabiliser une propriété tout en gardant la possibilité de l'utiliser à sa convenance. | The candidate must write the text in favor of periodic home rental, listing its benefits for owners, as part of a two-document comparison task. | 1 source | 2024-04 | - |
 | 11 | Point de vue 1 : Pierre, conseiller d'orientation, s'exprime ainsi : | State the first viewpoint, given by Pierre, a career counselor. | 1 source | 2024-05 | - |
+| 12 | Point de vue 2 : Sophie, psychologue spécialisée dans l'adolescence, répond ainsi : | State the second viewpoint, given by Sophie, a psychologist for teenagers. | 1 source | 2024-05 | - |
 
 ## Technology
 
