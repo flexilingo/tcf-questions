@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-207 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+209 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (79)
+- [Culture](#culture) (81)
 - [Economy](#economy) (3)
 - [Education](#education) (23)
 - [Environment](#environment) (6)
@@ -102,6 +102,8 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 77 | Vous rentrez d'un voyage à l'étranger. Écrivez un texte racontant comment s'est passé votre séjour et livrez vos impressions. Donnez à votre ami(e) de bonnes raisons de visiter ce pays à son tour. | Write about your trip abroad, your impressions, and reasons for a friend to visit that country. | 1 source | 2025-04 | - |
 | 78 | COURRIER DES LECTEURS Quitter tout pendant un an pour voyager : bonne idée ou pari risqué ? Donnez votre opinion sur le site « voyage.internaute.fr » en l'illustrant d'exemples tirés de votre propre vécu. | Write your opinion for a reader's forum on whether traveling for a year is advisable or risky, supported by personal examples. | 1 source | 2025-09 | - |
 | 79 | Rédigez un message destiné à vos amis dans lequel vous racontez votre expérience d'un petit boulot effectué pendant les vacances d'été (entre 120 et 150 mots). | Write a message to friends recounting your experience of a summer job (120-150 words). | 1 source | 2025-10 | - |
+| 80 | Vous avez assisté à un festival de cinéma où vous avez vu plusieurs films. Sur votre blog, présentez celui que vous avez préféré et expliquez les raisons de ce choix. | Write a blog post about your favorite film seen at a festival and explain why. | 1 source | 2025-10 | - |
+| 81 | Vous avez participé à un vide-grenier organisé dans votre ville. Rédigez un article pour votre blog racontant cette expérience et expliquant ce qui vous a plu. | Write a blog article recounting your participation in a flea market and why you enjoyed it. | 1 source | 2025-10 | - |
 
 ## Economy
 

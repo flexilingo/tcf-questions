@@ -4,15 +4,15 @@
 
 A message to one or more people, 60 to 120 words.
 
-226 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+228 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (61)
-- [Economy](#economy) (13)
+- [Economy](#economy) (14)
 - [Education](#education) (38)
 - [Environment](#environment) (2)
-- [Family](#family) (28)
+- [Family](#family) (29)
 - [Health](#health) (20)
 - [Immigration](#immigration) (10)
 - [Miscellaneous](#miscellaneous) (30)
@@ -102,6 +102,7 @@ A message to one or more people, 60 to 120 words.
 | 11 | Réponds-lui par courriel en lui présentant l'hôtel que tu as réservé pour lui : indique où il se trouve, son tarif et les services qu'il propose. | Reply by email describing the hotel booked, its location, price and services. | 1 source | 2025-02 | - |
 | 12 | Répondez par courriel à une annonce concernant un vélo recherché. Décrivez votre propre vélo, précisez son état, indiquez un prix et proposez un rendez-vous pour un essai. | Write an email replying to a bike wanted ad, describing your bike's condition, price and proposing a test ride meeting. | 1 source | 2025-03 | - |
 | 13 | Un couple a remporté le gros lot à la loterie, mais un incident inattendu s'est produit au moment de récupérer son prix. | Writing: describe a couple who won the lottery but faced an unexpected problem collecting their prize. | 1 source | 2025-07 | - |
+| 14 | Vous venez de repérer un appartement qui vous plaît et vous prévoyez d'y emménager. Écrivez à un(e) ami(e) pour lui communiquer les informations essentielles concernant ce logement (type d'habitation, emplacement et loyer). | The candidate must write to a friend giving key details about an apartment they found (type, location, price). | 1 source | 2025-08 | - |
 
 ## Education
 
@@ -185,6 +186,7 @@ A message to one or more people, 60 to 120 words.
 | 26 | Votre voisin a gardé votre chat durant votre absence en vacances. Rédigez-lui un message pour le remercier et lui raconter comment s'est passé votre séjour. | Write a thank-you message to a neighbour who looked after your cat, telling them about your holiday. | 1 source | 2024-06 | - |
 | 27 | Écrivez un courriel à vos amis pour les convier à une fête surprise en l'honneur de l'anniversaire de votre meilleur ami (lieu, date, heure, etc.). | Write an email inviting friends to a surprise birthday party, including place, date and time. | 1 source | 2024-08 | - |
 | 28 | L'été est là ! Que diriez-vous d'un pique-nique samedi prochain ? Connaissez-vous un endroit agréable, adapté aux enfants comme aux adultes, où l'on pourrait tous se retrouver ? Bisous, à bientôt. – Léa Répondez favorablement à l'invitation de Léa en lui proposant un lieu pour le pique-nique. Décrivez l'endroit et précisez les activités possibles. | Accept Léa's picnic invitation and suggest a place, describing it and the possible activities. | 1 source | 2025-01 | - |
+| 29 | Vous rédigez un message à un ami qui a confirmé sa présence à votre mariage, pour lui indiquer l'adresse du château, où il se trouve et comment y arriver. | Writing: tell a friend attending your wedding the castle's address, location, and how to get there. | 1 source | 2025-07 | - |
 
 ## Health
 

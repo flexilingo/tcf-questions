@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-326 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+328 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,8 +12,8 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Economy](#economy) (26)
 - [Education](#education) (60)
 - [Environment](#environment) (7)
-- [Family](#family) (78)
-- [Health](#health) (18)
+- [Family](#family) (79)
+- [Health](#health) (19)
 - [Immigration](#immigration) (8)
 - [Miscellaneous](#miscellaneous) (17)
 - [Technology](#technology) (5)
@@ -273,6 +273,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 76 | Je suis un(e) ami(e). Vous voulez faire découvrir des spécialités québécoises à vos amis. Vous me demandez des suggestions pour organiser ce repas (lieu, menu, budget, etc.). | Ask your friend for suggestions to organise a meal featuring Quebec specialties. | 5 sources | 2026-01 | - |
 | 77 | Je suis votre voisin ici au Canada. Je souhaite vendre des meubles et cela semble vous intéresser. Posez-moi des questions. | Ask the examiner (your neighbour) questions about the furniture they want to sell. | 4 sources | 2022-12 | - |
 | 78 | Je suis votre voisin. Vous recherchez une baby-sitter et j'en connais une. Posez-moi des questions. | Ask the examiner (your neighbour) questions about a babysitter they know. | 4 sources | 2023-02 | - |
+| 79 | Je suis votre ami(e) et je vous convie à mon mariage. Posez-moi des questions pour connaître les détails de la cérémonie (organisation, repas, tenue, etc.). | Ask the examiner (your friend) questions about the details of their wedding. | 4 sources | 2023-03 | - |
 
 ## Health
 
@@ -296,6 +297,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 16 | Je travaille à l'accueil d'un centre de loisirs. Vous souhaitez vous inscrire à une activité (sport, dessin, sculpture, etc.). Posez-moi des questions sur les cours proposés (tarifs, horaires, matériel requis, etc.). | The candidate must ask a leisure center receptionist questions about a class. | 5 sources | 2024-12 | - |
 | 17 | Je suis un(e) ami(e) qui vit au Québec depuis des années. Vous venez d'arriver dans ma ville. Vous me demandez des conseils concrets pour vous installer (logement, formalités administratives, transports, magasins, activités, etc.). | The candidate asks a long-time friend for practical advice on settling into a new city in Quebec. | 5 sources | 2025-01 | - |
 | 18 | Vous vous adressez au/à la secrétaire de votre médecin, qui est actuellement en vacances. Vous me posez des questions sur son remplacement (médecin remplaçant, horaires, durée, etc.). | The candidate asks the doctor's secretary about a temporary replacement doctor (who, hours, duration). | 5 sources | 2025-03 | - |
+| 19 | Vous venez d'arriver au Canada. Posez-moi des questions sur le système de santé (hôpitaux, médicaments, etc.). | Ask the examiner questions about the healthcare system (hospitals, medication, etc.). | 4 sources | 2023-02 | - |
 
 ## Immigration
 

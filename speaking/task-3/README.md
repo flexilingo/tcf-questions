@@ -4,7 +4,7 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-303 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+305 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,8 +16,8 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 - [Health](#health) (20)
 - [Immigration](#immigration) (45)
 - [Miscellaneous](#miscellaneous) (47)
-- [Technology](#technology) (37)
-- [Work](#work) (44)
+- [Technology](#technology) (38)
+- [Work](#work) (45)
 
 ## Culture
 
@@ -322,6 +322,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 35 | Il vaudrait mieux ne pas offrir de téléphone portable à un enfant. Quel est votre point de vue ? | The candidate must give and defend an opinion on not giving children mobile phones. | 5 sources | 2025-02 | - |
 | 36 | Les enfants passent de plus en plus de temps devant les écrans. Quel est votre point de vue sur ce sujet ? | Give and defend your opinion on children's increasing screen time. | 4 sources | 2022-11 | - |
 | 37 | On observe que les gens regardent la télévision de moins en moins souvent. Partagez-vous ce constat ? | Give and defend your opinion on whether people watch less television nowadays. | 4 sources | 2022-11 | - |
+| 38 | Certains pensent que les réseaux sociaux isolent les individus. Quel est votre avis sur cette idée ? | The candidate must give and defend an opinion on whether social media isolates people. | 4 sources | 2023-07 | - |
 
 ## Work
 
@@ -371,6 +372,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 42 | À votre avis, quelles démarches un jeune devrait-il entreprendre pour décrocher un emploi ? | The candidate must give their opinion on what a young person should do to find a job. | 5 sources | 2026-01 | - |
 | 43 | Que pensez-vous de l'usage du téléphone portable sur le lieu de travail ? | The candidate must give and defend an opinion on mobile phone use at work. | 4 sources | 2022-10 | - |
 | 44 | Pensez-vous que le bonheur soit lié à un bon salaire ? | Give and defend your opinion on whether happiness depends on having a good salary. | 4 sources | 2023-03 | - |
+| 45 | On dit souvent que le salaire compte davantage que l’intérêt du travail lui-même. Partagez-vous cet avis ? | The candidate must give and defend an opinion on whether salary matters more than the job itself. | 4 sources | 2023-07 | - |
 
 ---
 
