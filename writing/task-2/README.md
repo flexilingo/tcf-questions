@@ -4,11 +4,11 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-209 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+211 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (81)
+- [Culture](#culture) (82)
 - [Economy](#economy) (3)
 - [Education](#education) (23)
 - [Environment](#environment) (6)
@@ -17,7 +17,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 - [Immigration](#immigration) (16)
 - [Miscellaneous](#miscellaneous) (10)
 - [Technology](#technology) (24)
-- [Work](#work) (20)
+- [Work](#work) (21)
 
 ## Culture
 
@@ -104,6 +104,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 79 | Rédigez un message destiné à vos amis dans lequel vous racontez votre expérience d'un petit boulot effectué pendant les vacances d'été (entre 120 et 150 mots). | Write a message to friends recounting your experience of a summer job (120-150 words). | 1 source | 2025-10 | - |
 | 80 | Vous avez assisté à un festival de cinéma où vous avez vu plusieurs films. Sur votre blog, présentez celui que vous avez préféré et expliquez les raisons de ce choix. | Write a blog post about your favorite film seen at a festival and explain why. | 1 source | 2025-10 | - |
 | 81 | Vous avez participé à un vide-grenier organisé dans votre ville. Rédigez un article pour votre blog racontant cette expérience et expliquant ce qui vous a plu. | Write a blog article recounting your participation in a flea market and why you enjoyed it. | 1 source | 2025-10 | - |
+| 82 | VENDREDI 21 JUIN — Concerts gratuits partout en ville ! FÊTE DE LA MUSIQUE. Vous avez assisté à cet événement. Racontez cette soirée sur votre blog et partagez vos ressentis. | Write a blog post recounting your experience at a free music festival and share your impressions. | 1 source | 2025-11 | - |
 
 ## Economy
 
@@ -277,6 +278,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 18 | Votre société a instauré le télétravail pour améliorer le bien-être des salariés. Rédigez un article relatant votre vécu de télétravailleur : avantages, obstacles rencontrés, et propositions pour rendre le dispositif plus efficace. | Writing: write an article about your experience with remote work, describing advantages, challenges, and suggestions for improvement (120-150 words). | 1 source | 2025-03 | - |
 | 19 | Suite à une journée de formation suivie dans votre entreprise, publiez un message sur le forum interne pour raconter cette expérience à vos collègues. | Write a forum post sharing your experience of a company training day with colleagues. | 1 source | 2025-04 | - |
 | 20 | Écrivez un article destiné au journal interne de l'entreprise à propos d'un pique-nique organisé entre collègues. | Write an article for the company newsletter about a picnic organized among colleagues. | 1 source | 2025-04 | - |
+| 21 | Vous avez suivi une journée de formation professionnelle dans le cadre de votre emploi. Votre entreprise vous demande de rédiger un article destiné à vos collègues pour raconter cette expérience. Présentez le déroulement de la journée et donnez votre appréciation (entre 120 et 150 mots). | Write a 120-150 word article for colleagues describing a professional training day and your impressions. | 1 source | 2025-10 | - |
 
 ---
 

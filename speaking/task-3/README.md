@@ -4,19 +4,19 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-305 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+307 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (30)
 - [Economy](#economy) (8)
-- [Education](#education) (30)
+- [Education](#education) (31)
 - [Environment](#environment) (17)
 - [Family](#family) (25)
 - [Health](#health) (20)
 - [Immigration](#immigration) (45)
 - [Miscellaneous](#miscellaneous) (47)
-- [Technology](#technology) (38)
+- [Technology](#technology) (39)
 - [Work](#work) (45)
 
 ## Culture
@@ -101,6 +101,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 28 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
 | 29 | Faire des études n'est pas indispensable pour gagner beaucoup d'argent. Êtes-vous d'accord ? | Give and defend your opinion on whether studying is unnecessary to earn a lot of money. | 4 sources | 2023-02 | - |
 | 30 | De nos jours, grâce à Internet, on peut tout apprendre en autodidacte. Partagez votre avis sur cette affirmation. | Give your opinion on whether the internet makes it possible to learn everything by oneself. | 4 sources | 2023-03 | - |
+| 31 | Les smartphones nous garantissent-ils un accès à une information fiable ? Partagez-vous cette opinion ? | The candidate must give and defend an opinion on whether cell phones provide accurate information. | 4 sources | 2023-08 | - |
 
 ## Environment
 
@@ -323,6 +324,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 36 | Les enfants passent de plus en plus de temps devant les écrans. Quel est votre point de vue sur ce sujet ? | Give and defend your opinion on children's increasing screen time. | 4 sources | 2022-11 | - |
 | 37 | On observe que les gens regardent la télévision de moins en moins souvent. Partagez-vous ce constat ? | Give and defend your opinion on whether people watch less television nowadays. | 4 sources | 2022-11 | - |
 | 38 | Certains pensent que les réseaux sociaux isolent les individus. Quel est votre avis sur cette idée ? | The candidate must give and defend an opinion on whether social media isolates people. | 4 sources | 2023-07 | - |
+| 39 | Quel regard portez-vous sur l’impact de la télévision sur la jeunesse actuelle ? | The candidate must give and defend an opinion on TV's influence on young people. | 4 sources | 2023-07 | - |
 
 ## Work
 

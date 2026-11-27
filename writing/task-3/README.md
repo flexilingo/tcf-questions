@@ -4,14 +4,14 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-328 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+330 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (42)
 - [Economy](#economy) (42)
-- [Education](#education) (48)
-- [Environment](#environment) (28)
+- [Education](#education) (49)
+- [Environment](#environment) (29)
 - [Family](#family) (36)
 - [Health](#health) (34)
 - [Immigration](#immigration) (2)
@@ -165,6 +165,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 46 | Rédigez un texte comparant deux avis sur les jeux vidéo, l'un mettant en avant leur valeur éducative pour développer la créativité et la réflexion, l'autre pointant les risques liés à un usage excessif comme l'addiction ou les troubles de santé, en 120 à 180 mots. | Compare two opposing views on whether video games are educational or harmful, in 120-180 words. | 1 source | 2024-03 | - |
 | 47 | Point de vue 2 : Certaines recherches, dont celles du professeur Jordan Peterson de l'Université de Toronto, contestent les politiques d'égalité de genre et insistent sur la nécessité de reconnaître les différences individuelles. Les compétences, centres d'intérêt et choix professionnels peuvent différer selon le genre, sans que cela constitue une injustice. Imposer une égalité artificielle risque de produire des effets contre-productifs et sources de frustration. Mieux vaudrait donc privilégier la reconnaissance des différences plutôt que rechercher une parité absolue. | State the opposing viewpoint arguing that enforced gender equality can be counterproductive. | 1 source | 2024-05 | - |
 | 48 | Rédigez un texte comparant deux avis sur les smartphones à l'école, l'un les présentant comme des outils éducatifs utiles, l'autre les jugeant sources de distraction et de harcèlement, en 120 à 180 mots. | Compare two opposing views on whether smartphones in school are useful or distracting, in 120-180 words. | 1 source | 2024-05 | - |
+| 49 | Rédigez un texte comparant deux points de vue sur l'école à la maison, l'un soulignant l'apprentissage personnalisé sans pression sociale, l'autre pointant le manque d'interactions sociales et de diversité, en 120 à 180 mots. | Compare two opposing views on whether homeschooling is beneficial or limiting for children, in 120-180 words. | 1 source | 2024-05 | - |
 
 ## Environment
 
@@ -198,6 +199,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 26 | Enfermer des animaux sauvages dans des zoos pose un véritable problème moral et scientifique. Ces espaces reconstitués artificiellement ne peuvent en aucun cas offrir les conditions naturelles indispensables à l'épanouissement de ces espèces. Privés de liberté, les animaux en cage subissent stress et souffrance psychologique. Loin de servir la conservation, les zoos ne répondent en réalité qu'à une curiosité humaine discutable, au détriment du bien-être animal. Des solutions plus respectueuses de l'environnement, telles que l'écotourisme, seraient bien plus efficaces pour protéger la faune sauvage. | Rewrite the anti-zoo document (zoos harm animals and serve human curiosity, not conservation). | 1 source | 2024-05 | - |
 | 27 | Les parcs zoologiques tiennent une place fondamentale dans la protection des espèces sauvages. Bien plus que de simples lieux de loisir, ils rendent possible une observation scientifique précise des populations animales. En outre, grâce à leurs actions de sensibilisation et d'éducation, ils aident le public à comprendre l'enjeu de préserver la biodiversité. À condition d'être menée de façon responsable, la captivité des animaux sauvages participe donc durablement à leur préservation. | Rewrite the pro-zoo document (zoos help protect wildlife through science and education). | 1 source | 2024-05 | - |
 | 28 | Rédigez un texte comparant deux avis sur le véganisme, l'un le présentant comme un choix éthique respectueux des animaux et de l'environnement, l'autre le jugeant extrême et risqué sur le plan nutritionnel, en 120 à 180 mots. | Compare two opposing views on whether veganism is a responsible lifestyle or an extreme choice, in 120-180 words. | 1 source | 2024-05 | - |
+| 29 | Les animaux de compagnie sont-ils bénéfiques pour les enfants ? Document 1 : posséder un animal aide les enfants à acquérir le sens des responsabilités, des compétences sociales et un soutien affectif. Document 2 : les animaux entraînent des coûts, exigent beaucoup de soins et comportent des risques d'allergies ou de morsures nécessitant une vigilance permanente. | Compare two texts on whether pets are beneficial for children. | 1 source | 2024-06 | - |
 
 ## Family
 

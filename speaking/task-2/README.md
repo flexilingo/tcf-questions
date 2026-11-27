@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-328 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+330 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -13,11 +13,11 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Education](#education) (60)
 - [Environment](#environment) (7)
 - [Family](#family) (79)
-- [Health](#health) (19)
+- [Health](#health) (20)
 - [Immigration](#immigration) (8)
 - [Miscellaneous](#miscellaneous) (17)
 - [Technology](#technology) (5)
-- [Work](#work) (48)
+- [Work](#work) (49)
 
 ## Culture
 
@@ -298,6 +298,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 17 | Je suis un(e) ami(e) qui vit au Québec depuis des années. Vous venez d'arriver dans ma ville. Vous me demandez des conseils concrets pour vous installer (logement, formalités administratives, transports, magasins, activités, etc.). | The candidate asks a long-time friend for practical advice on settling into a new city in Quebec. | 5 sources | 2025-01 | - |
 | 18 | Vous vous adressez au/à la secrétaire de votre médecin, qui est actuellement en vacances. Vous me posez des questions sur son remplacement (médecin remplaçant, horaires, durée, etc.). | The candidate asks the doctor's secretary about a temporary replacement doctor (who, hours, duration). | 5 sources | 2025-03 | - |
 | 19 | Vous venez d'arriver au Canada. Posez-moi des questions sur le système de santé (hôpitaux, médicaments, etc.). | Ask the examiner questions about the healthcare system (hospitals, medication, etc.). | 4 sources | 2023-02 | - |
+| 20 | Je suis votre voisin(e) et j'ai perdu mon animal de compagnie. Posez-moi des questions pour m'aider à le retrouver (apparence, lieu, méthode de recherche, etc.). | Ask the examiner (your neighbour) questions to help find their lost pet. | 4 sources | 2023-03 | - |
 
 ## Immigration
 
@@ -396,6 +397,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 46 | Je suis votre ami(e) et je me suis installé(e) au Canada depuis quelques mois. Posez-moi des questions sur ma nouvelle vie là-bas (logement, loisirs, relations, travail, etc.). | The candidate must ask a friend who recently moved to Canada questions about their new life there. | 5 sources | 2026-03 | - |
 | 47 | Je suis votre collègue de travail, vous êtes nouvellement arrivé. Vous voulez me connaître davantage. Posez-moi des questions. | The candidate must ask questions to get to know a new colleague. | 4 sources | 2022-10 | - |
 | 48 | Je suis votre collègue. J'ai récemment visité une région du Canada. Posez-moi des questions (logement, activités, prix). | Ask the examiner (your colleague) questions about a region of Canada they recently visited. | 4 sources | 2023-02 | - |
+| 49 | Je suis votre collègue. Vous voulez organiser un dîner pour notre équipe. Posez-moi des questions pour préparer cet événement (date, lieu, menu, etc.). | Ask the examiner (your colleague) questions to organise a team dinner. | 4 sources | 2023-03 | - |
 
 ---
 

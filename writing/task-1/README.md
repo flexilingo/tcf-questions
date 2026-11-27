@@ -4,13 +4,13 @@
 
 A message to one or more people, 60 to 120 words.
 
-228 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+230 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (61)
+- [Culture](#culture) (62)
 - [Economy](#economy) (14)
-- [Education](#education) (38)
+- [Education](#education) (39)
 - [Environment](#environment) (2)
 - [Family](#family) (29)
 - [Health](#health) (20)
@@ -84,6 +84,7 @@ A message to one or more people, 60 to 120 words.
 | 59 | Écrivez un message à des amis dans lequel vous racontez votre participation à une journée portes ouvertes organisée par une école de musique. Décrivez les différentes activités auxquelles vous avez assisté et donnez votre opinion sur cette expérience. | Write a message to friends recounting your experience at a music school open day, describing the activities and giving your opinion. | 1 source | 2025-03 | - |
 | 60 | Coucou ! Tu prépares tes vacances ? Qu'est-ce que tu as prévu ? À très vite, Hamed. Répondez à Hamed en lui présentant votre programme de vacances (destination, dates, activités prévues, etc.) | Reply to Hamed describing your vacation plans (place, dates, activities). | 1 source | 2025-04 | - |
 | 61 | Vous avez organisé une fête pour votre anniversaire dernièrement. Écrivez à vos amis pour leur raconter le déroulement de la soirée. Dites ce que vous avez préféré durant la fête et parlez des cadeaux que vous avez le plus aimés. | Write to friends recounting your birthday party, what you enjoyed most, and your favorite gifts. | 1 source | 2025-04 | - |
+| 62 | Un Salon du livre s'est tenu dans votre ville et vous y êtes allé(e) pour participer à différentes activités (conférences, expositions, rencontres avec des auteurs, etc.). Écrivez un message à vos amis pour leur raconter cette sortie et leur donner votre opinion sur l'événement. | Write a message to friends recounting your visit to a book fair and giving your opinion of the event. | 1 source | 2025-09 | - |
 
 ## Economy
 
@@ -146,6 +147,7 @@ A message to one or more people, 60 to 120 words.
 | 36 | Écrivez un courriel pour proposer à un ami de passer une journée en votre compagnie, en précisant les détails utiles : lieu, date, heure et activités envisagées. | Write an email inviting a friend to spend a day with you, including place, date, time and planned activities. | 1 source | 2025-04 | - |
 | 37 | Vous écrivez un e-mail à votre ami(e) pour lui donner toutes les indications utiles afin de rejoindre le château (adresse, emplacement, moyens de transport, etc.). | Write an email giving a friend all the details needed to reach the castle. | 1 source | 2025-05 | - |
 | 38 | Message de Mehdi : « Salut ! Je viens d'emménager dans ta ville et j'aimerais prendre les transports en commun. Tu peux m'aider ? Merci d'avance, à bientôt ! » Répondez à Mehdi : présentez-lui les différents moyens de transport disponibles dans votre ville et donnez-lui des informations pratiques (tarifs, types d'abonnement, etc.). | The candidate must reply to a friend's message describing local public transport options and practical details like prices and passes. | 1 source | 2025-06 | - |
+| 39 | Après la lecture d'un article expliquant comment l'intelligence artificielle est introduite dans les écoles pour adapter l'apprentissage à chaque élève, rédigez un message à votre cousin(e), étudiant(e) en sciences de l'éducation, pour lui présenter le sujet et lui demander ce qu'il/elle en pense. | Writing: write a message to a cousin studying education about AI personalizing school learning and ask their opinion. | 1 source | 2025-09 | - |
 
 ## Environment
 
