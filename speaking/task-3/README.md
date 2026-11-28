@@ -4,18 +4,18 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-307 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+309 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (30)
 - [Economy](#economy) (8)
-- [Education](#education) (31)
+- [Education](#education) (32)
 - [Environment](#environment) (17)
 - [Family](#family) (25)
 - [Health](#health) (20)
 - [Immigration](#immigration) (45)
-- [Miscellaneous](#miscellaneous) (47)
+- [Miscellaneous](#miscellaneous) (48)
 - [Technology](#technology) (39)
 - [Work](#work) (45)
 
@@ -102,6 +102,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 29 | Faire des études n'est pas indispensable pour gagner beaucoup d'argent. Êtes-vous d'accord ? | Give and defend your opinion on whether studying is unnecessary to earn a lot of money. | 4 sources | 2023-02 | - |
 | 30 | De nos jours, grâce à Internet, on peut tout apprendre en autodidacte. Partagez votre avis sur cette affirmation. | Give your opinion on whether the internet makes it possible to learn everything by oneself. | 4 sources | 2023-03 | - |
 | 31 | Les smartphones nous garantissent-ils un accès à une information fiable ? Partagez-vous cette opinion ? | The candidate must give and defend an opinion on whether cell phones provide accurate information. | 4 sources | 2023-08 | - |
+| 32 | On peut apprendre à tout âge, sans limite. Êtes-vous de cet avis ? | The candidate must give and defend an opinion on whether there's no age limit to learning. | 4 sources | 2023-09 | - |
 
 ## Environment
 
@@ -281,6 +282,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 45 | Les jeunes générations sont-elles plus optimistes que les générations précédentes ? Qu'en pensez-vous ? | The candidate must give and defend an opinion on whether young people are more optimistic than older generations. | 4 sources | 2022-10 | - |
 | 46 | Il faut aimer son métier pour bien l'exercer. Qu'en pensez-vous ? | Give and defend your opinion on whether you must love your job to do it well. | 4 sources | 2022-12 | - |
 | 47 | Décider de quitter son pays est une chose facile. Partagez-vous cet avis ? | Give and defend your opinion on whether deciding to leave one's country is easy. | 4 sources | 2023-02 | - |
+| 48 | Croyez-vous que l’État soit capable de tout maîtriser ? Donnez votre point de vue. | The candidate must give and defend an opinion on whether the state can control everything. | 4 sources | 2023-09 | - |
 
 ## Technology
 

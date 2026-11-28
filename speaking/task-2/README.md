@@ -4,7 +4,7 @@
 
 Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which you ask the examiner for information.
 
-330 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+332 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -12,9 +12,9 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 - [Economy](#economy) (26)
 - [Education](#education) (60)
 - [Environment](#environment) (7)
-- [Family](#family) (79)
+- [Family](#family) (80)
 - [Health](#health) (20)
-- [Immigration](#immigration) (8)
+- [Immigration](#immigration) (9)
 - [Miscellaneous](#miscellaneous) (17)
 - [Technology](#technology) (5)
 - [Work](#work) (49)
@@ -274,6 +274,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 77 | Je suis votre voisin ici au Canada. Je souhaite vendre des meubles et cela semble vous intéresser. Posez-moi des questions. | Ask the examiner (your neighbour) questions about the furniture they want to sell. | 4 sources | 2022-12 | - |
 | 78 | Je suis votre voisin. Vous recherchez une baby-sitter et j'en connais une. Posez-moi des questions. | Ask the examiner (your neighbour) questions about a babysitter they know. | 4 sources | 2023-02 | - |
 | 79 | Je suis votre ami(e) et je vous convie à mon mariage. Posez-moi des questions pour connaître les détails de la cérémonie (organisation, repas, tenue, etc.). | Ask the examiner (your friend) questions about the details of their wedding. | 4 sources | 2023-03 | - |
+| 80 | Je suis votre voisin(e). Vous cherchez une solution pour faire garder votre enfant. Posez-moi des questions pour connaître les possibilités du quartier (tarifs, personnes disponibles, horaires, etc.). | Ask the examiner (your neighbour) questions about childcare options in the neighbourhood. | 4 sources | 2023-03 | - |
 
 ## Health
 
@@ -312,6 +313,7 @@ Role play: 2 minutes of preparation, then 3 minutes 30 of conversation in which 
 | 6 | Vous travaillez à l'accueil de la mairie d'Ottawa. Un nouvel arrivant au Canada se présente devant vous. Posez-lui des questions pour l'aider dans ses démarches. | The candidate, as a newcomer, must ask the city hall receptionist questions to get help settling in. | 5 sources | 2022-11 | - |
 | 7 | Selon vous, quels moyens un État peut-il mettre en place pour favoriser l'intégration des étrangers ? | Give and defend an opinion on how a state can foster the integration of foreigners. | 5 sources | 2023-10 | - |
 | 8 | Je suis votre ami. Vous venez d'arriver au Canada. Posez-moi des questions concernant le système de santé. | Ask the examiner (your friend) questions about the healthcare system. | 4 sources | 2023-02 | - |
+| 9 | Vous venez d'arriver au Canada et vous êtes à la recherche d'un logement. Je propose une chambre en colocation. Posez-moi des questions pour en savoir plus. | Ask the examiner (a roommate seeker) questions to learn about a room for rent, as a newcomer to Canada. | 4 sources | 2023-03 | - |
 
 ## Miscellaneous
 

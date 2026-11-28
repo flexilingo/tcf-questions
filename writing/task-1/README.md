@@ -4,11 +4,11 @@
 
 A message to one or more people, 60 to 120 words.
 
-230 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+232 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (62)
+- [Culture](#culture) (63)
 - [Economy](#economy) (14)
 - [Education](#education) (39)
 - [Environment](#environment) (2)
@@ -16,7 +16,7 @@ A message to one or more people, 60 to 120 words.
 - [Health](#health) (20)
 - [Immigration](#immigration) (10)
 - [Miscellaneous](#miscellaneous) (30)
-- [Technology](#technology) (3)
+- [Technology](#technology) (4)
 - [Work](#work) (21)
 
 ## Culture
@@ -85,6 +85,7 @@ A message to one or more people, 60 to 120 words.
 | 60 | Coucou ! Tu prépares tes vacances ? Qu'est-ce que tu as prévu ? À très vite, Hamed. Répondez à Hamed en lui présentant votre programme de vacances (destination, dates, activités prévues, etc.) | Reply to Hamed describing your vacation plans (place, dates, activities). | 1 source | 2025-04 | - |
 | 61 | Vous avez organisé une fête pour votre anniversaire dernièrement. Écrivez à vos amis pour leur raconter le déroulement de la soirée. Dites ce que vous avez préféré durant la fête et parlez des cadeaux que vous avez le plus aimés. | Write to friends recounting your birthday party, what you enjoyed most, and your favorite gifts. | 1 source | 2025-04 | - |
 | 62 | Un Salon du livre s'est tenu dans votre ville et vous y êtes allé(e) pour participer à différentes activités (conférences, expositions, rencontres avec des auteurs, etc.). Écrivez un message à vos amis pour leur raconter cette sortie et leur donner votre opinion sur l'événement. | Write a message to friends recounting your visit to a book fair and giving your opinion of the event. | 1 source | 2025-09 | - |
+| 63 | Vous recommandez un site à visiter dans votre région. | Writing: recommend a place to visit in your region. | 1 source | 2025-09 | - |
 
 ## Economy
 
@@ -272,6 +273,7 @@ A message to one or more people, 60 to 120 words.
 | 1 | Vous êtes tombé(e) sur une petite annonce en ligne proposant un appartement à louer. Écrivez un courriel afin d'obtenir davantage d'informations sur le logement ainsi que sur le voisinage. | Write an email asking for more details about a rental apartment and its neighborhood seen in an online ad. | 3 sources | 2023-03 | - |
 | 2 | France Télévision réalise un reportage sur le sport pratiqué en amateur. Et vous, quel genre de sportif êtes-vous ? Partagez votre témoignage sur francetelevision.fr. | Write a message to France Télévisions describing your experience as an amateur athlete. | 3 sources | 2024-01 | - |
 | 3 | Vous avez passé commande d'un article sur internet, mais celui-ci arrive abîmé. Écrivez un courriel au service client pour signaler l'incident, décrire les dégâts constatés sur le produit et préciser ce que vous souhaitez comme solution. | Write an email to customer service reporting a damaged online order and requesting a resolution. | 2 sources | 2025-02 | - |
+| 4 | L'intelligence artificielle générative occupe une place croissante dans notre quotidien. Vous venez d'essayer un nouvel outil d'IA permettant de créer des images. Rédigez un message destiné à un groupe d'amis pour raconter cette expérience et donner votre opinion. | Writing: write a message to friends describing your experience testing a generative-AI image tool and giving your opinion. | 1 source | 2025-10 | - |
 
 ## Work
 

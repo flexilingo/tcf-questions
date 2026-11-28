@@ -4,13 +4,13 @@
 
 An article, letter or note reporting an experience, 120 to 150 words.
 
-211 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+213 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (82)
+- [Culture](#culture) (83)
 - [Economy](#economy) (3)
-- [Education](#education) (23)
+- [Education](#education) (24)
 - [Environment](#environment) (6)
 - [Family](#family) (10)
 - [Health](#health) (16)
@@ -105,6 +105,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 80 | Vous avez assisté à un festival de cinéma où vous avez vu plusieurs films. Sur votre blog, présentez celui que vous avez préféré et expliquez les raisons de ce choix. | Write a blog post about your favorite film seen at a festival and explain why. | 1 source | 2025-10 | - |
 | 81 | Vous avez participé à un vide-grenier organisé dans votre ville. Rédigez un article pour votre blog racontant cette expérience et expliquant ce qui vous a plu. | Write a blog article recounting your participation in a flea market and why you enjoyed it. | 1 source | 2025-10 | - |
 | 82 | VENDREDI 21 JUIN — Concerts gratuits partout en ville ! FÊTE DE LA MUSIQUE. Vous avez assisté à cet événement. Racontez cette soirée sur votre blog et partagez vos ressentis. | Write a blog post recounting your experience at a free music festival and share your impressions. | 1 source | 2025-11 | - |
+| 83 | Votre ville vient de lancer une initiative favorisant l'usage quotidien du vélo (pistes cyclables, stations de vélos en libre-service, etc.). Rédigez une lettre au journal local pour raconter votre expérience et inciter d'autres habitants à se mettre au vélo. | Writing: write a letter to the local paper about your experience with a new city cycling initiative, encouraging others to cycle. | 1 source | 2025-11 | - |
 
 ## Economy
 
@@ -141,6 +142,7 @@ An article, letter or note reporting an experience, 120 to 150 words.
 | 21 | Vous publiez un message sur un forum racontant votre expérience d'apprentissage d'une langue étrangère et expliquant pourquoi apprendre une langue étrangère est important. | Writing: post on a forum about your experience learning a foreign language and why it matters. | 1 source | 2025-07 | - |
 | 22 | Sur un forum de discussion, rédigez un message où vous racontez votre expérience personnelle et vos impressions concernant l'apprentissage d'une langue étrangère. | Write a forum post sharing your personal experience and impressions of learning a foreign language. | 1 source | 2025-09 | - |
 | 23 | Vous rédigez un texte racontant votre expérience d'un cours suivi en ligne avec des participants d'un autre pays. | Writing: write about your experience of an online class with people from another country. | 1 source | 2025-09 | - |
+| 24 | Vous avez commencé des cours de langue. Racontez votre première semaine (emploi du temps, contenu des cours, activités proposées), entre 120 et 150 mots. | Write 120-150 words recounting your first week of language classes (schedule, lessons, activities). | 1 source | 2025-11 | - |
 
 ## Environment
 

@@ -4,12 +4,12 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-330 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+332 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (42)
-- [Economy](#economy) (42)
+- [Economy](#economy) (43)
 - [Education](#education) (49)
 - [Environment](#environment) (29)
 - [Family](#family) (36)
@@ -17,7 +17,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Immigration](#immigration) (2)
 - [Miscellaneous](#miscellaneous) (12)
 - [Technology](#technology) (22)
-- [Work](#work) (62)
+- [Work](#work) (63)
 
 ## Culture
 
@@ -112,6 +112,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 40 | Les grandes surfaces proposent un vaste choix d'articles réunis en un même lieu. Leurs horaires larges facilitent les achats à toute heure. Grâce aux achats en grande quantité, les prix sont souvent plus bas, et des offres promotionnelles reviennent fréquemment. On y trouve des produits venus de multiples régions et pays. L'hygiène y est soumise à des règles rigoureuses. Enfin, ces magasins garantissent un confort d'achat grâce aux parkings, chariots et caisses rapides. | The candidate must write one of two opposing texts (in favor of supermarkets) as part of a two-document comparison task. | 1 source | 2024-01 | - |
 | 41 | Les créations artisanales incarnent qualité et authenticité. Elles témoignent du savoir-faire de chacun et encouragent une consommation plus responsable. En misant sur des ingrédients locaux, elles limitent l'empreinte carbone et soutiennent les commerces de proximité. Souvent dépourvues de conservateurs et d'additifs, elles constituent une alternative saine face aux produits industriels. Elles renforcent enfin les liens sociaux en transmettant traditions et créativité. | The candidate must write the text in favor of homemade products, as part of a two-document comparison task. | 1 source | 2024-04 | - |
 | 42 | Rédigez un texte comparant deux avis sur les séjours tout compris, l'un vantant leur côté pratique et sans souci, l'autre dénonçant leur impact négatif sur l'environnement et l'économie locale, en 120 à 180 mots. | Compare two opposing views on whether all-inclusive vacations are convenient or harmful, in 120-180 words. | 1 source | 2024-04 | - |
+| 43 | Les vêtements d'occasion : un choix responsable ou une simple question d'économies ? Document 1 : acheter des vêtements de seconde main est un geste écologique qui limite la surconsommation, prolonge la vie des habits et permet de faire des économies. Document 2 : d'autres estiment que ces vêtements manquent de qualité et de style, et préfèrent le neuf pour des raisons d'hygiène et de mode. | Compare two texts debating whether buying second-hand clothes is an ethical choice or just a way to save money. | 1 source | 2024-06 | - |
 
 ## Education
 
@@ -398,6 +399,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 60 | Point de vue 1 : D'après une recherche conduite par l'Université de Virginia Tech, la présence d'animaux de compagnie au bureau procure de multiples avantages : elle favorise la détente, diminue le stress et accroît la productivité des salariés. Elle stimule également les échanges sociaux et instaure une atmosphère de travail plus apaisée. Dans un univers professionnel souvent tendu, accueillir des animaux de compagnie en entreprise représente un véritable bénéfice pour le bien-être des équipes. | State the viewpoint that pets at work bring many benefits. | 1 source | 2024-05 | - |
 | 61 | Point de vue 1 : L'égalité entre les sexes au travail constitue un enjeu fondamental pour bâtir une société juste et florissante. Les femmes ont droit aux mêmes chances et aux mêmes droits que les hommes dans la sphère professionnelle. Il a été démontré que la mixité de genre stimule l'innovation, la créativité et la performance des organisations. En cultivant une culture égalitaire, on crée un cadre où les compétences sont reconnues sans distinction de genre. Miser sur l'égalité professionnelle, c'est miser sur un avenir plus équitable et plus dynamique pour l'ensemble de la société. | State the viewpoint arguing that gender equality at work is essential and beneficial. | 1 source | 2024-05 | - |
 | 62 | Point de vue 2 : Accueillir des animaux de compagnie en entreprise peut sembler séduisant, mais cela risque en réalité de créer davantage de problèmes que de bénéfices. D'après une étude de la National Association for Women in Real Estate (2018), les animaux peuvent occasionner du bruit, des odeurs et des accidents, nuisant ainsi à la productivité et à la confidentialité des employés. Par ailleurs, ils peuvent véhiculer maladies et allergènes, mettant en péril la santé du personnel. Il convient donc de bien peser les coûts et conséquences avant d'introduire des animaux sur le lieu de travail. | State the opposing viewpoint that pets at work create more problems than benefits. | 1 source | 2024-05 | - |
+| 63 | Travailler le week-end : une chance ou une contrainte ? Document 1 : travailler le week-end apporte de la flexibilité et permet d'augmenter ses revenus dans un contexte économique tendu. Document 2 : cela empiète sur la vie privée, accroît le risque d'épuisement et prive du repos nécessaire à l'équilibre physique et mental. | Compare two texts debating whether weekend work is an opportunity or a burden. | 1 source | 2024-06 | - |
 
 ---
 
